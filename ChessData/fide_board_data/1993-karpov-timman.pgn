@@ -1,0 +1,293 @@
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Round "01"]
+[TimeControl "5400+30"]
+[Date "2021.09.06"]
+[WhiteClock "1:24:00"]
+[BlackClock "1:24:00"]
+
+1. e4 {[%clk 1:22:30]}  c6 {[%clk 1:22:30]} 2. d4 {[%clk 1:21:00]}  d5 {[%clk 1:21:00]} 3. Nd2 {[%clk 1:19:30]}  dxe4 {[%clk 1:19:30]} 4. Nxe4 {[%clk 1:18:00]}  Nd7 {[%clk 1:18:00]} 5. Bc4 {[%clk 1:16:30]}  Ngf6 {[%clk 1:16:30]} 6. Ng5 {[%clk 1:15:00]}  e6 {[%clk 1:15:00]} 7. Qe2 {[%clk 1:13:30]}  Nb6 {[%clk 1:13:30]} 8. Bd3 {[%clk 1:12:00]}  h6 {[%clk 1:12:00]} 9. N5f3 {[%clk 1:10:30]}  c5 {[%clk 1:10:30]} 10. dxc5 {[%clk 1:09:00]}  Bxc5 {[%clk 1:09:00]} 11. Ne5 {[%clk 1:07:30]}  Nbd7 {[%clk 1:07:30]} 12. Ngf3 {[%clk 1:06:00]}  Qc7 {[%clk 1:06:00]} 13. Bf4 {[%clk 1:04:30]}  Bb4+ {[%clk 1:04:30]} 14. Nd2 {[%clk 1:03:00]}  Bxd2+ {[%clk 1:03:00]} 15. Kxd2 {[%clk 1:01:30]}  O-O {[%clk 1:01:30]} 16. Rhd1 {[%clk 1:00:00]}  Qb6 {[%clk 1:00:00]} 17. Nc4 {[%clk 0:58:30]}  Qc6 {[%clk 0:58:30]} 18. Qf3 {[%clk 0:57:00]}  Nd5 {[%clk 0:57:00]} 19. g3 {[%clk 0:55:30]}  Nc5 {[%clk 0:55:30]} 20. Bxh6 {[%clk 0:54:00]}  gxh6 {[%clk 0:54:00]} 21. Qg4+ {[%clk 0:52:30]}  Kh8 {[%clk 0:52:30]} 22. Ne5 {[%clk 0:51:00]}  Qa4 {[%clk 0:51:00]} 23. Qh5 {[%clk 0:49:30]}  Kg7 {[%clk 0:49:30]} 24. Ng4 {[%clk 0:48:00]}  Rh8 {[%clk 0:48:00]} 25. Ne5 {[%clk 0:46:30]}  Rf8 {[%clk 0:46:30]} 26. Ng4 {[%clk 0:45:00]}  Rh8 {[%clk 0:45:00]} 27. Ne5 {[%clk 0:43:30]}  Qe8 {[%clk 0:43:30]} 28. Qg4+ {[%clk 0:42:00]}  Kf8 {[%clk 0:42:00]} 29. Qd4 {[%clk 0:40:30]}  Nxd3 {[%clk 0:40:30]} 30. Ng6+ {[%clk 0:39:00]}  fxg6 {[%clk 0:39:00]} 31. Qxh8+ {[%clk 0:37:30]}  Ke7 {[%clk 0:37:30]} 32. Qxe8+ {[%clk 0:36:00]}  Kxe8 {[%clk 0:36:00]} 33. Kxd3 {[%clk 0:34:30]}  b5 {[%clk 0:34:30]} 34. Re1 {[%clk 0:33:00]}  Ke7 {[%clk 0:33:00]} 35. Re5 {[%clk 0:31:30]}  g5 {[%clk 0:31:30]} 36. Rae1 {[%clk 0:30:00]}  Kf6 {[%clk 0:30:00]} 37. R5e4 {[%clk 0:28:30]}  Bd7 {[%clk 0:28:30]} 38. h4 {[%clk 0:27:00]}  Rf8 {[%clk 0:27:00]} 39. c3 {[%clk 0:25:30]}  a5 {[%clk 0:25:30]} 40. Kd4 {[%clk 0:24:00]}  Rc8 {[%clk 0:24:00]} 41. f3 {[%clk 0:22:30]}  a4 {[%clk 0:22:30]} 42. Rc1 {[%clk 0:21:00]}  Ne7 {[%clk 0:21:00]} 43. Kd3 {[%clk 0:19:30]}  e5 {[%clk 0:19:30]} 44. Ke2 {[%clk 0:18:00]}  Be6 {[%clk 0:18:00]} 45. Kf2 {[%clk 0:16:30]}  Bxa2 {[%clk 0:16:30]} 46. Rce1 {[%clk 0:15:00]}  Rc5 {[%clk 0:15:00]} 47. hxg5+ {[%clk 0:13:30]}  hxg5 {[%clk 0:13:30]} 48. f4 {[%clk 0:12:00]}  Ng6 {[%clk 0:12:00]} 49. fxe5+ {[%clk 0:10:30]}  Nxe5 {[%clk 0:10:30]} 50. Rd4 {[%clk 0:09:00]}  Rd5 {[%clk 0:09:00]} 51. Rxd5 {[%clk 0:07:30]}  Bxd5 {[%clk 0:07:30]} 52. Ke3 {[%clk 0:06:00]}  Bc4 {[%clk 0:06:00]} 53. Rd1 {[%clk 0:04:30]}  Kf5 {[%clk 0:04:30]} 54. Rd4 {[%clk 0:03:00]}  Nd3 {[%clk 0:03:00]} 55. g4+ {[%clk 0:01:30]}  Ke5 {[%clk 0:01:30]} 56. Re4+ {[%clk 1:24:00]}  Kf6 {[%clk 1:24:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "0-1"]
+[Round "02"]
+[TimeControl "5400+30"]
+[Date "2021.09.06"]
+[WhiteClock "1:09:00"]
+[BlackClock "1:09:00"]
+
+1. d4 {[%clk 1:07:30]}  Nf6 {[%clk 1:07:30]} 2. c4 {[%clk 1:06:00]}  e6 {[%clk 1:06:00]} 3. Nf3 {[%clk 1:04:30]}  b6 {[%clk 1:04:30]} 4. g3 {[%clk 1:03:00]}  Ba6 {[%clk 1:03:00]} 5. b3 {[%clk 1:01:30]}  Bb4+ {[%clk 1:01:30]} 6. Bd2 {[%clk 1:00:00]}  Be7 {[%clk 1:00:00]} 7. Bg2 {[%clk 0:58:30]}  c6 {[%clk 0:58:30]} 8. Bc3 {[%clk 0:57:00]}  d5 {[%clk 0:57:00]} 9. Ne5 {[%clk 0:55:30]}  Nfd7 {[%clk 0:55:30]} 10. Nxd7 {[%clk 0:54:00]}  Nxd7 {[%clk 0:54:00]} 11. Nd2 {[%clk 0:52:30]}  O-O {[%clk 0:52:30]} 12. O-O {[%clk 0:51:00]}  Rc8 {[%clk 0:51:00]} 13. e4 {[%clk 0:49:30]}  b5 {[%clk 0:49:30]} 14. Re1 {[%clk 0:48:00]}  dxe4 {[%clk 0:48:00]} 15. c5 {[%clk 0:46:30]}  f5 {[%clk 0:46:30]} 16. f3 {[%clk 0:45:00]}  b4 {[%clk 0:45:00]} 17. Bxb4 {[%clk 0:43:30]}  Ne5 {[%clk 0:43:30]} 18. Bc3 {[%clk 0:42:00]}  Nd3 {[%clk 0:42:00]} 19. fxe4 {[%clk 0:40:30]}  Nxe1 {[%clk 0:40:30]} 20. Qxe1 {[%clk 0:39:00]}  e5 {[%clk 0:39:00]} 21. Nf3 {[%clk 0:37:30]}  exd4 {[%clk 0:37:30]} 22. Bxd4 {[%clk 0:36:00]}  fxe4 {[%clk 0:36:00]} 23. Qxe4 {[%clk 0:34:30]}  Bf6 {[%clk 0:34:30]} 24. Re1 {[%clk 0:33:00]}  Re8 {[%clk 0:33:00]} 25. Bxf6 {[%clk 0:31:30]}  Rxe4 {[%clk 0:31:30]} 26. Bxd8 {[%clk 0:30:00]}  Rxe1+ {[%clk 0:30:00]} 27. Nxe1 {[%clk 0:28:30]}  Rxd8 {[%clk 0:28:30]} 28. Bxc6 {[%clk 0:27:00]}  Rd1 {[%clk 0:27:00]} 29. Kf2 {[%clk 0:25:30]}  Rd2+ {[%clk 0:25:30]} 30. Kf3 {[%clk 0:24:00]}  Rxa2 {[%clk 0:24:00]} 31. h4 {[%clk 0:22:30]}  Kf8 {[%clk 0:22:30]} 32. Kf4 {[%clk 0:21:00]}  Ke7 {[%clk 0:21:00]} 33. Nf3 {[%clk 0:19:30]}  Rf2 {[%clk 0:19:30]} 34. h5 {[%clk 0:18:00]}  Be2 {[%clk 0:18:00]} 35. Ke3 {[%clk 0:16:30]}  Bxf3 {[%clk 0:16:30]} 36. Bxf3 {[%clk 0:15:00]}  Rb2 {[%clk 0:15:00]} 37. Bd5 {[%clk 0:13:30]}  Rc2 {[%clk 0:13:30]} 38. Kd4 {[%clk 0:12:00]}  Rh2 {[%clk 0:12:00]} 39. g4 {[%clk 0:10:30]}  Rh3 {[%clk 0:10:30]} 40. Ke5 {[%clk 0:09:00]}  Re3+ {[%clk 0:09:00]} 41. Kf4 {[%clk 0:07:30]}  Rc3 {[%clk 0:07:30]} 42. c6 {[%clk 0:06:00]}  Kd6 {[%clk 0:06:00]} 43. Bg8 {[%clk 0:04:30]}  h6 {[%clk 0:04:30]} 44. Kf5 {[%clk 0:03:00]}  Rxc6 {[%clk 0:03:00]} 45. Kg6 {[%clk 0:01:30]}  Ke5+ {[%clk 0:01:30]} 46. Kxg7 {[%clk 1:09:00]}  Kf4 {[%clk 1:09:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "03"]
+[TimeControl "5400+30"]
+[Date "2021.09.06"]
+[WhiteClock "1:13:30"]
+[BlackClock "0:01:30"]
+
+1. e4 {[%clk 1:12:00]}  c6 {[%clk 1:12:00]} 2. d4 {[%clk 1:10:30]}  d5 {[%clk 1:10:30]} 3. Nd2 {[%clk 1:09:00]}  dxe4 {[%clk 1:09:00]} 4. Nxe4 {[%clk 1:07:30]}  Nd7 {[%clk 1:07:30]} 5. Bc4 {[%clk 1:06:00]}  Ngf6 {[%clk 1:06:00]} 6. Ng5 {[%clk 1:04:30]}  e6 {[%clk 1:04:30]} 7. Qe2 {[%clk 1:03:00]}  Nb6 {[%clk 1:03:00]} 8. Bd3 {[%clk 1:01:30]}  h6 {[%clk 1:01:30]} 9. N5f3 {[%clk 1:00:00]}  c5 {[%clk 1:00:00]} 10. dxc5 {[%clk 0:58:30]}  Bxc5 {[%clk 0:58:30]} 11. Ne5 {[%clk 0:57:00]}  Nbd7 {[%clk 0:57:00]} 12. Ngf3 {[%clk 0:55:30]}  Qc7 {[%clk 0:55:30]} 13. Bf4 {[%clk 0:54:00]}  Bb4+ {[%clk 0:54:00]} 14. Nd2 {[%clk 0:52:30]}  Bxd2+ {[%clk 0:52:30]} 15. Kxd2 {[%clk 0:51:00]}  O-O {[%clk 0:51:00]} 16. Rhd1 {[%clk 0:49:30]}  Qb6 {[%clk 0:49:30]} 17. Kc1 {[%clk 0:48:00]}  Nd5 {[%clk 0:48:00]} 18. Bg3 {[%clk 0:46:30]}  Nc5 {[%clk 0:46:30]} 19. Bc4 {[%clk 0:45:00]}  Bd7 {[%clk 0:45:00]} 20. Nxd7 {[%clk 0:43:30]}  Nxd7 {[%clk 0:43:30]} 21. a4 {[%clk 0:42:00]}  Rac8 {[%clk 0:42:00]} 22. Ra3 {[%clk 0:40:30]}  Qb4 {[%clk 0:40:30]} 23. Bxd5 {[%clk 0:39:00]}  exd5 {[%clk 0:39:00]} 24. Qb5 {[%clk 0:37:30]}  Qe4 {[%clk 0:37:30]} 25. Qd3 {[%clk 0:36:00]}  Nf6 {[%clk 0:36:00]} 26. Qxe4 {[%clk 0:34:30]}  dxe4 {[%clk 0:34:30]} 27. Rb3 {[%clk 0:33:00]}  b6 {[%clk 0:33:00]} 28. Rb5 {[%clk 0:31:30]}  Rc6 {[%clk 0:31:30]} 29. Rd6 {[%clk 0:30:00]}  Rxd6 {[%clk 0:30:00]} 30. Bxd6 {[%clk 0:28:30]}  Rc8 {[%clk 0:28:30]} 31. h3 {[%clk 0:27:00]}  Rc6 {[%clk 0:27:00]} 32. Bf4 {[%clk 0:25:30]}  Nd7 {[%clk 0:25:30]} 33. Be3 {[%clk 0:24:00]}  Kf8 {[%clk 0:24:00]} 34. Rb4 {[%clk 0:22:30]}  Nf6 {[%clk 0:22:30]} 35. b3 {[%clk 0:21:00]}  Re6 {[%clk 0:21:00]} 36. Rb5 {[%clk 0:19:30]}  Ke7 {[%clk 0:19:30]} 37. a5 {[%clk 0:18:00]}  Nd7 {[%clk 0:18:00]} 38. axb6 {[%clk 0:16:30]}  axb6 {[%clk 0:16:30]} 39. c4 {[%clk 0:15:00]}  Rg6 {[%clk 0:15:00]} 40. g3 {[%clk 0:13:30]}  Rd6 {[%clk 0:13:30]} 41. Kc2 {[%clk 0:12:00]}  g5 {[%clk 0:12:00]} 42. h4 {[%clk 0:10:30]}  f6 {[%clk 0:10:30]} 43. Kc3 {[%clk 0:09:00]}  Ke6 {[%clk 0:09:00]} 44. Kb4 {[%clk 0:07:30]}  Ke7 {[%clk 0:07:30]} 45. Kc3 {[%clk 0:06:00]}  Rd3+ {[%clk 0:06:00]} 46. Kb4 {[%clk 0:04:30]}  Rd6 {[%clk 0:04:30]} 47. c5 {[%clk 0:03:00]}  bxc5+ {[%clk 0:03:00]} 48. Rxc5 {[%clk 0:01:30]}  Ke6 {[%clk 0:01:30]} 49. Rc4 {[%clk 1:13:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2021.09.06"]
+[WhiteClock "0:30:00"]
+[BlackClock "0:30:00"]
+
+1. d4 {[%clk 0:28:30]}  Nf6 {[%clk 0:28:30]} 2. c4 {[%clk 0:27:00]}  e6 {[%clk 0:27:00]} 3. Nf3 {[%clk 0:25:30]}  d5 {[%clk 0:25:30]} 4. Nc3 {[%clk 0:24:00]}  dxc4 {[%clk 0:24:00]} 5. Qa4+ {[%clk 0:22:30]}  c6 {[%clk 0:22:30]} 6. Qxc4 {[%clk 0:21:00]}  b5 {[%clk 0:21:00]} 7. Qd3 {[%clk 0:19:30]}  Nbd7 {[%clk 0:19:30]} 8. Bg5 {[%clk 0:18:00]}  Bb7 {[%clk 0:18:00]} 9. e3 {[%clk 0:16:30]}  a6 {[%clk 0:16:30]} 10. Be2 {[%clk 0:15:00]}  c5 {[%clk 0:15:00]} 11. O-O {[%clk 0:13:30]}  Be7 {[%clk 0:13:30]} 12. Rfd1 {[%clk 0:12:00]}  O-O {[%clk 0:12:00]} 13. dxc5 {[%clk 0:10:30]}  Nxc5 {[%clk 0:10:30]} 14. Qd4 {[%clk 0:09:00]}  Qxd4 {[%clk 0:09:00]} 15. Rxd4 {[%clk 0:07:30]}  Rfd8 {[%clk 0:07:30]} 16. Rad1 {[%clk 0:06:00]}  h6 {[%clk 0:06:00]} 17. Rxd8+ {[%clk 0:04:30]}  Rxd8 {[%clk 0:04:30]} 18. Bf4 {[%clk 0:03:00]}  Rxd1+ {[%clk 0:03:00]} 19. Nxd1 {[%clk 0:01:30]}  Nd5 {[%clk 0:01:30]} 20. Bb8 {[%clk 0:30:00]}  Nb4 {[%clk 0:30:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2021.09.06"]
+[WhiteClock "1:22:30"]
+[BlackClock "0:01:30"]
+
+1. c4 {[%clk 1:21:00]}  e5 {[%clk 1:21:00]} 2. Nc3 {[%clk 1:19:30]}  Nf6 {[%clk 1:19:30]} 3. Nf3 {[%clk 1:18:00]}  Nc6 {[%clk 1:18:00]} 4. g3 {[%clk 1:16:30]}  Bc5 {[%clk 1:16:30]} 5. Bg2 {[%clk 1:15:00]}  O-O {[%clk 1:15:00]} 6. O-O {[%clk 1:13:30]}  d6 {[%clk 1:13:30]} 7. d3 {[%clk 1:12:00]}  h6 {[%clk 1:12:00]} 8. a3 {[%clk 1:10:30]}  a6 {[%clk 1:10:30]} 9. b4 {[%clk 1:09:00]}  Ba7 {[%clk 1:09:00]} 10. Bb2 {[%clk 1:07:30]}  Bg4 {[%clk 1:07:30]} 11. h3 {[%clk 1:06:00]}  Be6 {[%clk 1:06:00]} 12. Kh2 {[%clk 1:04:30]}  Rb8 {[%clk 1:04:30]} 13. Nd2 {[%clk 1:03:00]}  Qd7 {[%clk 1:03:00]} 14. Nd5 {[%clk 1:01:30]}  Ne8 {[%clk 1:01:30]} 15. Qa4 {[%clk 1:00:00]}  Nd4 {[%clk 1:00:00]} 16. Qxd7 {[%clk 0:58:30]}  Bxd7 {[%clk 0:58:30]} 17. e3 {[%clk 0:57:00]}  Ne6 {[%clk 0:57:00]} 18. Ne7+ {[%clk 0:55:30]}  Kh7 {[%clk 0:55:30]} 19. c5 {[%clk 0:54:00]}  dxc5 {[%clk 0:54:00]} 20. Nc4 {[%clk 0:52:30]}  Ba4 {[%clk 0:52:30]} 21. Be4+ {[%clk 0:51:00]}  Kh8 {[%clk 0:51:00]} 22. Bxe5 {[%clk 0:49:30]}  Nf6 {[%clk 0:49:30]} 23. Bf5 {[%clk 0:48:00]}  Rfe8 {[%clk 0:48:00]} 24. Bxf6 {[%clk 0:46:30]}  gxf6 {[%clk 0:46:30]} 25. Nd5 {[%clk 0:45:00]}  Kg7 {[%clk 0:45:00]} 26. bxc5 {[%clk 0:43:30]}  Bxc5 {[%clk 0:43:30]} 27. Rfc1 {[%clk 0:42:00]}  Bf8 {[%clk 0:42:00]} 28. Na5 {[%clk 0:40:30]}  b6 {[%clk 0:40:30]} 29. Nc6 {[%clk 0:39:00]}  Rb7 {[%clk 0:39:00]} 30. Rc4 {[%clk 0:37:30]}  Bb5 {[%clk 0:37:30]} 31. Rg4+ {[%clk 0:36:00]}  Ng5 {[%clk 0:36:00]} 32. Bd7 {[%clk 0:34:30]}  Re6 {[%clk 0:34:30]} 33. Bxe6 {[%clk 0:33:00]}  Bxc6 {[%clk 0:33:00]} 34. Nf4 {[%clk 0:31:30]}  fxe6 {[%clk 0:31:30]} 35. Nxe6+ {[%clk 0:30:00]}  Kg8 {[%clk 0:30:00]} 36. Nd8 {[%clk 0:28:30]}  Bf3 {[%clk 0:28:30]} 37. Nxb7 {[%clk 0:27:00]}  Bxb7 {[%clk 0:27:00]} 38. h4 {[%clk 0:25:30]}  f5 {[%clk 0:25:30]} 39. Rf4 {[%clk 0:24:00]}  Nf3+ {[%clk 0:24:00]} 40. Kh3 {[%clk 0:22:30]}  Ne5 {[%clk 0:22:30]} 41. d4 {[%clk 0:21:00]}  Nc4 {[%clk 0:21:00]} 42. a4 {[%clk 0:19:30]}  Bc8 {[%clk 0:19:30]} 43. Rc1 {[%clk 0:18:00]}  b5 {[%clk 0:18:00]} 44. axb5 {[%clk 0:16:30]}  axb5 {[%clk 0:16:30]} 45. d5 {[%clk 0:15:00]}  Bd6 {[%clk 0:15:00]} 46. Rfxc4 {[%clk 0:13:30]}  bxc4 {[%clk 0:13:30]} 47. Rxc4 {[%clk 0:12:00]}  Kf7 {[%clk 0:12:00]} 48. Kg2 {[%clk 0:10:30]}  Ke7 {[%clk 0:10:30]} 49. f3 {[%clk 0:09:00]}  h5 {[%clk 0:09:00]} 50. Kf2 {[%clk 0:07:30]}  Bb7 {[%clk 0:07:30]} 51. Rd4 {[%clk 0:06:00]}  Bc5 {[%clk 0:06:00]} 52. Rf4 {[%clk 0:04:30]}  Bc8 {[%clk 0:04:30]} 53. Ra4 {[%clk 0:03:00]}  Bb7 {[%clk 0:03:00]} 54. Rf4 {[%clk 0:01:30]}  Bc8 {[%clk 0:01:30]} 55. Ra4 {[%clk 1:22:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1-0"]
+[Round "06"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:49:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 0:48:00]}  Nf6 {[%clk 0:48:00]} 2. c4 {[%clk 0:46:30]}  e6 {[%clk 0:46:30]} 3. Nf3 {[%clk 0:45:00]}  d5 {[%clk 0:45:00]} 4. Nc3 {[%clk 0:43:30]}  dxc4 {[%clk 0:43:30]} 5. e4 {[%clk 0:42:00]}  Bb4 {[%clk 0:42:00]} 6. Bg5 {[%clk 0:40:30]}  c5 {[%clk 0:40:30]} 7. Bxc4 {[%clk 0:39:00]}  cxd4 {[%clk 0:39:00]} 8. Nxd4 {[%clk 0:37:30]}  Bxc3+ {[%clk 0:37:30]} 9. bxc3 {[%clk 0:36:00]}  Qa5 {[%clk 0:36:00]} 10. Nb5 {[%clk 0:34:30]}  Bd7 {[%clk 0:34:30]} 11. Nd6+ {[%clk 0:33:00]}  Ke7 {[%clk 0:33:00]} 12. Qd2 {[%clk 0:31:30]}  Bc6 {[%clk 0:31:30]} 13. f4 {[%clk 0:30:00]}  Nd7 {[%clk 0:30:00]} 14. Rd1 {[%clk 0:28:30]}  Rhd8 {[%clk 0:28:30]} 15. Qd4 {[%clk 0:27:00]}  h6 {[%clk 0:27:00]} 16. Bh4 {[%clk 0:25:30]}  Qh5 {[%clk 0:25:30]} 17. Bf2 {[%clk 0:24:00]}  Kf8 {[%clk 0:24:00]} 18. e5 {[%clk 0:22:30]}  Nd5 {[%clk 0:22:30]} 19. O-O {[%clk 0:21:00]}  Qg4 {[%clk 0:21:00]} 20. h3 {[%clk 0:19:30]}  Qh5 {[%clk 0:19:30]} 21. f5 {[%clk 0:18:00]}  Kg8 {[%clk 0:18:00]} 22. Rd3 {[%clk 0:16:30]}  N7b6 {[%clk 0:16:30]} 23. Bxd5 {[%clk 0:15:00]}  Bxd5 {[%clk 0:15:00]} 24. Rg3 {[%clk 0:13:30]}  Rd7 {[%clk 0:13:30]} 25. Be3 {[%clk 0:12:00]}  Bc4 {[%clk 0:12:00]} 26. Rf4 {[%clk 0:10:30]}  f6 {[%clk 0:10:30]} 27. exf6 {[%clk 0:09:00]}  e5 {[%clk 0:09:00]} 28. Qxe5 {[%clk 0:07:30]}  Qd1+ {[%clk 0:07:30]} 29. Kh2 {[%clk 0:06:00]}  Qxd6 {[%clk 0:06:00]} 30. f7+ {[%clk 0:04:30]}  Kxf7 {[%clk 0:04:30]} 31. Qxg7+ {[%clk 0:03:00]}  Ke8 {[%clk 0:03:00]} 32. Qh8+ {[%clk 0:01:30]}  Ke7 {[%clk 0:01:30]} 33. Re4+ {[%clk 0:49:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "07"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:31:30"]
+[BlackClock "0:01:30"]
+
+1. e4 {[%clk 0:30:00]}  c6 {[%clk 0:30:00]} 2. d4 {[%clk 0:28:30]}  d5 {[%clk 0:28:30]} 3. Nd2 {[%clk 0:27:00]}  dxe4 {[%clk 0:27:00]} 4. Nxe4 {[%clk 0:25:30]}  Nd7 {[%clk 0:25:30]} 5. Bc4 {[%clk 0:24:00]}  Ngf6 {[%clk 0:24:00]} 6. Ng5 {[%clk 0:22:30]}  e6 {[%clk 0:22:30]} 7. Qe2 {[%clk 0:21:00]}  Nb6 {[%clk 0:21:00]} 8. Bd3 {[%clk 0:19:30]}  h6 {[%clk 0:19:30]} 9. N5f3 {[%clk 0:18:00]}  c5 {[%clk 0:18:00]} 10. dxc5 {[%clk 0:16:30]}  Bxc5 {[%clk 0:16:30]} 11. Ne5 {[%clk 0:15:00]}  Nbd7 {[%clk 0:15:00]} 12. Ngf3 {[%clk 0:13:30]}  Qc7 {[%clk 0:13:30]} 13. Bf4 {[%clk 0:12:00]}  Bb4+ {[%clk 0:12:00]} 14. Nd2 {[%clk 0:10:30]}  Bxd2+ {[%clk 0:10:30]} 15. Kxd2 {[%clk 0:09:00]}  O-O {[%clk 0:09:00]} 16. Rhd1 {[%clk 0:07:30]}  Nc5 {[%clk 0:07:30]} 17. Ke1 {[%clk 0:06:00]}  Nd5 {[%clk 0:06:00]} 18. Bg3 {[%clk 0:04:30]}  Nxd3+ {[%clk 0:04:30]} 19. Rxd3 {[%clk 0:03:00]}  b5 {[%clk 0:03:00]} 20. c3 {[%clk 0:01:30]}  Qb7 {[%clk 0:01:30]} 21. Rad1 {[%clk 0:31:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1/2-1/2"]
+[Round "08"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:42:00"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 0:40:30]}  Nf6 {[%clk 0:40:30]} 2. c4 {[%clk 0:39:00]}  e6 {[%clk 0:39:00]} 3. Nf3 {[%clk 0:37:30]}  d5 {[%clk 0:37:30]} 4. Nc3 {[%clk 0:36:00]}  dxc4 {[%clk 0:36:00]} 5. e4 {[%clk 0:34:30]}  Bb4 {[%clk 0:34:30]} 6. Bg5 {[%clk 0:33:00]}  c5 {[%clk 0:33:00]} 7. Bxc4 {[%clk 0:31:30]}  cxd4 {[%clk 0:31:30]} 8. Nxd4 {[%clk 0:30:00]}  Bxc3+ {[%clk 0:30:00]} 9. bxc3 {[%clk 0:28:30]}  Qa5 {[%clk 0:28:30]} 10. Nb5 {[%clk 0:27:00]}  Nxe4 {[%clk 0:27:00]} 11. Qd4 {[%clk 0:25:30]}  O-O {[%clk 0:25:30]} 12. Qxe4 {[%clk 0:24:00]}  a6 {[%clk 0:24:00]} 13. Be7 {[%clk 0:22:30]}  axb5 {[%clk 0:22:30]} 14. Bb4 {[%clk 0:21:00]}  Qc7 {[%clk 0:21:00]} 15. Bxb5 {[%clk 0:19:30]}  Bd7 {[%clk 0:19:30]} 16. Bd3 {[%clk 0:18:00]}  g6 {[%clk 0:18:00]} 17. O-O {[%clk 0:16:30]}  Re8 {[%clk 0:16:30]} 18. Qe3 {[%clk 0:15:00]}  Nc6 {[%clk 0:15:00]} 19. Bc5 {[%clk 0:13:30]}  Ne7 {[%clk 0:13:30]} 20. Be4 {[%clk 0:12:00]}  Nf5 {[%clk 0:12:00]} 21. Bxf5 {[%clk 0:10:30]}  exf5 {[%clk 0:10:30]} 22. Qd4 {[%clk 0:09:00]}  Re4 {[%clk 0:09:00]} 23. Qd6 {[%clk 0:07:30]}  Qxd6 {[%clk 0:07:30]} 24. Bxd6 {[%clk 0:06:00]}  f6 {[%clk 0:06:00]} 25. f3 {[%clk 0:04:30]}  Re2 {[%clk 0:04:30]} 26. Rf2 {[%clk 0:03:00]}  Rae8 {[%clk 0:03:00]} 27. a4 {[%clk 0:01:30]}  Re1+ {[%clk 0:01:30]} 28. Rf1 {[%clk 0:42:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "09"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "1:13:30"]
+[BlackClock "0:01:30"]
+
+1. Nf3 {[%clk 1:12:00]}  Nf6 {[%clk 1:12:00]} 2. d4 {[%clk 1:10:30]}  e6 {[%clk 1:10:30]} 3. Bg5 {[%clk 1:09:00]}  h6 {[%clk 1:09:00]} 4. Bxf6 {[%clk 1:07:30]}  Qxf6 {[%clk 1:07:30]} 5. e4 {[%clk 1:06:00]}  d6 {[%clk 1:06:00]} 6. Nc3 {[%clk 1:04:30]}  g5 {[%clk 1:04:30]} 7. e5 {[%clk 1:03:00]}  Qe7 {[%clk 1:03:00]} 8. Bb5+ {[%clk 1:01:30]}  Bd7 {[%clk 1:01:30]} 9. O-O {[%clk 1:00:00]}  d5 {[%clk 1:00:00]} 10. Bd3 {[%clk 0:58:30]}  Nc6 {[%clk 0:58:30]} 11. Nb5 {[%clk 0:57:00]}  O-O-O {[%clk 0:57:00]} 12. c3 {[%clk 0:55:30]}  h5 {[%clk 0:55:30]} 13. a4 {[%clk 0:54:00]}  Kb8 {[%clk 0:54:00]} 14. b4 {[%clk 0:52:30]}  Bg7 {[%clk 0:52:30]} 15. Na3 {[%clk 0:51:00]}  Rdf8 {[%clk 0:51:00]} 16. Qe2 {[%clk 0:49:30]}  g4 {[%clk 0:49:30]} 17. Nd2 {[%clk 0:48:00]}  f6 {[%clk 0:48:00]} 18. exf6 {[%clk 0:46:30]}  Bxf6 {[%clk 0:46:30]} 19. b5 {[%clk 0:45:00]}  Na5 {[%clk 0:45:00]} 20. f4 {[%clk 0:43:30]}  Qg7 {[%clk 0:43:30]} 21. Nc2 {[%clk 0:42:00]}  Be7 {[%clk 0:42:00]} 22. Ne3 {[%clk 0:40:30]}  g3 {[%clk 0:40:30]} 23. h3 {[%clk 0:39:00]}  Bd6 {[%clk 0:39:00]} 24. f5 {[%clk 0:37:30]}  Rh6 {[%clk 0:37:30]} 25. Rae1 {[%clk 0:36:00]}  a6 {[%clk 0:36:00]} 26. Nf3 {[%clk 0:34:30]}  Re8 {[%clk 0:34:30]} 27. Qd2 {[%clk 0:33:00]}  Rd8 {[%clk 0:33:00]} 28. bxa6 {[%clk 0:31:30]}  b6 {[%clk 0:31:30]} 29. Ne5 {[%clk 0:30:00]}  Bc8 {[%clk 0:30:00]} 30. fxe6 {[%clk 0:28:30]}  Rxe6 {[%clk 0:28:30]} 31. Nf5 {[%clk 0:27:00]}  Qg8 {[%clk 0:27:00]} 32. Nh6 {[%clk 0:25:30]}  Qg7 {[%clk 0:25:30]} 33. Nf5 {[%clk 0:24:00]}  Qg8 {[%clk 0:24:00]} 34. Nh6 {[%clk 0:22:30]}  Qg7 {[%clk 0:22:30]} 35. Nhf7 {[%clk 0:21:00]}  Rf8 {[%clk 0:21:00]} 36. Nxd6 {[%clk 0:19:30]}  Rxd6 {[%clk 0:19:30]} 37. Rxf8 {[%clk 0:18:00]}  Qxf8 {[%clk 0:18:00]} 38. Rf1 {[%clk 0:16:30]}  Rf6 {[%clk 0:16:30]} 39. Qe3 {[%clk 0:15:00]}  h4 {[%clk 0:15:00]} 40. Nf3 {[%clk 0:13:30]}  Nc4 {[%clk 0:13:30]} 41. Qg5 {[%clk 0:12:00]}  Bxa6 {[%clk 0:12:00]} 42. a5 {[%clk 0:10:30]}  Qh6 {[%clk 0:10:30]} 43. Qxh6 {[%clk 0:09:00]}  Rxh6 {[%clk 0:09:00]} 44. axb6 {[%clk 0:07:30]}  cxb6 {[%clk 0:07:30]} 45. Ng5 {[%clk 0:06:00]}  Bb5 {[%clk 0:06:00]} 46. Rf8+ {[%clk 0:04:30]}  Ka7 {[%clk 0:04:30]} 47. Kf1 {[%clk 0:03:00]}  Na3 {[%clk 0:03:00]} 48. Ke2 {[%clk 0:01:30]}  Rc6 {[%clk 0:01:30]} 49. Rf3 {[%clk 1:13:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1-0"]
+[Round "10"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "1:19:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:18:00]}  Nf6 {[%clk 1:18:00]} 2. c4 {[%clk 1:16:30]}  g6 {[%clk 1:16:30]} 3. Nc3 {[%clk 1:15:00]}  d5 {[%clk 1:15:00]} 4. cxd5 {[%clk 1:13:30]}  Nxd5 {[%clk 1:13:30]} 5. e4 {[%clk 1:12:00]}  Nxc3 {[%clk 1:12:00]} 6. bxc3 {[%clk 1:10:30]}  Bg7 {[%clk 1:10:30]} 7. Be3 {[%clk 1:09:00]}  c5 {[%clk 1:09:00]} 8. Qd2 {[%clk 1:07:30]}  Qa5 {[%clk 1:07:30]} 9. Rb1 {[%clk 1:06:00]}  b6 {[%clk 1:06:00]} 10. Bb5+ {[%clk 1:04:30]}  Bd7 {[%clk 1:04:30]} 11. Be2 {[%clk 1:03:00]}  O-O {[%clk 1:03:00]} 12. Rc1 {[%clk 1:01:30]}  Bb5 {[%clk 1:01:30]} 13. d5 {[%clk 1:00:00]}  Nd7 {[%clk 1:00:00]} 14. c4 {[%clk 0:58:30]}  Qxd2+ {[%clk 0:58:30]} 15. Kxd2 {[%clk 0:57:00]}  Ba4 {[%clk 0:57:00]} 16. Nh3 {[%clk 0:55:30]}  e6 {[%clk 0:55:30]} 17. Nf4 {[%clk 0:54:00]}  Rae8 {[%clk 0:54:00]} 18. f3 {[%clk 0:52:30]}  Ne5 {[%clk 0:52:30]} 19. Rc3 {[%clk 0:51:00]}  Bd7 {[%clk 0:51:00]} 20. Ra3 {[%clk 0:49:30]}  exd5 {[%clk 0:49:30]} 21. exd5 {[%clk 0:48:00]}  h5 {[%clk 0:48:00]} 22. Rxa7 {[%clk 0:46:30]}  Bf5 {[%clk 0:46:30]} 23. Rd1 {[%clk 0:45:00]}  Ra8 {[%clk 0:45:00]} 24. Rxa8 {[%clk 0:43:30]}  Rxa8 {[%clk 0:43:30]} 25. Ke1 {[%clk 0:42:00]}  Rxa2 {[%clk 0:42:00]} 26. d6 {[%clk 0:40:30]}  Nd7 {[%clk 0:40:30]} 27. Nd5 {[%clk 0:39:00]}  Kf8 {[%clk 0:39:00]} 28. Bd3 {[%clk 0:37:30]}  Bxd3 {[%clk 0:37:30]} 29. Rxd3 {[%clk 0:36:00]}  Be5 {[%clk 0:36:00]} 30. Bh6+ {[%clk 0:34:30]}  Kg8 {[%clk 0:34:30]} 31. Ne7+ {[%clk 0:33:00]}  Kh7 {[%clk 0:33:00]} 32. Bd2 {[%clk 0:31:30]}  Bxh2 {[%clk 0:31:30]} 33. f4 {[%clk 0:30:00]}  Bg1 {[%clk 0:30:00]} 34. Nc6 {[%clk 0:28:30]}  Kg8 {[%clk 0:28:30]} 35. Ne5 {[%clk 0:27:00]}  Ra7 {[%clk 0:27:00]} 36. Nc6 {[%clk 0:25:30]}  Ra1+ {[%clk 0:25:30]} 37. Ke2 {[%clk 0:24:00]}  Kf8 {[%clk 0:24:00]} 38. f5 {[%clk 0:22:30]}  gxf5 {[%clk 0:22:30]} 39. Rh3 {[%clk 0:21:00]}  Bd4 {[%clk 0:21:00]} 40. Rxh5 {[%clk 0:19:30]}  Bf6 {[%clk 0:19:30]} 41. Rxf5 {[%clk 0:18:00]}  Ra4 {[%clk 0:18:00]} 42. Kd3 {[%clk 0:16:30]}  Ke8 {[%clk 0:16:30]} 43. Bg5 {[%clk 0:15:00]}  Ba1 {[%clk 0:15:00]} 44. Be7 {[%clk 0:13:30]}  f6 {[%clk 0:13:30]} 45. g4 {[%clk 0:12:00]}  Ra3+ {[%clk 0:12:00]} 46. Ke4 {[%clk 0:10:30]}  Rc3 {[%clk 0:10:30]} 47. Rh5 {[%clk 0:09:00]}  Rxc4+ {[%clk 0:09:00]} 48. Kf5 {[%clk 0:07:30]}  b5 {[%clk 0:07:30]} 49. Rh8+ {[%clk 0:06:00]}  Kf7 {[%clk 0:06:00]} 50. Rd8 {[%clk 0:04:30]}  Be5 {[%clk 0:04:30]} 51. Nxe5+ {[%clk 0:03:00]}  Nxe5 {[%clk 0:03:00]} 52. Rf8+ {[%clk 0:01:30]}  Kg7 {[%clk 0:01:30]} 53. g5 {[%clk 1:19:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "11"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:16:30"]
+[BlackClock "0:01:30"]
+
+1. c4 {[%clk 0:15:00]}  Nf6 {[%clk 0:15:00]} 2. Nf3 {[%clk 0:13:30]}  e6 {[%clk 0:13:30]} 3. d4 {[%clk 0:12:00]}  b6 {[%clk 0:12:00]} 4. g3 {[%clk 0:10:30]}  Ba6 {[%clk 0:10:30]} 5. b3 {[%clk 0:09:00]}  Bb4+ {[%clk 0:09:00]} 6. Bd2 {[%clk 0:07:30]}  Be7 {[%clk 0:07:30]} 7. Bg2 {[%clk 0:06:00]}  c6 {[%clk 0:06:00]} 8. Bc3 {[%clk 0:04:30]}  O-O {[%clk 0:04:30]} 9. Nbd2 {[%clk 0:03:00]}  d5 {[%clk 0:03:00]} 10. Ne5 {[%clk 0:01:30]}  Bb7 {[%clk 0:01:30]} 11. O-O {[%clk 0:16:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1/2-1/2"]
+[Round "12"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "1:16:30"]
+[BlackClock "1:16:30"]
+
+1. d4 {[%clk 1:15:00]}  Nf6 {[%clk 1:15:00]} 2. c4 {[%clk 1:13:30]}  g6 {[%clk 1:13:30]} 3. Nf3 {[%clk 1:12:00]}  Bg7 {[%clk 1:12:00]} 4. g3 {[%clk 1:10:30]}  c6 {[%clk 1:10:30]} 5. Bg2 {[%clk 1:09:00]}  d5 {[%clk 1:09:00]} 6. cxd5 {[%clk 1:07:30]}  cxd5 {[%clk 1:07:30]} 7. Nc3 {[%clk 1:06:00]}  O-O {[%clk 1:06:00]} 8. Ne5 {[%clk 1:04:30]}  e6 {[%clk 1:04:30]} 9. O-O {[%clk 1:03:00]}  Nfd7 {[%clk 1:03:00]} 10. f4 {[%clk 1:01:30]}  Nc6 {[%clk 1:01:30]} 11. Be3 {[%clk 1:00:00]}  f6 {[%clk 1:00:00]} 12. Nd3 {[%clk 0:58:30]}  Nb6 {[%clk 0:58:30]} 13. b3 {[%clk 0:57:00]}  Bd7 {[%clk 0:57:00]} 14. Bf2 {[%clk 0:55:30]}  Qe7 {[%clk 0:55:30]} 15. Rc1 {[%clk 0:54:00]}  Rad8 {[%clk 0:54:00]} 16. Rc2 {[%clk 0:52:30]}  Be8 {[%clk 0:52:30]} 17. Rd2 {[%clk 0:51:00]}  Nc8 {[%clk 0:51:00]} 18. e3 {[%clk 0:49:30]}  Nd6 {[%clk 0:49:30]} 19. g4 {[%clk 0:48:00]}  Kh8 {[%clk 0:48:00]} 20. Qe2 {[%clk 0:46:30]}  f5 {[%clk 0:46:30]} 21. g5 {[%clk 0:45:00]}  Ne4 {[%clk 0:45:00]} 22. Rc2 {[%clk 0:43:30]}  Nb4 {[%clk 0:43:30]} 23. Nxb4 {[%clk 0:42:00]}  Qxb4 {[%clk 0:42:00]} 24. Rfc1 {[%clk 0:40:30]}  Bc6 {[%clk 0:40:30]} 25. Be1 {[%clk 0:39:00]}  Qe7 {[%clk 0:39:00]} 26. Nxe4 {[%clk 0:37:30]}  dxe4 {[%clk 0:37:30]} 27. Bf1 {[%clk 0:36:00]}  Rc8 {[%clk 0:36:00]} 28. h4 {[%clk 0:34:30]}  h5 {[%clk 0:34:30]} 29. Qd2 {[%clk 0:33:00]}  Qd7 {[%clk 0:33:00]} 30. Qa5 {[%clk 0:31:30]}  a6 {[%clk 0:31:30]} 31. Bb4 {[%clk 0:30:00]}  Rfe8 {[%clk 0:30:00]} 32. Bc5 {[%clk 0:28:30]}  Bd5 {[%clk 0:28:30]} 33. Bb6 {[%clk 0:27:00]}  Rxc2 {[%clk 0:27:00]} 34. Rxc2 {[%clk 0:25:30]}  Rc8 {[%clk 0:25:30]} 35. Rxc8+ {[%clk 0:24:00]}  Qxc8 {[%clk 0:24:00]} 36. Qc5 {[%clk 0:22:30]}  Qxc5 {[%clk 0:22:30]} 37. Bxc5 {[%clk 0:21:00]}  Kg8 {[%clk 0:21:00]} 38. Kf2 {[%clk 0:19:30]}  Kf7 {[%clk 0:19:30]} 39. Ke1 {[%clk 0:18:00]}  Bf8 {[%clk 0:18:00]} 40. Kd2 {[%clk 0:16:30]}  Be7 {[%clk 0:16:30]} 41. Bxe7 {[%clk 0:15:00]}  Kxe7 {[%clk 0:15:00]} 42. Kc3 {[%clk 0:13:30]}  a5 {[%clk 0:13:30]} 43. a3 {[%clk 0:12:00]}  b6 {[%clk 0:12:00]} 44. b4 {[%clk 0:10:30]}  Kd7 {[%clk 0:10:30]} 45. Bb5+ {[%clk 0:09:00]}  Kd8 {[%clk 0:09:00]} 46. Bc4 {[%clk 0:07:30]}  Kc7 {[%clk 0:07:30]} 47. Bb5 {[%clk 0:06:00]}  Kd8 {[%clk 0:06:00]} 48. Ba4 {[%clk 0:04:30]}  Ke7 {[%clk 0:04:30]} 49. Bb3 {[%clk 0:03:00]}  Bc6 {[%clk 0:03:00]} 50. bxa5 {[%clk 0:01:30]}  bxa5 {[%clk 0:01:30]} 51. Bc4 {[%clk 1:16:30]}  Kd6 {[%clk 1:16:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "13"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:40:30"]
+[BlackClock "0:01:30"]
+
+1. Nf3 {[%clk 0:39:00]}  Nf6 {[%clk 0:39:00]} 2. g3 {[%clk 0:37:30]}  d5 {[%clk 0:37:30]} 3. Bg2 {[%clk 0:36:00]}  c6 {[%clk 0:36:00]} 4. O-O {[%clk 0:34:30]}  Bg4 {[%clk 0:34:30]} 5. b3 {[%clk 0:33:00]}  Nbd7 {[%clk 0:33:00]} 6. Bb2 {[%clk 0:31:30]}  e6 {[%clk 0:31:30]} 7. c4 {[%clk 0:30:00]}  Bd6 {[%clk 0:30:00]} 8. d3 {[%clk 0:28:30]}  O-O {[%clk 0:28:30]} 9. Nbd2 {[%clk 0:27:00]}  Qe7 {[%clk 0:27:00]} 10. Qc2 {[%clk 0:25:30]}  e5 {[%clk 0:25:30]} 11. h3 {[%clk 0:24:00]}  Bxf3 {[%clk 0:24:00]} 12. Nxf3 {[%clk 0:22:30]}  Rfe8 {[%clk 0:22:30]} 13. e3 {[%clk 0:21:00]}  Ba3 {[%clk 0:21:00]} 14. Bxa3 {[%clk 0:19:30]}  Qxa3 {[%clk 0:19:30]} 15. cxd5 {[%clk 0:18:00]}  Nxd5 {[%clk 0:18:00]} 16. Rfd1 {[%clk 0:16:30]}  a5 {[%clk 0:16:30]} 17. d4 {[%clk 0:15:00]}  e4 {[%clk 0:15:00]} 18. Ne5 {[%clk 0:13:30]}  Nxe5 {[%clk 0:13:30]} 19. dxe5 {[%clk 0:12:00]}  Rxe5 {[%clk 0:12:00]} 20. Bxe4 {[%clk 0:10:30]}  Rxe4 {[%clk 0:10:30]} 21. Qxe4 {[%clk 0:09:00]}  Nc3 {[%clk 0:09:00]} 22. Qc2 {[%clk 0:07:30]}  Nxd1 {[%clk 0:07:30]} 23. Rxd1 {[%clk 0:06:00]}  Qe7 {[%clk 0:06:00]} 24. Rd4 {[%clk 0:04:30]}  Rd8 {[%clk 0:04:30]} 25. Qe4 {[%clk 0:03:00]}  Qf8 {[%clk 0:03:00]} 26. h4 {[%clk 0:01:30]}  g6 {[%clk 0:01:30]} 27. Qe5 {[%clk 0:40:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1-0"]
+[Round "14"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "1:19:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:18:00]}  Nf6 {[%clk 1:18:00]} 2. c4 {[%clk 1:16:30]}  e6 {[%clk 1:16:30]} 3. Nf3 {[%clk 1:15:00]}  d5 {[%clk 1:15:00]} 4. Nc3 {[%clk 1:13:30]}  dxc4 {[%clk 1:13:30]} 5. e4 {[%clk 1:12:00]}  Bb4 {[%clk 1:12:00]} 6. Bg5 {[%clk 1:10:30]}  c5 {[%clk 1:10:30]} 7. Bxc4 {[%clk 1:09:00]}  cxd4 {[%clk 1:09:00]} 8. Nxd4 {[%clk 1:07:30]}  Bxc3+ {[%clk 1:07:30]} 9. bxc3 {[%clk 1:06:00]}  Qa5 {[%clk 1:06:00]} 10. Nb5 {[%clk 1:04:30]}  Nxe4 {[%clk 1:04:30]} 11. Bf4 {[%clk 1:03:00]}  O-O {[%clk 1:03:00]} 12. O-O {[%clk 1:01:30]}  Nd7 {[%clk 1:01:30]} 13. Nc7 {[%clk 1:00:00]}  e5 {[%clk 1:00:00]} 14. Nxa8 {[%clk 0:58:30]}  exf4 {[%clk 0:58:30]} 15. Bd5 {[%clk 0:57:00]}  Ndf6 {[%clk 0:57:00]} 16. Bxe4 {[%clk 0:55:30]}  Nxe4 {[%clk 0:55:30]} 17. f3 {[%clk 0:54:00]}  Nxc3 {[%clk 0:54:00]} 18. Qd6 {[%clk 0:52:30]}  Nd5 {[%clk 0:52:30]} 19. Rfc1 {[%clk 0:51:00]}  Be6 {[%clk 0:51:00]} 20. Nc7 {[%clk 0:49:30]}  Nxc7 {[%clk 0:49:30]} 21. Qxc7 {[%clk 0:48:00]}  Qxc7 {[%clk 0:48:00]} 22. Rxc7 {[%clk 0:46:30]}  Bd5 {[%clk 0:46:30]} 23. Rc5 {[%clk 0:45:00]}  Be6 {[%clk 0:45:00]} 24. Rc7 {[%clk 0:43:30]}  Bd5 {[%clk 0:43:30]} 25. Rc5 {[%clk 0:42:00]}  Be6 {[%clk 0:42:00]} 26. Ra5 {[%clk 0:40:30]}  a6 {[%clk 0:40:30]} 27. Rb1 {[%clk 0:39:00]}  Rc8 {[%clk 0:39:00]} 28. h4 {[%clk 0:37:30]}  Rc7 {[%clk 0:37:30]} 29. Rb4 {[%clk 0:36:00]}  Bc4 {[%clk 0:36:00]} 30. Raa4 {[%clk 0:34:30]}  Be6 {[%clk 0:34:30]} 31. Rb6 {[%clk 0:33:00]}  h6 {[%clk 0:33:00]} 32. a3 {[%clk 0:31:30]}  g5 {[%clk 0:31:30]} 33. Rab4 {[%clk 0:30:00]}  a5 {[%clk 0:30:00]} 34. Ra4 {[%clk 0:28:30]}  gxh4 {[%clk 0:28:30]} 35. Rxf4 {[%clk 0:27:00]}  h3 {[%clk 0:27:00]} 36. gxh3 {[%clk 0:25:30]}  Bxh3 {[%clk 0:25:30]} 37. Ra4 {[%clk 0:24:00]}  Rc3 {[%clk 0:24:00]} 38. Rxb7 {[%clk 0:22:30]}  Rxf3 {[%clk 0:22:30]} 39. Rxa5 {[%clk 0:21:00]}  Be6 {[%clk 0:21:00]} 40. Rb1 {[%clk 0:19:30]}  h5 {[%clk 0:19:30]} 41. Rg5+ {[%clk 0:18:00]}  Kf8 {[%clk 0:18:00]} 42. Ra1 {[%clk 0:16:30]}  h4 {[%clk 0:16:30]} 43. a4 {[%clk 0:15:00]}  f6 {[%clk 0:15:00]} 44. Rg2 {[%clk 0:13:30]}  Bd5 {[%clk 0:13:30]} 45. Rd2 {[%clk 0:12:00]}  Be4 {[%clk 0:12:00]} 46. a5 {[%clk 0:10:30]}  Rh3 {[%clk 0:10:30]} 47. Ra4 {[%clk 0:09:00]}  Bc6 {[%clk 0:09:00]} 48. Rc4 {[%clk 0:07:30]}  Rh1+ {[%clk 0:07:30]} 49. Kf2 {[%clk 0:06:00]}  Bb5 {[%clk 0:06:00]} 50. Rc7 {[%clk 0:04:30]}  Ke8 {[%clk 0:04:30]} 51. Rd5 {[%clk 0:03:00]}  Rb1 {[%clk 0:03:00]} 52. Rh5 {[%clk 0:01:30]}  Kd8 {[%clk 0:01:30]} 53. Ra7 {[%clk 1:19:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Round "15"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:51:00"]
+[BlackClock "0:51:00"]
+
+1. d4 {[%clk 0:49:30]}  Nf6 {[%clk 0:49:30]} 2. c4 {[%clk 0:48:00]}  e6 {[%clk 0:48:00]} 3. Nc3 {[%clk 0:46:30]}  Bb4 {[%clk 0:46:30]} 4. Qc2 {[%clk 0:45:00]}  O-O {[%clk 0:45:00]} 5. a3 {[%clk 0:43:30]}  Bxc3+ {[%clk 0:43:30]} 6. Qxc3 {[%clk 0:42:00]}  b6 {[%clk 0:42:00]} 7. Bg5 {[%clk 0:40:30]}  c5 {[%clk 0:40:30]} 8. dxc5 {[%clk 0:39:00]}  bxc5 {[%clk 0:39:00]} 9. e3 {[%clk 0:37:30]}  Nc6 {[%clk 0:37:30]} 10. Nh3 {[%clk 0:36:00]}  h6 {[%clk 0:36:00]} 11. Bh4 {[%clk 0:34:30]}  g5 {[%clk 0:34:30]} 12. Bg3 {[%clk 0:33:00]}  Ne4 {[%clk 0:33:00]} 13. Qc2 {[%clk 0:31:30]}  Qa5+ {[%clk 0:31:30]} 14. Ke2 {[%clk 0:30:00]}  f5 {[%clk 0:30:00]} 15. f3 {[%clk 0:28:30]}  Nxg3+ {[%clk 0:28:30]} 16. hxg3 {[%clk 0:27:00]}  Rb8 {[%clk 0:27:00]} 17. Nf2 {[%clk 0:25:30]}  Ba6 {[%clk 0:25:30]} 18. Nd3 {[%clk 0:24:00]}  d5 {[%clk 0:24:00]} 19. b3 {[%clk 0:22:30]}  Rxb3 {[%clk 0:22:30]} 20. Qxb3 {[%clk 0:21:00]}  dxc4 {[%clk 0:21:00]} 21. Qa2 {[%clk 0:19:30]}  cxd3+ {[%clk 0:19:30]} 22. Kf2 {[%clk 0:18:00]}  Rf6 {[%clk 0:18:00]} 23. Rc1 {[%clk 0:16:30]}  Kg7 {[%clk 0:16:30]} 24. f4 {[%clk 0:15:00]}  c4 {[%clk 0:15:00]} 25. Qb2 {[%clk 0:13:30]}  e5 {[%clk 0:13:30]} 26. fxg5 {[%clk 0:12:00]}  hxg5 {[%clk 0:12:00]} 27. Rc3 {[%clk 0:10:30]}  Qb6 {[%clk 0:10:30]} 28. Qxb6 {[%clk 0:09:00]}  axb6 {[%clk 0:09:00]} 29. Rh5 {[%clk 0:07:30]}  Ne7 {[%clk 0:07:30]} 30. Bxd3 {[%clk 0:06:00]}  cxd3 {[%clk 0:06:00]} 31. Rc7 {[%clk 0:04:30]}  Re6 {[%clk 0:04:30]} 32. Ke1 {[%clk 0:03:00]}  Bb5 {[%clk 0:03:00]} 33. g4 {[%clk 0:01:30]}  Kg6 {[%clk 0:01:30]} 34. Rh8 {[%clk 0:51:00]}  f4 {[%clk 0:51:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1-0"]
+[Round "16"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "1:28:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:27:00]}  Nf6 {[%clk 1:27:00]} 2. c4 {[%clk 1:25:30]}  g6 {[%clk 1:25:30]} 3. Nc3 {[%clk 1:24:00]}  Bg7 {[%clk 1:24:00]} 4. e4 {[%clk 1:22:30]}  d6 {[%clk 1:22:30]} 5. f3 {[%clk 1:21:00]}  O-O {[%clk 1:21:00]} 6. Be3 {[%clk 1:19:30]}  Nbd7 {[%clk 1:19:30]} 7. Qd2 {[%clk 1:18:00]}  c5 {[%clk 1:18:00]} 8. Nh3 {[%clk 1:16:30]}  Qa5 {[%clk 1:16:30]} 9. Nf2 {[%clk 1:15:00]}  a6 {[%clk 1:15:00]} 10. dxc5 {[%clk 1:13:30]}  Nxc5 {[%clk 1:13:30]} 11. Rb1 {[%clk 1:12:00]}  Qb4 {[%clk 1:12:00]} 12. Be2 {[%clk 1:10:30]}  Ncd7 {[%clk 1:10:30]} 13. O-O {[%clk 1:09:00]}  Re8 {[%clk 1:09:00]} 14. Rfc1 {[%clk 1:07:30]}  Rb8 {[%clk 1:07:30]} 15. Nd3 {[%clk 1:06:00]}  Qa5 {[%clk 1:06:00]} 16. b4 {[%clk 1:04:30]}  Qd8 {[%clk 1:04:30]} 17. c5 {[%clk 1:03:00]}  Nf8 {[%clk 1:03:00]} 18. b5 {[%clk 1:01:30]}  axb5 {[%clk 1:01:30]} 19. cxd6 {[%clk 1:00:00]}  exd6 {[%clk 1:00:00]} 20. Nf4 {[%clk 0:58:30]}  Be6 {[%clk 0:58:30]} 21. Nxb5 {[%clk 0:57:00]}  d5 {[%clk 0:57:00]} 22. e5 {[%clk 0:55:30]}  N6d7 {[%clk 0:55:30]} 23. Nd6 {[%clk 0:54:00]}  Nxe5 {[%clk 0:54:00]} 24. Nxe8 {[%clk 0:52:30]}  Qxe8 {[%clk 0:52:30]} 25. Bb5 {[%clk 0:51:00]}  Qe7 {[%clk 0:51:00]} 26. Nxe6 {[%clk 0:49:30]}  Qxe6 {[%clk 0:49:30]} 27. Bd4 {[%clk 0:48:00]}  Qf5 {[%clk 0:48:00]} 28. f4 {[%clk 0:46:30]}  Nd3 {[%clk 0:46:30]} 29. Bxd3 {[%clk 0:45:00]}  Bxd4+ {[%clk 0:45:00]} 30. Kh1 {[%clk 0:43:30]}  Qf6 {[%clk 0:43:30]} 31. f5 {[%clk 0:42:00]}  Be5 {[%clk 0:42:00]} 32. Rf1 {[%clk 0:40:30]}  Qd6 {[%clk 0:40:30]} 33. Qb4 {[%clk 0:39:00]}  Bxh2 {[%clk 0:39:00]} 34. Qxd6 {[%clk 0:37:30]}  Bxd6 {[%clk 0:37:30]} 35. Rb5 {[%clk 0:36:00]}  b6 {[%clk 0:36:00]} 36. Rxd5 {[%clk 0:34:30]}  Bc5 {[%clk 0:34:30]} 37. Bc4 {[%clk 0:33:00]}  Rb7 {[%clk 0:33:00]} 38. g4 {[%clk 0:31:30]}  Re7 {[%clk 0:31:30]} 39. Rd8 {[%clk 0:30:00]}  Rc7 {[%clk 0:30:00]} 40. Bb3 {[%clk 0:28:30]}  Kg7 {[%clk 0:28:30]} 41. f6+ {[%clk 0:27:00]}  Kg8 {[%clk 0:27:00]} 42. g5 {[%clk 0:25:30]}  h6 {[%clk 0:25:30]} 43. gxh6 {[%clk 0:24:00]}  Kh7 {[%clk 0:24:00]} 44. Kg2 {[%clk 0:22:30]}  Kxh6 {[%clk 0:22:30]} 45. Rd5 {[%clk 0:21:00]}  Kh7 {[%clk 0:21:00]} 46. Rh1+ {[%clk 0:19:30]}  Kg8 {[%clk 0:19:30]} 47. Rd8 {[%clk 0:18:00]}  Rc6 {[%clk 0:18:00]} 48. Rf1 {[%clk 0:16:30]}  Bb4 {[%clk 0:16:30]} 49. Rf4 {[%clk 0:15:00]}  Ba3 {[%clk 0:15:00]} 50. Re8 {[%clk 0:13:30]}  Bd6 {[%clk 0:13:30]} 51. Rg4 {[%clk 0:12:00]}  Kh7 {[%clk 0:12:00]} 52. Bxf7 {[%clk 0:10:30]}  Rc2+ {[%clk 0:10:30]} 53. Kf3 {[%clk 0:09:00]}  Kh6 {[%clk 0:09:00]} 54. Re1 {[%clk 0:07:30]}  Rh2 {[%clk 0:07:30]} 55. Rd1 {[%clk 0:06:00]}  Bc5 {[%clk 0:06:00]} 56. Kg3 {[%clk 0:04:30]}  Rh5 {[%clk 0:04:30]} 57. Kg2 {[%clk 0:03:00]}  Ba3 {[%clk 0:03:00]} 58. Rd3 {[%clk 0:01:30]}  Bc5 {[%clk 0:01:30]} 59. Rdg3 {[%clk 1:28:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "17"]
+[TimeControl "5400+30"]
+[Date "2021.09.07"]
+[WhiteClock "0:49:30"]
+[BlackClock "0:49:30"]
+
+1. e4 {[%clk 0:48:00]}  c6 {[%clk 0:48:00]} 2. d4 {[%clk 0:46:30]}  d5 {[%clk 0:46:30]} 3. e5 {[%clk 0:45:00]}  Bf5 {[%clk 0:45:00]} 4. Nc3 {[%clk 0:43:30]}  e6 {[%clk 0:43:30]} 5. g4 {[%clk 0:42:00]}  Bg6 {[%clk 0:42:00]} 6. Nge2 {[%clk 0:40:30]}  c5 {[%clk 0:40:30]} 7. h4 {[%clk 0:39:00]}  h5 {[%clk 0:39:00]} 8. Nf4 {[%clk 0:37:30]}  Nc6 {[%clk 0:37:30]} 9. Nxg6 {[%clk 0:36:00]}  fxg6 {[%clk 0:36:00]} 10. Ne2 {[%clk 0:34:30]}  Nge7 {[%clk 0:34:30]} 11. Nf4 {[%clk 0:33:00]}  cxd4 {[%clk 0:33:00]} 12. Bh3 {[%clk 0:31:30]}  Nxe5 {[%clk 0:31:30]} 13. Qe2 {[%clk 0:30:00]}  N7c6 {[%clk 0:30:00]} 14. Nxe6 {[%clk 0:28:30]}  Qa5+ {[%clk 0:28:30]} 15. Kf1 {[%clk 0:27:00]}  hxg4 {[%clk 0:27:00]} 16. Bxg4 {[%clk 0:25:30]}  Bd6 {[%clk 0:25:30]} 17. Kg2 {[%clk 0:24:00]}  Qa6 {[%clk 0:24:00]} 18. Qd1 {[%clk 0:22:30]}  Nxg4 {[%clk 0:22:30]} 19. Qxg4 {[%clk 0:21:00]}  Ne5 {[%clk 0:21:00]} 20. Qxd4 {[%clk 0:19:30]}  Qc4 {[%clk 0:19:30]} 21. Qxc4 {[%clk 0:18:00]}  dxc4 {[%clk 0:18:00]} 22. Be3 {[%clk 0:16:30]}  Kd7 {[%clk 0:16:30]} 23. Ng5 {[%clk 0:15:00]}  Be7 {[%clk 0:15:00]} 24. Rad1+ {[%clk 0:13:30]}  Kc6 {[%clk 0:13:30]} 25. Ne6 {[%clk 0:12:00]}  Bf6 {[%clk 0:12:00]} 26. Nd4+ {[%clk 0:10:30]}  Kb6 {[%clk 0:10:30]} 27. Nf3+ {[%clk 0:09:00]}  Kc6 {[%clk 0:09:00]} 28. Nd4+ {[%clk 0:07:30]}  Kb6 {[%clk 0:07:30]} 29. Rhe1 {[%clk 0:06:00]}  Rae8 {[%clk 0:06:00]} 30. Ne6+ {[%clk 0:04:30]}  Kc6 {[%clk 0:04:30]} 31. Nd4+ {[%clk 0:03:00]}  Kb6 {[%clk 0:03:00]} 32. Bg5 {[%clk 0:01:30]}  Nf7 {[%clk 0:01:30]} 33. Be3 {[%clk 0:49:30]}  Ka6 {[%clk 0:49:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "1/2-1/2"]
+[Round "18"]
+[TimeControl "5400+30"]
+[Date "2021.09.08"]
+[WhiteClock "0:57:00"]
+[BlackClock "0:57:00"]
+
+1. d4 {[%clk 0:55:30]}  Nf6 {[%clk 0:55:30]} 2. c4 {[%clk 0:54:00]}  g6 {[%clk 0:54:00]} 3. Nc3 {[%clk 0:52:30]}  Bg7 {[%clk 0:52:30]} 4. e4 {[%clk 0:51:00]}  d6 {[%clk 0:51:00]} 5. f3 {[%clk 0:49:30]}  O-O {[%clk 0:49:30]} 6. Be3 {[%clk 0:48:00]}  Nbd7 {[%clk 0:48:00]} 7. Qd2 {[%clk 0:46:30]}  c5 {[%clk 0:46:30]} 8. dxc5 {[%clk 0:45:00]}  dxc5 {[%clk 0:45:00]} 9. O-O-O {[%clk 0:43:30]}  Qa5 {[%clk 0:43:30]} 10. Kb1 {[%clk 0:42:00]}  Ne5 {[%clk 0:42:00]} 11. Be2 {[%clk 0:40:30]}  Nc6 {[%clk 0:40:30]} 12. Nd5 {[%clk 0:39:00]}  Qxd2 {[%clk 0:39:00]} 13. Rxd2 {[%clk 0:37:30]}  b6 {[%clk 0:37:30]} 14. Nxf6+ {[%clk 0:36:00]}  Bxf6 {[%clk 0:36:00]} 15. f4 {[%clk 0:34:30]}  Bd4 {[%clk 0:34:30]} 16. Bxd4 {[%clk 0:33:00]}  Nxd4 {[%clk 0:33:00]} 17. Nf3 {[%clk 0:31:30]}  Nxe2 {[%clk 0:31:30]} 18. Rxe2 {[%clk 0:30:00]}  Bb7 {[%clk 0:30:00]} 19. Rd1 {[%clk 0:28:30]}  Rad8 {[%clk 0:28:30]} 20. Kc2 {[%clk 0:27:00]}  f6 {[%clk 0:27:00]} 21. Rd3 {[%clk 0:25:30]}  Bc6 {[%clk 0:25:30]} 22. Kc3 {[%clk 0:24:00]}  Rxd3+ {[%clk 0:24:00]} 23. Kxd3 {[%clk 0:22:30]}  Rd8+ {[%clk 0:22:30]} 24. Ke3 {[%clk 0:21:00]}  Kg7 {[%clk 0:21:00]} 25. g4 {[%clk 0:19:30]}  Rd1 {[%clk 0:19:30]} 26. Re1 {[%clk 0:18:00]}  Rxe1+ {[%clk 0:18:00]} 27. Nxe1 {[%clk 0:16:30]}  Bd7 {[%clk 0:16:30]} 28. g5 {[%clk 0:15:00]}  e5 {[%clk 0:15:00]} 29. h4 {[%clk 0:13:30]}  exf4+ {[%clk 0:13:30]} 30. Kxf4 {[%clk 0:12:00]}  h6 {[%clk 0:12:00]} 31. Nd3 {[%clk 0:10:30]}  hxg5+ {[%clk 0:10:30]} 32. hxg5 {[%clk 0:09:00]}  Kf7 {[%clk 0:09:00]} 33. Nf2 {[%clk 0:07:30]}  Be6 {[%clk 0:07:30]} 34. b3 {[%clk 0:06:00]}  Bc8 {[%clk 0:06:00]} 35. gxf6 {[%clk 0:04:30]}  Kxf6 {[%clk 0:04:30]} 36. e5+ {[%clk 0:03:00]}  Ke7 {[%clk 0:03:00]} 37. Ne4 {[%clk 0:01:30]}  Bf5 {[%clk 0:01:30]} 38. Nc3 {[%clk 0:57:00]}  Ke6 {[%clk 0:57:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "19"]
+[TimeControl "5400+30"]
+[Date "2021.09.08"]
+[WhiteClock "1:04:30"]
+[BlackClock "0:01:30"]
+
+1. c4 {[%clk 1:03:00]}  Nf6 {[%clk 1:03:00]} 2. d4 {[%clk 1:01:30]}  e6 {[%clk 1:01:30]} 3. Nf3 {[%clk 1:00:00]}  b6 {[%clk 1:00:00]} 4. a3 {[%clk 0:58:30]}  Bb7 {[%clk 0:58:30]} 5. Nc3 {[%clk 0:57:00]}  d5 {[%clk 0:57:00]} 6. cxd5 {[%clk 0:55:30]}  Nxd5 {[%clk 0:55:30]} 7. Qc2 {[%clk 0:54:00]}  Nxc3 {[%clk 0:54:00]} 8. bxc3 {[%clk 0:52:30]}  Nd7 {[%clk 0:52:30]} 9. e4 {[%clk 0:51:00]}  c5 {[%clk 0:51:00]} 10. Bf4 {[%clk 0:49:30]}  cxd4 {[%clk 0:49:30]} 11. cxd4 {[%clk 0:48:00]}  Rc8 {[%clk 0:48:00]} 12. Qb3 {[%clk 0:46:30]}  Be7 {[%clk 0:46:30]} 13. Bd3 {[%clk 0:45:00]}  Nf6 {[%clk 0:45:00]} 14. Qb5+ {[%clk 0:43:30]}  Qd7 {[%clk 0:43:30]} 15. Ne5 {[%clk 0:42:00]}  Qxb5 {[%clk 0:42:00]} 16. Bxb5+ {[%clk 0:40:30]}  Kf8 {[%clk 0:40:30]} 17. f3 {[%clk 0:39:00]}  Ne8 {[%clk 0:39:00]} 18. Bd7 {[%clk 0:37:30]}  Rd8 {[%clk 0:37:30]} 19. Bc6 {[%clk 0:36:00]}  Bc8 {[%clk 0:36:00]} 20. Be3 {[%clk 0:34:30]}  f6 {[%clk 0:34:30]} 21. Nd3 {[%clk 0:33:00]}  Bd7 {[%clk 0:33:00]} 22. Bxd7 {[%clk 0:31:30]}  Rxd7 {[%clk 0:31:30]} 23. Ke2 {[%clk 0:30:00]}  Kf7 {[%clk 0:30:00]} 24. Rhc1 {[%clk 0:28:30]}  Nd6 {[%clk 0:28:30]} 25. a4 {[%clk 0:27:00]}  Rc8 {[%clk 0:27:00]} 26. Rxc8 {[%clk 0:25:30]}  Nxc8 {[%clk 0:25:30]} 27. Rc1 {[%clk 0:24:00]}  Nd6 {[%clk 0:24:00]} 28. g4 {[%clk 0:22:30]}  Nb7 {[%clk 0:22:30]} 29. f4 {[%clk 0:21:00]}  Na5 {[%clk 0:21:00]} 30. f5 {[%clk 0:19:30]}  exf5 {[%clk 0:19:30]} 31. gxf5 {[%clk 0:18:00]}  g6 {[%clk 0:18:00]} 32. fxg6+ {[%clk 0:16:30]}  hxg6 {[%clk 0:16:30]} 33. h4 {[%clk 0:15:00]}  Nb3 {[%clk 0:15:00]} 34. Rc4 {[%clk 0:13:30]}  Bd6 {[%clk 0:13:30]} 35. e5 {[%clk 0:12:00]}  Rc7 {[%clk 0:12:00]} 36. Rxc7+ {[%clk 0:10:30]}  Bxc7 {[%clk 0:10:30]} 37. Kf3 {[%clk 0:09:00]}  fxe5 {[%clk 0:09:00]} 38. dxe5 {[%clk 0:07:30]}  Nc5 {[%clk 0:07:30]} 39. Nxc5 {[%clk 0:06:00]}  bxc5 {[%clk 0:06:00]} 40. Bxc5 {[%clk 0:04:30]}  Ke6 {[%clk 0:04:30]} 41. Bxa7 {[%clk 0:03:00]}  Bxe5 {[%clk 0:03:00]} 42. Be3 {[%clk 0:01:30]}  Kd5 {[%clk 0:01:30]} 43. Kg4 {[%clk 1:04:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Anatoly Karpov"]
+[Black "Jan Timman"]
+[Result "0-1"]
+[Round "20"]
+[TimeControl "5400+30"]
+[Date "2021.09.08"]
+[WhiteClock "1:00:00"]
+[BlackClock "1:00:00"]
+
+1. Nf3 {[%clk 0:58:30]}  c5 {[%clk 0:58:30]} 2. c4 {[%clk 0:57:00]}  Nc6 {[%clk 0:57:00]} 3. Nc3 {[%clk 0:55:30]}  Nf6 {[%clk 0:55:30]} 4. d4 {[%clk 0:54:00]}  cxd4 {[%clk 0:54:00]} 5. Nxd4 {[%clk 0:52:30]}  e6 {[%clk 0:52:30]} 6. a3 {[%clk 0:51:00]}  Nxd4 {[%clk 0:51:00]} 7. Qxd4 {[%clk 0:49:30]}  b6 {[%clk 0:49:30]} 8. Bf4 {[%clk 0:48:00]}  Bc5 {[%clk 0:48:00]} 9. Qd2 {[%clk 0:46:30]}  O-O {[%clk 0:46:30]} 10. Rd1 {[%clk 0:45:00]}  Bb7 {[%clk 0:45:00]} 11. Bd6 {[%clk 0:43:30]}  Bxd6 {[%clk 0:43:30]} 12. Qxd6 {[%clk 0:42:00]}  Rc8 {[%clk 0:42:00]} 13. e3 {[%clk 0:40:30]}  Re8 {[%clk 0:40:30]} 14. f3 {[%clk 0:39:00]}  Rc6 {[%clk 0:39:00]} 15. Qd4 {[%clk 0:37:30]}  Ba6 {[%clk 0:37:30]} 16. Ne4 {[%clk 0:36:00]}  Nxe4 {[%clk 0:36:00]} 17. Qxe4 {[%clk 0:34:30]}  Qc7 {[%clk 0:34:30]} 18. Bd3 {[%clk 0:33:00]}  g6 {[%clk 0:33:00]} 19. b3 {[%clk 0:31:30]}  d5 {[%clk 0:31:30]} 20. cxd5 {[%clk 0:30:00]}  Bxd3 {[%clk 0:30:00]} 21. Qxd3 {[%clk 0:28:30]}  exd5 {[%clk 0:28:30]} 22. Kf2 {[%clk 0:27:00]}  Rc3 {[%clk 0:27:00]} 23. Qxd5 {[%clk 0:25:30]}  Rcxe3 {[%clk 0:25:30]} 24. Rd2 {[%clk 0:24:00]}  Qe7 {[%clk 0:24:00]} 25. Kg3 {[%clk 0:22:30]}  Rxb3 {[%clk 0:22:30]} 26. a4 {[%clk 0:21:00]}  Rb4 {[%clk 0:21:00]} 27. Rd4 {[%clk 0:19:30]}  Rxd4 {[%clk 0:19:30]} 28. Qxd4 {[%clk 0:18:00]}  Qg5+ {[%clk 0:18:00]} 29. Kh3 {[%clk 0:16:30]}  Re2 {[%clk 0:16:30]} 30. Rg1 {[%clk 0:15:00]}  Qh5+ {[%clk 0:15:00]} 31. Kg3 {[%clk 0:13:30]}  Qg5+ {[%clk 0:13:30]} 32. Kh3 {[%clk 0:12:00]}  Rd2 {[%clk 0:12:00]} 33. Qc3 {[%clk 0:10:30]}  Ra2 {[%clk 0:10:30]} 34. Qd4 {[%clk 0:09:00]}  h6 {[%clk 0:09:00]} 35. Qc4 {[%clk 0:07:30]}  Qh5+ {[%clk 0:07:30]} 36. Kg3 {[%clk 0:06:00]}  Qe5+ {[%clk 0:06:00]} 37. Kh3 {[%clk 0:04:30]}  Rd2 {[%clk 0:04:30]} 38. Qh4 {[%clk 0:03:00]}  Qf5+ {[%clk 0:03:00]} 39. Kg3 {[%clk 0:01:30]}  g5 {[%clk 0:01:30]} 40. Qxh6 {[%clk 1:00:00]}  Qf4+ {[%clk 1:00:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "World Chess Championship FIDE Karpov vs. Timman 1993"]
+[White "Jan Timman"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Round "21"]
+[TimeControl "5400+30"]
+[Date "2021.09.08"]
+[WhiteClock "0:28:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 0:27:00]}  Nf6 {[%clk 0:27:00]} 2. c4 {[%clk 0:25:30]}  e6 {[%clk 0:25:30]} 3. Nc3 {[%clk 0:24:00]}  Bb4 {[%clk 0:24:00]} 4. Qc2 {[%clk 0:22:30]}  O-O {[%clk 0:22:30]} 5. a3 {[%clk 0:21:00]}  Bxc3+ {[%clk 0:21:00]} 6. Qxc3 {[%clk 0:19:30]}  b6 {[%clk 0:19:30]} 7. Nf3 {[%clk 0:18:00]}  Bb7 {[%clk 0:18:00]} 8. e3 {[%clk 0:16:30]}  d6 {[%clk 0:16:30]} 9. b3 {[%clk 0:15:00]}  Nbd7 {[%clk 0:15:00]} 10. Bb2 {[%clk 0:13:30]}  Qe7 {[%clk 0:13:30]} 11. Be2 {[%clk 0:12:00]}  c5 {[%clk 0:12:00]} 12. O-O {[%clk 0:10:30]}  Rac8 {[%clk 0:10:30]} 13. Rad1 {[%clk 0:09:00]}  d5 {[%clk 0:09:00]} 14. dxc5 {[%clk 0:07:30]}  Nxc5 {[%clk 0:07:30]} 15. Qe5 {[%clk 0:06:00]}  Rfd8 {[%clk 0:06:00]} 16. Nd4 {[%clk 0:04:30]}  Qf8 {[%clk 0:04:30]} 17. f3 {[%clk 0:03:00]}  dxc4 {[%clk 0:03:00]} 18. Bxc4 {[%clk 0:01:30]}  Bd5 {[%clk 0:01:30]} 19. Bxd5 {[%clk 0:28:30]} 1/2-1/2
+
