@@ -1,0 +1,583 @@
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Adams, Michael"]
+[Black "Kaidanov, Gregory"]
+[WhiteFideId "400041"]
+[BlackFideId "2008564"]
+[WhiteElo "2690"]
+[BlackElo "2557"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:03:56"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 3. Bc4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 4. d3 {[%clk 1:30:00]}  Bc5 {[%clk 1:30:00]} 5. a4 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 6. Bg5 {[%clk 1:30:00]}  h6 {[%clk 1:30:00]} 7. Bh4 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 8. Nc3 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 9. Bxf6 {[%clk 1:30:00]}  Bxf6 {[%clk 1:30:00]} 10. Nd5 {[%clk 1:30:00]}  Nb8 {[%clk 1:30:00]} 11. O-O {[%clk 1:30:00]}  Be6 {[%clk 1:30:00]} 12. Ne3 {[%clk 1:30:00]}  Re8 {[%clk 1:30:00]} 13. a5 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 14. Bxe6 {[%clk 1:30:00]}  Rxe6 {[%clk 1:30:00]} 15. c3 {[%clk 1:30:00]}  Na6 {[%clk 1:30:00]} 16. Qc2 {[%clk 1:30:00]}  Qd7 {[%clk 1:30:00]} 17. Rad1 {[%clk 0:53:00]}  Ree8 {[%clk 1:30:00]} 18. h3 {[%clk 0:50:00]}  g6 {[%clk 1:30:00]} 19. Rfe1 {[%clk 0:47:00]}  Bg7 {[%clk 1:30:00]} 20. Re2 {[%clk 0:40:00]}  Rad8 {[%clk 1:30:00]} 21. d4 {[%clk 0:34:00]}  exd4 {[%clk 1:30:00]} 22. Nxd4 {[%clk 0:29:00]}  Nc5 {[%clk 1:30:00]} 23. Nf1 {[%clk 0:26:00]}  h5 {[%clk 1:30:00]} 24. Nf3 {[%clk 0:24:00]}  Qe7 {[%clk 1:30:00]} 25. Rde1 {[%clk 0:24:00]}  Ne6 {[%clk 1:30:00]} 26. h4 {[%clk 0:22:00]}  Qf6 {[%clk 1:30:00]} 27. e5 {[%clk 0:19:07]}  dxe5 {[%clk 1:30:00]} 28. Rxe5 {[%clk 0:19:20]}  Nc7 {[%clk 1:30:00]} 29. Rxe8+ {[%clk 0:16:10]}  Rxe8 {[%clk 1:30:00]} 30. Rxe8+ {[%clk 1:30:00]}  Nxe8 {[%clk 1:30:00]} 31. Ne3 {[%clk 0:14:48]}  Qe7 {[%clk 1:30:00]} 32. Qd3 {[%clk 0:13:37]}  Qd6 {[%clk 1:30:00]} 33. Qe2 {[%clk 0:08:34]}  Nc7 {[%clk 1:30:00]} 34. Nc4 {[%clk 0:08:02]}  Qd7 {[%clk 1:30:00]} 35. Ng5 {[%clk 0:06:51]}  Nd5 {[%clk 1:30:00]} 36. g3 {[%clk 0:06:50]}  Bf6 {[%clk 1:30:00]} 37. Ne5 {[%clk 0:04:31]}  Bxe5 {[%clk 1:30:00]} 38. Qxe5 {[%clk 0:05:28]}  Qc7 {[%clk 1:30:00]} 39. Qe4 {[%clk 0:03:39]}  a6 {[%clk 1:30:00]} 40. Kg2 {[%clk 0:33:00]}  Nf6 {[%clk 1:30:00]} 41. Qd4 {[%clk 0:33:00]}  Ne8 {[%clk 1:30:00]} 42. b4 {[%clk 0:23:00]}  Qd6 {[%clk 1:30:00]} 43. Ne4 {[%clk 0:18:21]}  Qe7 {[%clk 1:30:00]} 44. Kf3 {[%clk 0:15:23]}  f6 {[%clk 1:30:00]} 45. Qe3 {[%clk 0:10:13]}  Nd6 {[%clk 0:10:09]} 46. Nc5 {[%clk 0:09:33]}  Kf7 {[%clk 1:30:00]} 47. Qxe7+ {[%clk 0:05:52]}  Kxe7 {[%clk 1:30:00]} 48. Kf4 {[%clk 0:06:24]}  Nb5 {[%clk 1:30:00]} 49. Nxb7 {[%clk 1:30:00]}  Nxc3 {[%clk 1:30:00]} 50. Nc5 {[%clk 1:30:00]}  Nd5+ {[%clk 1:30:00]} 51. Ke4 {[%clk 1:30:00]}  Nxb4 {[%clk 1:30:00]} 52. Kd4 {[%clk 0:06:52]}  Kd6 {[%clk 1:30:00]} 53. Kc4 {[%clk 0:07:03]}  Nc2 {[%clk 1:30:00]} 54. Nxa6 {[%clk 0:07:12]}  Na3+ {[%clk 1:30:00]} 55. Kb4 {[%clk 0:07:17]}  Nc2+ {[%clk 1:30:00]} 56. Kc3 {[%clk 0:06:26]}  Na3 {[%clk 1:30:00]} 57. Nb4 {[%clk 0:05:38]}  c5 {[%clk 1:30:00]} 58. Nd3 {[%clk 0:05:33]}  g5 {[%clk 1:30:00]} 59. a6 {[%clk 0:03:51]}  Kd5 {[%clk 1:30:00]} 60. g4 {[%clk 0:03:00]}  Nb5+ {[%clk 1:30:00]} 61. Kd2 {[%clk 0:03:13]}  hxg4 {[%clk 0:06:12]} 62. h5 {[%clk 0:03:06]}  Ke6 {[%clk 1:30:00]} 63. Nxc5+ {[%clk 0:03:18]}  Kf7 {[%clk 1:30:00]} 64. Ne4 {[%clk 0:03:59]}  Kg7 {[%clk 1:30:00]} 65. Kd3 {[%clk 0:03:54]}  Na7 {[%clk 1:30:00]} 66. Ng3 {[%clk 0:03:21]}  Nc8 {[%clk 1:30:00]} 67. Nf5+ {[%clk 0:03:56]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Shabalov, Alexander"]
+[Black "Short, Nigel D"]
+[WhiteFideId "2008572"]
+[BlackFideId "400025"]
+[WhiteElo "2495"]
+[BlackElo "2617"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:14:47"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 3. Bb5 {[%clk 1:30:00]}  a6 {[%clk 1:30:00]} 4. Ba4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 5. O-O {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 6. Re1 {[%clk 1:30:00]}  b5 {[%clk 1:30:00]} 7. Bb3 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 8. c3 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 9. h3 {[%clk 1:30:00]}  Na5 {[%clk 1:30:00]} 10. Bc2 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 11. d4 {[%clk 1:30:00]}  Nd7 {[%clk 1:30:00]} 12. Nbd2 {[%clk 1:30:00]}  cxd4 {[%clk 1:30:00]} 13. cxd4 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 14. Nb3 {[%clk 1:30:00]}  a5 {[%clk 1:30:00]} 15. Be3 {[%clk 1:30:00]}  a4 {[%clk 1:30:00]} 16. Nbd2 {[%clk 1:30:00]}  exd4 {[%clk 1:30:00]} 17. Nxd4 {[%clk 1:30:00]}  Nxd4 {[%clk 1:30:00]} 18. Bxd4 {[%clk 1:30:00]}  Ne5 {[%clk 1:30:00]} 19. Qe2 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 20. Be3 {[%clk 1:30:00]}  Bf6 {[%clk 1:30:00]} 21. Qxb5 {[%clk 1:30:00]}  Bd7 {[%clk 1:30:00]} 22. Rac1 {[%clk 1:30:00]}  Rb8 {[%clk 1:30:00]} 23. Qe2 {[%clk 1:30:00]}  Bxb2 {[%clk 1:30:00]} 24. Rcd1 {[%clk 0:52:00]}  Ne5 {[%clk 1:30:00]} 25. f4 {[%clk 0:40:00]}  Bb5 {[%clk 1:30:00]} 26. Qf2 {[%clk 0:40:00]}  Nd3 {[%clk 1:30:00]} 27. Bxd3 {[%clk 1:30:00]}  Bxd3 {[%clk 1:30:00]} 28. e5 {[%clk 0:23:00]}  dxe5 {[%clk 1:30:00]} 29. Nc4 {[%clk 0:19:49]}  Bxc4 {[%clk 1:30:00]} 30. Rxd8 {[%clk 0:20:00]}  Rfxd8 {[%clk 1:30:00]} 31. Qc2 {[%clk 0:18:59]}  Bxa2 {[%clk 1:30:00]} 32. Qxa4 {[%clk 0:18:30]}  Bb3 {[%clk 1:30:00]} 33. Qa6 {[%clk 0:15:07]}  exf4 {[%clk 1:30:00]} 34. Bxf4 {[%clk 0:13:11]}  Bd4+ {[%clk 1:30:00]} 35. Kh1 {[%clk 0:12:02]}  Ra8 {[%clk 1:30:00]} 36. Qb5 {[%clk 0:10:04]}  Be6 {[%clk 1:30:00]} 37. Rd1 {[%clk 0:04:28]}  h6 {[%clk 1:30:00]} 38. Be5 {[%clk 0:02:08]}  Bxe5 {[%clk 0:32:00]} 39. Rxd8+ {[%clk 0:02:32]}  Rxd8 {[%clk 0:32:00]} 40. Qxe5 {[%clk 0:32:00]}  Rc8 {[%clk 1:30:00]} 41. Qd4 {[%clk 0:31:00]}  Bf5 {[%clk 1:30:00]} 42. g4 {[%clk 0:30:00]}  Be6 {[%clk 1:30:00]} 43. Kh2 {[%clk 0:30:00]}  Rb8 {[%clk 1:30:00]} 44. Kg2 {[%clk 0:24:00]}  Rb3 {[%clk 1:30:00]} 45. Qe4 {[%clk 0:24:00]}  Ra3 {[%clk 1:30:00]} 46. Qe5 {[%clk 0:23:00]}  Rb3 {[%clk 0:52:00]} 47. Qe4 {[%clk 0:24:00]}  Rb5 {[%clk 1:30:00]} 48. Qa8+ {[%clk 0:17:58]}  Kh7 {[%clk 1:30:00]} 49. Qe4+ {[%clk 0:18:01]}  g6 {[%clk 1:30:00]} 50. Qa4 {[%clk 0:17:59]}  Rd5 {[%clk 1:30:00]} 51. Qb4 {[%clk 0:16:58]}  h5 {[%clk 1:30:00]} 52. gxh5 {[%clk 0:17:29]}  Rg5+ {[%clk 1:30:00]} 53. Kf2 {[%clk 0:17:01]}  Rxh5 {[%clk 1:30:00]} 54. h4 {[%clk 0:17:52]}  Rf5+ {[%clk 1:30:00]} 55. Kg3 {[%clk 0:17:46]}  Re5 {[%clk 1:30:00]} 56. Kf4 {[%clk 0:16:58]}  Rd5 {[%clk 1:30:00]} 57. Kg3 {[%clk 0:16:39]}  Rd3+ {[%clk 1:30:00]} 58. Kg2 {[%clk 0:16:28]}  Rd8 {[%clk 1:30:00]} 59. Kg3 {[%clk 0:15:25]}  Rc8 {[%clk 1:30:00]} 60. Qd4 {[%clk 0:15:15]}  Rc4 {[%clk 1:30:00]} 61. Qf6 {[%clk 0:15:30]}  Rg4+ {[%clk 1:30:00]} 62. Kf2 {[%clk 0:15:16]}  Rb4 {[%clk 1:30:00]} 63. Qg5 {[%clk 0:14:18]}  Rg4 {[%clk 0:39:00]} 64. Qf6 {[%clk 0:14:40]}  Kg8 {[%clk 1:30:00]} 65. Kf1 {[%clk 0:13:29]}  Rg3 {[%clk 1:30:00]} 66. Kf2 {[%clk 0:13:37]}  Rd3 {[%clk 1:30:00]} 67. h5 {[%clk 0:14:00]}  Rd5 {[%clk 1:30:00]} 68. hxg6 {[%clk 0:13:52]}  Rf5+ {[%clk 0:37:00]} 69. Qxf5 {[%clk 0:14:19]}  Bxf5 {[%clk 1:30:00]} 70. gxf7+ {[%clk 0:14:47]}  Kxf7 {[%clk 1:30:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Hebden, Mark L"]
+[Black "Novikov, Igor"]
+[WhiteFideId "400084"]
+[BlackFideId "14100037"]
+[WhiteElo "2465"]
+[BlackElo "2558"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:25:00"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 3. c4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 4. e3 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 5. cxd5 {[%clk 1:30:00]}  exd5 {[%clk 1:30:00]} 6. Bb5+ {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 7. O-O {[%clk 1:30:00]}  Bd6 {[%clk 1:30:00]} 8. Qc2 {[%clk 1:30:00]}  Qb6 {[%clk 1:30:00]} 9. dxc5 {[%clk 1:30:00]}  Bxc5 {[%clk 1:30:00]} 10. Bxc6+ {[%clk 1:30:00]}  bxc6 {[%clk 1:30:00]} 11. Nc3 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 12. e4 {[%clk 1:30:00]}  dxe4 {[%clk 1:30:00]} 13. Nxe4 {[%clk 0:49:00]}  O-O {[%clk 1:30:00]} 14. Bg5 {[%clk 0:49:00]}  c5 {[%clk 1:30:00]} 15. Rfe1 {[%clk 0:41:00]}  Bb7 {[%clk 1:30:00]} 16. Nfd2 {[%clk 0:31:00]}  Rac8 {[%clk 1:30:00]} 17. Nc4 {[%clk 0:26:00]}  Qa6 {[%clk 1:30:00]} 18. Ng3 {[%clk 0:14:35]}  Rfe8 {[%clk 1:30:00]} 19. b3 {[%clk 0:14:01]}  Bf8 {[%clk 1:30:00]} 20. Rad1 {[%clk 0:08:42]}  Nd5 {[%clk 1:30:00]} 21. a3 {[%clk 0:08:50]}  Nb6 {[%clk 1:30:00]} 22. Be3 {[%clk 0:08:04]}  Nxc4 {[%clk 1:30:00]} 23. bxc4 {[%clk 0:07:04]}  Re6 {[%clk 1:30:00]} 24. Bc1 {[%clk 0:06:03]}  Rce8 {[%clk 1:30:00]} 25. Rxe6 {[%clk 0:06:19]}  Qxe6 {[%clk 1:30:00]} 26. f3 {[%clk 0:02:12]}  Ba6 {[%clk 1:30:00]} 27. Bd2 {[%clk 0:01:18]}  Qxc4 {[%clk 0:11:19]} 28. Qxc4 {[%clk 0:01:08]}  Bxc4 {[%clk 1:30:00]} 29. Ne4 {[%clk 0:01:46]}  Bd3 {[%clk 1:30:00]} 30. Nf2 {[%clk 0:01:52]}  Bg6 {[%clk 1:30:00]} 31. Kf1 {[%clk 0:01:44]}  f6 {[%clk 1:30:00]} 32. Rc1 {[%clk 0:01:48]}  Re6 {[%clk 1:30:00]} 33. Rc3 {[%clk 0:02:12]}  a6 {[%clk 0:07:37]} 34. Be3 {[%clk 0:02:12]}  Rc6 {[%clk 1:30:00]} 35. Ne4 {[%clk 0:02:56]}  c4 {[%clk 0:06:40]} 36. Ke2 {[%clk 0:03:24]}  Bf7 {[%clk 1:30:00]} 37. g4 {[%clk 0:03:28]}  Bd5 {[%clk 1:30:00]} 38. Bc1 {[%clk 0:02:59]}  Re6 {[%clk 0:06:21]} 39. Re3 {[%clk 0:03:18]}  Bxe4 {[%clk 1:30:00]} 40. Rxe4 {[%clk 0:33:00]}  Rxe4+ {[%clk 0:34:00]} 41. fxe4 {[%clk 0:33:00]}  Bd6 {[%clk 1:30:00]} 42. h4 {[%clk 0:33:00]}  Kf7 {[%clk 0:33:00]} 43. h5 {[%clk 0:34:00]}  Ke6 {[%clk 1:30:00]} 44. Bb2 {[%clk 0:31:00]}  Be5 {[%clk 0:30:00]} 45. Bc1 {[%clk 0:32:00]}  Kd6 {[%clk 1:30:00]} 46. h6 {[%clk 0:25:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Ehlvest, Jaan"]
+[Black "Emms, John M"]
+[WhiteFideId "4500016"]
+[BlackFideId "400254"]
+[WhiteElo "2517"]
+[BlackElo "2481"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:06:37"]
+[BlackClock "0:08:33"]
+
+1. e4 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:31:00]}  Nc6 {[%clk 1:30:00]} 3. d4 {[%clk 1:31:00]}  cxd4 {[%clk 1:31:00]} 4. Nxd4 {[%clk 1:32:00]}  g6 {[%clk 1:31:00]} 5. c4 {[%clk 1:32:00]}  Nf6 {[%clk 1:31:00]} 6. Nc3 {[%clk 1:33:00]}  d6 {[%clk 1:31:00]} 7. f3 {[%clk 1:33:00]}  Bg7 {[%clk 1:30:00]} 8. Be3 {[%clk 1:33:00]}  O-O {[%clk 1:30:00]} 9. Qd2 {[%clk 1:33:00]}  Nxd4 {[%clk 1:29:00]} 10. Bxd4 {[%clk 1:33:00]}  Qa5 {[%clk 1:29:00]} 11. Be2 {[%clk 1:29:00]}  Be6 {[%clk 1:29:00]} 12. b3 {[%clk 1:28:00]}  Rfc8 {[%clk 1:19:00]} 13. Rb1 {[%clk 1:12:00]}  a6 {[%clk 1:20:00]} 14. O-O {[%clk 0:58:00]}  Rab8 {[%clk 1:06:00]} 15. Rfd1 {[%clk 0:52:00]}  Nd7 {[%clk 1:30:00]} 16. Bxg7 {[%clk 0:33:00]}  Kxg7 {[%clk 1:30:00]} 17. a4 {[%clk 0:25:00]}  Nf6 {[%clk 1:30:00]} 18. Kh1 {[%clk 0:24:00]}  g5 {[%clk 1:30:00]} 19. Bf1 {[%clk 0:22:00]}  h6 {[%clk 1:30:00]} 20. Re1 {[%clk 0:20:00]}  Qb4 {[%clk 1:30:00]} 21. Qb2 {[%clk 0:19:47]}  Rc7 {[%clk 1:30:00]} 22. Rbd1 {[%clk 0:16:12]}  Rbc8 {[%clk 1:30:00]} 23. Rd2 {[%clk 0:14:12]}  Kg8 {[%clk 1:30:00]} 24. Na2 {[%clk 0:06:04]}  Qb6 {[%clk 1:30:00]} 25. Nc3 {[%clk 0:06:25]}  Qb4 {[%clk 1:30:00]} 26. Na2 {[%clk 0:06:11]}  Qb6 {[%clk 0:08:33]} 27. Nc3 {[%clk 0:06:37]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "David, Alberto"]
+[Black "Horvath, Jozsef"]
+[WhiteFideId "4000013"]
+[BlackFideId "700061"]
+[WhiteElo "2520"]
+[BlackElo "2429"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:11:10"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:30:00]}  Bg4 {[%clk 1:30:00]} 4. h3 {[%clk 1:30:00]}  Bxf3 {[%clk 1:30:00]} 5. Qxf3 {[%clk 1:31:00]}  e6 {[%clk 1:30:00]} 6. g3 {[%clk 1:30:00]}  g6 {[%clk 1:20:00]} 7. Bg2 {[%clk 1:21:00]}  Bg7 {[%clk 1:19:00]} 8. O-O {[%clk 1:21:00]}  Nd7 {[%clk 1:18:00]} 9. Qe2 {[%clk 1:19:00]}  Ne7 {[%clk 1:13:00]} 10. d3 {[%clk 1:17:00]}  O-O {[%clk 1:11:00]} 11. Bg5 {[%clk 1:14:00]}  Re8 {[%clk 1:05:00]} 12. Rae1 {[%clk 1:14:00]}  Qa5 {[%clk 1:00:00]} 13. Bd2 {[%clk 1:11:00]}  Qa6 {[%clk 0:53:00]} 14. a3 {[%clk 1:08:00]}  Rac8 {[%clk 1:30:00]} 15. Bc1 {[%clk 0:51:00]}  dxe4 {[%clk 1:30:00]} 16. Nxe4 {[%clk 0:48:00]}  c5 {[%clk 1:30:00]} 17. g4 {[%clk 0:42:00]}  Nf6 {[%clk 1:30:00]} 18. Nxf6+ {[%clk 1:30:00]}  Bxf6 {[%clk 1:30:00]} 19. Qf3 {[%clk 0:14:28]}  Bg7 {[%clk 1:30:00]} 20. Qxb7 {[%clk 0:12:14]}  Qxb7 {[%clk 0:24:00]} 21. Bxb7 {[%clk 0:13:09]}  Rb8 {[%clk 1:30:00]} 22. Bf3 {[%clk 0:13:34]}  Bxb2 {[%clk 1:30:00]} 23. Bf4 {[%clk 0:14:00]}  Rbd8 {[%clk 1:30:00]} 24. Rb1 {[%clk 0:13:54]}  Bxa3 {[%clk 1:30:00]} 25. Ra1 {[%clk 0:12:07]}  Bb2 {[%clk 0:09:44]} 26. Rxa7 {[%clk 0:12:31]}  Nd5 {[%clk 1:30:00]} 27. Bxd5 {[%clk 0:04:32]}  exd5 {[%clk 0:08:00]} 28. Rb1 {[%clk 0:04:59]}  Bd4 {[%clk 0:07:55]} 29. Kf1 {[%clk 0:05:25]}  Ra8 {[%clk 1:30:00]} 30. Rbb7 {[%clk 0:04:31]}  c4 {[%clk 1:30:00]} 31. Rxa8 {[%clk 0:04:11]}  Rxa8 {[%clk 0:02:06]} 32. Rd7 {[%clk 0:03:21]}  cxd3 {[%clk 0:02:06]} 33. cxd3 {[%clk 0:19:11]}  f5 {[%clk 0:19:32]} 34. Kg2 {[%clk 0:19:07]}  Ra2 {[%clk 0:19:32]} 35. Rxd5 {[%clk 0:19:03]}  Bxf2 {[%clk 0:19:32]} 36. Kf3 {[%clk 0:18:58]}  fxg4+ {[%clk 0:19:32]} 37. hxg4 {[%clk 0:18:39]}  Bb6 {[%clk 0:19:32]} 38. Bh6 {[%clk 0:18:37]}  Bc7 {[%clk 1:30:00]} 39. g5 {[%clk 0:18:39]}  Bb6 {[%clk 1:30:00]} 40. Rd6 {[%clk 0:18:39]}  Bc5 {[%clk 0:16:53]} 41. Rc6 {[%clk 0:18:39]}  Be7 {[%clk 1:30:00]} 42. Rc7 {[%clk 1:30:00]}  Bf6 {[%clk 1:30:00]} 43. Rd7 {[%clk 0:18:39]}  Be5 {[%clk 0:15:49]} 44. Re7 {[%clk 0:18:39]}  Bc3 {[%clk 1:30:00]} 45. Rd7 {[%clk 0:16:59]}  Ra4 {[%clk 1:30:00]} 46. Ke3 {[%clk 1:30:00]}  Ra8 {[%clk 1:30:00]} 47. d4 {[%clk 1:30:00]}  Ba5 {[%clk 1:30:00]} 48. Rg7+ {[%clk 0:11:49]}  Kh8 {[%clk 1:30:00]} 49. Rb7 {[%clk 0:11:45]}  Kg8 {[%clk 1:30:00]} 50. d5 {[%clk 0:09:11]}  Ra7 {[%clk 0:03:14]} 51. Rxa7 {[%clk 0:10:05]}  Bb6+ {[%clk 0:03:40]} 52. Ke4 {[%clk 0:10:02]}  Bxa7 {[%clk 0:04:07]} 53. d6 {[%clk 0:10:27]}  Kf7 {[%clk 0:04:30]} 54. Kd5 {[%clk 0:11:20]}  Be3 {[%clk 1:30:00]} 55. Kc6 {[%clk 0:10:49]}  Ke8 {[%clk 1:30:00]} 56. d7+ {[%clk 0:11:10]}  Kd8 {[%clk 1:30:00]} 57. Bf8 {[%clk 0:10:34]}  Bxg5 {[%clk 1:30:00]} 58. Bd6 {[%clk 0:11:10]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Varga, Zoltan"]
+[Black "Godena, Michele"]
+[WhiteFideId "700509"]
+[BlackFideId "800090"]
+[WhiteElo "2398"]
+[BlackElo "2479"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:35:00"]
+[BlackClock "1:30:00"]
+
+1. c4 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 2. Nc3 {[%clk 1:30:00]}  Bb4 {[%clk 1:30:00]} 3. Nd5 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 4. Nf3 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 5. d4 {[%clk 1:30:00]}  e4 {[%clk 1:30:00]} 6. Nd2 {[%clk 1:30:00]}  f5 {[%clk 1:30:00]} 7. e3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 8. Nf4 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 9. h4 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 10. b4 {[%clk 0:53:00]}  Na6 {[%clk 1:30:00]} 11. Qb3 {[%clk 0:48:00]}  Nc7 {[%clk 1:30:00]} 12. d5 {[%clk 0:48:00]}  cxd5 {[%clk 0:25:00]} 13. cxd5 {[%clk 0:48:00]}  Ng4 {[%clk 1:30:00]} 14. g3 {[%clk 0:48:00]}  Bf6 {[%clk 1:30:00]} 15. Bb2 {[%clk 0:47:00]}  a5 {[%clk 1:30:00]} 16. Bxf6 {[%clk 0:44:00]}  Nxf6 {[%clk 1:30:00]} 17. b5 {[%clk 0:43:00]}  Kh8 {[%clk 1:30:00]} 18. b6 {[%clk 0:37:00]}  Na6 {[%clk 1:30:00]} 19. Bxa6 {[%clk 1:30:00]}  Rxa6 {[%clk 1:30:00]} 20. Nc4 {[%clk 0:38:00]}  Nd7 {[%clk 1:30:00]} 21. Ne6 {[%clk 0:38:00]}  Qf6 {[%clk 0:00:36]} 22. O-O {[%clk 0:38:00]}  Nc5 {[%clk 1:30:00]} 23. Nxc5 {[%clk 0:38:00]}  dxc5 {[%clk 0:01:24]} 24. Qb5 {[%clk 0:39:00]}  f4 {[%clk 1:30:00]} 25. exf4 {[%clk 0:38:00]}  Bh3 {[%clk 0:00:36]} 26. Rfe1 {[%clk 0:39:00]}  Raa8 {[%clk 1:30:00]} 27. Rac1 {[%clk 0:37:00]}  Bg4 {[%clk 1:30:00]} 28. Qxc5 {[%clk 0:28:00]}  Rac8 {[%clk 1:30:00]} 29. Qd6 {[%clk 0:28:00]}  Qd4 {[%clk 1:30:00]} 30. Ne5 {[%clk 0:26:00]}  Bh3 {[%clk 1:30:00]} 31. Rc4 {[%clk 0:18:22]}  Qd2 {[%clk 0:00:44]} 32. Rcxe4 {[%clk 0:18:49]}  Qxa2 {[%clk 0:00:35]} 33. R4e2 {[%clk 0:19:07]}  Qb3 {[%clk 1:30:00]} 34. Re3 {[%clk 0:19:20]}  Qa4 {[%clk 1:30:00]} 35. g4 {[%clk 0:15:27]}  Rxf4 {[%clk 1:30:00]} 36. Rxh3 {[%clk 0:15:08]}  Rcf8 {[%clk 1:30:00]} 37. Nd7 {[%clk 0:08:02]}  Rxg4+ {[%clk 1:30:00]} 38. Rg3 {[%clk 0:08:04]}  Rxg3+ {[%clk 0:00:34]} 39. fxg3 {[%clk 0:08:29]}  Qd4+ {[%clk 0:00:40]} 40. Kh1 {[%clk 0:38:00]}  Ra8 {[%clk 1:30:00]} 41. Nb8 {[%clk 0:35:00]}  h6 {[%clk 1:30:00]} 42. Qf8+ {[%clk 0:35:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Garcia Palermo, Carlos Horacio"]
+[Black "Horvath, Peter"]
+[WhiteFideId "110124"]
+[BlackFideId "700843"]
+[WhiteElo "2415"]
+[BlackElo "2396"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:41:00"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 3. e3 {[%clk 1:29:00]}  e6 {[%clk 1:27:00]} 4. c4 {[%clk 1:29:00]}  a6 {[%clk 1:27:00]} 5. b3 {[%clk 1:28:00]}  c5 {[%clk 1:27:00]} 6. Bb2 {[%clk 1:28:00]}  cxd4 {[%clk 1:26:00]} 7. exd4 {[%clk 1:28:00]}  Nc6 {[%clk 1:25:00]} 8. Nbd2 {[%clk 1:29:00]}  g6 {[%clk 1:23:00]} 9. g3 {[%clk 1:27:00]}  Bg7 {[%clk 1:23:00]} 10. Bg2 {[%clk 1:27:00]}  O-O {[%clk 1:23:00]} 11. O-O {[%clk 1:27:00]}  b6 {[%clk 1:21:00]} 12. Qe2 {[%clk 1:26:00]}  Bb7 {[%clk 1:20:00]} 13. Rfd1 {[%clk 1:25:00]}  Rc8 {[%clk 1:11:00]} 14. Nf1 {[%clk 1:22:00]}  Qe7 {[%clk 1:06:00]} 15. Ne3 {[%clk 1:18:00]}  Rfd8 {[%clk 1:04:00]} 16. Ne5 {[%clk 1:01:00]}  dxc4 {[%clk 1:30:00]} 17. Bxc6 {[%clk 0:59:00]}  Bxc6 {[%clk 1:30:00]} 18. Nxc6 {[%clk 1:30:00]}  Rxc6 {[%clk 1:30:00]} 19. bxc4 {[%clk 1:00:00]}  Rcc8 {[%clk 1:30:00]} 20. Rab1 {[%clk 0:59:00]}  Rb8 {[%clk 1:30:00]} 21. Ba1 {[%clk 0:54:00]}  Qe8 {[%clk 1:30:00]} 22. Qf3 {[%clk 1:30:00]}  Nd7 {[%clk 1:30:00]} 23. Re1 {[%clk 0:40:00]}  Rdc8 {[%clk 1:30:00]} 24. Rbc1 {[%clk 0:34:00]}  Qd8 {[%clk 1:30:00]} 25. Qe2 {[%clk 0:32:00]}  b5 {[%clk 1:30:00]} 26. d5 {[%clk 0:28:00]}  e5 {[%clk 1:30:00]} 27. cxb5 {[%clk 0:20:00]}  Rxb5 {[%clk 1:30:00]} 28. Rc6 {[%clk 0:20:00]}  Rxc6 {[%clk 0:04:29]} 29. dxc6 {[%clk 0:21:00]}  Nc5 {[%clk 1:30:00]} 30. Rd1 {[%clk 0:20:00]}  Qc8 {[%clk 1:30:00]} 31. Nd5 {[%clk 0:20:00]}  Kf8 {[%clk 1:30:00]} 32. Bxe5 {[%clk 1:30:00]}  Qxc6 {[%clk 1:30:00]} 33. Nc7 {[%clk 0:16:50]}  Rb8 {[%clk 1:30:00]} 34. Bxg7+ {[%clk 1:30:00]}  Kxg7 {[%clk 1:30:00]} 35. Qe5+ {[%clk 0:16:46]}  Kh6 {[%clk 1:30:00]} 36. Ne6 {[%clk 0:12:47]}  Nxe6 {[%clk 0:00:57]} 37. Qxb8 {[%clk 0:13:43]}  Kg7 {[%clk 1:30:00]} 38. Qe5+ {[%clk 1:30:00]}  f6 {[%clk 1:30:00]} 39. Qd6 {[%clk 0:13:31]}  Qf3 {[%clk 1:30:00]} 40. Qd3 {[%clk 1:30:00]}  Qg4 {[%clk 1:30:00]} 41. Qd7+ {[%clk 0:41:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Krizsany, Laszlo"]
+[Black "Bellia, Fabrizio"]
+[WhiteFideId "701718"]
+[BlackFideId "800511"]
+[WhiteElo "2377"]
+[BlackElo "2418"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 2. c4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 4. cxd5 {[%clk 1:30:00]}  exd5 {[%clk 1:30:00]} 5. Bg5 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 6. e3 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 7. Bd3 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 8. Qc2 {[%clk 1:30:00]}  Nbd7 {[%clk 1:30:00]} 9. Nf3 {[%clk 1:30:00]}  Re8 {[%clk 1:30:00]} 10. O-O {[%clk 1:30:00]}  g6 {[%clk 1:30:00]} 11. Rab1 {[%clk 1:30:00]}  Nb6 {[%clk 1:30:00]} 12. Rbc1 {[%clk 1:30:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Knaak, Rainer"]
+[Black "Nunn, John D M"]
+[WhiteFideId "4611250"]
+[BlackFideId "400017"]
+[WhiteElo "2479"]
+[BlackElo "2568"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:02:34"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:31:00]}  g6 {[%clk 1:31:00]} 3. Nc3 {[%clk 1:31:00]}  Bg7 {[%clk 1:31:00]} 4. e4 {[%clk 1:31:00]}  d6 {[%clk 1:32:00]} 5. Be2 {[%clk 1:31:00]}  O-O {[%clk 1:32:00]} 6. Be3 {[%clk 1:32:00]}  e5 {[%clk 1:28:00]} 7. d5 {[%clk 1:32:00]}  a5 {[%clk 1:27:00]} 8. g4 {[%clk 1:29:00]}  Na6 {[%clk 1:27:00]} 9. g5 {[%clk 1:29:00]}  Nd7 {[%clk 1:23:00]} 10. h4 {[%clk 1:30:00]}  f5 {[%clk 1:23:00]} 11. gxf6 {[%clk 1:29:00]}  Nxf6 {[%clk 1:19:00]} 12. h5 {[%clk 1:26:00]}  Nc5 {[%clk 1:15:00]} 13. hxg6 {[%clk 1:23:00]}  hxg6 {[%clk 1:15:00]} 14. Bf3 {[%clk 1:16:00]}  Kf7 {[%clk 1:10:00]} 15. Nh3 {[%clk 0:47:00]}  Bxh3 {[%clk 1:09:00]} 16. Rxh3 {[%clk 0:47:00]}  Qd7 {[%clk 1:30:00]} 17. Rg3 {[%clk 0:47:00]}  Rh8 {[%clk 1:30:00]} 18. Qd2 {[%clk 0:41:00]}  Rh3 {[%clk 1:30:00]} 19. O-O-O {[%clk 0:41:00]}  Rxg3 {[%clk 0:45:00]} 20. fxg3 {[%clk 0:42:00]}  Rh8 {[%clk 1:30:00]} 21. Kb1 {[%clk 0:36:00]}  b6 {[%clk 1:30:00]} 22. Rf1 {[%clk 0:30:00]}  Kg8 {[%clk 1:30:00]} 23. Bg5 {[%clk 0:18:07]}  Qh3 {[%clk 1:30:00]} 24. Qf2 {[%clk 0:18:16]}  Nd3 {[%clk 1:30:00]} 25. Qg1 {[%clk 0:12:01]}  Ng4 {[%clk 1:30:00]} 26. Bxg4 {[%clk 0:08:55]}  Qxg4 {[%clk 1:30:00]} 27. Qe3 {[%clk 0:08:27]}  Nc5 {[%clk 1:30:00]} 28. Bh4 {[%clk 0:05:37]}  Rh5 {[%clk 1:30:00]} 29. Bd8 {[%clk 0:04:33]}  Qd7 {[%clk 1:30:00]} 30. Bg5 {[%clk 0:04:42]}  Qh3 {[%clk 1:30:00]} 31. Re1 {[%clk 0:02:06]}  Qg4 {[%clk 1:30:00]} 32. Bd8 {[%clk 0:02:24]}  Bh6 {[%clk 1:30:00]} 33. Qe2 {[%clk 0:02:33]}  Qxg3 {[%clk 1:30:00]} 34. Bxc7 {[%clk 0:02:52]}  Rh2 {[%clk 1:30:00]} 35. Qd1 {[%clk 0:02:34]}  Rd2 {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Littlewood, Paul E"]
+[Black "Chevelevitch, Evgueni, Dr."]
+[WhiteFideId "400190"]
+[BlackFideId "4684257"]
+[WhiteElo "2342"]
+[BlackElo "2369"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:03:57"]
+[BlackClock "0:05:17"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:30:00]}  g6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:30:00]}  Bg7 {[%clk 1:30:00]} 4. e4 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 5. Nf3 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 6. Be2 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 7. d5 {[%clk 1:30:00]}  a5 {[%clk 1:30:00]} 8. Bg5 {[%clk 1:30:00]}  h6 {[%clk 1:30:00]} 9. Bh4 {[%clk 1:30:00]}  Na6 {[%clk 1:30:00]} 10. Nd2 {[%clk 1:30:00]}  Qe8 {[%clk 1:30:00]} 11. a3 {[%clk 1:30:00]}  Bd7 {[%clk 1:30:00]} 12. b3 {[%clk 1:30:00]}  Nh7 {[%clk 1:30:00]} 13. O-O {[%clk 1:30:00]}  h5 {[%clk 1:30:00]} 14. f3 {[%clk 1:30:00]}  Bh6 {[%clk 1:30:00]} 15. Rb1 {[%clk 1:30:00]}  Be3+ {[%clk 1:30:00]} 16. Kh1 {[%clk 1:30:00]}  Bc5 {[%clk 1:30:00]} 17. Qc1 {[%clk 1:30:00]}  Qb8 {[%clk 1:30:00]} 18. Bf2 {[%clk 1:30:00]}  Bxf2 {[%clk 1:30:00]} 19. Rxf2 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 20. Nf1 {[%clk 0:47:00]}  Qa7 {[%clk 1:30:00]} 21. Ne3 {[%clk 0:42:00]}  f5 {[%clk 1:30:00]} 22. b4 {[%clk 0:33:00]}  f4 {[%clk 1:30:00]} 23. Ned1 {[%clk 0:33:00]}  axb4 {[%clk 1:30:00]} 24. axb4 {[%clk 0:33:00]}  c5 {[%clk 1:30:00]} 25. bxc5 {[%clk 0:32:00]}  Nxc5 {[%clk 1:30:00]} 26. Bf1 {[%clk 0:32:00]}  Qa5 {[%clk 1:30:00]} 27. Rfb2 {[%clk 0:31:00]}  Nf6 {[%clk 1:30:00]} 28. Nf2 {[%clk 0:30:00]}  Qc7 {[%clk 1:30:00]} 29. Nd3 {[%clk 0:29:00]}  Nxd3 {[%clk 1:30:00]} 30. Bxd3 {[%clk 0:29:00]}  Bc8 {[%clk 1:30:00]} 31. Qc2 {[%clk 0:15:49]}  Nd7 {[%clk 1:30:00]} 32. Na4 {[%clk 0:15:33]}  Ra5 {[%clk 1:30:00]} 33. Bf1 {[%clk 0:15:05]}  Nc5 {[%clk 1:30:00]} 34. Nxc5 {[%clk 1:30:00]}  Rxc5 {[%clk 1:30:00]} 35. Qa4 {[%clk 0:14:02]}  Ra5 {[%clk 1:30:00]} 36. Qb4 {[%clk 0:13:26]}  Kf7 {[%clk 1:30:00]} 37. Qc3 {[%clk 0:12:31]}  Ke7 {[%clk 1:30:00]} 38. Rb6 {[%clk 0:11:52]}  Qc5 {[%clk 1:30:00]} 39. Qc1 {[%clk 0:07:00]}  Qc7 {[%clk 1:30:00]} 40. Qe1 {[%clk 0:34:00]}  Rc5 {[%clk 1:30:00]} 41. Qb4 {[%clk 0:17:55]}  g5 {[%clk 1:30:00]} 42. Qa3 {[%clk 0:16:56]}  g4 {[%clk 1:30:00]} 43. Qa7 {[%clk 0:12:19]}  Kf6 {[%clk 1:30:00]} 44. Rxd6+ {[%clk 0:10:23]}  Qxd6 {[%clk 0:22:00]} 45. Rb6 {[%clk 0:10:51]}  Rc6 {[%clk 1:30:00]} 46. dxc6 {[%clk 0:11:18]}  Qd1 {[%clk 1:30:00]} 47. cxb7+ {[%clk 1:30:00]}  Be6 {[%clk 1:30:00]} 48. Rxe6+ {[%clk 0:04:12]}  Kxe6 {[%clk 1:30:00]} 49. Qa6+ {[%clk 0:04:43]}  Kd7 {[%clk 1:30:00]} 50. Qb5+ {[%clk 0:03:53]}  Kd6 {[%clk 1:30:00]} 51. b8=Q+ {[%clk 0:03:57]}  Ke7 {[%clk 0:05:17]} 52. Qa6 {[%clk 0:03:57]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Kiefer, Gerhard"]
+[Black "Povah, Nigel E"]
+[WhiteFideId "4606965"]
+[BlackFideId "400467"]
+[WhiteElo "2212"]
+[BlackElo "2201"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:20:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 2. d4 {[%clk 1:31:00]}  d5 {[%clk 1:31:00]} 3. Nc3 {[%clk 1:31:00]}  dxe4 {[%clk 1:31:00]} 4. Nxe4 {[%clk 1:31:00]}  Nf6 {[%clk 1:31:00]} 5. Nxf6+ {[%clk 1:32:00]}  exf6 {[%clk 1:32:00]} 6. c3 {[%clk 1:32:00]}  Bd6 {[%clk 1:32:00]} 7. Bd3 {[%clk 1:32:00]}  O-O {[%clk 1:32:00]} 8. Qc2 {[%clk 1:32:00]}  Re8+ {[%clk 1:33:00]} 9. Ne2 {[%clk 1:33:00]}  h5 {[%clk 1:33:00]} 10. Bd2 {[%clk 1:32:00]}  Nd7 {[%clk 1:25:00]} 11. O-O-O {[%clk 1:32:00]}  b5 {[%clk 1:17:00]} 12. Kb1 {[%clk 1:31:00]}  Nb6 {[%clk 1:13:00]} 13. Bf4 {[%clk 1:29:00]}  Be6 {[%clk 0:58:00]} 14. Bxd6 {[%clk 1:17:00]}  Qxd6 {[%clk 0:59:00]} 15. Ng3 {[%clk 1:18:00]}  Qd5 {[%clk 0:50:00]} 16. b3 {[%clk 1:18:00]}  a5 {[%clk 0:50:00]} 17. Nf1 {[%clk 1:08:00]}  a4 {[%clk 1:30:00]} 18. b4 {[%clk 1:07:00]}  Qxg2 {[%clk 1:30:00]} 19. Ne3 {[%clk 1:07:00]}  Qf3 {[%clk 1:30:00]} 20. Rhg1 {[%clk 1:06:00]}  h4 {[%clk 1:30:00]} 21. Ka1 {[%clk 1:03:00]}  Bb3 {[%clk 1:30:00]} 22. Qd2 {[%clk 0:56:00]}  Bxd1 {[%clk 1:30:00]} 23. Nf5 {[%clk 0:56:00]}  Kf8 {[%clk 1:30:00]} 24. Rxd1 {[%clk 0:28:00]}  g5 {[%clk 1:30:00]} 25. Ne3 {[%clk 0:28:00]}  Rad8 {[%clk 1:30:00]} 26. Bf1 {[%clk 0:28:00]}  Qf4 {[%clk 1:30:00]} 27. Bg2 {[%clk 0:28:00]}  Nd5 {[%clk 1:30:00]} 28. Bxd5 {[%clk 0:22:00]}  Rxd5 {[%clk 1:30:00]} 29. Nxd5 {[%clk 0:21:00]}  Qxd2 {[%clk 1:30:00]} 30. Rxd2 {[%clk 1:30:00]}  cxd5 {[%clk 1:30:00]} 31. Kb2 {[%clk 0:21:00]}  Re1 {[%clk 1:30:00]} 32. h3 {[%clk 0:21:00]}  Ke7 {[%clk 1:30:00]} 33. Ka3 {[%clk 0:21:00]}  f5 {[%clk 1:30:00]} 34. c4 {[%clk 0:21:00]}  dxc4 {[%clk 1:30:00]} 35. f4 {[%clk 0:20:00]}  Re3+ {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Snape, Ian L"]
+[Black "Kierzek, Matthias, Dr."]
+[WhiteFideId "404489"]
+[BlackFideId "4647009"]
+[WhiteElo "2127"]
+[BlackElo "2224"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:14:38"]
+[BlackClock "1:30:00"]
+
+1. c4 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 2. Nc3 {[%clk 1:31:00]}  Nf6 {[%clk 1:30:00]} 3. Nf3 {[%clk 1:31:00]}  Nc6 {[%clk 1:30:00]} 4. g3 {[%clk 1:32:00]}  Bb4 {[%clk 1:31:00]} 5. Nd5 {[%clk 1:32:00]}  e4 {[%clk 1:31:00]} 6. Nh4 {[%clk 1:27:00]}  O-O {[%clk 1:31:00]} 7. Bg2 {[%clk 1:26:00]}  Re8 {[%clk 1:31:00]} 8. O-O {[%clk 1:26:00]}  d6 {[%clk 1:31:00]} 9. d3 {[%clk 1:23:00]}  exd3 {[%clk 1:20:00]} 10. Qxd3 {[%clk 1:21:00]}  Nxd5 {[%clk 1:21:00]} 11. cxd5 {[%clk 1:21:00]}  Ne5 {[%clk 1:21:00]} 12. Qc2 {[%clk 1:18:00]}  Bc5 {[%clk 1:18:00]} 13. h3 {[%clk 1:14:00]}  a5 {[%clk 1:03:00]} 14. Bd2 {[%clk 1:08:00]}  Bd7 {[%clk 1:00:00]} 15. Rad1 {[%clk 0:58:00]}  Bb5 {[%clk 1:30:00]} 16. Bc3 {[%clk 0:45:00]}  Qd7 {[%clk 1:30:00]} 17. Rfe1 {[%clk 0:42:00]}  Bb4 {[%clk 1:30:00]} 18. a3 {[%clk 0:38:00]}  Bxc3 {[%clk 0:31:00]} 19. Qxc3 {[%clk 0:38:00]}  Ng6 {[%clk 1:30:00]} 20. Nxg6 {[%clk 1:30:00]}  hxg6 {[%clk 1:30:00]} 21. e4 {[%clk 0:35:00]}  b6 {[%clk 1:30:00]} 22. f4 {[%clk 0:32:00]}  f6 {[%clk 1:30:00]} 23. Rc1 {[%clk 0:30:00]}  Rac8 {[%clk 1:30:00]} 24. Qc2 {[%clk 0:23:00]}  Re7 {[%clk 1:30:00]} 25. Kh2 {[%clk 0:20:00]}  Rce8 {[%clk 1:30:00]} 26. e5 {[%clk 0:14:40]}  fxe5 {[%clk 1:30:00]} 27. fxe5 {[%clk 0:14:57]}  Rxe5 {[%clk 1:30:00]} 28. Rxe5 {[%clk 0:15:14]}  Rxe5 {[%clk 1:30:00]} 29. Qxg6 {[%clk 0:15:20]}  Re2 {[%clk 1:30:00]} 30. Rc2 {[%clk 0:14:38]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Meister, Jakob"]
+[Black "Vaisser, Anatoly"]
+[WhiteFideId "4102541"]
+[BlackFideId "603252"]
+[WhiteElo "2415"]
+[BlackElo "2477"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:38:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 2. d4 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 4. Bg5 {[%clk 1:30:00]}  dxe4 {[%clk 1:30:00]} 5. Nxe4 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 6. Bxf6 {[%clk 1:30:00]}  gxf6 {[%clk 1:30:00]} 7. Nf3 {[%clk 1:30:00]}  f5 {[%clk 1:30:00]} 8. Ned2 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 9. Nc4 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 10. dxc5 {[%clk 1:30:00]}  Qxd1+ {[%clk 1:30:00]} 11. Rxd1 {[%clk 1:30:00]}  Bxc5 {[%clk 1:30:00]} 12. c3 {[%clk 1:30:00]}  a5 {[%clk 1:30:00]} 13. Nd6+ {[%clk 1:30:00]}  Ke7 {[%clk 1:30:00]} 14. Nxc8+ {[%clk 1:30:00]}  Rhxc8 {[%clk 1:30:00]} 15. a4 {[%clk 1:30:00]}  Rd8 {[%clk 1:30:00]} 16. Bd3 {[%clk 1:30:00]}  Kf6 {[%clk 1:30:00]} 17. Ke2 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 18. Bb5 {[%clk 1:30:00]}  Ne7 {[%clk 1:30:00]} 19. g3 {[%clk 1:30:00]}  Nd5 {[%clk 1:30:00]} 20. Nd2 {[%clk 1:05:00]}  Nc7 {[%clk 1:30:00]} 21. Bc4 {[%clk 1:02:00]}  e4 {[%clk 1:30:00]} 22. f3 {[%clk 0:57:00]}  exf3+ {[%clk 1:30:00]} 23. Nxf3 {[%clk 0:53:00]}  Re8+ {[%clk 1:30:00]} 24. Kd2 {[%clk 0:53:00]}  Re4 {[%clk 1:30:00]} 25. b3 {[%clk 0:51:00]}  f4 {[%clk 1:30:00]} 26. Kc2 {[%clk 0:50:00]}  Ne6 {[%clk 1:30:00]} 27. Rhf1 {[%clk 0:47:00]}  Ke7 {[%clk 1:30:00]} 28. Nd2 {[%clk 0:43:00]}  Re5 {[%clk 1:30:00]} 29. gxf4 {[%clk 0:41:00]}  Rf5 {[%clk 1:30:00]} 30. Ne4 {[%clk 0:41:00]}  Rg8 {[%clk 1:30:00]} 31. Rd5 {[%clk 0:27:00]}  Rg2+ {[%clk 1:30:00]} 32. Kb1 {[%clk 1:30:00]}  Rxd5 {[%clk 1:30:00]} 33. Bxd5 {[%clk 0:24:00]}  Rg1 {[%clk 1:30:00]} 34. Rxg1 {[%clk 0:24:00]}  Bxg1 {[%clk 1:30:00]} 35. f5 {[%clk 0:24:00]}  Nf4 {[%clk 1:30:00]} 36. Bxb7 {[%clk 0:23:00]}  Bxh2 {[%clk 1:30:00]} 37. Kc2 {[%clk 0:23:00]}  h5 {[%clk 1:30:00]} 38. b4 {[%clk 0:23:00]}  axb4 {[%clk 1:30:00]} 39. cxb4 {[%clk 0:23:00]}  Kd8 {[%clk 1:30:00]} 40. Ng5 {[%clk 0:22:00]}  Ne2 {[%clk 1:30:00]} 41. Kd3 {[%clk 0:52:00]}  Nc1+ {[%clk 1:30:00]} 42. Kc4 {[%clk 0:48:00]}  Kc7 {[%clk 1:30:00]} 43. Bf3 {[%clk 0:48:00]}  h4 {[%clk 1:30:00]} 44. Nxf7 {[%clk 0:47:00]}  Bf4 {[%clk 1:30:00]} 45. a5 {[%clk 0:42:00]}  Kb8 {[%clk 1:30:00]} 46. f6 {[%clk 0:42:00]}  h3 {[%clk 1:30:00]} 47. Nd8 {[%clk 0:38:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Roos, Louis"]
+[Black "Klundt, Klaus"]
+[WhiteFideId "600288"]
+[BlackFideId "4600436"]
+[WhiteElo "2288"]
+[BlackElo "2295"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:31:00"]
+[BlackClock "1:30:00"]
+
+1. Nf3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 4. cxd5 {[%clk 1:30:00]}  exd5 {[%clk 1:30:00]} 5. d4 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 6. Qc2 {[%clk 1:30:00]}  g6 {[%clk 1:30:00]} 7. Bg5 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 8. e3 {[%clk 1:30:00]}  Bf5 {[%clk 1:30:00]} 9. Bd3 {[%clk 1:30:00]}  Bxd3 {[%clk 1:30:00]} 10. Qxd3 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 11. O-O {[%clk 1:30:00]}  Nbd7 {[%clk 1:30:00]} 12. h3 {[%clk 1:30:00]}  Re8 {[%clk 1:30:00]} 13. Bf4 {[%clk 1:30:00]}  Ne4 {[%clk 1:30:00]} 14. Nxe4 {[%clk 1:30:00]}  dxe4 {[%clk 1:30:00]} 15. Qxe4 {[%clk 1:30:00]}  Bd6 {[%clk 1:30:00]} 16. Qc2 {[%clk 1:30:00]}  Bxf4 {[%clk 1:30:00]} 17. exf4 {[%clk 1:30:00]}  Qf6 {[%clk 1:30:00]} 18. g3 {[%clk 1:30:00]}  Qe6 {[%clk 1:30:00]} 19. Kg2 {[%clk 1:30:00]}  Qd5 {[%clk 1:30:00]} 20. b3 {[%clk 1:30:00]}  Re4 {[%clk 1:30:00]} 21. Qc4 {[%clk 0:42:00]}  Nb6 {[%clk 1:30:00]} 22. Qxd5 {[%clk 0:37:00]}  Nxd5 {[%clk 1:30:00]} 23. Rfe1 {[%clk 0:34:00]}  Rxe1 {[%clk 1:30:00]} 24. Rxe1 {[%clk 0:34:00]}  a5 {[%clk 1:30:00]} 25. a4 {[%clk 0:31:00]}  Kf8 {[%clk 1:30:00]} 26. Ne5 {[%clk 0:30:00]}  Rd8 {[%clk 1:30:00]} 27. Nc4 {[%clk 0:30:00]}  b6 {[%clk 1:30:00]} 28. h4 {[%clk 0:18:06]}  Nb4 {[%clk 1:30:00]} 29. Nxb6 {[%clk 0:13:02]}  Rxd4 {[%clk 1:30:00]} 30. Nc4 {[%clk 0:13:05]}  Nd3 {[%clk 1:30:00]} 31. Re3 {[%clk 0:12:30]}  Rd5 {[%clk 1:30:00]} 32. Kf3 {[%clk 0:12:03]}  Nb4 {[%clk 1:30:00]} 33. Re5 {[%clk 0:08:05]}  Rd3+ {[%clk 1:30:00]} 34. Re3 {[%clk 1:30:00]}  Rd5 {[%clk 1:30:00]} 35. Ke2 {[%clk 0:08:52]}  Nc2 {[%clk 1:30:00]} 36. Rd3 {[%clk 0:09:00]}  Nd4+ {[%clk 1:30:00]} 37. Ke3 {[%clk 0:07:15]}  Nf5+ {[%clk 1:30:00]} 38. Kd2 {[%clk 0:06:32]}  Rc5 {[%clk 1:30:00]} 39. Rd7 {[%clk 0:02:02]}  Ke8 {[%clk 1:30:00]} 40. Ra7 {[%clk 1:30:00]}  Rd5+ {[%clk 1:30:00]} 41. Kc2 {[%clk 0:31:00]}  Nd4+ {[%clk 1:30:00]} 42. Kb2 {[%clk 0:31:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Salov, Sergej"]
+[Black "Boudre, Jean-Pierre"]
+[WhiteFideId "4107926"]
+[BlackFideId "600237"]
+[WhiteElo "2169"]
+[BlackElo "2255"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:01:51"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 3. Bb5 {[%clk 1:30:00]}  a6 {[%clk 1:30:00]} 4. Ba4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 5. Nc3 {[%clk 1:30:00]}  Bd6 {[%clk 1:30:00]} 6. O-O {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 7. Re1 {[%clk 1:30:00]}  Re8 {[%clk 1:30:00]} 8. a3 {[%clk 1:30:00]}  Bc5 {[%clk 1:30:00]} 9. b4 {[%clk 0:40:00]}  Ba7 {[%clk 1:30:00]} 10. h3 {[%clk 0:34:00]}  Nd4 {[%clk 1:30:00]} 11. Nxd4 {[%clk 0:31:00]}  Bxd4 {[%clk 1:30:00]} 12. Bb2 {[%clk 0:30:00]}  c6 {[%clk 1:30:00]} 13. Qf3 {[%clk 0:27:00]}  d6 {[%clk 1:30:00]} 14. Bb3 {[%clk 0:27:00]}  Be6 {[%clk 1:30:00]} 15. Nd1 {[%clk 0:24:00]}  Bxb2 {[%clk 1:30:00]} 16. Nxb2 {[%clk 0:25:00]}  d5 {[%clk 1:30:00]} 17. d3 {[%clk 0:20:00]}  a5 {[%clk 1:30:00]} 18. Na4 {[%clk 0:16:29]}  axb4 {[%clk 1:30:00]} 19. axb4 {[%clk 0:16:47]}  Qd6 {[%clk 1:30:00]} 20. Nc5 {[%clk 0:16:00]}  b6 {[%clk 1:30:00]} 21. Nxe6 {[%clk 1:30:00]}  fxe6 {[%clk 1:30:00]} 22. Rxa8 {[%clk 0:13:55]}  Rxa8 {[%clk 1:30:00]} 23. exd5 {[%clk 0:13:54]}  exd5 {[%clk 1:30:00]} 24. g4 {[%clk 0:12:49]}  Rf8 {[%clk 1:30:00]} 25. b5 {[%clk 0:09:22]}  Qb4 {[%clk 1:30:00]} 26. Rxe5 {[%clk 1:30:00]}  Qxb5 {[%clk 1:30:00]} 27. Rf5 {[%clk 0:06:39]}  Nd7 {[%clk 1:30:00]} 28. Qf4 {[%clk 0:05:45]}  Rxf5 {[%clk 1:30:00]} 29. Qxf5 {[%clk 1:30:00]}  Nf8 {[%clk 1:30:00]} 30. Qe5 {[%clk 0:05:52]}  Qc5 {[%clk 1:30:00]} 31. h4 {[%clk 0:06:10]}  Qb4 {[%clk 1:30:00]} 32. f3 {[%clk 1:30:00]}  h6 {[%clk 1:30:00]} 33. h5 {[%clk 0:04:54]}  Qd2 {[%clk 1:30:00]} 34. Kf1 {[%clk 0:03:13]}  Qd1+ {[%clk 1:30:00]} 35. Kf2 {[%clk 1:30:00]}  Qd2+ {[%clk 1:30:00]} 36. Kg3 {[%clk 0:02:44]}  Qc1 {[%clk 1:30:00]} 37. Kf2 {[%clk 0:02:38]}  Qd2+ {[%clk 1:30:00]} 38. Kg3 {[%clk 0:02:52]}  Qc1 {[%clk 1:30:00]} 39. Qd4 {[%clk 0:01:55]}  Qe1+ {[%clk 0:02:55]} 40. Kg2 {[%clk 0:01:54]}  Qe2+ {[%clk 0:02:55]} 41. Qf2 {[%clk 0:01:51]}  Ne6 {[%clk 1:30:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Berthelot, Yannick"]
+[Black "Gruzmann, Boris"]
+[WhiteFideId "600547"]
+[BlackFideId "4105290"]
+[WhiteElo "2244"]
+[BlackElo "2189"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2022.06.23"]
+[WhiteClock "0:07:05"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 3. d4 {[%clk 1:30:00]}  cxd4 {[%clk 1:30:00]} 4. Nxd4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 5. Nc3 {[%clk 1:30:00]}  a6 {[%clk 1:30:00]} 6. f3 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 7. Nb3 {[%clk 1:30:00]}  Be6 {[%clk 1:30:00]} 8. Be3 {[%clk 1:30:00]}  h5 {[%clk 1:30:00]} 9. Qd2 {[%clk 1:30:00]}  Nbd7 {[%clk 1:30:00]} 10. O-O-O {[%clk 1:30:00]}  Rc8 {[%clk 1:30:00]} 11. Kb1 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 12. Nd5 {[%clk 1:30:00]}  Bxd5 {[%clk 1:30:00]} 13. exd5 {[%clk 1:30:00]}  Qc7 {[%clk 1:30:00]} 14. c4 {[%clk 1:30:00]}  b6 {[%clk 1:30:00]} 15. g3 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 16. h3 {[%clk 1:30:00]}  a5 {[%clk 1:30:00]} 17. g4 {[%clk 1:30:00]}  a4 {[%clk 1:30:00]} 18. Na1 {[%clk 1:30:00]}  Nc5 {[%clk 1:30:00]} 19. Nc2 {[%clk 1:30:00]}  h4 {[%clk 1:30:00]} 20. Na3 {[%clk 1:30:00]}  Qd8 {[%clk 1:30:00]} 21. Rg1 {[%clk 0:59:00]}  Nh7 {[%clk 1:30:00]} 22. g5 {[%clk 0:58:00]}  g6 {[%clk 1:30:00]} 23. Nb5 {[%clk 0:54:00]}  Ra8 {[%clk 1:30:00]} 24. Rg4 {[%clk 0:45:00]}  Qd7 {[%clk 1:30:00]} 25. Bd3 {[%clk 0:35:00]}  Nxd3 {[%clk 1:30:00]} 26. Qxd3 {[%clk 0:35:00]}  Qf5 {[%clk 1:30:00]} 27. Qxf5 {[%clk 0:25:00]}  gxf5 {[%clk 1:30:00]} 28. Rxh4 {[%clk 0:26:00]}  Rfc8 {[%clk 1:30:00]} 29. Na3 {[%clk 0:10:56]}  Nf8 {[%clk 1:30:00]} 30. Bxb6 {[%clk 0:09:23]}  Ng6 {[%clk 1:30:00]} 31. Rh5 {[%clk 0:08:59]}  Nf4 {[%clk 1:30:00]} 32. Rh6 {[%clk 0:07:51]}  Bf8 {[%clk 1:30:00]} 33. Rf6 {[%clk 0:07:12]}  Nh5 {[%clk 1:30:00]} 34. Rxf5 {[%clk 0:07:12]}  Ng7 {[%clk 1:30:00]} 35. Rf6 {[%clk 0:06:10]}  Nh5 {[%clk 1:30:00]} 36. Rf5 {[%clk 0:04:22]}  Ng7 {[%clk 0:07:33]} 37. Rf6 {[%clk 0:04:49]}  Nh5 {[%clk 1:30:00]} 38. Rh6 {[%clk 0:02:40]}  Bxh6 {[%clk 0:04:52]} 39. gxh6 {[%clk 0:03:08]}  Ra6 {[%clk 1:30:00]} 40. c5 {[%clk 0:33:00]}  dxc5 {[%clk 1:30:00]} 41. Nc4 {[%clk 0:33:00]}  Nf6 {[%clk 1:30:00]} 42. d6 {[%clk 0:26:00]}  Nd7 {[%clk 1:30:00]} 43. Bc7 {[%clk 0:20:00]}  Kh7 {[%clk 1:30:00]} 44. Re1 {[%clk 0:18:29]}  Rc6 {[%clk 0:04:07]} 45. Kc2 {[%clk 0:17:07]}  f6 {[%clk 0:02:34]} 46. f4 {[%clk 0:16:44]}  Kxh6 {[%clk 1:30:00]} 47. fxe5 {[%clk 0:16:23]}  fxe5 {[%clk 1:30:00]} 48. Nxe5 {[%clk 0:16:20]}  Nxe5 {[%clk 1:30:00]} 49. Rxe5 {[%clk 0:16:40]}  R8xc7 {[%clk 1:30:00]} 50. dxc7 {[%clk 0:16:59]}  Rxc7 {[%clk 1:30:00]} 51. Kc3 {[%clk 0:14:02]}  Kg6 {[%clk 1:30:00]} 52. Kc4 {[%clk 0:13:29]}  Rb7 {[%clk 1:30:00]} 53. Re2 {[%clk 0:13:13]}  Rh7 {[%clk 1:30:00]} 54. Rh2 {[%clk 0:13:10]}  Rh5 {[%clk 1:30:00]} 55. a3 {[%clk 0:12:53]}  Kf6 {[%clk 1:30:00]} 56. Kb5 {[%clk 0:12:59]}  Ke6 {[%clk 0:01:56]} 57. Kxa4 {[%clk 0:13:19]}  Kd5 {[%clk 1:30:00]} 58. Kb5 {[%clk 0:13:27]}  Kd4 {[%clk 1:30:00]} 59. Rd2+ {[%clk 0:11:31]}  Ke4 {[%clk 1:30:00]} 60. a4 {[%clk 0:07:09]}  Rxh3 {[%clk 1:30:00]} 61. Kxc5 {[%clk 0:07:05]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Horvath, Jozsef"]
+[Black "Adams, Michael"]
+[WhiteFideId "700061"]
+[BlackFideId "400041"]
+[WhiteElo "2429"]
+[BlackElo "2690"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:00:34"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 3. g3 {[%clk 1:31:00]}  d5 {[%clk 1:30:00]} 4. Bg2 {[%clk 1:31:00]}  dxc4 {[%clk 1:30:00]} 5. Qa4+ {[%clk 1:30:00]}  Nbd7 {[%clk 1:30:00]} 6. Qxc4 {[%clk 1:31:00]}  a6 {[%clk 1:30:00]} 7. Be3 {[%clk 1:31:00]}  Bd6 {[%clk 1:30:00]} 8. Qc2 {[%clk 1:28:00]}  Nd5 {[%clk 1:30:00]} 9. Bd2 {[%clk 1:21:00]}  c5 {[%clk 1:30:00]} 10. e4 {[%clk 1:13:00]}  Ne7 {[%clk 1:30:00]} 11. Ne2 {[%clk 1:10:00]}  cxd4 {[%clk 1:30:00]} 12. Nxd4 {[%clk 1:10:00]}  O-O {[%clk 1:30:00]} 13. O-O {[%clk 1:09:00]}  Ne5 {[%clk 1:30:00]} 14. Bc3 {[%clk 0:50:00]}  b5 {[%clk 1:30:00]} 15. a3 {[%clk 0:42:00]}  Bb7 {[%clk 1:30:00]} 16. Qe2 {[%clk 0:42:00]}  Qb6 {[%clk 1:30:00]} 17. Nd2 {[%clk 0:40:00]}  Rfd8 {[%clk 1:30:00]} 18. Kh1 {[%clk 0:33:00]}  b4 {[%clk 1:30:00]} 19. axb4 {[%clk 0:33:00]}  Bxb4 {[%clk 1:30:00]} 20. f4 {[%clk 0:22:00]}  Rxd4 {[%clk 1:30:00]} 21. fxe5 {[%clk 0:18:00]}  Bxc3 {[%clk 1:30:00]} 22. bxc3 {[%clk 1:30:00]}  Rd7 {[%clk 1:30:00]} 23. Nc4 {[%clk 0:16:13]}  Qc5 {[%clk 1:30:00]} 24. Ra5 {[%clk 0:08:44]}  Qc7 {[%clk 1:30:00]} 25. Qa2 {[%clk 0:08:47]}  Ng6 {[%clk 1:30:00]} 26. h4 {[%clk 0:05:16]}  h5 {[%clk 1:30:00]} 27. Kh2 {[%clk 0:03:01]}  Rad8 {[%clk 1:30:00]} 28. Bf3 {[%clk 0:02:31]}  Rd3 {[%clk 0:26:00]} 29. Bxh5 {[%clk 0:01:54]}  Rxc3 {[%clk 1:30:00]} 30. Be2 {[%clk 0:00:43]}  Bxe4 {[%clk 1:30:00]} 31. Rf2 {[%clk 0:00:34]}  Bd5 {[%clk 1:30:00]} 32. Ra4 {[%clk 0:00:34]}  Nxe5 {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Short, Nigel D"]
+[Black "Varga, Zoltan"]
+[WhiteFideId "400025"]
+[BlackFideId "700509"]
+[WhiteElo "2617"]
+[BlackElo "2398"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:27:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. e5 {[%clk 1:30:00]}  Nd5 {[%clk 1:30:00]} 3. d4 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 4. Nf3 {[%clk 1:31:00]}  dxe5 {[%clk 1:30:00]} 5. Nxe5 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 6. Bd3 {[%clk 1:28:00]}  Nd7 {[%clk 1:33:00]} 7. Nf3 {[%clk 1:28:00]}  N7f6 {[%clk 1:30:00]} 8. O-O {[%clk 1:28:00]}  Nb4 {[%clk 1:30:00]} 9. Be2 {[%clk 1:25:00]}  Bf5 {[%clk 1:30:00]} 10. Na3 {[%clk 1:20:00]}  e6 {[%clk 1:29:00]} 11. c3 {[%clk 1:20:00]}  Nbd5 {[%clk 1:30:00]} 12. Nc4 {[%clk 1:20:00]}  h6 {[%clk 1:30:00]} 13. Nce5 {[%clk 1:20:00]}  Bd6 {[%clk 1:30:00]} 14. c4 {[%clk 1:13:00]}  Ne7 {[%clk 1:30:00]} 15. b3 {[%clk 1:07:00]}  O-O {[%clk 1:30:00]} 16. Bb2 {[%clk 1:07:00]}  a5 {[%clk 1:30:00]} 17. a3 {[%clk 1:06:00]}  Qb8 {[%clk 1:30:00]} 18. Qc1 {[%clk 1:03:00]}  b5 {[%clk 1:30:00]} 19. Re1 {[%clk 0:56:00]}  Rd8 {[%clk 1:30:00]} 20. h3 {[%clk 0:53:00]}  bxc4 {[%clk 1:30:00]} 21. Bxc4 {[%clk 0:52:00]}  Nfd5 {[%clk 1:30:00]} 22. Ra2 {[%clk 0:50:00]}  Nb6 {[%clk 1:30:00]} 23. Bf1 {[%clk 0:50:00]}  Nd7 {[%clk 1:30:00]} 24. Bc4 {[%clk 0:39:00]}  Nb6 {[%clk 1:30:00]} 25. Bf1 {[%clk 0:36:00]}  Nd7 {[%clk 1:30:00]} 26. Bc4 {[%clk 0:27:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Horvath, Peter"]
+[Black "Hebden, Mark L"]
+[WhiteFideId "700843"]
+[BlackFideId "400084"]
+[WhiteElo "2396"]
+[BlackElo "2465"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:02:04"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:31:00]}  g6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:31:00]}  Bg7 {[%clk 1:30:00]} 4. g3 {[%clk 1:31:00]}  O-O {[%clk 1:30:00]} 5. Bg2 {[%clk 1:32:00]}  c5 {[%clk 1:30:00]} 6. Nf3 {[%clk 1:29:00]}  cxd4 {[%clk 1:30:00]} 7. Nxd4 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 8. O-O {[%clk 1:29:00]}  d6 {[%clk 1:30:00]} 9. Nxc6 {[%clk 1:21:00]}  bxc6 {[%clk 1:30:00]} 10. Bxc6 {[%clk 1:20:00]}  Rb8 {[%clk 1:30:00]} 11. Bg2 {[%clk 1:18:00]}  Qa5 {[%clk 1:30:00]} 12. Qd3 {[%clk 0:56:00]}  Be6 {[%clk 1:30:00]} 13. Nd5 {[%clk 0:47:00]}  Nxd5 {[%clk 1:30:00]} 14. cxd5 {[%clk 0:48:00]}  Bf5 {[%clk 1:30:00]} 15. Qe3 {[%clk 0:43:00]}  Qc7 {[%clk 1:30:00]} 16. a4 {[%clk 0:40:00]}  a5 {[%clk 1:30:00]} 17. Be4 {[%clk 0:27:00]}  Bxe4 {[%clk 1:02:00]} 18. Qxe4 {[%clk 0:27:00]}  Rb4 {[%clk 1:30:00]} 19. Qd3 {[%clk 0:25:00]}  Qb7 {[%clk 1:30:00]} 20. Ra3 {[%clk 0:22:00]}  Rc8 {[%clk 1:30:00]} 21. Bd2 {[%clk 0:20:00]}  Rd4 {[%clk 1:30:00]} 22. Qe3 {[%clk 0:20:00]}  Qxd5 {[%clk 1:30:00]} 23. Bc3 {[%clk 0:19:28]}  Rd1 {[%clk 1:30:00]} 24. Rxd1 {[%clk 0:17:58]}  Qxd1+ {[%clk 0:40:00]} 25. Kg2 {[%clk 0:18:24]}  Bxc3 {[%clk 1:30:00]} 26. bxc3 {[%clk 0:17:17]}  Qd5+ {[%clk 1:30:00]} 27. Qf3 {[%clk 0:15:41]}  Qxf3+ {[%clk 0:33:00]} 28. Kxf3 {[%clk 0:16:09]}  Rb8 {[%clk 1:30:00]} 29. h4 {[%clk 1:30:00]}  Kf8 {[%clk 1:30:00]} 30. Ke3 {[%clk 0:11:17]}  Rb2 {[%clk 1:30:00]} 31. Ra1 {[%clk 0:09:20]}  Ke8 {[%clk 1:30:00]} 32. h5 {[%clk 0:05:13]}  Kd7 {[%clk 1:30:00]} 33. hxg6 {[%clk 0:03:53]}  hxg6 {[%clk 1:30:00]} 34. Rh1 {[%clk 0:04:39]}  Ra2 {[%clk 1:30:00]} 35. Rh4 {[%clk 0:04:19]}  e5 {[%clk 1:30:00]} 36. Rc4 {[%clk 0:04:10]}  f5 {[%clk 1:30:00]} 37. g4 {[%clk 0:02:34]}  f4+ {[%clk 1:30:00]} 38. Kd3 {[%clk 0:02:04]}  d5 {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Arkell, Keith C"]
+[Black "Krizsany, Laszlo"]
+[WhiteFideId "400270"]
+[BlackFideId "701718"]
+[WhiteElo "2390"]
+[BlackElo "2377"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:18:48"]
+[BlackClock "1:30:00"]
+
+1. Nf3 {[%clk 1:30:00]}  b6 {[%clk 1:30:00]} 2. c4 {[%clk 1:30:00]}  Bb7 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:29:00]}  e6 {[%clk 1:30:00]} 4. g3 {[%clk 1:29:00]}  Nf6 {[%clk 1:23:00]} 5. Bg2 {[%clk 1:30:00]}  Be7 {[%clk 1:30:00]} 6. d4 {[%clk 1:30:00]}  O-O {[%clk 1:30:00]} 7. O-O {[%clk 1:29:00]}  d6 {[%clk 1:30:00]} 8. Re1 {[%clk 1:29:00]}  Nbd7 {[%clk 1:30:00]} 9. e4 {[%clk 1:29:00]}  e5 {[%clk 1:30:00]} 10. b3 {[%clk 1:28:00]}  Re8 {[%clk 1:30:00]} 11. Bb2 {[%clk 1:26:00]}  Bf8 {[%clk 1:30:00]} 12. Qc2 {[%clk 1:26:00]}  c6 {[%clk 1:30:00]} 13. Rad1 {[%clk 1:14:00]}  Qc7 {[%clk 1:00:00]} 14. a3 {[%clk 1:14:00]}  Rad8 {[%clk 1:30:00]} 15. b4 {[%clk 1:14:00]}  a6 {[%clk 1:30:00]} 16. dxe5 {[%clk 1:07:00]}  Nxe5 {[%clk 1:30:00]} 17. Nxe5 {[%clk 0:56:00]}  dxe5 {[%clk 1:30:00]} 18. Qe2 {[%clk 0:49:00]}  Bc8 {[%clk 1:30:00]} 19. h3 {[%clk 0:47:00]}  Be6 {[%clk 1:30:00]} 20. Rxd8 {[%clk 0:45:00]}  Rxd8 {[%clk 0:48:00]} 21. Rc1 {[%clk 0:46:00]}  Qb8 {[%clk 1:30:00]} 22. Na4 {[%clk 0:37:00]}  Nd7 {[%clk 1:30:00]} 23. Nc3 {[%clk 0:18:48]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Kaidanov, Gregory"]
+[Black "Cummings, David H."]
+[WhiteFideId "2008564"]
+[BlackFideId "2603578"]
+[WhiteElo "2557"]
+[BlackElo "2329"]
+[Result "1-0"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:10:12"]
+[BlackClock "1:30:00"]
+
+1. Nf3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. g3 {[%clk 1:29:00]}  d5 {[%clk 1:30:00]} 3. Bg2 {[%clk 1:29:00]}  e6 {[%clk 1:30:00]} 4. O-O {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 5. d3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 6. Nbd2 {[%clk 1:28:00]}  Be7 {[%clk 1:29:00]} 7. e4 {[%clk 1:28:00]}  O-O {[%clk 1:30:00]} 8. Re1 {[%clk 1:28:00]}  Qc7 {[%clk 1:30:00]} 9. Nf1 {[%clk 1:28:00]}  dxe4 {[%clk 1:30:00]} 10. dxe4 {[%clk 1:28:00]}  Rd8 {[%clk 1:30:00]} 11. Qe2 {[%clk 1:28:00]}  Nd4 {[%clk 1:30:00]} 12. Nxd4 {[%clk 1:28:00]}  cxd4 {[%clk 1:30:00]} 13. e5 {[%clk 1:29:00]}  Nd7 {[%clk 1:30:00]} 14. Bf4 {[%clk 1:24:00]}  Nf8 {[%clk 1:30:00]} 15. Rad1 {[%clk 1:21:00]}  Qb6 {[%clk 1:30:00]} 16. Bc1 {[%clk 1:16:00]}  Bd7 {[%clk 1:30:00]} 17. Nd2 {[%clk 1:12:00]}  Bc6 {[%clk 1:30:00]} 18. Bxc6 {[%clk 1:10:00]}  bxc6 {[%clk 1:30:00]} 19. Nc4 {[%clk 1:07:00]}  Qc7 {[%clk 1:30:00]} 20. h4 {[%clk 1:03:00]}  c5 {[%clk 1:30:00]} 21. Qg4 {[%clk 1:00:00]}  Kh8 {[%clk 1:30:00]} 22. Rd3 {[%clk 0:46:00]}  Nd7 {[%clk 1:30:00]} 23. Rf3 {[%clk 0:39:00]}  Rf8 {[%clk 1:30:00]} 24. Qh5 {[%clk 0:33:00]}  Kg8 {[%clk 1:30:00]} 25. Bg5 {[%clk 0:31:00]}  Qd8 {[%clk 1:30:00]} 26. Rf4 {[%clk 0:17:58]}  f6 {[%clk 1:30:00]} 27. exf6 {[%clk 1:30:00]}  Bxf6 {[%clk 1:30:00]} 28. Rxe6 {[%clk 0:16:51]}  Bxg5 {[%clk 1:30:00]} 29. hxg5 {[%clk 0:16:20]}  Rxf4 {[%clk 1:30:00]} 30. gxf4 {[%clk 0:16:44]}  Nf8 {[%clk 1:30:00]} 31. Rd6 {[%clk 1:30:00]}  Qe7 {[%clk 1:30:00]} 32. Qf3 {[%clk 0:14:14]}  Re8 {[%clk 1:30:00]} 33. Qd5+ {[%clk 0:13:56]}  Kh8 {[%clk 1:30:00]} 34. Ne5 {[%clk 0:13:32]}  g6 {[%clk 1:30:00]} 35. Rf6 {[%clk 0:11:41]}  Ne6 {[%clk 1:30:00]} 36. Rf7 {[%clk 0:10:38]}  Qd8 {[%clk 1:30:00]} 37. Rd7 {[%clk 0:10:12]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Plotkin, Victor"]
+[Black "Novikov, Igor"]
+[WhiteFideId "2606674"]
+[BlackFideId "14100037"]
+[WhiteElo "2252"]
+[BlackElo "2558"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "1:30:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 2. c3 {[%clk 1:31:00]}  d5 {[%clk 1:30:00]} 3. exd5 {[%clk 1:31:00]}  Qxd5 {[%clk 1:30:00]} 4. d4 {[%clk 1:31:00]}  Nf6 {[%clk 1:30:00]} 5. Nf3 {[%clk 1:32:00]}  e6 {[%clk 1:30:00]} 6. Be2 {[%clk 1:29:00]}  Nc6 {[%clk 1:30:00]} 7. O-O {[%clk 1:29:00]}  Be7 {[%clk 1:30:00]} 8. c4 {[%clk 1:24:00]}  Qd7 {[%clk 1:30:00]} 9. dxc5 {[%clk 1:21:00]}  Bxc5 {[%clk 1:30:00]} 10. Nc3 {[%clk 1:21:00]}  O-O {[%clk 1:30:00]} 11. a3 {[%clk 1:20:00]}  Rd8 {[%clk 1:30:00]} 12. Qc2 {[%clk 1:14:00]}  b6 {[%clk 1:30:00]} 13. Rd1 {[%clk 1:13:00]}  Qe7 {[%clk 1:30:00]} 14. Rxd8+ {[%clk 1:11:00]}  Qxd8 {[%clk 1:30:00]} 15. Bg5 {[%clk 1:10:00]}  Bb7 {[%clk 1:30:00]} 16. Rd1 {[%clk 1:08:00]}  Qe8 {[%clk 1:30:00]} 17. Bxf6 {[%clk 1:30:00]}  gxf6 {[%clk 1:30:00]} 18. Ne4 {[%clk 1:01:00]}  Be7 {[%clk 1:30:00]} 19. Nd6 {[%clk 0:59:00]}  Bxd6 {[%clk 1:30:00]} 20. Rxd6 {[%clk 0:59:00]}  Rd8 {[%clk 1:30:00]} 21. Qd3 {[%clk 0:56:00]}  Rxd6 {[%clk 0:36:00]} 22. Qxd6 {[%clk 0:56:00]}  Qb8 {[%clk 1:30:00]} 23. Qxb8+ {[%clk 1:30:00]}  Nxb8 {[%clk 1:30:00]} 24. Nd4 {[%clk 0:54:00]}  a6 {[%clk 1:30:00]} 25. f3 {[%clk 0:49:00]}  f5 {[%clk 1:30:00]} 26. Kf2 {[%clk 0:48:00]}  Kf8 {[%clk 1:30:00]} 27. b4 {[%clk 0:47:00]}  Ke7 {[%clk 1:30:00]} 28. Ke3 {[%clk 0:44:00]}  f6 {[%clk 1:30:00]} 29. g3 {[%clk 0:42:00]}  Bc8 {[%clk 1:30:00]} 30. Bd3 {[%clk 0:41:00]}  Bd7 {[%clk 1:30:00]} 31. f4 {[%clk 0:38:00]}  h6 {[%clk 1:30:00]} 32. Kd2 {[%clk 0:37:00]}  Nc6 {[%clk 1:30:00]} 33. Nxc6+ {[%clk 1:30:00]}  Bxc6 {[%clk 1:30:00]} 34. c5 {[%clk 0:35:00]}  bxc5 {[%clk 1:30:00]} 35. Bxa6 {[%clk 0:34:00]}  cxb4 {[%clk 0:14:00]} 36. axb4 {[%clk 0:35:00]}  Kd6 {[%clk 1:30:00]} 37. Kc3 {[%clk 0:29:00]}  Bd5 {[%clk 1:30:00]} 38. Bd3 {[%clk 0:28:00]}  Kc6 {[%clk 1:30:00]} 39. Kd4 {[%clk 1:30:00]}  Kd6 {[%clk 1:30:00]} 40. Kc3 {[%clk 1:30:00]}  Kc6 {[%clk 1:30:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Ehlvest, Jaan"]
+[Black "Findlay, Ian T."]
+[WhiteFideId "4500016"]
+[BlackFideId "2600226"]
+[WhiteElo "2517"]
+[BlackElo "2162"]
+[Result "1-0"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:07:50"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:31:00]}  c5 {[%clk 1:31:00]} 3. d5 {[%clk 1:31:00]}  e6 {[%clk 1:31:00]} 4. Nc3 {[%clk 1:32:00]}  exd5 {[%clk 1:31:00]} 5. cxd5 {[%clk 1:32:00]}  d6 {[%clk 1:32:00]} 6. Nf3 {[%clk 1:33:00]}  g6 {[%clk 1:30:00]} 7. Nd2 {[%clk 1:33:00]}  Bg7 {[%clk 1:30:00]} 8. e4 {[%clk 1:33:00]}  O-O {[%clk 1:30:00]} 9. Be2 {[%clk 1:34:00]}  Nbd7 {[%clk 1:30:00]} 10. O-O {[%clk 1:33:00]}  a6 {[%clk 1:30:00]} 11. a4 {[%clk 1:34:00]}  Rb8 {[%clk 1:30:00]} 12. Re1 {[%clk 1:12:00]}  Re8 {[%clk 1:30:00]} 13. Ra3 {[%clk 1:04:00]}  Nb6 {[%clk 1:30:00]} 14. Qc2 {[%clk 0:55:00]}  Bd7 {[%clk 1:30:00]} 15. Ra1 {[%clk 0:39:00]}  Nc8 {[%clk 1:30:00]} 16. Rb1 {[%clk 0:38:00]}  Qc7 {[%clk 1:30:00]} 17. b3 {[%clk 0:34:00]}  b5 {[%clk 1:21:00]} 18. Bb2 {[%clk 0:34:00]}  c4 {[%clk 1:30:00]} 19. axb5 {[%clk 0:28:00]}  cxb3 {[%clk 1:30:00]} 20. Qxb3 {[%clk 0:24:00]}  Na7 {[%clk 1:30:00]} 21. Qc4 {[%clk 0:19:54]}  Qxc4 {[%clk 1:30:00]} 22. Nxc4 {[%clk 1:30:00]}  axb5 {[%clk 1:30:00]} 23. Nxd6 {[%clk 1:30:00]}  b4 {[%clk 1:30:00]} 24. Nxe8 {[%clk 0:14:48]}  Rxe8 {[%clk 1:30:00]} 25. Na2 {[%clk 0:12:58]}  b3 {[%clk 1:30:00]} 26. Nc3 {[%clk 0:12:21]}  Nxe4 {[%clk 1:30:00]} 27. Nxe4 {[%clk 0:12:27]}  Rxe4 {[%clk 0:15:47]} 28. Bxg7 {[%clk 0:12:40]}  Kxg7 {[%clk 0:16:13]} 29. Rxb3 {[%clk 0:12:46]}  Nc8 {[%clk 1:30:00]} 30. Kf1 {[%clk 0:10:41]}  Nd6 {[%clk 1:30:00]} 31. Rb6 {[%clk 0:09:57]}  Nf5 {[%clk 1:30:00]} 32. Rb7 {[%clk 0:08:27]}  Ba4 {[%clk 1:30:00]} 33. Bd3 {[%clk 0:07:50]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Barron, Michael"]
+[Black "Sokolin, Leonid"]
+[WhiteFideId "2605120"]
+[BlackFideId "2009161"]
+[WhiteElo "2127"]
+[BlackElo "2464"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:44:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 3. d4 {[%clk 1:30:00]}  cxd4 {[%clk 1:30:00]} 4. Nxd4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 5. Nc3 {[%clk 1:32:00]}  e5 {[%clk 1:30:00]} 6. Ndb5 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 7. Nd5 {[%clk 1:30:00]}  Nxd5 {[%clk 1:30:00]} 8. exd5 {[%clk 1:30:00]}  Ne7 {[%clk 1:30:00]} 9. c3 {[%clk 1:33:00]}  Nf5 {[%clk 1:30:00]} 10. a4 {[%clk 1:33:00]}  Be7 {[%clk 1:30:00]} 11. Bd3 {[%clk 1:33:00]}  O-O {[%clk 1:33:00]} 12. O-O {[%clk 1:34:00]}  Bd7 {[%clk 1:30:00]} 13. Qc2 {[%clk 1:28:00]}  g6 {[%clk 1:30:00]} 14. f4 {[%clk 1:28:00]}  a6 {[%clk 1:30:00]} 15. Na3 {[%clk 1:29:00]}  Rc8 {[%clk 1:30:00]} 16. Nc4 {[%clk 1:28:00]}  Re8 {[%clk 1:30:00]} 17. Qf2 {[%clk 1:23:00]}  e4 {[%clk 1:30:00]} 18. Be2 {[%clk 1:24:00]}  b5 {[%clk 1:30:00]} 19. axb5 {[%clk 1:14:00]}  axb5 {[%clk 1:30:00]} 20. Ne3 {[%clk 1:14:00]}  b4 {[%clk 1:30:00]} 21. cxb4 {[%clk 1:13:00]}  Nd4 {[%clk 1:30:00]} 22. Ba6 {[%clk 0:56:00]}  Ra8 {[%clk 1:30:00]} 23. Nc4 {[%clk 0:51:00]}  Nb3 {[%clk 1:30:00]} 24. Ra3 {[%clk 0:50:00]}  Rxa6 {[%clk 1:30:00]} 25. Rxb3 {[%clk 0:42:00]}  Bb5 {[%clk 1:30:00]} 26. Na3 {[%clk 0:39:00]}  Bxf1 {[%clk 0:26:00]} 27. Qxf1 {[%clk 0:40:00]}  Qa8 {[%clk 1:30:00]} 28. Qd1 {[%clk 0:38:00]}  Qb7 {[%clk 1:30:00]} 29. Be3 {[%clk 0:37:00]}  Bf6 {[%clk 1:30:00]} 30. b5 {[%clk 0:37:00]}  Ra4 {[%clk 1:30:00]} 31. Qd2 {[%clk 0:33:00]}  Rb8 {[%clk 1:30:00]} 32. Kf2 {[%clk 0:26:00]}  Bd8 {[%clk 0:11:01]} 33. Rc3 {[%clk 0:26:00]}  Bb6 {[%clk 1:30:00]} 34. Rc6 {[%clk 1:30:00]}  Bxe3+ {[%clk 1:30:00]} 35. Qxe3 {[%clk 0:23:00]}  Qe7 {[%clk 1:30:00]} 36. Qc3 {[%clk 0:18:35]}  e3+ {[%clk 1:30:00]} 37. Qxe3 {[%clk 0:17:41]}  Re4 {[%clk 1:30:00]} 38. Qf3 {[%clk 0:14:50]}  Qh4+ {[%clk 0:03:44]} 39. Qg3 {[%clk 0:14:50]}  Rxf4+ {[%clk 0:04:06]} 40. Ke3 {[%clk 0:45:00]}  Re8+ {[%clk 0:33:00]} 41. Kd3 {[%clk 0:46:00]}  Qf6 {[%clk 1:30:00]} 42. Nc4 {[%clk 0:46:00]}  Ree4 {[%clk 1:30:00]} 43. b6 {[%clk 0:44:00]}  Rd4+ {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Nunn, John D M"]
+[Black "Vaisser, Anatoly"]
+[WhiteFideId "400017"]
+[BlackFideId "603252"]
+[WhiteElo "2568"]
+[BlackElo "2477"]
+[Result "1-0"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:04:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 2. d4 {[%clk 1:30:00]}  d5 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:31:00]}  Bb4 {[%clk 1:30:00]} 4. e5 {[%clk 1:32:00]}  c5 {[%clk 1:30:00]} 5. a3 {[%clk 1:32:00]}  Bxc3+ {[%clk 1:31:00]} 6. bxc3 {[%clk 1:32:00]}  Qc7 {[%clk 1:30:00]} 7. a4 {[%clk 1:25:00]}  Ne7 {[%clk 1:30:00]} 8. Nf3 {[%clk 1:25:00]}  b6 {[%clk 1:30:00]} 9. Bb5+ {[%clk 1:25:00]}  Bd7 {[%clk 1:30:00]} 10. Bd3 {[%clk 1:25:00]}  Nbc6 {[%clk 1:30:00]} 11. O-O {[%clk 1:26:00]}  c4 {[%clk 1:16:00]} 12. Be2 {[%clk 1:26:00]}  f6 {[%clk 1:19:00]} 13. Re1 {[%clk 1:23:00]}  Ng6 {[%clk 1:09:00]} 14. Ba3 {[%clk 1:18:00]}  Nce7 {[%clk 1:00:00]} 15. h4 {[%clk 1:14:00]}  h5 {[%clk 0:47:00]} 16. g3 {[%clk 1:10:00]}  fxe5 {[%clk 0:36:00]} 17. dxe5 {[%clk 0:45:00]}  Nxe5 {[%clk 0:36:00]} 18. Nxe5 {[%clk 0:44:00]}  Qxe5 {[%clk 0:36:00]} 19. Bxc4 {[%clk 0:42:00]}  Qf5 {[%clk 0:32:00]} 20. Bd3 {[%clk 0:39:00]}  Qf6 {[%clk 0:32:00]} 21. Bd6 {[%clk 0:38:00]}  O-O {[%clk 0:25:00]} 22. Qe2 {[%clk 0:38:00]}  Rae8 {[%clk 0:24:00]} 23. a5 {[%clk 0:38:00]}  Rf7 {[%clk 0:17:51]} 24. axb6 {[%clk 0:38:00]}  axb6 {[%clk 0:18:18]} 25. Ra7 {[%clk 0:29:00]}  Nf5 {[%clk 0:14:48]} 26. Be5 {[%clk 0:28:00]}  Qg6 {[%clk 0:14:09]} 27. Rb7 {[%clk 0:28:00]}  b5 {[%clk 0:14:03]} 28. Ra1 {[%clk 0:26:00]}  Bc6 {[%clk 0:12:38]} 29. Rb6 {[%clk 0:26:00]}  Rc8 {[%clk 0:12:10]} 30. Raa6 {[%clk 0:22:00]}  Bd7 {[%clk 0:12:20]} 31. Ra7 {[%clk 0:22:00]}  Bc6 {[%clk 0:11:40]} 32. Rxf7 {[%clk 0:21:00]}  Qxf7 {[%clk 0:11:55]} 33. Bxb5 {[%clk 0:20:00]}  Bxb5 {[%clk 0:11:45]} 34. Rxb5 {[%clk 0:19:59]}  Kh7 {[%clk 0:10:58]} 35. Rb6 {[%clk 0:19:06]}  Qg6 {[%clk 0:07:20]} 36. Kh2 {[%clk 0:17:13]}  Rc4 {[%clk 0:05:57]} 37. Rb4 {[%clk 0:17:02]}  Rc6 {[%clk 0:05:11]} 38. Qb5 {[%clk 0:13:17]}  Rc8 {[%clk 0:04:27]} 39. Qd7 {[%clk 0:12:48]}  Re8 {[%clk 0:03:51]} 40. Rb6 {[%clk 0:35:00]}  Ne3 {[%clk 0:32:00]} 41. Bxg7 {[%clk 0:32:00]}  Kg8 {[%clk 0:25:00]} 42. Bd4 {[%clk 0:26:00]}  Ng4+ {[%clk 0:17:11]} 43. Kg1 {[%clk 0:26:00]}  Qf7 {[%clk 0:17:07]} 44. Qc6 {[%clk 0:23:00]}  e5 {[%clk 0:16:03]} 45. Rb7 {[%clk 0:20:00]}  Qe6 {[%clk 0:15:32]} 46. Qc7 {[%clk 0:20:00]}  Qg6 {[%clk 0:15:32]} 47. Bc5 {[%clk 0:20:00]}  Nf6 {[%clk 0:09:34]} 48. Be3 {[%clk 0:14:21]}  Ng4 {[%clk 0:06:35]} 49. Bc5 {[%clk 0:10:31]}  d4 {[%clk 0:05:24]} 50. Rb8 {[%clk 0:06:06]}  dxc3 {[%clk 0:04:09]} 51. Rxe8+ {[%clk 0:04:12]}  Qxe8 {[%clk 0:04:37]} 52. Bb4 {[%clk 0:04:24]}  Qb5 {[%clk 0:03:11]} 53. Qxc3 {[%clk 0:04:03]}  Qe2 {[%clk 0:03:11]} 54. Qd2 {[%clk 0:04:26]}  Qf3 {[%clk 0:02:30]} 55. Qg5+ {[%clk 0:04:23]}  Kf7 {[%clk 0:02:48]} 56. Qxh5+ {[%clk 0:04:46]}  Kg7 {[%clk 0:02:58]} 57. Qg5+ {[%clk 0:04:47]}  Kf7 {[%clk 0:03:04]} 58. Qd2 {[%clk 0:04:53]}  e4 {[%clk 0:02:49]} 59. Bc5 {[%clk 0:04:35]}  Qf5 {[%clk 0:02:17]} 60. Bd4 {[%clk 0:04:32]}  Ke6 {[%clk 0:02:13]} 61. c4 {[%clk 0:04:40]}  Kd7 {[%clk 0:01:35]} 62. Qf4 {[%clk 0:03:12]}  Qxf4 {[%clk 0:01:00]} 63. gxf4 {[%clk 0:03:36]}  Nh6 {[%clk 0:01:24]} 64. Be3 {[%clk 0:02:22]}  Nf5 {[%clk 0:01:39]} 65. h5 {[%clk 0:02:49]}  Ke6 {[%clk 0:01:58]} 66. Kg2 {[%clk 0:03:12]}  Ng7 {[%clk 1:30:00]} 67. h6 {[%clk 1:30:00]}  Nf5 {[%clk 1:30:00]} 68. h7 {[%clk 1:30:00]}  Nh4+ {[%clk 1:30:00]} 69. Kg3 {[%clk 0:04:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Boudre, Jean-Pierre"]
+[Black "Littlewood, Paul E"]
+[WhiteFideId "600237"]
+[BlackFideId "400190"]
+[WhiteElo "2255"]
+[BlackElo "2342"]
+[Result "1/2-1/2"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:09:00"]
+[BlackClock "0:27:00"]
+
+1. e4 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:31:00]}  Nc6 {[%clk 1:30:00]} 3. Bb5 {[%clk 1:31:00]}  e6 {[%clk 1:30:00]} 4. Bxc6 {[%clk 1:29:00]}  bxc6 {[%clk 1:30:00]} 5. O-O {[%clk 1:27:00]}  Ne7 {[%clk 1:30:00]} 6. b3 {[%clk 1:27:00]}  Ng6 {[%clk 1:30:00]} 7. Bb2 {[%clk 1:26:00]}  f6 {[%clk 1:30:00]} 8. e5 {[%clk 1:15:00]}  Be7 {[%clk 1:30:00]} 9. d3 {[%clk 1:11:00]}  O-O {[%clk 1:30:00]} 10. Nbd2 {[%clk 1:11:00]}  fxe5 {[%clk 1:30:00]} 11. Nxe5 {[%clk 1:11:00]}  Nxe5 {[%clk 1:13:00]} 12. Bxe5 {[%clk 1:11:00]}  d6 {[%clk 1:30:00]} 13. Bg3 {[%clk 1:10:00]}  e5 {[%clk 1:30:00]} 14. Qe2 {[%clk 1:10:00]}  Bg5 {[%clk 1:30:00]} 15. Rae1 {[%clk 1:03:00]}  Bf5 {[%clk 1:30:00]} 16. Ne4 {[%clk 0:51:00]}  Bh6 {[%clk 1:30:00]} 17. f4 {[%clk 0:41:00]}  d5 {[%clk 1:30:00]} 18. Nd2 {[%clk 0:30:00]}  Qa5 {[%clk 1:30:00]} 19. Nf3 {[%clk 0:28:00]}  exf4 {[%clk 1:30:00]} 20. Bf2 {[%clk 0:28:00]}  Qc3 {[%clk 1:30:00]} 21. Nh4 {[%clk 0:22:00]}  Bd7 {[%clk 1:30:00]} 22. Qe7 {[%clk 0:22:00]}  Rf7 {[%clk 1:30:00]} 23. Qxc5 {[%clk 0:22:00]}  Qxc5 {[%clk 0:20:00]} 24. Bxc5 {[%clk 0:23:00]}  Bg5 {[%clk 1:30:00]} 25. Nf3 {[%clk 0:23:00]}  Bf6 {[%clk 0:17:55]} 26. Ne5 {[%clk 0:23:00]}  Bxe5 {[%clk 0:18:13]} 27. Rxe5 {[%clk 0:23:00]}  a6 {[%clk 1:30:00]} 28. Kf2 {[%clk 0:16:08]}  Re8 {[%clk 1:30:00]} 29. Rfe1 {[%clk 0:13:59]}  Rxe5 {[%clk 0:16:42]} 30. Rxe5 {[%clk 0:14:20]}  h6 {[%clk 1:30:00]} 31. h4 {[%clk 0:14:23]}  Bg4 {[%clk 1:30:00]} 32. Ke1 {[%clk 0:07:29]}  Kh7 {[%clk 1:30:00]} 33. Re7 {[%clk 0:02:12]}  Rxe7+ {[%clk 0:10:24]} 34. Bxe7 {[%clk 0:03:08]}  Kg6 {[%clk 1:30:00]} 35. Bd6 {[%clk 0:01:43]}  Kf5 {[%clk 1:30:00]} 36. Bf8 {[%clk 0:02:04]}  g5 {[%clk 1:30:00]} 37. Bxh6 {[%clk 0:01:43]}  gxh4 {[%clk 0:10:06]} 38. Bf8 {[%clk 0:02:43]}  f3 {[%clk 1:30:00]} 39. gxf3 {[%clk 0:02:05]}  Bxf3 {[%clk 0:09:31]} 40. Bd6 {[%clk 0:32:00]}  d4 {[%clk 1:30:00]} 41. b4 {[%clk 0:13:00]}  h3 {[%clk 1:30:00]} 42. Bh2 {[%clk 0:09:11]}  Kg4 {[%clk 1:30:00]} 43. a3 {[%clk 0:07:34]}  Bd5 {[%clk 1:30:00]} 44. Kf2 {[%clk 0:07:50]}  Ba2 {[%clk 1:30:00]} 45. Be5 {[%clk 0:07:46]}  Bb1 {[%clk 1:30:00]} 46. Bxd4 {[%clk 0:07:37]}  h2 {[%clk 0:27:00]} 47. Kg2 {[%clk 0:07:31]}  Bxc2 {[%clk 0:28:00]} 48. Kxh2 {[%clk 0:08:25]}  Kf3 {[%clk 1:30:00]} 49. Bc5 {[%clk 0:07:51]}  Bxd3 {[%clk 1:30:00]} 50. Kg1 {[%clk 0:08:47]}  Bb5 {[%clk 0:27:00]} 51. Bb6 {[%clk 0:09:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Stebbings, Anthony J"]
+[Black "Giffard, Nicolas"]
+[WhiteFideId "402427"]
+[BlackFideId "600571"]
+[WhiteElo "2297"]
+[BlackElo "2238"]
+[Result "1-0"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:09:00"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. c4 {[%clk 1:30:00]}  e6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:31:00]}  Bb4 {[%clk 1:30:00]} 4. e3 {[%clk 1:31:00]}  Bxc3+ {[%clk 1:31:00]} 5. bxc3 {[%clk 1:32:00]}  c5 {[%clk 1:30:00]} 6. Bd3 {[%clk 1:32:00]}  Nc6 {[%clk 1:30:00]} 7. Nf3 {[%clk 1:28:00]}  d6 {[%clk 1:30:00]} 8. O-O {[%clk 1:25:00]}  e5 {[%clk 1:30:00]} 9. d5 {[%clk 1:25:00]}  Ne7 {[%clk 1:30:00]} 10. Nd2 {[%clk 1:17:00]}  Ng6 {[%clk 1:30:00]} 11. f4 {[%clk 1:05:00]}  exf4 {[%clk 1:30:00]} 12. exf4 {[%clk 1:05:00]}  O-O {[%clk 1:30:00]} 13. Nf3 {[%clk 1:02:00]}  Re8 {[%clk 1:30:00]} 14. Bd2 {[%clk 0:56:00]}  Bg4 {[%clk 1:30:00]} 15. h3 {[%clk 0:53:00]}  Bxf3 {[%clk 1:30:00]} 16. Qxf3 {[%clk 0:52:00]}  Qc7 {[%clk 1:30:00]} 17. g4 {[%clk 0:47:00]}  b5 {[%clk 1:30:00]} 18. g5 {[%clk 0:40:00]}  Nd7 {[%clk 1:30:00]} 19. Kh2 {[%clk 0:31:00]}  Nb6 {[%clk 1:30:00]} 20. cxb5 {[%clk 0:31:00]}  c4 {[%clk 1:30:00]} 21. Bxg6 {[%clk 0:26:00]}  hxg6 {[%clk 1:30:00]} 22. Be3 {[%clk 0:26:00]}  Qb7 {[%clk 1:30:00]} 23. Rad1 {[%clk 0:17:12]}  Na4 {[%clk 1:30:00]} 24. Bd4 {[%clk 0:16:23]}  Qxb5 {[%clk 1:30:00]} 25. f5 {[%clk 0:11:51]}  gxf5 {[%clk 0:57:00]} 26. Qxf5 {[%clk 0:12:17]}  Re2+ {[%clk 1:30:00]} 27. Kg3 {[%clk 0:12:27]}  Qe8 {[%clk 1:30:00]} 28. Rf4 {[%clk 0:10:49]}  Rb8 {[%clk 1:30:00]} 29. Rdf1 {[%clk 0:10:32]}  Rb7 {[%clk 1:30:00]} 30. Rh4 {[%clk 0:10:42]}  Rbb2 {[%clk 1:30:00]} 31. Qh7+ {[%clk 0:09:45]}  Kf8 {[%clk 1:30:00]} 32. Qxg7+ {[%clk 1:30:00]}  Ke7 {[%clk 1:30:00]} 33. Rh8 {[%clk 0:09:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Berthelot, Yannick"]
+[Black "Povah, Nigel E"]
+[WhiteFideId "600547"]
+[BlackFideId "400467"]
+[WhiteElo "2244"]
+[BlackElo "2201"]
+[Result "1-0"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:17:07"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 3. d4 {[%clk 1:31:00]}  cxd4 {[%clk 1:31:00]} 4. Nxd4 {[%clk 1:31:00]}  e6 {[%clk 1:30:00]} 5. Nc3 {[%clk 1:31:00]}  Qc7 {[%clk 1:30:00]} 6. Be3 {[%clk 1:32:00]}  a6 {[%clk 1:30:00]} 7. Qf3 {[%clk 1:31:00]}  Nf6 {[%clk 1:30:00]} 8. O-O-O {[%clk 1:27:00]}  Nxd4 {[%clk 1:30:00]} 9. Bxd4 {[%clk 1:23:00]}  e5 {[%clk 1:30:00]} 10. Qg3 {[%clk 1:09:00]}  d6 {[%clk 1:30:00]} 11. Be3 {[%clk 1:12:00]}  b5 {[%clk 1:30:00]} 12. f3 {[%clk 1:08:00]}  b4 {[%clk 1:30:00]} 13. Nd5 {[%clk 0:52:00]}  Nxd5 {[%clk 1:30:00]} 14. exd5 {[%clk 0:53:00]}  Bf5 {[%clk 1:30:00]} 15. Bd3 {[%clk 0:52:00]}  Bxd3 {[%clk 1:30:00]} 16. Rxd3 {[%clk 0:52:00]}  Rc8 {[%clk 1:30:00]} 17. Qf2 {[%clk 0:45:00]}  Be7 {[%clk 1:30:00]} 18. Kb1 {[%clk 0:42:00]}  O-O {[%clk 1:30:00]} 19. Rb3 {[%clk 0:42:00]}  Qc4 {[%clk 1:30:00]} 20. Qd2 {[%clk 0:38:00]}  Rb8 {[%clk 1:30:00]} 21. c3 {[%clk 0:38:00]}  a5 {[%clk 1:30:00]} 22. Rc1 {[%clk 0:34:00]}  bxc3 {[%clk 1:30:00]} 23. Rcxc3 {[%clk 0:32:00]}  Qf1+ {[%clk 1:30:00]} 24. Rc1 {[%clk 0:30:00]}  Qa6 {[%clk 1:30:00]} 25. Qd3 {[%clk 0:26:00]}  Qxd3+ {[%clk 1:30:00]} 26. Rxd3 {[%clk 0:27:00]}  Rb7 {[%clk 1:30:00]} 27. Rcc3 {[%clk 0:17:03]}  Rfb8 {[%clk 1:30:00]} 28. Rb3 {[%clk 0:16:44]}  f5 {[%clk 1:30:00]} 29. Ba7 {[%clk 0:13:50]}  Rxb3 {[%clk 1:30:00]} 30. Rxb3 {[%clk 0:14:15]}  Rc8 {[%clk 1:30:00]} 31. Rb8 {[%clk 0:12:04]}  Rxb8 {[%clk 0:03:28]} 32. Bxb8 {[%clk 0:12:55]}  Kf7 {[%clk 1:30:00]} 33. a4 {[%clk 0:10:02]}  e4 {[%clk 1:30:00]} 34. f4 {[%clk 0:09:31]}  g5 {[%clk 1:30:00]} 35. g3 {[%clk 0:09:26]}  gxf4 {[%clk 1:30:00]} 36. gxf4 {[%clk 1:30:00]}  Ke8 {[%clk 1:30:00]} 37. Bc7 {[%clk 0:09:34]}  Bd8 {[%clk 1:30:00]} 38. Bxd6 {[%clk 0:03:28]}  Bb6 {[%clk 1:30:00]} 39. Kc2 {[%clk 0:03:11]}  Kd7 {[%clk 1:30:00]} 40. Be5 {[%clk 0:30:00]}  Bg1 {[%clk 1:30:00]} 41. h3 {[%clk 0:30:00]}  Bc5 {[%clk 1:30:00]} 42. Bc3 {[%clk 0:21:00]}  Kd6 {[%clk 1:30:00]} 43. Bxa5 {[%clk 0:18:44]}  Kxd5 {[%clk 1:30:00]} 44. Bc7 {[%clk 0:15:36]}  Bd6 {[%clk 1:30:00]} 45. Bxd6 {[%clk 0:15:21]}  Kxd6 {[%clk 0:16:20]} 46. Kc3 {[%clk 0:15:21]}  Kc5 {[%clk 1:30:00]} 47. b4+ {[%clk 0:15:36]}  Kc6 {[%clk 1:30:00]} 48. Kc4 {[%clk 0:15:52]}  Kb6 {[%clk 1:30:00]} 49. b5 {[%clk 0:15:46]}  Ka5 {[%clk 1:30:00]} 50. Kb3 {[%clk 0:15:37]}  Kb6 {[%clk 1:30:00]} 51. Kb4 {[%clk 0:16:27]}  Kb7 {[%clk 1:30:00]} 52. a5 {[%clk 0:16:45]}  Kc7 {[%clk 1:30:00]} 53. b6+ {[%clk 0:16:45]}  Kc6 {[%clk 1:30:00]} 54. Kc4 {[%clk 0:17:07]}  Kd6 {[%clk 1:30:00]} 55. a6 {[%clk 0:15:10]}  Kc6 {[%clk 1:30:00]} 56. a7 {[%clk 1:30:00]}  Kb7 {[%clk 1:30:00]} 57. Kc5 {[%clk 0:16:16]}  e3 {[%clk 1:30:00]} 58. Kd6 {[%clk 0:16:31]}  e2 {[%clk 1:30:00]} 59. a8=Q+ {[%clk 0:17:07]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Watzka, Horst"]
+[Black "Knaak, Rainer"]
+[WhiteFideId "1600311"]
+[BlackFideId "4611250"]
+[WhiteElo "2165"]
+[BlackElo "2479"]
+[Result "0-1"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:09:34"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  e5 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  Nc6 {[%clk 1:30:00]} 3. Bb5 {[%clk 1:29:00]}  a6 {[%clk 1:30:00]} 4. Ba4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 5. d3 {[%clk 1:28:00]}  d6 {[%clk 1:30:00]} 6. c3 {[%clk 1:25:00]}  g6 {[%clk 1:30:00]} 7. O-O {[%clk 1:25:00]}  Bg7 {[%clk 1:30:00]} 8. Re1 {[%clk 1:23:00]}  O-O {[%clk 1:30:00]} 9. h3 {[%clk 1:17:00]}  Re8 {[%clk 1:30:00]} 10. Nbd2 {[%clk 1:17:00]}  h6 {[%clk 1:30:00]} 11. Nf1 {[%clk 1:17:00]}  b5 {[%clk 1:30:00]} 12. Bc2 {[%clk 1:15:00]}  d5 {[%clk 1:30:00]} 13. Ng3 {[%clk 1:02:00]}  dxe4 {[%clk 1:30:00]} 14. dxe4 {[%clk 1:03:00]}  Be6 {[%clk 1:30:00]} 15. Bb3 {[%clk 0:58:00]}  Qe7 {[%clk 1:30:00]} 16. Qe2 {[%clk 0:55:00]}  Na5 {[%clk 1:30:00]} 17. Bxe6 {[%clk 0:51:00]}  Qxe6 {[%clk 1:30:00]} 18. Be3 {[%clk 0:40:00]}  Bf8 {[%clk 1:30:00]} 19. Nd2 {[%clk 0:38:00]}  c5 {[%clk 1:30:00]} 20. a4 {[%clk 0:32:00]}  c4 {[%clk 1:30:00]} 21. axb5 {[%clk 1:30:00]}  axb5 {[%clk 1:30:00]} 22. Ra2 {[%clk 0:29:00]}  Nb7 {[%clk 1:30:00]} 23. Rea1 {[%clk 0:28:00]}  Rxa2 {[%clk 1:30:00]} 24. Rxa2 {[%clk 0:29:00]}  Qc6 {[%clk 1:30:00]} 25. f3 {[%clk 0:22:00]}  Nc5 {[%clk 1:30:00]} 26. Ra1 {[%clk 0:19:19]}  Rd8 {[%clk 1:30:00]} 27. Rb1 {[%clk 0:16:09]}  Rd3 {[%clk 1:30:00]} 28. Kh2 {[%clk 0:13:24]}  Ne6 {[%clk 1:30:00]} 29. Ndf1 {[%clk 0:10:09]}  Kh7 {[%clk 1:30:00]} 30. Nh1 {[%clk 0:09:36]}  h5 {[%clk 1:30:00]} 31. Nf2 {[%clk 1:30:00]}  Rd7 {[%clk 1:30:00]} 32. h4 {[%clk 0:07:46]}  Nf4 {[%clk 1:30:00]} 33. Qc2 {[%clk 0:05:41]}  Be7 {[%clk 1:30:00]} 34. g3 {[%clk 0:04:43]}  Nd3 {[%clk 1:30:00]} 35. Nh3 {[%clk 0:03:47]}  Ne8 {[%clk 1:30:00]} 36. b3 {[%clk 0:03:20]}  Nd6 {[%clk 1:30:00]} 37. bxc4 {[%clk 0:02:44]}  Nxc4 {[%clk 1:30:00]} 38. Rd1 {[%clk 0:03:08]}  Ndb2 {[%clk 1:30:00]} 39. Rb1 {[%clk 1:30:00]}  Na4 {[%clk 1:30:00]} 40. Qb3 {[%clk 0:31:00]}  Rb7 {[%clk 1:30:00]} 41. Rd1 {[%clk 0:31:00]}  Kg7 {[%clk 1:30:00]} 42. Rd3 {[%clk 0:09:34]}  b4 {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Chevelevitch, Evgueni, Dr."]
+[Black "Dohr, Alexander"]
+[WhiteFideId "4684257"]
+[BlackFideId "1602950"]
+[WhiteElo "2369"]
+[BlackElo "2139"]
+[Result "1-0"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "1:14:00"]
+[BlackClock "1:30:00"]
+
+1. e4 {[%clk 1:30:00]}  c6 {[%clk 1:30:00]} 2. d4 {[%clk 1:31:00]}  d5 {[%clk 1:30:00]} 3. e5 {[%clk 1:31:00]}  Bf5 {[%clk 1:30:00]} 4. h4 {[%clk 1:31:00]}  h6 {[%clk 1:30:00]} 5. g4 {[%clk 1:31:00]}  Bd7 {[%clk 1:30:00]} 6. Nc3 {[%clk 1:24:00]}  e6 {[%clk 1:30:00]} 7. Be3 {[%clk 1:24:00]}  h5 {[%clk 1:30:00]} 8. gxh5 {[%clk 1:24:00]}  Be7 {[%clk 1:30:00]} 9. Qg4 {[%clk 1:22:00]}  Kf8 {[%clk 1:30:00]} 10. Nf3 {[%clk 1:22:00]}  Nh6 {[%clk 1:30:00]} 11. Bxh6 {[%clk 1:20:00]}  Rxh6 {[%clk 1:30:00]} 12. Rg1 {[%clk 1:19:00]}  g6 {[%clk 1:30:00]} 13. Bd3 {[%clk 1:14:00]}  Ke8 {[%clk 1:30:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Kratschmer, Heinz"]
+[Black "Kiefer, Gerhard"]
+[WhiteFideId "1606670"]
+[BlackFideId "4606965"]
+[WhiteElo "2062"]
+[BlackElo "2212"]
+[Result "0-1"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:36:00"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 2. Nf3 {[%clk 1:30:00]}  g6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:31:00]}  d5 {[%clk 1:31:00]} 4. Bf4 {[%clk 1:32:00]}  Bg7 {[%clk 1:30:00]} 5. Nb5 {[%clk 1:32:00]}  Na6 {[%clk 1:32:00]} 6. e3 {[%clk 1:32:00]}  O-O {[%clk 1:30:00]} 7. Be2 {[%clk 1:32:00]}  c6 {[%clk 1:30:00]} 8. Nc3 {[%clk 1:32:00]}  Nc7 {[%clk 1:30:00]} 9. Ne5 {[%clk 1:26:00]}  Ne6 {[%clk 1:30:00]} 10. Bg3 {[%clk 1:26:00]}  c5 {[%clk 1:30:00]} 11. Qd2 {[%clk 1:20:00]}  cxd4 {[%clk 1:30:00]} 12. exd4 {[%clk 1:21:00]}  h5 {[%clk 1:30:00]} 13. f3 {[%clk 1:13:00]}  Qb6 {[%clk 1:30:00]} 14. O-O-O {[%clk 1:13:00]}  Qa5 {[%clk 1:30:00]} 15. Kb1 {[%clk 1:12:00]}  Nd7 {[%clk 1:30:00]} 16. f4 {[%clk 1:02:00]}  Nxe5 {[%clk 1:30:00]} 17. fxe5 {[%clk 0:58:00]}  Kh7 {[%clk 1:30:00]} 18. Bf2 {[%clk 0:58:00]}  Bh6 {[%clk 1:30:00]} 19. Be3 {[%clk 1:30:00]}  Bxe3 {[%clk 1:30:00]} 20. Qxe3 {[%clk 0:58:00]}  Ng7 {[%clk 1:30:00]} 21. h3 {[%clk 0:54:00]}  b5 {[%clk 1:30:00]} 22. Bf3 {[%clk 0:52:00]}  b4 {[%clk 1:30:00]} 23. Nxd5 {[%clk 0:51:00]}  Be6 {[%clk 1:30:00]} 24. c4 {[%clk 0:52:00]}  bxc3 {[%clk 1:30:00]} 25. Nxc3 {[%clk 0:52:00]}  Rab8 {[%clk 1:30:00]} 26. d5 {[%clk 0:48:00]}  Rfc8 {[%clk 1:30:00]} 27. Ka1 {[%clk 0:46:00]}  Rxb2 {[%clk 1:30:00]} 28. Kxb2 {[%clk 1:30:00]}  Qb4+ {[%clk 1:30:00]} 29. Ka1 {[%clk 0:45:00]}  Rxc3 {[%clk 1:30:00]} 30. Rd3 {[%clk 0:45:00]}  Rc2 {[%clk 1:30:00]} 31. Rb3 {[%clk 0:43:00]}  Qa4 {[%clk 1:30:00]} 32. Ra3 {[%clk 1:30:00]}  Qc4 {[%clk 1:30:00]} 33. dxe6 {[%clk 0:43:00]}  Nf5 {[%clk 1:30:00]} 34. Qd3 {[%clk 0:37:00]}  Qc5 {[%clk 1:30:00]} 35. exf7 {[%clk 0:36:00]}  Qxe5+ {[%clk 1:30:00]} 36. Rc3 {[%clk 0:35:00]}  Rxc3 {[%clk 1:30:00]} 37. Qxc3 {[%clk 0:35:00]}  Qxc3+ {[%clk 0:12:16]} 38. Kb1 {[%clk 0:36:00]}  Kg7 {[%clk 1:30:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Senior Team Chess Championship 2022"]
+[White "Kierzek, Matthias, Dr."]
+[Black "Pitzl, Konstantinos"]
+[WhiteFideId "4647009"]
+[BlackFideId "1627112"]
+[WhiteElo "2224"]
+[BlackElo "2030"]
+[Result "1-0"]
+[Round "05"]
+[Fen "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w AHah - 0 0"]
+[TimeControl "5400+30"]
+[Date "2022.06.24"]
+[WhiteClock "0:16:55"]
+[BlackClock "1:30:00"]
+
+1. d4 {[%clk 1:30:00]}  d6 {[%clk 1:30:00]} 2. e4 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 3. Nc3 {[%clk 1:30:00]}  g6 {[%clk 1:30:00]} 4. Be3 {[%clk 1:31:00]}  Bg7 {[%clk 1:30:00]} 5. Qd2 {[%clk 1:31:00]}  c6 {[%clk 1:30:00]} 6. Nf3 {[%clk 1:31:00]}  Qa5 {[%clk 1:30:00]} 7. h3 {[%clk 1:20:00]}  O-O {[%clk 1:24:00]} 8. Bd3 {[%clk 1:19:00]}  Nbd7 {[%clk 1:30:00]} 9. O-O {[%clk 1:17:00]}  Qc7 {[%clk 1:30:00]} 10. Ne2 {[%clk 1:11:00]}  b5 {[%clk 1:30:00]} 11. c3 {[%clk 1:08:00]}  Bb7 {[%clk 1:30:00]} 12. Ng3 {[%clk 1:00:00]}  e5 {[%clk 1:30:00]} 13. Rfe1 {[%clk 0:54:00]}  Rfe8 {[%clk 1:30:00]} 14. Rac1 {[%clk 0:53:00]}  c5 {[%clk 1:30:00]} 15. dxe5 {[%clk 0:42:00]}  dxe5 {[%clk 1:30:00]} 16. Bxb5 {[%clk 0:41:00]}  Rad8 {[%clk 1:30:00]} 17. Qc2 {[%clk 0:39:00]}  Qa5 {[%clk 1:30:00]} 18. Bf1 {[%clk 0:33:00]}  Qxa2 {[%clk 1:30:00]} 19. Ra1 {[%clk 1:30:00]}  Qe6 {[%clk 1:30:00]} 20. Rxa7 {[%clk 0:32:00]}  Qc6 {[%clk 1:30:00]} 21. Nd2 {[%clk 0:28:00]}  Qb6 {[%clk 1:30:00]} 22. Rea1 {[%clk 0:28:00]}  Ra8 {[%clk 1:30:00]} 23. Rxa8 {[%clk 1:30:00]}  Rxa8 {[%clk 1:30:00]} 24. Rxa8+ {[%clk 1:30:00]}  Bxa8 {[%clk 1:30:00]} 25. Bc4 {[%clk 0:26:00]}  Qb8 {[%clk 1:30:00]} 26. Qa4 {[%clk 0:24:00]}  Qb7 {[%clk 1:30:00]} 27. Qb5 {[%clk 0:18:30]}  h5 {[%clk 1:30:00]} 28. Qxb7 {[%clk 1:30:00]}  Bxb7 {[%clk 1:30:00]} 29. f3 {[%clk 0:17:53]}  Bf8 {[%clk 1:30:00]} 30. Nb3 {[%clk 0:16:30]}  Nb6 {[%clk 1:30:00]} 31. Bb5 {[%clk 0:16:15]}  Nfd7 {[%clk 1:30:00]} 32. Nf1 {[%clk 0:14:34]}  f5 {[%clk 0:19:11]} 33. Nfd2 {[%clk 0:14:24]}  Kg7 {[%clk 1:30:00]} 34. exf5 {[%clk 0:10:12]}  gxf5 {[%clk 1:30:00]} 35. Nc4 {[%clk 0:10:30]}  Bd5 {[%clk 1:30:00]} 36. Nxb6 {[%clk 0:10:04]}  Nxb6 {[%clk 1:30:00]} 37. Bxc5 {[%clk 0:09:47]}  Bxc5+ {[%clk 0:14:33]} 38. Nxc5 {[%clk 0:10:11]}  Bc4 {[%clk 1:30:00]} 39. Bxc4 {[%clk 0:08:38]}  Nxc4 {[%clk 1:30:00]} 40. b4 {[%clk 0:38:00]}  Kf7 {[%clk 1:30:00]} 41. Kf2 {[%clk 1:30:00]}  h4 {[%clk 1:30:00]} 42. Ke2 {[%clk 0:35:00]}  Ke7 {[%clk 1:30:00]} 43. Kd3 {[%clk 0:34:00]}  Nb2+ {[%clk 1:30:00]} 44. Ke2 {[%clk 1:30:00]}  Nc4 {[%clk 1:30:00]} 45. Nb3 {[%clk 0:32:00]}  Ke6 {[%clk 1:30:00]} 46. Na5 {[%clk 0:31:00]}  Nb2 {[%clk 1:30:00]} 47. c4 {[%clk 0:29:00]}  Na4 {[%clk 1:30:00]} 48. Kd3 {[%clk 0:29:00]}  Nb6 {[%clk 1:30:00]} 49. Nb3 {[%clk 0:28:00]}  Nd7 {[%clk 1:30:00]} 50. Nc5+ {[%clk 0:15:01]}  Nxc5+ {[%clk 1:30:00]} 51. bxc5 {[%clk 0:15:55]}  Kd7 {[%clk 0:27:00]} 52. g3 {[%clk 0:15:49]}  hxg3 {[%clk 0:27:00]} 53. Ke2 {[%clk 0:16:42]}  e4 {[%clk 1:30:00]} 54. fxe4 {[%clk 0:16:25]}  fxe4 {[%clk 1:30:00]} 55. h4 {[%clk 0:16:55]} 1-0
+
