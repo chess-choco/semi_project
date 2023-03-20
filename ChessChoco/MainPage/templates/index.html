@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <style>
+        body {
+            background-color: #F5F5F5;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #6C7A89;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            position: relative;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        nav li {
+            display: inline-block;
+            margin-right: 20px;
+        }
+
+        nav li:last-child {
+            margin-right: 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            color: #ccc;
+        }
+        
+        h1 {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 50px;
+            color: #2C3E50;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 20px;
+            line-height: 1.5;
+        }
+        
+        main.p {
+            
+            color: #34495E;
+            margin: 20px 0;
+            
+        }
+        
+        .cta {
+            background-color: #34495E;
+            color: white;
+            display: block;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 20px auto;
+            width: 500px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            transition: all 0.2s ease-in-out;
+        }
+        
+        .cta:hover {
+            background-color: #6C7A89;
+            cursor: pointer;
+        }
+        
+        footer {
+            background-color: #34495E;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+  
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+      </style>
+	<title>Chess Basics</title>
+</head>
+<body>
+	<header>
+		<h1>체스</h1>
+		<nav>
+			<ul>
+				<li><a href="/main">Home</a></li>
+				<li><a href="/rules">규칙</a></li>
+				<li><a href="/openings">오프닝</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<h2>체스란 무엇인가?</h2>
+		<p>체스는 두 명의 플레이어가 서로 경쟁하여 킹을 잡는 것이 목적인 전략 보드 게임입니다. 게임을 시작할 때, 각 플레이어는 킹, 퀸, 룩, 비숍, 나이트, 그리고 폰으로 구성된 16개의 말을 가지고 있습니다.</p>
+        <p>체스보드는 8x8크기의 정사각형이며 검은색과 흰색으로 번갈아 칠해져 있습니다. 플레이어는 각자의 말을 이동시켜 상대방의 킹을 공격하고 잡아야 합니다. 이때, 공격받은 킹이 다음 턴에도 공격을 피할 수 없다면, 그 상태를 체크메이트라고 하며, 게임에서 승리합니다.</p>
+		<img src="https://images.unsplash.com/photo-1580541832626-2a7131ee809f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1177&q=80" alt="Chessboard">
+        <h2>체스의 역사</h2>
+		<p>체스는 약 1500년 전, 인도의 전략 보드 게임인 차투랑가(chaturanga)에서 시작되었습니다. 이 게임은 이전에 발생한 전쟁에서 사용되는 다양한 군사 부대를 나타내는 말들을 사용했습니다. 체스는 이 게임에서 비롯되어 서서히 변형되면서 세계적으로 인기 있는 보드 게임으로 자리 잡았습니다.</p>
+	</main>
+	<footer>
+		<p>&copy; Chess Choco</p>
+		<div class="cta" onclick="window.open('http://github.com/chess-choco/semi_project');">
+			<p>Chess Choco</p>
+			<p>MultiCampus Data Analysis 23</p>
+			<p>Seoul, South Korea</p>
+		</div>
+	</footer>
+</body>
+</html>
