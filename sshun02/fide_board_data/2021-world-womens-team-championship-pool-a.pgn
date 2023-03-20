@@ -1,0 +1,1079 @@
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kosteniuk, Alexandra"]
+[Black "Matnadze Bujiashvili, Ann"]
+[WhiteFideId "4128125"]
+[BlackFideId "13601377"]
+[WhiteElo "2517"]
+[BlackElo "2349"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:03:02"]
+[BlackClock "0:00:26"]
+
+1. e4 {[%clk 0:45:14]}  d5 {[%clk 0:45:09]} 2. exd5 {[%clk 0:45:18]}  Qxd5 {[%clk 0:45:17]} 3. Nc3 {[%clk 0:45:23]}  Qd8 {[%clk 0:45:23]} 4. d4 {[%clk 0:44:57]}  c6 {[%clk 0:45:26]} 5. Bc4 {[%clk 0:42:37]}  g6 {[%clk 0:44:47]} 6. Nf3 {[%clk 0:39:43]}  Bg7 {[%clk 0:44:00]} 7. Ne5 {[%clk 0:35:11]}  e6 {[%clk 0:37:51]} 8. Ne4 {[%clk 0:32:31]}  Nf6 {[%clk 0:34:23]} 9. Bg5 {[%clk 0:26:56]}  h6 {[%clk 0:30:29]} 10. Bxf6 {[%clk 0:23:56]}  Bxf6 {[%clk 0:30:36]} 11. Qf3 {[%clk 0:23:01]}  Bxe5 {[%clk 0:29:01]} 12. dxe5 {[%clk 0:23:07]}  Qa5+ {[%clk 0:29:03]} 13. Kf1 {[%clk 0:20:11]}  Qxe5 {[%clk 0:26:50]} 14. Re1 {[%clk 0:18:15]}  Qd4 {[%clk 0:22:55]} 15. Qf4 {[%clk 0:08:51]}  Qxc4+ {[%clk 0:15:40]} 16. Re2 {[%clk 0:08:56]}  Qxa2 {[%clk 0:13:17]} 17. Qe5 {[%clk 0:06:35]}  Nd7 {[%clk 0:06:20]} 18. Qxh8+ {[%clk 0:06:35]}  Ke7 {[%clk 0:06:29]} 19. Qc3 {[%clk 0:05:01]}  b6 {[%clk 0:05:43]} 20. Re1 {[%clk 0:05:02]}  c5 {[%clk 0:04:58]} 21. h4 {[%clk 0:04:46]}  Bb7 {[%clk 0:04:42]} 22. Rh3 {[%clk 0:04:46]}  Rd8 {[%clk 0:02:52]} 23. Rf3 {[%clk 0:03:43]}  e5 {[%clk 0:01:55]} 24. Rfe3 {[%clk 0:03:16]}  Qd5 {[%clk 0:01:52]} 25. f3 {[%clk 0:03:19]}  f5 {[%clk 0:01:51]} 26. Nf2 {[%clk 0:03:26]}  Kf7 {[%clk 0:01:30]} 27. Nd3 {[%clk 0:03:29]}  e4 {[%clk 0:00:56]} 28. fxe4 {[%clk 0:03:27]}  Qd4 {[%clk 0:01:05]} 29. exf5 {[%clk 0:03:15]}  Kf6 {[%clk 0:00:15]} 30. Qxd4+ {[%clk 0:03:12]}  cxd4 {[%clk 0:00:24]} 31. Re6+ {[%clk 0:03:19]}  Kxf5 {[%clk 0:00:30]} 32. Rd6 {[%clk 0:03:28]}  Bc8 {[%clk 0:00:24]} 33. Rxd4 {[%clk 0:03:13]}  g5 {[%clk 0:00:23]} 34. h5 {[%clk 0:03:04]}  Rf8 {[%clk 0:00:26]} 35. Kg1 {[%clk 0:02:54]}  Nf6 {[%clk 0:00:26]} 36. Re5# {[%clk 0:03:02]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Vega Gutierrez, Sabrina"]
+[Black "Lagno, Kateryna"]
+[WhiteFideId "2219026"]
+[BlackFideId "14109336"]
+[WhiteElo "2214"]
+[BlackElo "2521"]
+[Result "0-1"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:12"]
+[BlackClock "0:02:16"]
+
+1. d4 {[%clk 0:45:16]}  Nf6 {[%clk 0:45:16]} 2. c4 {[%clk 0:45:23]}  g6 {[%clk 0:45:23]} 3. Nc3 {[%clk 0:45:31]}  d5 {[%clk 0:45:31]} 4. Nf3 {[%clk 0:45:35]}  Bg7 {[%clk 0:45:37]} 5. Bg5 {[%clk 0:45:39]}  Ne4 {[%clk 0:45:28]} 6. Bf4 {[%clk 0:45:37]}  Nxc3 {[%clk 0:45:05]} 7. bxc3 {[%clk 0:45:44]}  c5 {[%clk 0:45:03]} 8. e3 {[%clk 0:45:49]}  O-O {[%clk 0:44:52]} 9. cxd5 {[%clk 0:45:53]}  cxd4 {[%clk 0:44:35]} 10. cxd4 {[%clk 0:45:59]}  Qxd5 {[%clk 0:44:42]} 11. Be2 {[%clk 0:45:57]}  b6 {[%clk 0:44:46]} 12. O-O {[%clk 0:45:50]}  Bb7 {[%clk 0:44:49]} 13. h4 {[%clk 0:43:36]}  Nd7 {[%clk 0:41:38]} 14. h5 {[%clk 0:42:15]}  gxh5 {[%clk 0:40:14]} 15. Qa4 {[%clk 0:40:58]}  Nf6 {[%clk 0:36:57]} 16. Rac1 {[%clk 0:39:14]}  Qa5 {[%clk 0:25:09]} 17. Qxa5 {[%clk 0:38:34]}  bxa5 {[%clk 0:25:18]} 18. Rc7 {[%clk 0:35:58]}  Bd5 {[%clk 0:25:26]} 19. Bc4 {[%clk 0:20:02]}  Rfc8 {[%clk 0:23:39]} 20. Ba6 {[%clk 0:15:14]}  Rxc7 {[%clk 0:23:10]} 21. Bxc7 {[%clk 0:15:21]}  Ne8 {[%clk 0:19:46]} 22. Bxa5 {[%clk 0:14:50]}  Bxa2 {[%clk 0:19:52]} 23. Rc1 {[%clk 0:13:45]}  Rb8 {[%clk 0:17:59]} 24. Rc5 {[%clk 0:13:44]}  e6 {[%clk 0:13:41]} 25. Ne5 {[%clk 0:13:43]}  Bf8 {[%clk 0:12:45]} 26. Rc1 {[%clk 0:06:47]}  Nf6 {[%clk 0:10:58]} 27. Ra1 {[%clk 0:01:56]}  Bd5 {[%clk 0:10:29]} 28. f3 {[%clk 0:00:48]}  Bh6 {[%clk 0:10:08]} 29. Ra3 {[%clk 0:00:53]}  Rb1+ {[%clk 0:09:14]} 30. Kf2 {[%clk 0:00:38]}  Rb2+ {[%clk 0:09:08]} 31. Be2 {[%clk 0:00:35]}  Rb3 {[%clk 0:03:54]} 32. Rxb3 {[%clk 0:00:40]}  Bxb3 {[%clk 0:04:03]} 33. Nc6 {[%clk 0:00:19]}  Nd5 {[%clk 0:04:07]} 34. Bd2 {[%clk 0:00:15]}  Nb6 {[%clk 0:02:57]} 35. Nxa7 {[%clk 0:00:17]}  Bc4 {[%clk 0:03:06]} 36. Bxc4 {[%clk 0:00:13]}  Nxc4 {[%clk 0:03:15]} 37. Bc1 {[%clk 0:00:22]}  Kg7 {[%clk 0:03:13]} 38. Nb5 {[%clk 0:00:20]}  Kg6 {[%clk 0:03:21]} 39. Ke2 {[%clk 0:00:26]}  Nb6 {[%clk 0:02:53]} 40. Nc3 {[%clk 0:00:32]}  Nc8 {[%clk 0:02:36]} 41. Kd3 {[%clk 0:00:31]}  Nd6 {[%clk 0:02:43]} 42. Ne2 {[%clk 0:00:11]}  Nf5 {[%clk 0:02:47]} 43. Bd2 {[%clk 0:00:11]}  Nh4 {[%clk 0:02:49]} 44. e4 {[%clk 0:00:11]}  Nxg2 {[%clk 0:02:49]} 45. Bxh6 {[%clk 0:00:11]}  Kxh6 {[%clk 0:02:57]} 46. d5 {[%clk 0:00:19]}  exd5 {[%clk 0:02:56]} 47. exd5 {[%clk 0:00:29]}  Kg6 {[%clk 0:03:02]} 48. Ke4 {[%clk 0:00:20]}  Kf6 {[%clk 0:02:41]} 49. f4 {[%clk 0:00:16]}  h4 {[%clk 0:02:22]} 50. Kf3 {[%clk 0:00:24]}  h3 {[%clk 0:02:30]} 51. Nc3 {[%clk 0:00:24]}  Kf5 {[%clk 0:02:10]} 52. Ne2 {[%clk 0:00:16]}  Kf6 {[%clk 0:01:41]} 53. Kg3 {[%clk 0:00:18]}  Ne3 {[%clk 0:01:31]} 54. Nc3 {[%clk 0:00:26]}  Ke7 {[%clk 0:01:33]} 55. Kxh3 {[%clk 0:00:22]}  Kd6 {[%clk 0:01:43]} 56. Kh4 {[%clk 0:00:25]}  Nxd5 {[%clk 0:01:49]} 57. Ne4+ {[%clk 0:00:25]}  Ke7 {[%clk 0:01:55]} 58. f5 {[%clk 0:00:25]}  Nf6 {[%clk 0:01:44]} 59. Ng5 {[%clk 0:00:14]}  h6 {[%clk 0:01:51]} 60. Nf3 {[%clk 0:00:15]}  Kd6 {[%clk 0:01:55]} 61. Kg3 {[%clk 0:00:19]}  Kd5 {[%clk 0:02:02]} 62. Kf4 {[%clk 0:00:28]}  Ne8 {[%clk 0:01:41]} 63. Nh2 {[%clk 0:00:26]}  f6 {[%clk 0:01:33]} 64. Ng4 {[%clk 0:00:20]}  h5 {[%clk 0:01:41]} 65. Ne3+ {[%clk 0:00:25]}  Kd4 {[%clk 0:01:49]} 66. Nf1 {[%clk 0:00:20]}  Ng7 {[%clk 0:01:50]} 67. Nh2 {[%clk 0:00:12]}  Kd3 {[%clk 0:01:44]} 68. Nf3 {[%clk 0:00:14]}  Ke2 {[%clk 0:01:50]} 69. Nd4+ {[%clk 0:00:19]}  Kf2 {[%clk 0:01:59]} 70. Ne6 {[%clk 0:00:21]}  Ne8 {[%clk 0:02:00]} 71. Nf8 {[%clk 0:00:14]}  Kg2 {[%clk 0:02:01]} 72. Ng6 {[%clk 0:00:22]}  Kh3 {[%clk 0:02:07]} 73. Kf3 {[%clk 0:00:23]}  Nd6 {[%clk 0:02:00]} 74. Kf4 {[%clk 0:00:28]}  h4 {[%clk 0:01:52]} 75. Ne7 {[%clk 0:00:22]}  Kg2 {[%clk 0:01:59]} 76. Nd5 {[%clk 0:00:21]}  h3 {[%clk 0:02:00]} 77. Ne3+ {[%clk 0:00:13]}  Kg1 {[%clk 0:02:08]} 78. Ng4 {[%clk 0:00:12]}  h2 {[%clk 0:02:16]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Shuvalova, Polina"]
+[Black "Garcia Martin, Marta"]
+[WhiteFideId "24171760"]
+[BlackFideId "32084030"]
+[WhiteElo "2383"]
+[BlackElo "2097"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:22:28"]
+[BlackClock "0:02:12"]
+
+1. e4 {[%clk 0:45:17]}  e5 {[%clk 0:45:17]} 2. Nf3 {[%clk 0:45:20]}  Nc6 {[%clk 0:45:23]} 3. Bb5 {[%clk 0:45:18]}  a6 {[%clk 0:45:29]} 4. Ba4 {[%clk 0:45:21]}  Nf6 {[%clk 0:45:35]} 5. O-O {[%clk 0:45:23]}  Be7 {[%clk 0:45:40]} 6. Re1 {[%clk 0:45:21]}  b5 {[%clk 0:45:44]} 7. Bb3 {[%clk 0:45:28]}  d6 {[%clk 0:45:49]} 8. c3 {[%clk 0:45:29]}  O-O {[%clk 0:45:53]} 9. h3 {[%clk 0:45:36]}  h6 {[%clk 0:45:51]} 10. d4 {[%clk 0:44:37]}  Re8 {[%clk 0:45:40]} 11. Nbd2 {[%clk 0:43:36]}  Bf8 {[%clk 0:45:34]} 12. Bc2 {[%clk 0:42:03]}  Bb7 {[%clk 0:45:26]} 13. a3 {[%clk 0:41:26]}  Nb8 {[%clk 0:45:14]} 14. b3 {[%clk 0:41:15]}  Nbd7 {[%clk 0:45:17]} 15. Bb2 {[%clk 0:41:13]}  c6 {[%clk 0:45:04]} 16. Nf1 {[%clk 0:40:17]}  Qc7 {[%clk 0:42:54]} 17. Ng3 {[%clk 0:39:52]}  Rad8 {[%clk 0:35:48]} 18. dxe5 {[%clk 0:34:30]}  dxe5 {[%clk 0:33:09]} 19. Qe2 {[%clk 0:34:33]}  Nc5 {[%clk 0:31:44]} 20. c4 {[%clk 0:34:37]}  a5 {[%clk 0:29:15]} 21. Rad1 {[%clk 0:33:07]}  Rxd1 {[%clk 0:26:49]} 22. Rxd1 {[%clk 0:32:42]}  b4 {[%clk 0:26:32]} 23. axb4 {[%clk 0:32:36]}  axb4 {[%clk 0:26:41]} 24. Qd2 {[%clk 0:30:10]}  g6 {[%clk 0:24:12]} 25. Kh2 {[%clk 0:27:48]}  Bc8 {[%clk 0:20:31]} 26. Nxe5 {[%clk 0:25:58]}  Rxe5 {[%clk 0:15:34]} 27. Qd8 {[%clk 0:25:47]}  Qxd8 {[%clk 0:10:15]} 28. Rxd8 {[%clk 0:25:54]}  Re6 {[%clk 0:04:11]} 29. Rxc8 {[%clk 0:25:06]}  Ncxe4 {[%clk 0:04:11]} 30. Bxe4 {[%clk 0:25:06]}  Nxe4 {[%clk 0:04:19]} 31. Nxe4 {[%clk 0:24:30]}  Rxe4 {[%clk 0:04:28]} 32. f3 {[%clk 0:22:22]}  Re6 {[%clk 0:02:12]} 33. Bd4 {[%clk 0:22:28]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Calzetta Ruiz, Monica"]
+[Black "Kashlinskaya, Alina"]
+[WhiteFideId "2204185"]
+[BlackFideId "4198026"]
+[WhiteElo "2103"]
+[BlackElo "2367"]
+[Result "0-1"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:03:41"]
+
+1. e4 {[%clk 0:45:17]}  e5 {[%clk 0:45:09]} 2. Nf3 {[%clk 0:45:24]}  Nf6 {[%clk 0:45:26]} 3. Nxe5 {[%clk 0:45:28]}  d6 {[%clk 0:45:33]} 4. Nf3 {[%clk 0:45:34]}  Nxe4 {[%clk 0:45:50]} 5. d4 {[%clk 0:45:29]}  d5 {[%clk 0:45:50]} 6. Bd3 {[%clk 0:45:18]}  Bd6 {[%clk 0:45:49]} 7. O-O {[%clk 0:45:14]}  O-O {[%clk 0:45:56]} 8. c4 {[%clk 0:45:20]}  c6 {[%clk 0:46:00]} 9. Qc2 {[%clk 0:45:23]}  Na6 {[%clk 0:45:50]} 10. a3 {[%clk 0:45:23]}  Bg4 {[%clk 0:45:50]} 11. Ne5 {[%clk 0:45:23]}  Bf5 {[%clk 0:42:16]} 12. b4 {[%clk 0:45:06]}  f6 {[%clk 0:41:33]} 13. Nf3 {[%clk 0:45:04]}  Bg6 {[%clk 0:41:16]} 14. c5 {[%clk 0:45:04]}  Bb8 {[%clk 0:38:20]} 15. Nh4 {[%clk 0:38:23]}  f5 {[%clk 0:37:43]} 16. Nxg6 {[%clk 0:38:23]}  hxg6 {[%clk 0:37:43]} 17. Nc3 {[%clk 0:36:06]}  Nc7 {[%clk 0:37:43]} 18. Ne2 {[%clk 0:23:49]}  Ne6 {[%clk 0:37:43]} 19. f3 {[%clk 0:15:39]}  N4g5 {[%clk 0:28:13]} 20. Ra2 {[%clk 0:15:39]}  Qf6 {[%clk 0:27:30]} 21. Be3 {[%clk 0:15:32]}  Bc7 {[%clk 0:28:13]} 22. b5 {[%clk 0:15:32]}  Rae8 {[%clk 0:26:21]} 23. bxc6 {[%clk 0:13:01]}  bxc6 {[%clk 0:26:26]} 24. Qd2 {[%clk 0:13:01]}  Nf7 {[%clk 0:26:21]} 25. Rb2 {[%clk 0:10:36]}  Nxc5 {[%clk 0:26:21]} 26. dxc5 {[%clk 0:10:10]}  Rxe3 {[%clk 0:26:21]} 27. Qxe3 {[%clk 0:08:42]}  Qxb2 {[%clk 0:26:21]} 28. Nd4 {[%clk 0:08:42]}  f4 {[%clk 0:26:21]} 29. Qf2 {[%clk 0:08:42]}  Qxf2+ {[%clk 0:10:57]} 30. Kxf2 {[%clk 0:07:02]}  Ne5 {[%clk 0:11:01]} 31. Ba6 {[%clk 0:07:02]}  Rb8 {[%clk 0:11:01]} 32. Ne6 {[%clk 0:07:02]}  Rb2+ {[%clk 0:11:01]} 33. Kg1 {[%clk 0:04:48]}  Ba5 {[%clk 0:11:01]} 34. Nxf4 {[%clk 0:04:48]}  Bd2 {[%clk 0:07:49]} 35. Nd3 {[%clk 0:03:34]}  Nxd3 {[%clk 0:07:41]} 36. Bxd3 {[%clk 0:03:42]}  Be3+ {[%clk 0:07:49]} 37. Kh1 {[%clk 0:03:51]}  Kf7 {[%clk 0:07:49]} 38. g3 {[%clk 0:03:51]}  Rb3 {[%clk 0:07:49]} 39. Ba6 {[%clk 0:03:51]}  Bxc5 {[%clk 0:06:10]} 40. a4 {[%clk 0:03:51]}  Be3 {[%clk 0:06:00]} 41. Re1 {[%clk 0:00:34]}  Kf6 {[%clk 0:03:37]} 42. Rd1 {[%clk 0:00:20]}  Rb2 {[%clk 0:04:59]} 43. Bc8 {[%clk 0:00:34]}  d4 {[%clk 0:04:25]} 44. Bd7 {[%clk 0:00:17]}  c5 {[%clk 0:04:32]} 45. Bb5 {[%clk 0:00:34]}  Rxb5 {[%clk 0:03:28]} 46. axb5 {[%clk 0:00:34]}  c4 {[%clk 0:03:37]} 47. Ra1 {[%clk 0:00:13]}  c3 {[%clk 0:03:36]} 48. Rxa7 {[%clk 0:00:13]}  c2 {[%clk 0:03:43]} 49. Rc7 {[%clk 0:00:13]}  d3 {[%clk 0:03:41]} 50. Kg2 {[%clk 0:00:13]}  d2 {[%clk 0:03:41]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Sebag, Marie"]
+[Black "Danielian, Elina"]
+[WhiteFideId "617822"]
+[BlackFideId "13300210"]
+[WhiteElo "2401"]
+[BlackElo "2358"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:01:03"]
+[BlackClock "0:00:14"]
+
+1. e4 {[%clk 0:45:17]}  c6 {[%clk 0:45:17]} 2. d4 {[%clk 0:45:21]}  d5 {[%clk 0:45:25]} 3. e5 {[%clk 0:45:28]}  Bf5 {[%clk 0:45:33]} 4. Nf3 {[%clk 0:45:35]}  e6 {[%clk 0:45:41]} 5. Be2 {[%clk 0:45:44]}  Nd7 {[%clk 0:45:45]} 6. O-O {[%clk 0:45:50]}  h6 {[%clk 0:45:44]} 7. Nbd2 {[%clk 0:45:56]}  Ne7 {[%clk 0:45:51]} 8. Re1 {[%clk 0:45:12]}  Bh7 {[%clk 0:41:19]} 9. Nf1 {[%clk 0:44:53]}  Nf5 {[%clk 0:38:10]} 10. Bd3 {[%clk 0:44:41]}  c5 {[%clk 0:35:18]} 11. c3 {[%clk 0:41:09]}  c4 {[%clk 0:33:53]} 12. Bc2 {[%clk 0:40:20]}  b5 {[%clk 0:33:31]} 13. Bd2 {[%clk 0:37:02]}  a5 {[%clk 0:23:57]} 14. Qb1 {[%clk 0:33:40]}  Bg6 {[%clk 0:23:29]} 15. g3 {[%clk 0:27:22]}  Rb8 {[%clk 0:21:36]} 16. Ne3 {[%clk 0:21:14]}  Ne7 {[%clk 0:21:27]} 17. Nh4 {[%clk 0:21:17]}  Bxc2 {[%clk 0:20:17]} 18. Qxc2 {[%clk 0:21:22]}  Nb6 {[%clk 0:18:55]} 19. f4 {[%clk 0:14:33]}  g6 {[%clk 0:17:38]} 20. g4 {[%clk 0:11:53]}  h5 {[%clk 0:08:26]} 21. f5 {[%clk 0:11:55]}  gxf5 {[%clk 0:06:54]} 22. gxf5 {[%clk 0:11:53]}  Bh6 {[%clk 0:05:45]} 23. Kh1 {[%clk 0:07:42]}  Kd7 {[%clk 0:04:15]} 24. Rg1 {[%clk 0:03:25]}  Kc7 {[%clk 0:00:43]} 25. Raf1 {[%clk 0:01:53]}  Nc6 {[%clk 0:00:30]} 26. fxe6 {[%clk 0:00:51]}  Qxh4 {[%clk 0:00:14]} 27. Rxf7+ {[%clk 0:00:57]}  Kc8 {[%clk 0:00:14]} 28. Nf5 {[%clk 0:01:03]}  Qe4+ {[%clk 0:00:14]} 29. Qxe4 {[%clk 0:01:03]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mkrtchian, Lilit"]
+[Black "Navrotescu, Andreea"]
+[WhiteFideId "13300601"]
+[BlackFideId "675946"]
+[WhiteElo "2306"]
+[BlackElo "2220"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:01:00"]
+[BlackClock "0:00:22"]
+
+1. Nf3 {[%clk 0:45:11]}  c5 {[%clk 0:44:47]} 2. c4 {[%clk 0:43:21]}  Nc6 {[%clk 0:43:57]} 3. Nc3 {[%clk 0:43:14]}  e5 {[%clk 0:43:35]} 4. e3 {[%clk 0:43:13]}  Nf6 {[%clk 0:42:38]} 5. d4 {[%clk 0:43:08]}  cxd4 {[%clk 0:39:28]} 6. exd4 {[%clk 0:43:11]}  e4 {[%clk 0:30:33]} 7. Ne5 {[%clk 0:43:08]}  Bb4 {[%clk 0:29:45]} 8. Be2 {[%clk 0:40:12]}  Qa5 {[%clk 0:27:29]} 9. O-O {[%clk 0:35:41]}  O-O {[%clk 0:22:53]} 10. c5 {[%clk 0:33:56]}  d5 {[%clk 0:20:38]} 11. Nb5 {[%clk 0:27:14]}  a6 {[%clk 0:16:19]} 12. Nxc6 {[%clk 0:27:14]}  bxc6 {[%clk 0:16:28]} 13. Nd6 {[%clk 0:23:15]}  Qd8 {[%clk 0:16:01]} 14. Nxc8 {[%clk 0:11:58]}  Rxc8 {[%clk 0:16:08]} 15. Bxa6 {[%clk 0:12:03]}  Ra8 {[%clk 0:13:46]} 16. Bb7 {[%clk 0:11:37]}  Ra7 {[%clk 0:13:36]} 17. Bxc6 {[%clk 0:11:43]}  Qc8 {[%clk 0:06:30]} 18. Bb5 {[%clk 0:11:09]}  Qf5 {[%clk 0:05:43]} 19. Bd2 {[%clk 0:05:34]}  Rb8 {[%clk 0:03:57]} 20. a4 {[%clk 0:04:38]}  Bxd2 {[%clk 0:03:57]} 21. Qxd2 {[%clk 0:04:47]}  h5 {[%clk 0:02:37]} 22. b4 {[%clk 0:03:34]}  h4 {[%clk 0:02:46]} 23. h3 {[%clk 0:02:22]}  Nh5 {[%clk 0:02:54]} 24. Qe2 {[%clk 0:02:22]}  Nf4 {[%clk 0:03:00]} 25. Qg4 {[%clk 0:00:57]}  Qf6 {[%clk 0:03:09]} 26. Rad1 {[%clk 0:00:15]}  Ne6 {[%clk 0:03:15]} 27. Qh5 {[%clk 0:00:15]}  g5 {[%clk 0:02:40]} 28. Qg4 {[%clk 0:00:13]}  Kg7 {[%clk 0:01:54]} 29. Rd2 {[%clk 0:00:22]}  Kh6 {[%clk 0:02:03]} 30. Rfd1 {[%clk 0:00:29]}  Nc7 {[%clk 0:01:47]} 31. Qe2 {[%clk 0:00:36]}  Ne6 {[%clk 0:01:09]} 32. Qe3 {[%clk 0:00:41]}  Kh7 {[%clk 0:01:08]} 33. Rb1 {[%clk 0:00:42]}  g4 {[%clk 0:01:10]} 34. hxg4 {[%clk 0:00:49]}  Rg8 {[%clk 0:01:19]} 35. f3 {[%clk 0:00:48]}  Nf4 {[%clk 0:00:55]} 36. Rf1 {[%clk 0:00:37]}  Qg5 {[%clk 0:00:28]} 37. fxe4 {[%clk 0:00:43]}  Nh3+ {[%clk 0:00:15]} 38. Qxh3 {[%clk 0:00:50]}  Qxd2 {[%clk 0:00:24]} 39. Qxh4+ {[%clk 0:00:56]}  Kg7 {[%clk 0:00:18]} 40. Qf6+ {[%clk 0:01:03]}  Kf8 {[%clk 0:00:13]} 41. Qd6+ {[%clk 0:00:20]}  Kg7 {[%clk 0:00:13]} 42. Qe5+ {[%clk 0:00:23]}  Kf8 {[%clk 0:00:14]} 43. Qb8+ {[%clk 0:00:31]}  Kg7 {[%clk 0:00:23]} 44. Qxa7 {[%clk 0:00:35]}  Qxd4+ {[%clk 0:00:32]} 45. Rf2 {[%clk 0:00:44]}  Rf8 {[%clk 0:00:18]} 46. Qd7 {[%clk 0:00:44]}  Qxe4 {[%clk 0:00:21]} 47. Qf5 {[%clk 0:00:45]}  Qe1+ {[%clk 0:00:22]} 48. Rf1 {[%clk 0:00:48]}  Qe3+ {[%clk 0:00:22]} 49. Qf2 {[%clk 0:00:57]}  Qg5 {[%clk 0:00:14]} 50. Qf3 {[%clk 0:00:58]}  Qe5 {[%clk 0:00:13]} 51. Bd3 {[%clk 0:00:51]}  f6 {[%clk 0:00:16]} 52. Qf5 {[%clk 0:00:55]}  Qe3+ {[%clk 0:00:19]} 53. Rf2 {[%clk 0:01:04]}  Qe1+ {[%clk 0:00:14]} 54. Bf1 {[%clk 0:01:13]}  Qxb4 {[%clk 0:00:22]} 55. g5 {[%clk 0:01:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Benmesbah, Natacha"]
+[Black "Sargsyan, Anna M."]
+[WhiteFideId "642002"]
+[BlackFideId "13308130"]
+[WhiteElo "2193"]
+[BlackElo "2283"]
+[Result "0-1"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:08:46"]
+[BlackClock "0:27:33"]
+
+1. e4 {[%clk 0:45:18]}  e5 {[%clk 0:45:11]} 2. Nf3 {[%clk 0:45:23]}  Nc6 {[%clk 0:45:07]} 3. Bc4 {[%clk 0:45:29]}  Bc5 {[%clk 0:45:13]} 4. c3 {[%clk 0:45:36]}  Nf6 {[%clk 0:45:15]} 5. d3 {[%clk 0:45:45]}  d6 {[%clk 0:45:17]} 6. O-O {[%clk 0:45:10]}  a6 {[%clk 0:45:21]} 7. a4 {[%clk 0:44:53]}  h6 {[%clk 0:45:24]} 8. Nbd2 {[%clk 0:41:26]}  O-O {[%clk 0:45:23]} 9. h3 {[%clk 0:41:06]}  Be6 {[%clk 0:45:14]} 10. Re1 {[%clk 0:39:10]}  Re8 {[%clk 0:45:14]} 11. b4 {[%clk 0:35:49]}  Ba7 {[%clk 0:43:30]} 12. Bxe6 {[%clk 0:33:21]}  Rxe6 {[%clk 0:43:03]} 13. Qc2 {[%clk 0:31:48]}  d5 {[%clk 0:42:35]} 14. Nf1 {[%clk 0:29:33]}  Qd7 {[%clk 0:38:31]} 15. Rb1 {[%clk 0:27:35]}  Rd8 {[%clk 0:38:31]} 16. b5 {[%clk 0:24:22]}  axb5 {[%clk 0:35:37]} 17. axb5 {[%clk 0:23:57]}  Ne7 {[%clk 0:35:15]} 18. exd5 {[%clk 0:18:23]}  Qxd5 {[%clk 0:35:13]} 19. Ne3 {[%clk 0:18:30]}  Qd7 {[%clk 0:34:04]} 20. Ba3 {[%clk 0:17:28]}  Ng6 {[%clk 0:34:00]} 21. g3 {[%clk 0:17:20]}  Bxe3 {[%clk 0:32:07]} 22. Rxe3 {[%clk 0:17:21]}  Nd5 {[%clk 0:32:10]} 23. Ree1 {[%clk 0:16:55]}  Rf6 {[%clk 0:27:18]} 24. Nxe5 {[%clk 0:16:10]}  Qxh3 {[%clk 0:27:23]} 25. Nxg6 {[%clk 0:15:21]}  Rxg6 {[%clk 0:27:30]} 26. Re4 {[%clk 0:14:28]}  Nf6 {[%clk 0:27:20]} 27. Rf4 {[%clk 0:12:21]}  Ng4 {[%clk 0:27:25]} 28. Re1 {[%clk 0:09:16]}  Nxf2 {[%clk 0:27:13]} 29. Rxf2 {[%clk 0:08:58]}  Qxg3+ {[%clk 0:27:19]} 30. Kf1 {[%clk 0:08:38]}  Qg1+ {[%clk 0:27:25]} 31. Ke2 {[%clk 0:08:46]}  Re8+ {[%clk 0:27:33]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Gaboyan, Susanna"]
+[Black "Alexieva, Silvia"]
+[WhiteFideId "13303627"]
+[BlackFideId "2902265"]
+[WhiteElo "2083"]
+[BlackElo "2277"]
+[Result "1/2-1/2"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:01:27"]
+[BlackClock "0:03:56"]
+
+1. Nf3 {[%clk 0:45:16]}  d5 {[%clk 0:45:15]} 2. g3 {[%clk 0:45:18]}  c6 {[%clk 0:44:58]} 3. Bg2 {[%clk 0:45:24]}  Nd7 {[%clk 0:45:00]} 4. O-O {[%clk 0:45:11]}  e5 {[%clk 0:43:29]} 5. d3 {[%clk 0:45:14]}  Ngf6 {[%clk 0:44:47]} 6. Nbd2 {[%clk 0:45:15]}  Bc5 {[%clk 0:44:08]} 7. e4 {[%clk 0:45:01]}  dxe4 {[%clk 0:43:29]} 8. dxe4 {[%clk 0:45:01]}  O-O {[%clk 0:43:29]} 9. Qe2 {[%clk 0:45:01]}  Qc7 {[%clk 0:41:11]} 10. c3 {[%clk 0:44:54]}  a5 {[%clk 0:39:38]} 11. a4 {[%clk 0:37:35]}  b6 {[%clk 0:39:27]} 12. Nc4 {[%clk 0:37:35]}  Ba6 {[%clk 0:39:05]} 13. Bg5 {[%clk 0:26:54]}  Rfe8 {[%clk 0:41:11]} 14. Nfd2 {[%clk 0:24:43]}  h6 {[%clk 0:36:09]} 15. Be3 {[%clk 0:24:38]}  Rad8 {[%clk 0:34:16]} 16. Rfb1 {[%clk 0:23:07]}  Bxe3 {[%clk 0:23:29]} 17. Qxe3 {[%clk 0:23:12]}  Nc5 {[%clk 0:23:12]} 18. Bf1 {[%clk 0:12:51]}  Nfd7 {[%clk 0:16:43]} 19. b4 {[%clk 0:24:38]}  axb4 {[%clk 0:16:43]} 20. Rxb4 {[%clk 0:11:17]}  b5 {[%clk 0:16:15]} 21. Nb2 {[%clk 0:09:15]}  Rb8 {[%clk 0:14:29]} 22. Nd3 {[%clk 0:09:03]}  Nxa4 {[%clk 0:13:41]} 23. c4 {[%clk 0:02:03]}  Ra8 {[%clk 0:10:10]} 24. cxb5 {[%clk 0:02:03]}  Bxb5 {[%clk 0:09:58]} 25. Rc1 {[%clk 0:01:27]}  Qd6 {[%clk 0:09:25]} 26. Nc4 {[%clk 0:01:35]}  Qe7 {[%clk 0:09:07]} 27. Rbb1 {[%clk 0:01:18]}  f6 {[%clk 0:08:32]} 28. Nb4 {[%clk 0:01:18]}  Nac5 {[%clk 0:06:57]} 29. Nb6 {[%clk 0:01:21]}  Nxb6 {[%clk 0:06:57]} 30. Bxb5 {[%clk 0:01:24]}  cxb5 {[%clk 0:06:57]} 31. Qxc5 {[%clk 0:01:24]}  Qxc5 {[%clk 0:05:45]} 32. Rxc5 {[%clk 0:01:29]}  Na4 {[%clk 0:04:48]} 33. Rc7 {[%clk 0:01:29]}  Rec8 {[%clk 0:04:48]} 34. Nd5 {[%clk 0:01:20]}  Rxc7 {[%clk 0:04:05]} 35. Nxc7 {[%clk 0:01:27]}  Rc8 {[%clk 0:03:56]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mammadzada, Gunay"]
+[Black "Dronavalli, Harika"]
+[WhiteFideId "13403729"]
+[BlackFideId "5015197"]
+[WhiteElo "2280"]
+[BlackElo "2450"]
+[Result "0-1"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:11"]
+[BlackClock "0:00:52"]
+
+1. e4 {[%clk 0:45:16]}  e5 {[%clk 0:45:15]} 2. Nf3 {[%clk 0:45:21]}  Nc6 {[%clk 0:44:46]} 3. Bb5 {[%clk 0:45:21]}  a6 {[%clk 0:45:28]} 4. Ba4 {[%clk 0:45:29]}  Nf6 {[%clk 0:45:34]} 5. O-O {[%clk 0:45:32]}  Bc5 {[%clk 0:44:46]} 6. c3 {[%clk 0:43:36]}  O-O {[%clk 0:44:46]} 7. d4 {[%clk 0:42:22]}  Ba7 {[%clk 0:44:46]} 8. Re1 {[%clk 0:40:22]}  b5 {[%clk 0:44:02]} 9. Bc2 {[%clk 0:37:31]}  d6 {[%clk 0:43:54]} 10. h3 {[%clk 0:35:12]}  Bb7 {[%clk 0:41:39]} 11. a3 {[%clk 0:28:00]}  Re8 {[%clk 0:36:47]} 12. Be3 {[%clk 0:26:13]}  h6 {[%clk 0:28:38]} 13. Nbd2 {[%clk 0:24:15]}  Nb8 {[%clk 0:25:44]} 14. d5 {[%clk 0:18:44]}  c6 {[%clk 0:24:02]} 15. c4 {[%clk 0:17:06]}  Nbd7 {[%clk 0:22:27]} 16. b4 {[%clk 0:14:46]}  Bxe3 {[%clk 0:44:46]} 17. Rxe3 {[%clk 0:14:55]}  Rc8 {[%clk 0:16:49]} 18. Nb3 {[%clk 0:17:06]}  Nb6 {[%clk 0:06:25]} 19. Nfd2 {[%clk 0:04:33]}  Qc7 {[%clk 0:05:50]} 20. c5 {[%clk 0:03:33]}  cxd5 {[%clk 0:16:49]} 21. cxb6 {[%clk 0:01:49]}  Qxc2 {[%clk 0:05:41]} 22. Na5 {[%clk 0:01:55]}  Qxd1+ {[%clk 0:03:30]} 23. Rxd1 {[%clk 0:00:32]}  Rb8 {[%clk 0:02:37]} 24. Nxb7 {[%clk 0:00:32]}  Rxb7 {[%clk 0:02:45]} 25. exd5 {[%clk 0:00:40]}  Rxb6 {[%clk 0:02:05]} 26. Nb3 {[%clk 0:00:44]}  Rc8 {[%clk 0:02:07]} 27. Rd2 {[%clk 0:00:12]}  Rb7 {[%clk 0:01:39]} 28. Kf1 {[%clk 0:00:20]}  Rbc7 {[%clk 0:01:39]} 29. Na5 {[%clk 0:00:17]}  Rc2 {[%clk 0:01:16]} 30. Red3 {[%clk 0:00:12]}  Rc1+ {[%clk 0:00:38]} 31. Ke2 {[%clk 0:00:14]}  Ne4 {[%clk 0:00:45]} 32. Rd1 {[%clk 0:00:13]}  R1c2+ {[%clk 0:00:52]} 33. Ke3 {[%clk 0:00:11]}  Nxf2 {[%clk 0:00:52]} 34. Ra1 {[%clk 0:00:11]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Vaishali, Rameshbabu"]
+[Black "Mammadova, Gulnar"]
+[WhiteFideId "5091756"]
+[BlackFideId "13403508"]
+[WhiteElo "2149"]
+[BlackElo "2406"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:01:23"]
+[BlackClock "0:00:33"]
+
+1. e4 {[%clk 0:45:07]}  e5 {[%clk 0:45:13]} 2. Nf3 {[%clk 0:45:14]}  Nf6 {[%clk 0:45:15]} 3. Nxe5 {[%clk 0:44:58]}  d6 {[%clk 0:45:16]} 4. Nf3 {[%clk 0:45:05]}  Nxe4 {[%clk 0:45:22]} 5. c4 {[%clk 0:44:54]}  Be7 {[%clk 0:43:43]} 6. d4 {[%clk 0:44:57]}  d5 {[%clk 0:42:31]} 7. Nc3 {[%clk 0:44:03]}  Nxc3 {[%clk 0:42:31]} 8. bxc3 {[%clk 0:44:09]}  O-O {[%clk 0:39:14]} 9. Bd3 {[%clk 0:42:08]}  Nc6 {[%clk 0:36:49]} 10. Qc2 {[%clk 0:36:10]}  h6 {[%clk 0:35:26]} 11. cxd5 {[%clk 0:35:06]}  Qxd5 {[%clk 0:35:23]} 12. Bh7+ {[%clk 0:34:51]}  Kh8 {[%clk 0:35:23]} 13. Be4 {[%clk 0:34:55]}  Qh5 {[%clk 0:31:59]} 14. Bf4 {[%clk 0:25:10]}  Bd6 {[%clk 0:28:27]} 15. Bxd6 {[%clk 0:24:37]}  cxd6 {[%clk 0:28:35]} 16. O-O {[%clk 0:24:43]}  d5 {[%clk 0:22:10]} 17. Bd3 {[%clk 0:24:50]}  Bg4 {[%clk 0:21:59]} 18. Nd2 {[%clk 0:24:44]}  Rac8 {[%clk 0:18:17]} 19. Qb2 {[%clk 0:23:53]}  Na5 {[%clk 0:16:37]} 20. Rae1 {[%clk 0:21:28]}  f6 {[%clk 0:10:45]} 21. Qb1 {[%clk 0:13:25]}  Qf7 {[%clk 0:10:18]} 22. Bg6 {[%clk 0:12:01]}  Qd7 {[%clk 0:08:50]} 23. Re3 {[%clk 0:11:37]}  f5 {[%clk 0:05:55]} 24. Rfe1 {[%clk 0:07:28]}  Nc6 {[%clk 0:04:45]} 25. f3 {[%clk 0:02:29]}  f4 {[%clk 0:08:50]} 26. R3e2 {[%clk 0:02:35]}  Bf5 {[%clk 0:03:54]} 27. Bxf5 {[%clk 0:02:42]}  Rxf5 {[%clk 0:03:30]} 28. Re6 {[%clk 0:02:40]}  Rcf8 {[%clk 0:02:52]} 29. Qb5 {[%clk 0:02:19]}  Qd8 {[%clk 0:01:32]} 30. Qxb7 {[%clk 0:02:06]}  Na5 {[%clk 0:01:04]} 31. Qxa7 {[%clk 0:02:03]}  Nc4 {[%clk 0:01:05]} 32. Nxc4 {[%clk 0:02:03]}  dxc4 {[%clk 0:01:14]} 33. Re7 {[%clk 0:01:39]}  Rg5 {[%clk 0:01:00]} 34. Rf7 {[%clk 0:01:11]}  Re8 {[%clk 0:00:46]} 35. Rxe8+ {[%clk 0:01:00]}  Qxe8 {[%clk 0:00:54]} 36. Qe7 {[%clk 0:01:03]}  Qa4 {[%clk 0:00:53]} 37. Rf8+ {[%clk 0:01:03]}  Kh7 {[%clk 0:00:53]} 38. Qe4+ {[%clk 0:00:51]}  Rg6 {[%clk 0:01:11]} 39. Qb1 {[%clk 0:00:34]}  Qa3 {[%clk 0:00:54]} 40. Rxf4 {[%clk 0:00:27]}  h5 {[%clk 0:00:45]} 41. Qc2 {[%clk 0:00:27]}  Kh6 {[%clk 0:00:21]} 42. Qd2 {[%clk 0:00:34]}  Kh7 {[%clk 0:00:28]} 43. Re4 {[%clk 0:00:34]}  Rb6 {[%clk 0:00:33]} 44. Re2 {[%clk 0:00:21]}  Rb1+ {[%clk 0:00:21]} 45. Kf2 {[%clk 0:00:29]}  Rb5 {[%clk 0:00:21]} 46. h4 {[%clk 0:00:29]}  Qd6 {[%clk 0:00:20]} 47. g3 {[%clk 0:00:36]}  Qd7 {[%clk 0:00:25]} 48. Kg2 {[%clk 0:00:43]}  g6 {[%clk 0:00:31]} 49. Qe1 {[%clk 0:00:50]}  Rb7 {[%clk 0:00:37]} 50. Qc1 {[%clk 0:00:47]}  Qc6 {[%clk 0:00:33]} 51. Qf4 {[%clk 0:00:48]}  Qa4 {[%clk 0:00:32]} 52. d5 {[%clk 0:00:42]}  Qd1 {[%clk 0:00:35]} 53. Qxc4 {[%clk 0:00:40]}  Kh6 {[%clk 0:00:24]} 54. Qf4+ {[%clk 0:00:46]}  Kh7 {[%clk 0:00:24]} 55. Qd2 {[%clk 0:00:50]}  Qa1 {[%clk 0:00:32]} 56. d6 {[%clk 0:00:57]}  Kg7 {[%clk 0:00:17]} 57. d7 {[%clk 0:01:04]}  Rb1 {[%clk 0:00:26]} 58. Qd4+ {[%clk 0:01:08]}  Kf7 {[%clk 0:00:26]} 59. Qf4+ {[%clk 0:01:15]}  Kg7 {[%clk 0:00:33]} 60. Re7+ {[%clk 0:01:23]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Fataliyeva, Ulviyya"]
+[Black "Tania, Sachdev"]
+[WhiteFideId "13403052"]
+[BlackFideId "5007844"]
+[WhiteElo "2310"]
+[BlackElo "2339"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:15:17"]
+[BlackClock "0:00:11"]
+
+1. d4 {[%clk 0:45:19]}  Nf6 {[%clk 0:44:49]} 2. c4 {[%clk 0:45:26]}  e6 {[%clk 0:44:56]} 3. Nf3 {[%clk 0:45:19]}  d5 {[%clk 0:44:30]} 4. Nc3 {[%clk 0:42:19]}  Ne4 {[%clk 0:44:25]} 5. g3 {[%clk 0:42:19]}  c6 {[%clk 0:42:08]} 6. Bg2 {[%clk 0:42:02]}  Nxc3 {[%clk 0:40:32]} 7. bxc3 {[%clk 0:42:10]}  dxc4 {[%clk 0:40:32]} 8. Ne5 {[%clk 0:41:46]}  Nd7 {[%clk 0:31:10]} 9. Nxc4 {[%clk 0:41:45]}  Be7 {[%clk 0:31:11]} 10. O-O {[%clk 0:41:23]}  O-O {[%clk 0:31:10]} 11. Qb3 {[%clk 0:41:16]}  b5 {[%clk 0:26:22]} 12. Nd2 {[%clk 0:36:36]}  Bb7 {[%clk 0:24:59]} 13. a4 {[%clk 0:36:04]}  a6 {[%clk 0:23:32]} 14. c4 {[%clk 0:35:13]}  Rb8 {[%clk 0:19:46]} 15. Ne4 {[%clk 0:33:23]}  Nf6 {[%clk 0:13:01]} 16. Rd1 {[%clk 0:28:46]}  Nxe4 {[%clk 0:23:32]} 17. Bxe4 {[%clk 0:28:54]}  bxc4 {[%clk 0:07:15]} 18. Qc2 {[%clk 0:26:55]}  h6 {[%clk 0:06:32]} 19. Bg2 {[%clk 0:25:04]}  a5 {[%clk 0:05:19]} 20. Bf4 {[%clk 0:23:54]}  Bd6 {[%clk 0:04:58]} 21. Bxd6 {[%clk 0:26:55]}  Qxd6 {[%clk 0:05:06]} 22. Qxc4 {[%clk 0:24:03]}  Ba8 {[%clk 0:05:06]} 23. Qc5 {[%clk 0:24:03]}  Qxc5 {[%clk 0:01:46]} 24. dxc5 {[%clk 0:24:11]}  Rb2 {[%clk 0:01:52]} 25. e3 {[%clk 0:24:11]}  Rfb8 {[%clk 0:01:23]} 26. Be4 {[%clk 0:24:09]}  R2b4 {[%clk 0:01:06]} 27. Bd3 {[%clk 0:24:11]}  Kf8 {[%clk 0:01:05]} 28. Rd2 {[%clk 0:23:30]}  Rd8 {[%clk 0:00:53]} 29. Kf1 {[%clk 0:21:51]}  Rd5 {[%clk 0:00:54]} 30. Rc1 {[%clk 0:20:20]}  Bb7 {[%clk 0:00:31]} 31. Ke2 {[%clk 0:20:03]}  Ke7 {[%clk 0:00:17]} 32. Ra2 {[%clk 0:19:17]}  e5 {[%clk 0:00:13]} 33. f3 {[%clk 0:19:05]}  Bc8 {[%clk 0:00:20]} 34. Be4 {[%clk 0:19:02]}  Ba6+ {[%clk 0:00:26]} 35. Kf2 {[%clk 0:18:29]}  Rd8 {[%clk 0:00:24]} 36. Bxc6 {[%clk 0:18:29]}  Bc4 {[%clk 0:00:32]} 37. Rac2 {[%clk 0:18:00]}  Bb3 {[%clk 0:00:13]} 38. Rb2 {[%clk 0:17:53]}  Rdb8 {[%clk 0:00:17]} 39. Bb5 {[%clk 0:17:27]}  Be6 {[%clk 0:00:15]} 40. Rd2 {[%clk 0:16:13]}  f5 {[%clk 0:00:16]} 41. c6 {[%clk 0:15:52]}  Bb3 {[%clk 0:00:11]} 42. c7 {[%clk 0:15:17]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kulkarni, Bhakti"]
+[Black "Mamedjarova, Turkan"]
+[WhiteFideId "5019516"]
+[BlackFideId "13402005"]
+[WhiteElo "2325"]
+[BlackElo "2243"]
+[Result "0-1"]
+[Round "01"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:33"]
+[BlackClock "0:01:49"]
+
+1. d4 {[%clk 0:45:10]}  Nf6 {[%clk 0:45:11]} 2. c4 {[%clk 0:44:50]}  e6 {[%clk 0:45:01]} 3. Nc3 {[%clk 0:44:40]}  Bb4 {[%clk 0:44:59]} 4. Nf3 {[%clk 0:43:23]}  b6 {[%clk 0:39:58]} 5. g3 {[%clk 0:37:59]}  Bb7 {[%clk 0:39:49]} 6. Bg2 {[%clk 0:38:03]}  O-O {[%clk 0:31:36]} 7. O-O {[%clk 0:37:58]}  Bxc3 {[%clk 0:28:05]} 8. bxc3 {[%clk 0:38:05]}  d6 {[%clk 0:27:51]} 9. Re1 {[%clk 0:31:27]}  Nbd7 {[%clk 0:25:59]} 10. Ba3 {[%clk 0:29:50]}  Re8 {[%clk 0:25:55]} 11. Qc2 {[%clk 0:27:41]}  Be4 {[%clk 0:25:55]} 12. Qa4 {[%clk 0:27:25]}  Qc8 {[%clk 0:23:10]} 13. Bh3 {[%clk 0:25:15]}  Bf5 {[%clk 0:20:44]} 14. Bg2 {[%clk 0:25:15]}  Be4 {[%clk 0:20:52]} 15. Bf1 {[%clk 0:22:14]}  Qb7 {[%clk 0:18:36]} 16. Nd2 {[%clk 0:21:37]}  Bc6 {[%clk 0:18:10]} 17. Qb3 {[%clk 0:15:50]}  a5 {[%clk 0:15:54]} 18. Qc2 {[%clk 0:12:00]}  d5 {[%clk 0:13:41]} 19. f3 {[%clk 0:08:45]}  Nf8 {[%clk 0:10:24]} 20. e4 {[%clk 0:08:39]}  dxe4 {[%clk 0:10:28]} 21. fxe4 {[%clk 0:08:37]}  e5 {[%clk 0:10:35]} 22. d5 {[%clk 0:07:58]}  Bd7 {[%clk 0:10:43]} 23. c5 {[%clk 0:07:43]}  bxc5 {[%clk 0:10:07]} 24. Bxc5 {[%clk 0:07:23]}  Qc8 {[%clk 0:09:01]} 25. Nc4 {[%clk 0:06:42]}  Ng6 {[%clk 0:07:22]} 26. Rab1 {[%clk 0:06:33]}  h5 {[%clk 0:07:22]} 27. h4 {[%clk 0:06:09]}  Bh3 {[%clk 0:06:05]} 28. Ne3 {[%clk 0:04:50]}  Bxf1 {[%clk 0:05:12]} 29. Nxf1 {[%clk 0:03:50]}  Qg4 {[%clk 0:05:06]} 30. Qg2 {[%clk 0:03:42]}  Rab8 {[%clk 0:04:58]} 31. Nd2 {[%clk 0:03:13]}  Qd7 {[%clk 0:04:48]} 32. Nc4 {[%clk 0:02:11]}  Rb5 {[%clk 0:04:02]} 33. Ba3 {[%clk 0:01:37]}  Reb8 {[%clk 0:03:39]} 34. Nd2 {[%clk 0:01:43]}  Rxb1 {[%clk 0:03:38]} 35. Nxb1 {[%clk 0:01:24]}  Qa4 {[%clk 0:03:34]} 36. Bc5 {[%clk 0:00:58]}  Qc4 {[%clk 0:03:07]} 37. Bf2 {[%clk 0:00:24]}  Qxa2 {[%clk 0:03:06]} 38. Qf1 {[%clk 0:00:21]}  Nxe4 {[%clk 0:02:24]} 39. Ba7 {[%clk 0:00:14]}  Rb7 {[%clk 0:02:09]} 40. Rxe4 {[%clk 0:00:16]}  Rxb1 {[%clk 0:02:09]} 41. Re1 {[%clk 0:00:25]}  Rxe1 {[%clk 0:02:03]} 42. Qxe1 {[%clk 0:00:33]}  Qxd5 {[%clk 0:02:12]} 43. Qb1 {[%clk 0:00:23]}  Qf3 {[%clk 0:01:57]} 44. Qe1 {[%clk 0:00:23]}  e4 {[%clk 0:01:43]} 45. Bb8 {[%clk 0:00:22]}  a4 {[%clk 0:01:40]} 46. Bxc7 {[%clk 0:00:26]}  a3 {[%clk 0:01:49]} 47. Qa1 {[%clk 0:00:27]}  e3 {[%clk 0:01:39]} 48. Qxa3 {[%clk 0:00:24]}  Qf2+ {[%clk 0:01:35]} 49. Kh1 {[%clk 0:00:33]}  e2 {[%clk 0:01:35]} 50. Qa8+ {[%clk 0:00:33]}  Kh7 {[%clk 0:01:49]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Goryachkina, Aleksandra"]
+[Black "Sebag, Marie"]
+[WhiteFideId "4147103"]
+[BlackFideId "617822"]
+[WhiteElo "2520"]
+[BlackElo "2401"]
+[Result "1/2-1/2"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:27:48"]
+[BlackClock "0:23:50"]
+
+1. d4 {[%clk 0:45:16]}  d5 {[%clk 0:45:18]} 2. c4 {[%clk 0:45:23]}  c6 {[%clk 0:45:26]} 3. Nf3 {[%clk 0:45:23]}  Nf6 {[%clk 0:45:26]} 4. Nc3 {[%clk 0:45:36]}  e6 {[%clk 0:45:36]} 5. e3 {[%clk 0:45:38]}  Nbd7 {[%clk 0:45:36]} 6. Qc2 {[%clk 0:45:45]}  Bd6 {[%clk 0:45:43]} 7. b3 {[%clk 0:45:45]}  O-O {[%clk 0:45:45]} 8. Be2 {[%clk 0:45:48]}  b6 {[%clk 0:45:21]} 9. O-O {[%clk 0:45:42]}  Bb7 {[%clk 0:45:27]} 10. Bb2 {[%clk 0:45:48]}  Qe7 {[%clk 0:45:25]} 11. Rfe1 {[%clk 0:45:51]}  Rad8 {[%clk 0:45:20]} 12. cxd5 {[%clk 0:43:41]}  cxd5 {[%clk 0:35:03]} 13. Nb5 {[%clk 0:43:25]}  Rc8 {[%clk 0:35:01]} 14. Qb1 {[%clk 0:41:05]}  Bb4 {[%clk 0:31:41]} 15. Rc1 {[%clk 0:33:37]}  Rxc1+ {[%clk 0:31:28]} 16. Qxc1 {[%clk 0:32:06]}  Rc8 {[%clk 0:31:02]} 17. Qd1 {[%clk 0:31:20]}  a6 {[%clk 0:29:20]} 18. a3 {[%clk 0:30:59]}  Ba5 {[%clk 0:25:03]} 19. b4 {[%clk 0:30:56]}  Bxb4 {[%clk 0:24:49]} 20. Na7 {[%clk 0:28:12]}  Ra8 {[%clk 0:24:43]} 21. axb4 {[%clk 0:27:48]}  Rxa7 {[%clk 0:23:50]} 22. Rc1 {[%clk 0:27:48]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Navrotescu, Andreea"]
+[Black "Lagno, Kateryna"]
+[WhiteFideId "675946"]
+[BlackFideId "14109336"]
+[WhiteElo "2220"]
+[BlackElo "2521"]
+[Result "0-1"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:03:00"]
+
+1. c4 {[%clk 0:45:17]}  e5 {[%clk 0:45:18]} 2. Nc3 {[%clk 0:45:17]}  Bb4 {[%clk 0:45:25]} 3. g3 {[%clk 0:44:16]}  Bxc3 {[%clk 0:45:29]} 4. bxc3 {[%clk 0:43:46]}  d6 {[%clk 0:45:30]} 5. Bg2 {[%clk 0:43:22]}  Nc6 {[%clk 0:45:32]} 6. e4 {[%clk 0:42:58]}  f5 {[%clk 0:45:27]} 7. exf5 {[%clk 0:39:43]}  Bxf5 {[%clk 0:45:27]} 8. d3 {[%clk 0:38:23]}  Qd7 {[%clk 0:42:50]} 9. h3 {[%clk 0:36:28]}  Nge7 {[%clk 0:41:46]} 10. Ne2 {[%clk 0:35:40]}  O-O {[%clk 0:41:40]} 11. g4 {[%clk 0:34:30]}  Be6 {[%clk 0:41:36]} 12. f4 {[%clk 0:32:01]}  exf4 {[%clk 0:36:20]} 13. Nxf4 {[%clk 0:32:05]}  Ng6 {[%clk 0:33:44]} 14. Nxg6 {[%clk 0:26:43]}  hxg6 {[%clk 0:32:45]} 15. Be3 {[%clk 0:26:02]}  d5 {[%clk 0:32:14]} 16. cxd5 {[%clk 0:23:53]}  Bxd5 {[%clk 0:32:14]} 17. Bxd5+ {[%clk 0:24:01]}  Qxd5 {[%clk 0:30:08]} 18. Qb3 {[%clk 0:24:09]}  Rad8 {[%clk 0:29:25]} 19. Ke2 {[%clk 0:22:41]}  Ne5 {[%clk 0:25:21]} 20. Rad1 {[%clk 0:21:07]}  b5 {[%clk 0:21:25]} 21. Qxd5+ {[%clk 0:21:07]}  Rxd5 {[%clk 0:21:34]} 22. Rhf1 {[%clk 0:17:13]}  Re8 {[%clk 0:19:25]} 23. Rf4 {[%clk 0:16:10]}  c5 {[%clk 0:17:53]} 24. Re4 {[%clk 0:15:54]}  Red8 {[%clk 0:17:39]} 25. d4 {[%clk 0:06:14]}  Nc4 {[%clk 0:17:46]} 26. Rf1 {[%clk 0:04:03]}  b4 {[%clk 0:17:14]} 27. dxc5 {[%clk 0:03:07]}  Nxe3 {[%clk 0:17:08]} 28. Kxe3 {[%clk 0:01:12]}  Rd3+ {[%clk 0:14:56]} 29. Ke2 {[%clk 0:01:19]}  Rd2+ {[%clk 0:12:41]} 30. Ke3 {[%clk 0:01:27]}  R2d3+ {[%clk 0:06:34]} 31. Ke2 {[%clk 0:01:34]}  Rxc3 {[%clk 0:05:16]} 32. Rxb4 {[%clk 0:01:31]}  Rxc5 {[%clk 0:05:25]} 33. Rb2 {[%clk 0:00:53]}  Rc3 {[%clk 0:05:14]} 34. Rf3 {[%clk 0:00:42]}  Rdc8 {[%clk 0:04:29]} 35. Rd2 {[%clk 0:00:30]}  Rxf3 {[%clk 0:04:29]} 36. Kxf3 {[%clk 0:00:39]}  Rc3+ {[%clk 0:04:13]} 37. Kg2 {[%clk 0:00:45]}  Ra3 {[%clk 0:04:20]} 38. Rf2 {[%clk 0:00:51]}  a5 {[%clk 0:03:31]} 39. Kh2 {[%clk 0:00:40]}  g5 {[%clk 0:03:15]} 40. Kg2 {[%clk 0:00:36]}  Kh7 {[%clk 0:03:17]} 41. Kh2 {[%clk 0:00:41]}  Kg6 {[%clk 0:03:25]} 42. Kg2 {[%clk 0:00:46]}  a4 {[%clk 0:03:29]} 43. Kh2 {[%clk 0:00:32]}  Rc3 {[%clk 0:03:32]} 44. Kg2 {[%clk 0:00:30]}  a3 {[%clk 0:03:08]} 45. Rf3 {[%clk 0:00:32]}  Rc2+ {[%clk 0:03:15]} 46. Rf2 {[%clk 0:00:41]}  Rxf2+ {[%clk 0:03:15]} 47. Kxf2 {[%clk 0:00:50]}  Kf6 {[%clk 0:01:48]} 48. Kf3 {[%clk 0:00:24]}  Ke5 {[%clk 0:01:48]} 49. Ke3 {[%clk 0:00:33]}  g6 {[%clk 0:02:05]} 50. Ke2 {[%clk 0:00:13]}  Ke4 {[%clk 0:02:05]} 51. Kd2 {[%clk 0:00:13]}  Kf3 {[%clk 0:02:12]} 52. Kc3 {[%clk 0:00:29]}  Kg3 {[%clk 0:02:30]} 53. Kb3 {[%clk 0:00:38]}  Kxh3 {[%clk 0:02:39]} 54. Kxa3 {[%clk 0:00:46]}  Kxg4 {[%clk 0:02:48]} 55. Kb4 {[%clk 0:00:52]}  Kh3 {[%clk 0:02:28]} 56. a4 {[%clk 0:00:54]}  g4 {[%clk 0:02:37]} 57. a5 {[%clk 0:00:54]}  g3 {[%clk 0:02:46]} 58. a6 {[%clk 0:00:57]}  g2 {[%clk 0:02:55]} 59. a7 {[%clk 0:01:04]}  g1=Q {[%clk 0:03:03]} 60. a8=Q {[%clk 0:01:08]}  Qd4+ {[%clk 0:02:52]} 61. Kb3 {[%clk 0:01:09]}  g5 {[%clk 0:02:57]} 62. Qf3+ {[%clk 0:01:02]}  Kh4 {[%clk 0:03:06]} 63. Kc2 {[%clk 0:00:35]}  g4 {[%clk 0:03:00]} 64. Qg2 {[%clk 0:00:16]}  g3 {[%clk 0:02:52]} 65. Kc1 {[%clk 0:00:13]}  Qa1+ {[%clk 0:03:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Shuvalova, Polina"]
+[Black "Benmesbah, Natacha"]
+[WhiteFideId "24171760"]
+[BlackFideId "642002"]
+[WhiteElo "2383"]
+[BlackElo "2193"]
+[Result "1-0"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:11:07"]
+[BlackClock "0:09:35"]
+
+1. e4 {[%clk 0:45:18]}  c5 {[%clk 0:45:19]} 2. Nf3 {[%clk 0:45:18]}  Nc6 {[%clk 0:45:27]} 3. Bb5 {[%clk 0:45:34]}  g6 {[%clk 0:45:33]} 4. Bxc6 {[%clk 0:45:40]}  dxc6 {[%clk 0:45:41]} 5. d3 {[%clk 0:45:47]}  Bg7 {[%clk 0:45:39]} 6. h3 {[%clk 0:45:53]}  Nf6 {[%clk 0:44:54]} 7. Bd2 {[%clk 0:45:50]}  O-O {[%clk 0:44:54]} 8. Bc3 {[%clk 0:45:57]}  c4 {[%clk 0:36:16]} 9. e5 {[%clk 0:44:56]}  Nd5 {[%clk 0:36:24]} 10. dxc4 {[%clk 0:45:02]}  Nxc3 {[%clk 0:36:32]} 11. Nxc3 {[%clk 0:44:57]}  Qa5 {[%clk 0:34:42]} 12. Qe2 {[%clk 0:42:06]}  Qb4 {[%clk 0:31:05]} 13. O-O-O {[%clk 0:38:55]}  Be6 {[%clk 0:28:15]} 14. Rd4 {[%clk 0:38:41]}  Rfd8 {[%clk 0:26:36]} 15. a3 {[%clk 0:37:01]}  Qa5 {[%clk 0:25:38]} 16. Rhd1 {[%clk 0:35:34]}  Rdb8 {[%clk 0:21:58]} 17. Kb1 {[%clk 0:27:44]}  a6 {[%clk 0:16:49]} 18. Ng5 {[%clk 0:22:17]}  c5 {[%clk 0:15:36]} 19. Rh4 {[%clk 0:27:44]}  b5 {[%clk 0:15:44]} 20. Nxe6 {[%clk 0:18:19]}  fxe6 {[%clk 0:15:52]} 21. Ne4 {[%clk 0:11:57]}  b4 {[%clk 0:13:22]} 22. Qg4 {[%clk 0:11:28]}  Qb6 {[%clk 0:12:18]} 23. Rd6 {[%clk 0:11:03]}  exd6 {[%clk 0:09:35]} 24. Qxe6+ {[%clk 0:11:10]}  Kh8 {[%clk 0:09:43]} 25. Ng5 {[%clk 0:10:59]}  h6 {[%clk 0:09:32]} 26. Qxg6 {[%clk 0:11:00]}  Kg8 {[%clk 0:09:35]} 27. Qf7+ {[%clk 0:11:07]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Alexieva, Silvia"]
+[Black "Kashlinskaya, Alina"]
+[WhiteFideId "2902265"]
+[BlackFideId "4198026"]
+[WhiteElo "2277"]
+[BlackElo "2367"]
+[Result "0-1"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:06:11"]
+[BlackClock "0:15:54"]
+
+1. d4 {[%clk 0:45:18]}  Nf6 {[%clk 0:45:19]} 2. Nf3 {[%clk 0:45:25]}  g6 {[%clk 0:45:25]} 3. Bf4 {[%clk 0:44:40]}  Bg7 {[%clk 0:45:29]} 4. h4 {[%clk 0:44:39]}  d5 {[%clk 0:41:37]} 5. e3 {[%clk 0:44:39]}  Bg4 {[%clk 0:40:54]} 6. Be2 {[%clk 0:44:34]}  c5 {[%clk 0:37:24]} 7. Ne5 {[%clk 0:42:00]}  Bxe2 {[%clk 0:37:27]} 8. Qxe2 {[%clk 0:42:09]}  Qb6 {[%clk 0:35:42]} 9. c3 {[%clk 0:42:00]}  Nc6 {[%clk 0:35:47]} 10. dxc5 {[%clk 0:38:39]}  Qxc5 {[%clk 0:35:21]} 11. Nd2 {[%clk 0:38:42]}  Nh5 {[%clk 0:33:08]} 12. Nd3 {[%clk 0:41:54]}  Qb6 {[%clk 0:28:25]} 13. Bh2 {[%clk 0:36:31]}  Nf6 {[%clk 0:28:27]} 14. e4 {[%clk 0:34:15]}  dxe4 {[%clk 0:27:58]} 15. Nxe4 {[%clk 0:34:00]}  Nxe4 {[%clk 0:27:56]} 16. Qxe4 {[%clk 0:34:07]}  Rd8 {[%clk 0:27:48]} 17. O-O-O {[%clk 0:26:52]}  O-O {[%clk 0:24:44]} 18. h5 {[%clk 0:26:31]}  Rd7 {[%clk 0:24:44]} 19. hxg6 {[%clk 0:25:44]}  hxg6 {[%clk 0:24:52]} 20. Bf4 {[%clk 0:13:15]}  Rfd8 {[%clk 0:20:15]} 21. Bh6 {[%clk 0:12:58]}  Bf6 {[%clk 0:20:23]} 22. Kc2 {[%clk 0:12:49]}  Qa5 {[%clk 0:18:07]} 23. a3 {[%clk 0:12:49]}  Qb5 {[%clk 0:17:09]} 24. f4 {[%clk 0:09:59]}  Nd4+ {[%clk 0:16:13]} 25. Kb1 {[%clk 0:06:11]}  Nf5 {[%clk 0:15:54]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Danielian, Elina"]
+[Black "Mammadzada, Gunay"]
+[WhiteFideId "13300210"]
+[BlackFideId "13403729"]
+[WhiteElo "2358"]
+[BlackElo "2280"]
+[Result "0-1"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:22"]
+[BlackClock "0:00:59"]
+
+1. Nf3 {[%clk 0:45:17]}  d5 {[%clk 0:45:16]} 2. g3 {[%clk 0:45:21]}  c6 {[%clk 0:45:19]} 3. Bg2 {[%clk 0:45:03]}  Bg4 {[%clk 0:45:20]} 4. c4 {[%clk 0:45:01]}  Nf6 {[%clk 0:42:56]} 5. Ne5 {[%clk 0:44:22]}  Be6 {[%clk 0:43:03]} 6. cxd5 {[%clk 0:44:22]}  Bxd5 {[%clk 0:43:10]} 7. Nf3 {[%clk 0:44:18]}  c5 {[%clk 0:43:01]} 8. Nc3 {[%clk 0:44:02]}  Bc6 {[%clk 0:43:10]} 9. O-O {[%clk 0:43:45]}  e6 {[%clk 0:39:12]} 10. Re1 {[%clk 0:41:13]}  Be7 {[%clk 0:37:12]} 11. e4 {[%clk 0:41:03]}  O-O {[%clk 0:32:14]} 12. d4 {[%clk 0:41:02]}  cxd4 {[%clk 0:28:50]} 13. Nxd4 {[%clk 0:40:01]}  Bb4 {[%clk 0:25:48]} 14. Bf4 {[%clk 0:23:27]}  Re8 {[%clk 0:22:13]} 15. Nxc6 {[%clk 0:10:47]}  Nxc6 {[%clk 0:22:04]} 16. Qb3 {[%clk 0:10:20]}  e5 {[%clk 0:14:48]} 17. Bg5 {[%clk 0:10:19]}  Bxc3 {[%clk 0:13:35]} 18. bxc3 {[%clk 0:09:50]}  Na5 {[%clk 0:11:10]} 19. Qb5 {[%clk 0:07:00]}  b6 {[%clk 0:10:38]} 20. Rad1 {[%clk 0:04:05]}  Qe7 {[%clk 0:10:38]} 21. Bh3 {[%clk 0:03:30]}  Red8 {[%clk 0:06:00]} 22. Rd5 {[%clk 0:01:01]}  Rxd5 {[%clk 0:03:48]} 23. exd5 {[%clk 0:01:10]}  Rd8 {[%clk 0:03:25]} 24. f4 {[%clk 0:00:40]}  Qc7 {[%clk 0:01:39]} 25. Bxf6 {[%clk 0:00:31]}  gxf6 {[%clk 0:01:41]} 26. fxe5 {[%clk 0:00:33]}  Qxc3 {[%clk 0:00:23]} 27. Qf1 {[%clk 0:00:31]}  Qd4+ {[%clk 0:00:13]} 28. Kh1 {[%clk 0:00:29]}  fxe5 {[%clk 0:00:14]} 29. Qf5 {[%clk 0:00:16]}  Qxd5+ {[%clk 0:00:16]} 30. Bg2 {[%clk 0:00:25]}  e4 {[%clk 0:00:13]} 31. Qg4+ {[%clk 0:00:30]}  Kh8 {[%clk 0:00:22]} 32. Bxe4 {[%clk 0:00:38]}  Qd6 {[%clk 0:00:11]} 33. Qh5 {[%clk 0:00:20]}  h6 {[%clk 0:00:11]} 34. Qxf7 {[%clk 0:00:24]}  Rd7 {[%clk 0:00:18]} 35. Qf5 {[%clk 0:00:13]}  Nc4 {[%clk 0:00:12]} 36. Qh5 {[%clk 0:00:11]}  Re7 {[%clk 0:00:15]} 37. Rd1 {[%clk 0:00:14]}  Qf6 {[%clk 0:00:13]} 38. Qg4 {[%clk 0:00:16]}  Re8 {[%clk 0:00:15]} 39. Qg6 {[%clk 0:00:15]}  Qxg6 {[%clk 0:00:18]} 40. Bxg6 {[%clk 0:00:24]}  Re7 {[%clk 0:00:16]} 41. h4 {[%clk 0:00:28]}  Kg7 {[%clk 0:00:18]} 42. h5 {[%clk 0:00:30]}  Ne5 {[%clk 0:00:26]} 43. Bf5 {[%clk 0:00:36]}  Kf6 {[%clk 0:00:24]} 44. g4 {[%clk 0:00:39]}  Kg5 {[%clk 0:00:32]} 45. Rd6 {[%clk 0:00:31]}  Rc7 {[%clk 0:00:16]} 46. Kg2 {[%clk 0:00:34]}  Rc4 {[%clk 0:00:19]} 47. Kh3 {[%clk 0:00:11]}  Rc3+ {[%clk 0:00:22]} 48. Kg2 {[%clk 0:00:21]}  Ra3 {[%clk 0:00:24]} 49. Be6 {[%clk 0:00:14]}  Nxg4 {[%clk 0:00:13]} 50. Rd5+ {[%clk 0:00:15]}  Kh4 {[%clk 0:00:17]} 51. Rd4 {[%clk 0:00:15]}  Rg3+ {[%clk 0:00:26]} 52. Kf1 {[%clk 0:00:22]}  Kxh5 {[%clk 0:00:26]} 53. Rd7 {[%clk 0:00:14]}  Ra3 {[%clk 0:00:11]} 54. Rd5+ {[%clk 0:00:17]}  Kh4 {[%clk 0:00:20]} 55. Rd4 {[%clk 0:00:25]}  h5 {[%clk 0:00:30]} 56. Kg2 {[%clk 0:00:13]}  Rg3+ {[%clk 0:00:36]} 57. Kf1 {[%clk 0:00:23]}  Re3 {[%clk 0:00:44]} 58. Bb3 {[%clk 0:00:26]}  Kg3 {[%clk 0:00:51]} 59. Rd1 {[%clk 0:00:21]}  h4 {[%clk 0:01:02]} 60. Bd5 {[%clk 0:00:20]}  Nh2+ {[%clk 0:00:46]} 61. Kg1 {[%clk 0:00:27]}  Nf3+ {[%clk 0:00:54]} 62. Bxf3 {[%clk 0:00:12]}  Rxf3 {[%clk 0:00:52]} 63. Rd2 {[%clk 0:00:12]}  h3 {[%clk 0:00:56]} 64. Rd1 {[%clk 0:00:13]}  b5 {[%clk 0:00:45]} 65. Rc1 {[%clk 0:00:11]}  b4 {[%clk 0:00:45]} 66. Rd1 {[%clk 0:00:18]}  a5 {[%clk 0:00:54]} 67. Rb1 {[%clk 0:00:23]}  Rd3 {[%clk 0:00:42]} 68. Re1 {[%clk 0:00:25]}  Rd2 {[%clk 0:00:45]} 69. Re3+ {[%clk 0:00:23]}  Kf4 {[%clk 0:00:55]} 70. Rxh3 {[%clk 0:00:27]}  Rxa2 {[%clk 0:01:03]} 71. Kf1 {[%clk 0:00:36]}  Rb2 {[%clk 0:00:52]} 72. Ke1 {[%clk 0:00:45]}  a4 {[%clk 0:00:51]} 73. Kd1 {[%clk 0:00:54]}  a3 {[%clk 0:01:01]} 74. Kc1 {[%clk 0:01:03]}  Ke4 {[%clk 0:01:04]} 75. Rg3 {[%clk 0:01:04]}  Kd4 {[%clk 0:01:04]} 76. Rh3 {[%clk 0:01:14]}  Kc4 {[%clk 0:01:16]} 77. Rg3 {[%clk 0:01:16]}  Kb5 {[%clk 0:01:11]} 78. Rh3 {[%clk 0:01:03]}  Ka4 {[%clk 0:01:16]} 79. Rg3 {[%clk 0:01:07]}  Rb3 {[%clk 0:01:11]} 80. Rg8 {[%clk 0:00:54]}  Rc3+ {[%clk 0:01:14]} 81. Kb1 {[%clk 0:00:55]}  Rc4 {[%clk 0:01:14]} 82. Rg7 {[%clk 0:00:32]}  b3 {[%clk 0:00:43]} 83. Ra7+ {[%clk 0:00:27]}  Kb4 {[%clk 0:00:52]} 84. Rb7+ {[%clk 0:00:36]}  Kc3 {[%clk 0:01:01]} 85. Ka1 {[%clk 0:00:11]}  Kc2 {[%clk 0:00:55]} 86. Rb8 {[%clk 0:00:12]}  Rc3 {[%clk 0:00:47]} 87. Rb7 {[%clk 0:00:13]}  Kc1 {[%clk 0:00:54]} 88. Rb8 {[%clk 0:00:14]}  b2+ {[%clk 0:00:50]} 89. Ka2 {[%clk 0:00:22]}  Rc2 {[%clk 0:00:59]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mammadova, Gulnar"]
+[Black "Mkrtchian, Lilit"]
+[WhiteFideId "13403508"]
+[BlackFideId "13300601"]
+[WhiteElo "2406"]
+[BlackElo "2306"]
+[Result "1-0"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:12:21"]
+[BlackClock "0:00:32"]
+
+1. e4 {[%clk 0:45:17]}  e6 {[%clk 0:45:16]} 2. d4 {[%clk 0:45:24]}  d5 {[%clk 0:45:16]} 3. e5 {[%clk 0:45:32]}  c5 {[%clk 0:45:24]} 4. c3 {[%clk 0:45:39]}  Bd7 {[%clk 0:42:20]} 5. Nf3 {[%clk 0:45:16]}  Nc6 {[%clk 0:40:54]} 6. Bd3 {[%clk 0:44:59]}  cxd4 {[%clk 0:40:16]} 7. O-O {[%clk 0:44:06]}  dxc3 {[%clk 0:36:55]} 8. Nxc3 {[%clk 0:44:13]}  Nge7 {[%clk 0:36:52]} 9. Bg5 {[%clk 0:40:52]}  Qb8 {[%clk 0:33:35]} 10. Re1 {[%clk 0:40:03]}  Ng6 {[%clk 0:33:33]} 11. Bxg6 {[%clk 0:36:36]}  fxg6 {[%clk 0:31:49]} 12. Nxd5 {[%clk 0:32:53]}  Bc8 {[%clk 0:11:04]} 13. Nf4 {[%clk 0:29:57]}  Qc7 {[%clk 0:07:50]} 14. Rc1 {[%clk 0:28:52]}  Qb6 {[%clk 0:06:45]} 15. Re3 {[%clk 0:26:51]}  Bc5 {[%clk 0:02:40]} 16. Rb3 {[%clk 0:25:36]}  Qa5 {[%clk 0:02:48]} 17. Qd3 {[%clk 0:19:15]}  Bb6 {[%clk 0:02:52]} 18. Nxg6 {[%clk 0:15:34]}  hxg6 {[%clk 0:02:41]} 19. Qxg6+ {[%clk 0:15:42]}  Kf8 {[%clk 0:02:42]} 20. Bd2 {[%clk 0:14:35]}  Qa4 {[%clk 0:01:23]} 21. Bb4+ {[%clk 0:12:28]}  Nxb4 {[%clk 0:01:12]} 22. Ng5 {[%clk 0:12:37]}  Qe8 {[%clk 0:00:15]} 23. Rf3+ {[%clk 0:12:19]}  Ke7 {[%clk 0:00:23]} 24. Qxg7+ {[%clk 0:12:19]}  Kd8 {[%clk 0:00:32]} 25. Nf7+ {[%clk 0:12:21]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Sargsyan, Anna M."]
+[Black "Mamedjarova, Turkan"]
+[WhiteFideId "13308130"]
+[BlackFideId "13402005"]
+[WhiteElo "2283"]
+[BlackElo "2243"]
+[Result "1-0"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:05:52"]
+[BlackClock "0:06:12"]
+
+1. d4 {[%clk 0:45:08]}  Nf6 {[%clk 0:45:11]} 2. c4 {[%clk 0:45:12]}  e6 {[%clk 0:45:18]} 3. Nf3 {[%clk 0:45:15]}  b6 {[%clk 0:45:14]} 4. g3 {[%clk 0:45:19]}  Ba6 {[%clk 0:45:13]} 5. Qc2 {[%clk 0:45:24]}  Bb7 {[%clk 0:45:12]} 6. Bg2 {[%clk 0:45:31]}  c5 {[%clk 0:44:40]} 7. d5 {[%clk 0:45:14]}  exd5 {[%clk 0:44:40]} 8. cxd5 {[%clk 0:45:19]}  Nxd5 {[%clk 0:44:42]} 9. O-O {[%clk 0:45:20]}  Be7 {[%clk 0:44:34]} 10. Rd1 {[%clk 0:45:13]}  Nc6 {[%clk 0:43:41]} 11. a3 {[%clk 0:45:19]}  Nf6 {[%clk 0:42:46]} 12. Bf4 {[%clk 0:43:30]}  d5 {[%clk 0:41:15]} 13. Nc3 {[%clk 0:42:03]}  O-O {[%clk 0:38:43]} 14. e3 {[%clk 0:41:43]}  h6 {[%clk 0:37:38]} 15. Nh4 {[%clk 0:38:30]}  Qc8 {[%clk 0:28:39]} 16. Nf5 {[%clk 0:36:28]}  Kh8 {[%clk 0:26:12]} 17. Nxd5 {[%clk 0:33:38]}  Nxd5 {[%clk 0:25:56]} 18. Bxd5 {[%clk 0:33:38]}  Rd8 {[%clk 0:21:16]} 19. Bxf7 {[%clk 0:23:26]}  Rf8 {[%clk 0:19:22]} 20. Bg6 {[%clk 0:21:45]}  Rf6 {[%clk 0:19:04]} 21. Nxe7 {[%clk 0:21:33]}  Nxe7 {[%clk 0:19:10]} 22. Be4 {[%clk 0:21:40]}  Bxe4 {[%clk 0:18:31]} 23. Qxe4 {[%clk 0:21:43]}  Ng6 {[%clk 0:17:38]} 24. Bd6 {[%clk 0:19:45]}  Qg8 {[%clk 0:16:01]} 25. b4 {[%clk 0:19:01]}  c4 {[%clk 0:14:51]} 26. b5 {[%clk 0:17:16]}  Rc8 {[%clk 0:13:19]} 27. Rac1 {[%clk 0:17:03]}  Qf7 {[%clk 0:13:04]} 28. f4 {[%clk 0:14:40]}  Re6 {[%clk 0:12:38]} 29. Qd5 {[%clk 0:13:31]}  Qe8 {[%clk 0:12:34]} 30. Bb4 {[%clk 0:11:47]}  Rxe3 {[%clk 0:11:33]} 31. Rxc4 {[%clk 0:11:20]}  Rxc4 {[%clk 0:11:17]} 32. Qxc4 {[%clk 0:11:27]}  Kh7 {[%clk 0:10:43]} 33. Qc6 {[%clk 0:10:22]}  Qf7 {[%clk 0:08:17]} 34. Qd5 {[%clk 0:10:28]}  Qe8 {[%clk 0:06:10]} 35. Rf1 {[%clk 0:07:18]}  h5 {[%clk 0:05:58]} 36. Qxh5+ {[%clk 0:07:18]}  Kg8 {[%clk 0:06:08]} 37. f5 {[%clk 0:06:14]}  Re2 {[%clk 0:06:02]} 38. fxg6 {[%clk 0:05:35]}  Qe3+ {[%clk 0:06:03]} 39. Kh1 {[%clk 0:05:35]}  Qe4+ {[%clk 0:06:12]} 40. Qf3 {[%clk 0:05:52]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mamedjarova, Zeinab"]
+[Black "Gaboyan, Susanna"]
+[WhiteFideId "13401521"]
+[BlackFideId "13303627"]
+[WhiteElo "2198"]
+[BlackElo "2083"]
+[Result "0-1"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:25"]
+[BlackClock "0:00:35"]
+
+1. Nf3 {[%clk 0:45:11]}  Nf6 {[%clk 0:45:17]} 2. g3 {[%clk 0:45:18]}  g6 {[%clk 0:45:24]} 3. c4 {[%clk 0:45:18]}  Bg7 {[%clk 0:45:32]} 4. Bg2 {[%clk 0:45:20]}  O-O {[%clk 0:45:37]} 5. O-O {[%clk 0:45:27]}  d5 {[%clk 0:45:31]} 6. cxd5 {[%clk 0:40:43]}  Nxd5 {[%clk 0:45:38]} 7. Nc3 {[%clk 0:40:46]}  Nb6 {[%clk 0:45:24]} 8. b3 {[%clk 0:39:29]}  Nc6 {[%clk 0:45:17]} 9. Bb2 {[%clk 0:39:26]}  e5 {[%clk 0:45:03]} 10. d3 {[%clk 0:39:10]}  a5 {[%clk 0:43:16]} 11. a4 {[%clk 0:37:34]}  Be6 {[%clk 0:37:31]} 12. Ne4 {[%clk 0:34:24]}  Nd4 {[%clk 0:37:05]} 13. Nxd4 {[%clk 0:31:09]}  exd4 {[%clk 0:37:12]} 14. Ba3 {[%clk 0:25:56]}  Re8 {[%clk 0:37:05]} 15. Nc5 {[%clk 0:25:59]}  Nd5 {[%clk 0:28:15]} 16. Nxb7 {[%clk 0:19:59]}  Qc8 {[%clk 0:26:06]} 17. Nc5 {[%clk 0:19:57]}  Nc3 {[%clk 0:25:57]} 18. Qd2 {[%clk 0:09:54]}  Bg4 {[%clk 0:23:04]} 19. Rfe1 {[%clk 0:04:15]}  Nxe2+ {[%clk 0:19:14]} 20. Kf1 {[%clk 0:02:25]}  Qf5 {[%clk 0:18:19]} 21. f4 {[%clk 0:01:03]}  Re3 {[%clk 0:06:54]} 22. Bxa8 {[%clk 0:00:24]}  Qh5 {[%clk 0:06:28]} 23. Rxe2 {[%clk 0:00:12]}  Rxe2 {[%clk 0:06:32]} 24. Qxe2 {[%clk 0:00:19]}  Bxe2+ {[%clk 0:06:28]} 25. Kg2 {[%clk 0:00:17]}  Bf8 {[%clk 0:06:28]} 26. Nd7 {[%clk 0:00:14]}  Bg7 {[%clk 0:06:28]} 27. Re1 {[%clk 0:00:23]}  h6 {[%clk 0:04:17]} 28. h3 {[%clk 0:00:30]}  Bxd3 {[%clk 0:02:59]} 29. Re8+ {[%clk 0:00:39]}  Kh7 {[%clk 0:03:08]} 30. Bf3 {[%clk 0:00:27]}  Qf5 {[%clk 0:02:56]} 31. Ne5 {[%clk 0:00:19]}  Be4 {[%clk 0:02:58]} 32. Re7 {[%clk 0:00:23]}  Bxf3+ {[%clk 0:03:01]} 33. Kxf3 {[%clk 0:00:28]}  Bxe5 {[%clk 0:02:51]} 34. Rxe5 {[%clk 0:00:37]}  Qd3+ {[%clk 0:02:53]} 35. Kf2 {[%clk 0:00:17]}  Qxb3 {[%clk 0:02:25]} 36. Bc5 {[%clk 0:00:13]}  Qc2+ {[%clk 0:00:49]} 37. Kf3 {[%clk 0:00:15]}  d3 {[%clk 0:00:38]} 38. Be3 {[%clk 0:00:17]}  Qe2+ {[%clk 0:00:38]} 39. Ke4 {[%clk 0:00:25]}  d2 {[%clk 0:00:35]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Matnadze Bujiashvili, Ann"]
+[Black "Dronavalli, Harika"]
+[WhiteFideId "13601377"]
+[BlackFideId "5015197"]
+[WhiteElo "2349"]
+[BlackElo "2450"]
+[Result "1/2-1/2"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:11:49"]
+[BlackClock "0:06:21"]
+
+1. d4 {[%clk 0:45:16]}  d5 {[%clk 0:45:14]} 2. Nf3 {[%clk 0:45:16]}  c6 {[%clk 0:45:21]} 3. g3 {[%clk 0:45:29]}  Nf6 {[%clk 0:45:18]} 4. Bg2 {[%clk 0:45:29]}  g6 {[%clk 0:45:26]} 5. O-O {[%clk 0:45:41]}  Bg7 {[%clk 0:45:34]} 6. c4 {[%clk 0:45:48]}  O-O {[%clk 0:45:40]} 7. Qb3 {[%clk 0:44:07]}  a5 {[%clk 0:45:00]} 8. Nc3 {[%clk 0:43:40]}  a4 {[%clk 0:45:04]} 9. Nxa4 {[%clk 0:43:21]}  dxc4 {[%clk 0:44:56]} 10. Qd1 {[%clk 0:43:17]}  b5 {[%clk 0:44:01]} 11. Nc5 {[%clk 0:42:38]}  Nbd7 {[%clk 0:40:40]} 12. Nxd7 {[%clk 0:38:28]}  Nxd7 {[%clk 0:40:10]} 13. Bg5 {[%clk 0:38:16]}  Bb7 {[%clk 0:37:13]} 14. Qd2 {[%clk 0:37:46]}  Re8 {[%clk 0:36:48]} 15. Rfd1 {[%clk 0:37:19]}  Qa5 {[%clk 0:23:35]} 16. Qf4 {[%clk 0:33:27]}  e5 {[%clk 0:22:36]} 17. dxe5 {[%clk 0:33:27]}  Nxe5 {[%clk 0:22:44]} 18. Bf6 {[%clk 0:31:21]}  Bxf6 {[%clk 0:19:11]} 19. Qxf6 {[%clk 0:31:28]}  Re6 {[%clk 0:18:43]} 20. Qh4 {[%clk 0:30:37]}  Nxf3+ {[%clk 0:18:47]} 21. Bxf3 {[%clk 0:30:45]}  Qc7 {[%clk 0:18:00]} 22. e3 {[%clk 0:25:50]}  Kg7 {[%clk 0:14:32]} 23. Qd4+ {[%clk 0:24:56]}  Rf6 {[%clk 0:14:09]} 24. Bg2 {[%clk 0:20:28]}  c5 {[%clk 0:13:37]} 25. Qc3 {[%clk 0:18:34]}  Bxg2 {[%clk 0:13:37]} 26. Kxg2 {[%clk 0:18:42]}  Qc6+ {[%clk 0:12:48]} 27. Kg1 {[%clk 0:18:42]}  Qf3 {[%clk 0:12:13]} 28. Rd2 {[%clk 0:18:34]}  h5 {[%clk 0:11:44]} 29. h4 {[%clk 0:17:38]}  Ra6 {[%clk 0:09:03]} 30. Qe5 {[%clk 0:15:40]}  Qf5 {[%clk 0:08:15]} 31. Qe8 {[%clk 0:15:16]}  b4 {[%clk 0:07:06]} 32. Rd8 {[%clk 0:11:02]}  Qxf2+ {[%clk 0:07:13]} 33. Kh1 {[%clk 0:11:12]}  Qf3+ {[%clk 0:07:06]} 34. Kh2 {[%clk 0:11:21]}  Qf2+ {[%clk 0:06:10]} 35. Kh1 {[%clk 0:11:21]}  Qf3+ {[%clk 0:06:10]} 36. Kh2 {[%clk 0:11:38]}  Qf2+ {[%clk 0:06:03]} 37. Kh1 {[%clk 0:11:38]}  Qf3+ {[%clk 0:06:21]} 38. Kh2 {[%clk 0:11:49]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Vaishali, Rameshbabu"]
+[Black "Vega Gutierrez, Sabrina"]
+[WhiteFideId "5091756"]
+[BlackFideId "2219026"]
+[WhiteElo "2149"]
+[BlackElo "2214"]
+[Result "1-0"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:40"]
+[BlackClock "0:00:11"]
+
+1. e4 {[%clk 0:45:07]}  c5 {[%clk 0:45:18]} 2. Nf3 {[%clk 0:45:14]}  e6 {[%clk 0:45:26]} 3. d4 {[%clk 0:45:16]}  cxd4 {[%clk 0:45:34]} 4. Nxd4 {[%clk 0:45:16]}  Nf6 {[%clk 0:45:38]} 5. Nc3 {[%clk 0:45:30]}  Nc6 {[%clk 0:45:45]} 6. a3 {[%clk 0:45:36]}  Be7 {[%clk 0:45:10]} 7. Nxc6 {[%clk 0:44:07]}  bxc6 {[%clk 0:44:00]} 8. e5 {[%clk 0:44:09]}  Nd5 {[%clk 0:44:07]} 9. Qg4 {[%clk 0:43:30]}  g6 {[%clk 0:41:22]} 10. Qg3 {[%clk 0:38:09]}  h5 {[%clk 0:32:03]} 11. Ne4 {[%clk 0:28:55]}  h4 {[%clk 0:32:09]} 12. Qh3 {[%clk 0:28:26]}  Qc7 {[%clk 0:31:07]} 13. f4 {[%clk 0:26:54]}  d6 {[%clk 0:28:40]} 14. exd6 {[%clk 0:21:48]}  Bxd6 {[%clk 0:28:47]} 15. Nxd6+ {[%clk 0:16:39]}  Qxd6 {[%clk 0:28:54]} 16. Qd3 {[%clk 0:16:09]}  e5 {[%clk 0:24:00]} 17. c4 {[%clk 0:14:33]}  Bf5 {[%clk 0:24:05]} 18. fxe5 {[%clk 0:13:13]}  Qc5 {[%clk 0:16:59]} 19. Qf3 {[%clk 0:09:59]}  Nc7 {[%clk 0:16:35]} 20. Qe3 {[%clk 0:05:50]}  Ne6 {[%clk 0:16:20]} 21. Be2 {[%clk 0:03:27]}  Rb8 {[%clk 0:14:53]} 22. b4 {[%clk 0:02:23]}  Qd4 {[%clk 0:14:26]} 23. Ra2 {[%clk 0:02:23]}  h3 {[%clk 0:13:04]} 24. g3 {[%clk 0:01:22]}  a5 {[%clk 0:11:56]} 25. O-O {[%clk 0:01:01]}  O-O {[%clk 0:09:35]} 26. Rb2 {[%clk 0:00:20]}  axb4 {[%clk 0:08:45]} 27. axb4 {[%clk 0:00:28]}  Ra8 {[%clk 0:08:36]} 28. Rd1 {[%clk 0:00:31]}  Qe4 {[%clk 0:05:40]} 29. Qxe4 {[%clk 0:00:36]}  Bxe4 {[%clk 0:05:48]} 30. Bh6 {[%clk 0:00:30]}  Rfd8 {[%clk 0:04:29]} 31. Rxd8+ {[%clk 0:00:35]}  Rxd8 {[%clk 0:04:37]} 32. Be3 {[%clk 0:00:41]}  Ra8 {[%clk 0:04:14]} 33. g4 {[%clk 0:00:19]}  g5 {[%clk 0:02:55]} 34. Kf2 {[%clk 0:00:25]}  Nf4 {[%clk 0:02:35]} 35. Bxf4 {[%clk 0:00:26]}  gxf4 {[%clk 0:02:39]} 36. b5 {[%clk 0:00:29]}  cxb5 {[%clk 0:02:39]} 37. cxb5 {[%clk 0:00:35]}  Ra1 {[%clk 0:02:04]} 38. Rb4 {[%clk 0:00:30]}  Bd5 {[%clk 0:00:12]} 39. Rxf4 {[%clk 0:00:37]}  Rh1 {[%clk 0:00:13]} 40. Kg3 {[%clk 0:00:44]}  Re1 {[%clk 0:00:21]} 41. Rf2 {[%clk 0:00:43]}  Bg2 {[%clk 0:00:18]} 42. Bc4 {[%clk 0:00:31]}  Re3+ {[%clk 0:00:16]} 43. Kh4 {[%clk 0:00:31]}  Rxe5 {[%clk 0:00:24]} 44. Rxf7 {[%clk 0:00:40]}  Kh8 {[%clk 0:00:12]} 45. b6 {[%clk 0:00:41]}  Rc5 {[%clk 0:00:12]} 46. Rc7 {[%clk 0:00:45]}  Re5 {[%clk 0:00:11]} 47. b7 {[%clk 0:00:40]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Eizaguerri Floris, Maria"]
+[Black "Kulkarni, Bhakti"]
+[WhiteFideId "32065752"]
+[BlackFideId "5019516"]
+[WhiteElo "1811"]
+[BlackElo "2325"]
+[Result "1/2-1/2"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:01:27"]
+[BlackClock "0:01:50"]
+
+1. e4 {[%clk 0:45:18]}  d5 {[%clk 0:45:12]} 2. exd5 {[%clk 0:45:18]}  Qxd5 {[%clk 0:45:19]} 3. Nc3 {[%clk 0:45:24]}  Qa5 {[%clk 0:45:26]} 4. d4 {[%clk 0:45:23]}  Nf6 {[%clk 0:45:32]} 5. Bd2 {[%clk 0:45:15]}  Bg4 {[%clk 0:45:15]} 6. f3 {[%clk 0:43:19]}  Bd7 {[%clk 0:45:11]} 7. Bc4 {[%clk 0:41:52]}  Qb6 {[%clk 0:43:31]} 8. Qe2 {[%clk 0:38:24]}  Nc6 {[%clk 0:37:24]} 9. d5 {[%clk 0:28:41]}  Nd4 {[%clk 0:36:34]} 10. Qd3 {[%clk 0:28:22]}  O-O-O {[%clk 0:32:14]} 11. O-O-O {[%clk 0:23:25]}  Bf5 {[%clk 0:27:59]} 12. Ne4 {[%clk 0:23:29]}  e6 {[%clk 0:22:54]} 13. Be3 {[%clk 0:15:23]}  exd5 {[%clk 0:20:55]} 14. Bxd4 {[%clk 0:12:53]}  dxc4 {[%clk 0:15:08]} 15. Qxc4 {[%clk 0:09:34]}  Be6 {[%clk 0:12:07]} 16. Qa4 {[%clk 0:06:19]}  c5 {[%clk 0:11:31]} 17. Bxf6 {[%clk 0:06:19]}  Rxd1+ {[%clk 0:09:35]} 18. Kxd1 {[%clk 0:06:28]}  gxf6 {[%clk 0:09:42]} 19. Kc1 {[%clk 0:05:08]}  Bh6+ {[%clk 0:08:49]} 20. Kb1 {[%clk 0:05:10]}  Rd8 {[%clk 0:08:19]} 21. Ne2 {[%clk 0:04:10]}  Kb8 {[%clk 0:07:47]} 22. N4c3 {[%clk 0:02:25]}  c4 {[%clk 0:06:38]} 23. f4 {[%clk 0:02:01]}  f5 {[%clk 0:06:09]} 24. Qb5 {[%clk 0:01:50]}  Qe3 {[%clk 0:05:35]} 25. g3 {[%clk 0:01:58]}  Bg7 {[%clk 0:05:40]} 26. a4 {[%clk 0:01:25]}  a6 {[%clk 0:05:35]} 27. Qb4 {[%clk 0:01:03]}  Rd2 {[%clk 0:05:35]} 28. a5 {[%clk 0:00:53]}  Qf3 {[%clk 0:04:10]} 29. Rc1 {[%clk 0:00:51]}  Qc6 {[%clk 0:03:48]} 30. Qe7 {[%clk 0:00:40]}  Ka7 {[%clk 0:03:18]} 31. Qb4 {[%clk 0:00:40]}  Bf6 {[%clk 0:03:20]} 32. h4 {[%clk 0:00:38]}  h5 {[%clk 0:03:20]} 33. Rd1 {[%clk 0:00:42]}  Rxd1+ {[%clk 0:02:46]} 34. Nxd1 {[%clk 0:00:51]}  Bd5 {[%clk 0:02:45]} 35. Nec3 {[%clk 0:00:45]}  Be6 {[%clk 0:02:31]} 36. Na4 {[%clk 0:00:47]}  Bd4 {[%clk 0:01:46]} 37. Ndc3 {[%clk 0:00:48]}  Qh1+ {[%clk 0:01:41]} 38. Ka2 {[%clk 0:00:57]}  Qg2 {[%clk 0:01:32]} 39. Qd6 {[%clk 0:00:53]}  Be3 {[%clk 0:01:17]} 40. Nc5 {[%clk 0:00:37]}  Qc6 {[%clk 0:00:44]} 41. Qxc6 {[%clk 0:00:45]}  bxc6 {[%clk 0:00:51]} 42. Nxe6 {[%clk 0:00:41]}  fxe6 {[%clk 0:01:00]} 43. b3 {[%clk 0:00:31]}  Bd2 {[%clk 0:00:51]} 44. Kb2 {[%clk 0:00:28]}  Be1 {[%clk 0:00:53]} 45. Ne2 {[%clk 0:00:35]}  c5 {[%clk 0:00:39]} 46. bxc4 {[%clk 0:00:28]}  Bxa5 {[%clk 0:00:45]} 47. c3 {[%clk 0:00:20]}  Bc7 {[%clk 0:00:39]} 48. Ng1 {[%clk 0:00:20]}  e5 {[%clk 0:00:59]} 49. Ne2 {[%clk 0:00:21]}  e4 {[%clk 0:00:19]} 50. Kb3 {[%clk 0:00:29]}  Kb6 {[%clk 0:00:25]} 51. Nc1 {[%clk 0:00:22]}  Kc6 {[%clk 0:00:33]} 52. Kc2 {[%clk 0:00:27]}  Kb6 {[%clk 0:00:37]} 53. Kb3 {[%clk 0:00:36]}  Bd8 {[%clk 0:00:44]} 54. Kc2 {[%clk 0:00:36]}  Bf6 {[%clk 0:00:44]} 55. Kb3 {[%clk 0:00:38]}  Kc6 {[%clk 0:00:44]} 56. Kc2 {[%clk 0:00:46]}  a5 {[%clk 0:00:35]} 57. Na2 {[%clk 0:00:25]}  a4 {[%clk 0:00:35]} 58. Kd2 {[%clk 0:00:25]}  Bd4 {[%clk 0:00:25]} 59. Ke2 {[%clk 0:00:16]}  Bf6 {[%clk 0:00:25]} 60. Kd2 {[%clk 0:00:19]}  Kb6 {[%clk 0:00:34]} 61. Kc2 {[%clk 0:00:24]}  Ka5 {[%clk 0:00:33]} 62. Kd2 {[%clk 0:00:12]}  a3 {[%clk 0:00:38]} 63. Kc2 {[%clk 0:00:18]}  Ka4 {[%clk 0:00:46]} 64. Nc1 {[%clk 0:00:26]}  e3 {[%clk 0:00:33]} 65. Nd3 {[%clk 0:00:16]}  Be7 {[%clk 0:00:34]} 66. Nc1 {[%clk 0:00:18]}  Bd6 {[%clk 0:00:37]} 67. Kd3 {[%clk 0:00:20]}  e2 {[%clk 0:00:28]} 68. Kxe2 {[%clk 0:00:23]}  a2 {[%clk 0:00:36]} 69. Nxa2 {[%clk 0:00:27]}  Kb3 {[%clk 0:00:45]} 70. Nc1+ {[%clk 0:00:26]}  Kxc3 {[%clk 0:00:36]} 71. Nd3 {[%clk 0:00:18]}  Kxc4 {[%clk 0:00:47]} 72. Ne1 {[%clk 0:00:18]}  Kc3 {[%clk 0:00:43]} 73. Ng2 {[%clk 0:00:18]}  Kd4 {[%clk 0:00:48]} 74. Ne3 {[%clk 0:00:36]}  Ke4 {[%clk 0:00:56]} 75. Nc4 {[%clk 0:00:45]}  Bxf4 {[%clk 0:00:46]} 76. gxf4 {[%clk 0:00:49]}  Kxf4 {[%clk 0:00:55]} 77. Ne3 {[%clk 0:00:35]}  Ke4 {[%clk 0:00:56]} 78. Nf1 {[%clk 0:00:30]}  f4 {[%clk 0:01:00]} 79. Nd2+ {[%clk 0:00:39]}  Kd4 {[%clk 0:01:06]} 80. Kf3 {[%clk 0:00:40]}  Ke5 {[%clk 0:00:20]} 81. Nc4+ {[%clk 0:00:39]}  Kd4 {[%clk 0:00:24]} 82. Na3 {[%clk 0:00:16]}  Ke5 {[%clk 0:00:30]} 83. Nc4+ {[%clk 0:00:21]}  Kd4 {[%clk 0:00:39]} 84. Nb2 {[%clk 0:00:31]}  c4 {[%clk 0:00:39]} 85. Nxc4 {[%clk 0:00:14]}  Kxc4 {[%clk 0:00:56]} 86. Kxf4 {[%clk 0:00:23]}  Kd5 {[%clk 0:00:56]} 87. Kg5 {[%clk 0:00:33]}  Ke6 {[%clk 0:01:05]} 88. Kxh5 {[%clk 0:00:40]}  Kf7 {[%clk 0:01:14]} 89. Kh6 {[%clk 0:00:49]}  Kg8 {[%clk 0:01:23]} 90. h5 {[%clk 0:00:59]}  Kh8 {[%clk 0:01:32]} 91. Kg6 {[%clk 0:01:08]}  Kg8 {[%clk 0:01:32]} 92. h6 {[%clk 0:01:27]}  Kh8 {[%clk 0:01:50]} 93. h7 {[%clk 0:01:27]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Gomes, Mary Ann"]
+[Black "Garcia Martin, Marta"]
+[WhiteFideId "5013623"]
+[BlackFideId "32084030"]
+[WhiteElo "2305"]
+[BlackElo "2097"]
+[Result "1/2-1/2"]
+[Round "02"]
+[TimeControl "40+10"]
+[Date "2021.09.27"]
+[WhiteClock "0:00:47"]
+[BlackClock "0:00:34"]
+
+1. Nf3 {[%clk 0:45:03]}  Nf6 {[%clk 0:45:15]} 2. g3 {[%clk 0:45:08]}  b6 {[%clk 0:45:13]} 3. Bg2 {[%clk 0:45:14]}  Bb7 {[%clk 0:45:22]} 4. O-O {[%clk 0:45:19]}  g6 {[%clk 0:45:30]} 5. b3 {[%clk 0:45:27]}  Bg7 {[%clk 0:45:30]} 6. Bb2 {[%clk 0:45:34]}  O-O {[%clk 0:45:46]} 7. c4 {[%clk 0:45:37]}  c5 {[%clk 0:44:08]} 8. e3 {[%clk 0:44:56]}  d5 {[%clk 0:41:02]} 9. Qe2 {[%clk 0:44:21]}  Nc6 {[%clk 0:38:03]} 10. d3 {[%clk 0:43:54]}  e6 {[%clk 0:37:11]} 11. Nc3 {[%clk 0:43:35]}  Qe7 {[%clk 0:34:28]} 12. Rfd1 {[%clk 0:43:34]}  Rfd8 {[%clk 0:30:36]} 13. Rac1 {[%clk 0:43:34]}  Rac8 {[%clk 0:30:44]} 14. Nb5 {[%clk 0:38:19]}  e5 {[%clk 0:29:57]} 15. cxd5 {[%clk 0:33:55]}  Nxd5 {[%clk 0:30:04]} 16. Nc3 {[%clk 0:31:06]}  Nxc3 {[%clk 0:28:18]} 17. Bxc3 {[%clk 0:31:14]}  Ba6 {[%clk 0:24:17]} 18. Ne1 {[%clk 0:30:46]}  Rd6 {[%clk 0:22:40]} 19. Qb2 {[%clk 0:29:14]}  Rcd8 {[%clk 0:19:46]} 20. a3 {[%clk 0:28:36]}  Bb5 {[%clk 0:16:25]} 21. b4 {[%clk 0:24:32]}  c4 {[%clk 0:12:41]} 22. Bxc6 {[%clk 0:19:33]}  Bxc6 {[%clk 0:11:55]} 23. b5 {[%clk 0:11:08]}  Ba8 {[%clk 0:12:03]} 24. Bb4 {[%clk 0:07:26]}  Qb7 {[%clk 0:12:03]} 25. e4 {[%clk 0:07:33]}  Rd4 {[%clk 0:06:13]} 26. Bc3 {[%clk 0:03:03]}  R4d7 {[%clk 0:03:46]} 27. Bxe5 {[%clk 0:01:44]}  Bxe5 {[%clk 0:03:51]} 28. Qxe5 {[%clk 0:01:52]}  cxd3 {[%clk 0:04:00]} 29. Rc4 {[%clk 0:00:35]}  d2 {[%clk 0:00:49]} 30. Nf3 {[%clk 0:00:43]}  Rd3 {[%clk 0:00:49]} 31. Ng5 {[%clk 0:00:26]}  R3d7 {[%clk 0:00:14]} 32. Qf4 {[%clk 0:00:25]}  h6 {[%clk 0:00:16]} 33. Nf3 {[%clk 0:00:33]}  g5 {[%clk 0:00:24]} 34. Qf5 {[%clk 0:00:21]}  Rd6 {[%clk 0:00:19]} 35. h4 {[%clk 0:00:23]}  Qd7 {[%clk 0:00:14]} 36. Qxd7 {[%clk 0:00:20]}  R6xd7 {[%clk 0:00:22]} 37. Rxd2 {[%clk 0:00:23]}  Rxd2 {[%clk 0:00:22]} 38. Nxd2 {[%clk 0:00:32]}  Rxd2 {[%clk 0:00:20]} 39. Rc8+ {[%clk 0:00:40]}  Kg7 {[%clk 0:00:29]} 40. Rxa8 {[%clk 0:00:47]}  gxh4 {[%clk 0:00:23]} 41. Rxa7 {[%clk 0:00:43]}  hxg3 {[%clk 0:00:23]} 42. fxg3 {[%clk 0:00:52]}  Rb2 {[%clk 0:00:18]} 43. a4 {[%clk 0:00:58]}  Rb4 {[%clk 0:00:13]} 44. Kf2 {[%clk 0:01:05]}  Rxe4 {[%clk 0:00:21]} 45. Ra6 {[%clk 0:00:40]}  f5 {[%clk 0:00:14]} 46. Kf3 {[%clk 0:00:40]}  h5 {[%clk 0:00:21]} 47. Rxb6 {[%clk 0:00:33]}  Rxa4 {[%clk 0:00:30]} 48. Rb8 {[%clk 0:00:39]}  h4 {[%clk 0:00:14]} 49. gxh4 {[%clk 0:00:16]}  Rxh4 {[%clk 0:00:23]} 50. b6 {[%clk 0:00:25]}  Rb4 {[%clk 0:00:30]} 51. b7 {[%clk 0:00:19]}  Kh7 {[%clk 0:00:15]} 52. Ke3 {[%clk 0:00:26]}  Kg7 {[%clk 0:00:16]} 53. Kf3 {[%clk 0:00:30]}  Kh7 {[%clk 0:00:24]} 54. Ke3 {[%clk 0:00:39]}  Kg7 {[%clk 0:00:34]} 55. Kf3 {[%clk 0:00:47]}  Kh7 {[%clk 0:00:34]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mammadzada, Gunay"]
+[Black "Goryachkina, Aleksandra"]
+[WhiteFideId "13403729"]
+[BlackFideId "4147103"]
+[WhiteElo "2280"]
+[BlackElo "2520"]
+[Result "0-1"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:23"]
+[BlackClock "0:02:11"]
+
+1. e4 {[%clk 0:45:16]}  e5 {[%clk 0:45:12]} 2. Nf3 {[%clk 0:45:24]}  Nc6 {[%clk 0:45:19]} 3. Bb5 {[%clk 0:45:28]}  Nf6 {[%clk 0:45:26]} 4. O-O {[%clk 0:45:34]}  Nxe4 {[%clk 0:45:29]} 5. Re1 {[%clk 0:45:42]}  Nd6 {[%clk 0:45:33]} 6. Nxe5 {[%clk 0:45:50]}  Be7 {[%clk 0:45:27]} 7. Bf1 {[%clk 0:45:54]}  Nf5 {[%clk 0:44:39]} 8. Bd3 {[%clk 0:45:49]}  Nfd4 {[%clk 0:35:53]} 9. Qh5 {[%clk 0:38:21]}  Nxe5 {[%clk 0:35:15]} 10. Rxe5 {[%clk 0:37:45]}  Ne6 {[%clk 0:34:23]} 11. Nc3 {[%clk 0:31:13]}  d6 {[%clk 0:33:40]} 12. Re1 {[%clk 0:26:27]}  c6 {[%clk 0:31:40]} 13. g3 {[%clk 0:23:16]}  g6 {[%clk 0:30:38]} 14. Qh6 {[%clk 0:22:45]}  Bg5 {[%clk 0:26:48]} 15. Qg7 {[%clk 0:22:25]}  Qf6 {[%clk 0:26:10]} 16. Qxf6 {[%clk 0:21:34]}  Bxf6 {[%clk 0:26:18]} 17. Ne4 {[%clk 0:17:06]}  Be7 {[%clk 0:26:14]} 18. b4 {[%clk 0:16:30]}  d5 {[%clk 0:25:24]} 19. Nc5 {[%clk 0:16:34]}  Bf6 {[%clk 0:22:38]} 20. Rb1 {[%clk 0:14:41]}  O-O {[%clk 0:22:36]} 21. Nxe6 {[%clk 0:14:26]}  Bxe6 {[%clk 0:22:41]} 22. Bb2 {[%clk 0:13:26]}  Kg7 {[%clk 0:19:22]} 23. Be5 {[%clk 0:12:06]}  Rfe8 {[%clk 0:18:38]} 24. f3 {[%clk 0:11:34]}  Bd7 {[%clk 0:15:06]} 25. Bxf6+ {[%clk 0:11:31]}  Kxf6 {[%clk 0:15:14]} 26. Kf2 {[%clk 0:11:37]}  Rxe1 {[%clk 0:14:41]} 27. Rxe1 {[%clk 0:11:45]}  a5 {[%clk 0:14:35]} 28. a3 {[%clk 0:11:24]}  axb4 {[%clk 0:14:35]} 29. axb4 {[%clk 0:11:33]}  h5 {[%clk 0:14:05]} 30. h4 {[%clk 0:10:21]}  b6 {[%clk 0:13:33]} 31. Rb1 {[%clk 0:09:15]}  Ra2 {[%clk 0:12:08]} 32. Ke3 {[%clk 0:08:25]}  Ke5 {[%clk 0:11:20]} 33. c3 {[%clk 0:06:54]}  Be6 {[%clk 0:09:11]} 34. Bf1 {[%clk 0:06:26]}  Ra3 {[%clk 0:08:22]} 35. Bd3 {[%clk 0:06:12]}  d4+ {[%clk 0:05:35]} 36. cxd4+ {[%clk 0:05:59]}  Kd6 {[%clk 0:05:41]} 37. Rc1 {[%clk 0:03:42]}  Rb3 {[%clk 0:05:47]} 38. Rc3 {[%clk 0:02:42]}  Rxb4 {[%clk 0:05:39]} 39. Ra3 {[%clk 0:00:55]}  b5 {[%clk 0:05:04]} 40. Ra6 {[%clk 0:00:43]}  Rb3 {[%clk 0:04:36]} 41. Ke2 {[%clk 0:00:47]}  b4 {[%clk 0:03:57]} 42. Ra1 {[%clk 0:00:15]}  Ra3 {[%clk 0:03:29]} 43. Rc1 {[%clk 0:00:13]}  b3 {[%clk 0:03:27]} 44. Be4 {[%clk 0:00:21]}  Ra6 {[%clk 0:03:23]} 45. Rb1 {[%clk 0:00:21]}  Rb6 {[%clk 0:02:50]} 46. Rb2 {[%clk 0:00:30]}  Bc4+ {[%clk 0:02:40]} 47. Bd3 {[%clk 0:00:14]}  Kd5 {[%clk 0:02:20]} 48. Ke3 {[%clk 0:00:23]}  f5 {[%clk 0:02:11]} 49. Bb1 {[%clk 0:00:14]}  c5 {[%clk 0:01:56]} 50. dxc5 {[%clk 0:00:12]}  Kxc5 {[%clk 0:02:04]} 51. d3 {[%clk 0:00:18]}  Bd5 {[%clk 0:02:04]} 52. d4+ {[%clk 0:00:14]}  Kb4 {[%clk 0:02:12]} 53. Bd3 {[%clk 0:00:23]}  Kc3 {[%clk 0:02:11]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kosteniuk, Alexandra"]
+[Black "Mammadova, Gulnar"]
+[WhiteFideId "4128125"]
+[BlackFideId "13403508"]
+[WhiteElo "2517"]
+[BlackElo "2406"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:15:36"]
+[BlackClock "0:05:42"]
+
+1. e4 {[%clk 0:45:17]}  e6 {[%clk 0:45:14]} 2. d4 {[%clk 0:45:23]}  d5 {[%clk 0:45:22]} 3. e5 {[%clk 0:45:25]}  c5 {[%clk 0:45:22]} 4. c3 {[%clk 0:45:31]}  Nc6 {[%clk 0:45:18]} 5. Nf3 {[%clk 0:45:37]}  Bd7 {[%clk 0:44:53]} 6. Be2 {[%clk 0:45:21]}  Qb6 {[%clk 0:42:44]} 7. O-O {[%clk 0:45:17]}  f6 {[%clk 0:41:30]} 8. dxc5 {[%clk 0:43:39]}  Bxc5 {[%clk 0:41:17]} 9. b4 {[%clk 0:43:41]}  Be7 {[%clk 0:41:15]} 10. Bf4 {[%clk 0:42:13]}  fxe5 {[%clk 0:38:57]} 11. Bxe5 {[%clk 0:41:40]}  Nf6 {[%clk 0:37:18]} 12. Nbd2 {[%clk 0:38:38]}  O-O {[%clk 0:36:41]} 13. Bg3 {[%clk 0:36:39]}  a6 {[%clk 0:35:36]} 14. Rb1 {[%clk 0:35:31]}  Nh5 {[%clk 0:33:24]} 15. c4 {[%clk 0:31:15]}  Nxg3 {[%clk 0:33:15]} 16. hxg3 {[%clk 0:31:24]}  Qc7 {[%clk 0:31:50]} 17. a3 {[%clk 0:30:28]}  Be8 {[%clk 0:28:27]} 18. Bd3 {[%clk 0:30:14]}  a5 {[%clk 0:26:36]} 19. Qc2 {[%clk 0:25:15]}  h6 {[%clk 0:25:47]} 20. cxd5 {[%clk 0:25:18]}  axb4 {[%clk 0:24:47]} 21. dxc6 {[%clk 0:25:22]}  Rxa3 {[%clk 0:24:51]} 22. cxb7 {[%clk 0:24:26]}  Qxb7 {[%clk 0:23:58]} 23. Nc4 {[%clk 0:24:11]}  Ra7 {[%clk 0:22:43]} 24. Nce5 {[%clk 0:24:16]}  Bf6 {[%clk 0:21:50]} 25. Bh7+ {[%clk 0:22:46]}  Kh8 {[%clk 0:21:58]} 26. Ng6+ {[%clk 0:22:18]}  Bxg6 {[%clk 0:22:01]} 27. Bxg6 {[%clk 0:22:26]}  Rb8 {[%clk 0:20:37]} 28. Qb3 {[%clk 0:22:17]}  Qb6 {[%clk 0:18:38]} 29. Rfc1 {[%clk 0:21:02]}  Qd6 {[%clk 0:17:15]} 30. Qc4 {[%clk 0:19:07]}  Rab7 {[%clk 0:15:21]} 31. Bc2 {[%clk 0:17:49]}  Qd5 {[%clk 0:10:07]} 32. Qg4 {[%clk 0:17:48]}  Qd6 {[%clk 0:07:57]} 33. Qg6 {[%clk 0:17:41]}  Kg8 {[%clk 0:08:04]} 34. Bb3 {[%clk 0:17:28]}  Kh8 {[%clk 0:07:10]} 35. Rc4 {[%clk 0:17:06]}  e5 {[%clk 0:05:51]} 36. Rbc1 {[%clk 0:16:48]}  Rd7 {[%clk 0:05:45]} 37. Rc6 {[%clk 0:15:56]}  Qe7 {[%clk 0:05:42]} 38. Bc2 {[%clk 0:15:36]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Fataliyeva, Ulviyya"]
+[Black "Shuvalova, Polina"]
+[WhiteFideId "13403052"]
+[BlackFideId "24171760"]
+[WhiteElo "2310"]
+[BlackElo "2383"]
+[Result "1/2-1/2"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:10:18"]
+[BlackClock "0:05:18"]
+
+1. d4 {[%clk 0:45:19]}  d5 {[%clk 0:45:09]} 2. c4 {[%clk 0:45:26]}  e6 {[%clk 0:45:18]} 3. Nc3 {[%clk 0:45:35]}  c5 {[%clk 0:45:19]} 4. cxd5 {[%clk 0:44:30]}  exd5 {[%clk 0:45:25]} 5. Nf3 {[%clk 0:44:39]}  Nf6 {[%clk 0:45:27]} 6. Bg5 {[%clk 0:43:17]}  Be6 {[%clk 0:45:29]} 7. g3 {[%clk 0:43:08]}  Nc6 {[%clk 0:45:08]} 8. Bg2 {[%clk 0:42:54]}  h6 {[%clk 0:45:10]} 9. Bxf6 {[%clk 0:41:40]}  Qxf6 {[%clk 0:45:17]} 10. O-O {[%clk 0:41:40]}  O-O-O {[%clk 0:42:30]} 11. Qa4 {[%clk 0:40:13]}  Kb8 {[%clk 0:40:50]} 12. e4 {[%clk 0:38:50]}  Nxd4 {[%clk 0:37:30]} 13. Nxd4 {[%clk 0:38:24]}  Qxd4 {[%clk 0:37:31]} 14. Qc2 {[%clk 0:36:44]}  Qf6 {[%clk 0:35:17]} 15. exd5 {[%clk 0:35:59]}  Bf5 {[%clk 0:35:16]} 16. Qa4 {[%clk 0:35:36]}  Qd4 {[%clk 0:34:09]} 17. Qa5 {[%clk 0:34:03]}  b6 {[%clk 0:33:26]} 18. Qa6 {[%clk 0:34:05]}  Bc8 {[%clk 0:31:46]} 19. Qe2 {[%clk 0:33:55]}  Bd6 {[%clk 0:31:05]} 20. Qf3 {[%clk 0:33:03]}  Bg4 {[%clk 0:29:27]} 21. Nb5 {[%clk 0:30:26]}  Bxf3 {[%clk 0:27:25]} 22. Nxd4 {[%clk 0:30:35]}  Bxd5 {[%clk 0:23:25]} 23. Bxd5 {[%clk 0:30:42]}  cxd4 {[%clk 0:23:32]} 24. Rad1 {[%clk 0:26:44]}  Bxg3 {[%clk 0:21:57]} 25. fxg3 {[%clk 0:26:44]}  Rxd5 {[%clk 0:22:05]} 26. Rxf7 {[%clk 0:27:00]}  Rc8 {[%clk 0:21:09]} 27. Rd2 {[%clk 0:25:21]}  Rc7 {[%clk 0:18:00]} 28. Rf3 {[%clk 0:22:04]}  Rcd7 {[%clk 0:16:34]} 29. Rfd3 {[%clk 0:22:09]}  Kc7 {[%clk 0:16:36]} 30. Kf2 {[%clk 0:22:17]}  Kc6 {[%clk 0:16:23]} 31. Kf3 {[%clk 0:21:58]}  a5 {[%clk 0:16:22]} 32. Ke4 {[%clk 0:21:58]}  Re7+ {[%clk 0:16:27]} 33. Kf3 {[%clk 0:20:42]}  Kc5 {[%clk 0:15:46]} 34. Rc2+ {[%clk 0:20:45]}  Kb5 {[%clk 0:12:41]} 35. Rcd2 {[%clk 0:20:29]}  Kc4 {[%clk 0:11:16]} 36. Rb3 {[%clk 0:16:57]}  Rd6 {[%clk 0:10:39]} 37. Rc2+ {[%clk 0:14:46]}  Kd5 {[%clk 0:10:47]} 38. Rb5+ {[%clk 0:14:46]}  Ke6 {[%clk 0:10:55]} 39. Re2+ {[%clk 0:15:02]}  Kd7 {[%clk 0:10:42]} 40. Rxe7+ {[%clk 0:15:07]}  Kxe7 {[%clk 0:10:51]} 41. Ke2 {[%clk 0:14:55]}  Kd7 {[%clk 0:10:09]} 42. Kd3 {[%clk 0:14:13]}  Kc6 {[%clk 0:10:17]} 43. Rf5 {[%clk 0:13:52]}  Rd7 {[%clk 0:09:43]} 44. b3 {[%clk 0:10:53]}  Rd6 {[%clk 0:09:28]} 45. a3 {[%clk 0:10:51]}  Rd7 {[%clk 0:06:48]} 46. Rf4 {[%clk 0:10:03]}  Kc5 {[%clk 0:06:50]} 47. Rf5+ {[%clk 0:10:08]}  Kc6 {[%clk 0:05:30]} 48. Rf4 {[%clk 0:10:13]}  Kc5 {[%clk 0:05:18]} 49. Rf5+ {[%clk 0:10:18]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kashlinskaya, Alina"]
+[Black "Mamedjarova, Turkan"]
+[WhiteFideId "4198026"]
+[BlackFideId "13402005"]
+[WhiteElo "2367"]
+[BlackElo "2243"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:06:09"]
+[BlackClock "0:01:14"]
+
+1. d4 {[%clk 0:45:17]}  Nf6 {[%clk 0:45:13]} 2. c4 {[%clk 0:45:25]}  e6 {[%clk 0:45:21]} 3. Nf3 {[%clk 0:45:31]}  b6 {[%clk 0:45:25]} 4. a3 {[%clk 0:45:36]}  Bb7 {[%clk 0:45:25]} 5. Bf4 {[%clk 0:45:39]}  d5 {[%clk 0:42:10]} 6. cxd5 {[%clk 0:45:32]}  exd5 {[%clk 0:41:49]} 7. Nc3 {[%clk 0:45:28]}  Bd6 {[%clk 0:41:34]} 8. Bxd6 {[%clk 0:43:33]}  Qxd6 {[%clk 0:38:52]} 9. Rc1 {[%clk 0:43:30]}  c6 {[%clk 0:38:41]} 10. g3 {[%clk 0:43:06]}  Nbd7 {[%clk 0:38:21]} 11. Bg2 {[%clk 0:43:08]}  O-O {[%clk 0:38:24]} 12. O-O {[%clk 0:43:08]}  Rfe8 {[%clk 0:37:09]} 13. Qc2 {[%clk 0:37:40]}  h6 {[%clk 0:33:20]} 14. Rfd1 {[%clk 0:37:36]}  Rac8 {[%clk 0:31:11]} 15. e3 {[%clk 0:34:30]}  Qe7 {[%clk 0:26:54]} 16. Qb3 {[%clk 0:27:54]}  Ng4 {[%clk 0:22:28]} 17. Re1 {[%clk 0:27:23]}  Ngf6 {[%clk 0:19:05]} 18. Nd2 {[%clk 0:22:38]}  Nf8 {[%clk 0:14:34]} 19. Qa4 {[%clk 0:22:07]}  a6 {[%clk 0:14:22]} 20. b4 {[%clk 0:21:40]}  Qd7 {[%clk 0:13:23]} 21. Nf3 {[%clk 0:19:37]}  Qd6 {[%clk 0:12:32]} 22. Qb3 {[%clk 0:16:31]}  Rc7 {[%clk 0:09:47]} 23. Na4 {[%clk 0:14:38]}  N8d7 {[%clk 0:09:46]} 24. Ne5 {[%clk 0:12:36]}  Nxe5 {[%clk 0:08:22]} 25. dxe5 {[%clk 0:12:45]}  Qxe5 {[%clk 0:08:31]} 26. Nxb6 {[%clk 0:12:47]}  Rce7 {[%clk 0:08:31]} 27. Na4 {[%clk 0:12:47]}  h5 {[%clk 0:08:14]} 28. Red1 {[%clk 0:10:08]}  h4 {[%clk 0:08:31]} 29. Rd4 {[%clk 0:10:01]}  hxg3 {[%clk 0:06:24]} 30. hxg3 {[%clk 0:10:09]}  Qg5 {[%clk 0:06:08]} 31. Qd1 {[%clk 0:08:32]}  Qe5 {[%clk 0:03:55]} 32. Nb2 {[%clk 0:08:09]}  Qd6 {[%clk 0:03:36]} 33. Nc4 {[%clk 0:07:57]}  Qd7 {[%clk 0:02:17]} 34. Na5 {[%clk 0:08:09]}  Ba8 {[%clk 0:02:17]} 35. Rh4 {[%clk 0:07:39]}  Qd6 {[%clk 0:02:14]} 36. Qd4 {[%clk 0:05:53]}  Nd7 {[%clk 0:01:28]} 37. Qg4 {[%clk 0:05:53]}  Nf6 {[%clk 0:01:30]} 38. Qh3 {[%clk 0:05:53]}  Kf8 {[%clk 0:01:30]} 39. Rh8+ {[%clk 0:06:01]}  Ng8 {[%clk 0:01:14]} 40. Qh7 {[%clk 0:06:09]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Sebag, Marie"]
+[Black "Matnadze Bujiashvili, Ann"]
+[WhiteFideId "617822"]
+[BlackFideId "13601377"]
+[WhiteElo "2401"]
+[BlackElo "2349"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:02:22"]
+[BlackClock "0:00:30"]
+
+1. e4 {[%clk 0:45:17]}  d5 {[%clk 0:45:18]} 2. exd5 {[%clk 0:45:24]}  Qxd5 {[%clk 0:45:27]} 3. Nc3 {[%clk 0:45:24]}  Qd8 {[%clk 0:45:34]} 4. d4 {[%clk 0:45:38]}  c6 {[%clk 0:45:43]} 5. Bc4 {[%clk 0:41:54]}  g6 {[%clk 0:44:57]} 6. Nf3 {[%clk 0:41:36]}  Bg7 {[%clk 0:44:56]} 7. Ne5 {[%clk 0:41:00]}  e6 {[%clk 0:45:02]} 8. Ne4 {[%clk 0:40:27]}  h6 {[%clk 0:41:40]} 9. Bf4 {[%clk 0:34:39]}  Nf6 {[%clk 0:41:07]} 10. Nxf6+ {[%clk 0:34:21]}  Qxf6 {[%clk 0:41:02]} 11. Qd2 {[%clk 0:33:11]}  Qe7 {[%clk 0:36:37]} 12. Bb3 {[%clk 0:29:16]}  b5 {[%clk 0:29:15]} 13. O-O-O {[%clk 0:28:20]}  a5 {[%clk 0:28:32]} 14. a3 {[%clk 0:26:55]}  a4 {[%clk 0:28:32]} 15. Ba2 {[%clk 0:27:03]}  g5 {[%clk 0:20:12]} 16. Bg3 {[%clk 0:25:52]}  h5 {[%clk 0:20:15]} 17. h4 {[%clk 0:25:06]}  g4 {[%clk 0:17:48]} 18. Kb1 {[%clk 0:22:26]}  O-O {[%clk 0:16:45]} 19. Qg5 {[%clk 0:15:38]}  Qb7 {[%clk 0:12:10]} 20. Nd3 {[%clk 0:10:32]}  Nd7 {[%clk 0:09:54]} 21. Bd6 {[%clk 0:08:20]}  Re8 {[%clk 0:09:04]} 22. Nf4 {[%clk 0:07:00]}  Nf6 {[%clk 0:07:58]} 23. Nxh5 {[%clk 0:06:00]}  Nxh5 {[%clk 0:08:00]} 24. Qxh5 {[%clk 0:06:09]}  c5 {[%clk 0:07:23]} 25. Bxc5 {[%clk 0:05:16]}  Bd7 {[%clk 0:05:13]} 26. Qxg4 {[%clk 0:05:03]}  Bc6 {[%clk 0:04:45]} 27. d5 {[%clk 0:03:10]}  Bxd5 {[%clk 0:01:51]} 28. Bxd5 {[%clk 0:03:16]}  exd5 {[%clk 0:01:59]} 29. Bd4 {[%clk 0:03:24]}  f6 {[%clk 0:01:04]} 30. Bxf6 {[%clk 0:03:21]}  Rf8 {[%clk 0:00:36]} 31. Bxg7 {[%clk 0:02:48]}  Qxg7 {[%clk 0:00:45]} 32. Qxg7+ {[%clk 0:02:52]}  Kxg7 {[%clk 0:00:54]} 33. Rxd5 {[%clk 0:01:58]}  Rxf2 {[%clk 0:01:00]} 34. Rxb5 {[%clk 0:02:06]}  Re8 {[%clk 0:00:57]} 35. g4 {[%clk 0:01:36]}  Ree2 {[%clk 0:01:03]} 36. Rc1 {[%clk 0:01:39]}  Rh2 {[%clk 0:00:51]} 37. h5 {[%clk 0:01:19]}  Kh6 {[%clk 0:00:49]} 38. Rb4 {[%clk 0:01:21]}  Kg5 {[%clk 0:00:43]} 39. Rxa4 {[%clk 0:01:30]}  Reg2 {[%clk 0:00:51]} 40. Rc4 {[%clk 0:01:33]}  Re2 {[%clk 0:00:52]} 41. a4 {[%clk 0:01:37]}  Re5 {[%clk 0:00:56]} 42. b3 {[%clk 0:01:44]}  Rd5 {[%clk 0:00:58]} 43. Kb2 {[%clk 0:01:50]}  Re5 {[%clk 0:00:58]} 44. Rf1 {[%clk 0:01:58]}  Ree2 {[%clk 0:01:07]} 45. Rf5+ {[%clk 0:02:06]}  Kh4 {[%clk 0:01:08]} 46. h6 {[%clk 0:02:06]}  Kg3 {[%clk 0:01:15]} 47. Rh5 {[%clk 0:02:13]}  Rxh5 {[%clk 0:00:30]} 48. gxh5 {[%clk 0:02:22]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Vega Gutierrez, Sabrina"]
+[Black "Navrotescu, Andreea"]
+[WhiteFideId "2219026"]
+[BlackFideId "675946"]
+[WhiteElo "2214"]
+[BlackElo "2220"]
+[Result "1/2-1/2"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:04:18"]
+[BlackClock "0:01:19"]
+
+1. e4 {[%clk 0:45:15]}  e6 {[%clk 0:45:18]} 2. d4 {[%clk 0:45:21]}  d5 {[%clk 0:45:25]} 3. Nc3 {[%clk 0:45:28]}  Bb4 {[%clk 0:45:30]} 4. e5 {[%clk 0:45:28]}  c5 {[%clk 0:45:30]} 5. a3 {[%clk 0:45:27]}  Bxc3+ {[%clk 0:45:34]} 6. bxc3 {[%clk 0:45:34]}  Ne7 {[%clk 0:45:35]} 7. Qg4 {[%clk 0:45:03]}  Qc7 {[%clk 0:45:17]} 8. Qxg7 {[%clk 0:39:48]}  Rg8 {[%clk 0:45:24]} 9. Qxh7 {[%clk 0:39:56]}  cxd4 {[%clk 0:45:29]} 10. Qd3 {[%clk 0:39:00]}  Qxc3+ {[%clk 0:45:29]} 11. Qxc3 {[%clk 0:39:06]}  dxc3 {[%clk 0:37:57]} 12. Ne2 {[%clk 0:38:08]}  Nbc6 {[%clk 0:38:02]} 13. Nxc3 {[%clk 0:37:59]}  Nxe5 {[%clk 0:36:26]} 14. Bb2 {[%clk 0:37:58]}  f6 {[%clk 0:33:29]} 15. Nb5 {[%clk 0:34:39]}  Kf7 {[%clk 0:33:30]} 16. f4 {[%clk 0:33:10]}  Ng4 {[%clk 0:32:40]} 17. Nd6+ {[%clk 0:31:39]}  Kg7 {[%clk 0:28:25]} 18. Be2 {[%clk 0:30:03]}  Nh6 {[%clk 0:27:12]} 19. g4 {[%clk 0:29:39]}  Rd8 {[%clk 0:24:52]} 20. g5 {[%clk 0:16:52]}  Rxd6 {[%clk 0:24:58]} 21. Bxf6+ {[%clk 0:16:59]}  Kf7 {[%clk 0:23:18]} 22. Bxe7 {[%clk 0:16:19]}  Kxe7 {[%clk 0:23:24]} 23. gxh6 {[%clk 0:16:27]}  e5 {[%clk 0:20:53]} 24. O-O-O {[%clk 0:14:25]}  Rxh6 {[%clk 0:20:41]} 25. Rxd5 {[%clk 0:13:19]}  exf4 {[%clk 0:19:12]} 26. Bf3 {[%clk 0:13:02]}  Be6 {[%clk 0:16:20]} 27. Re1 {[%clk 0:11:33]}  Kf7 {[%clk 0:12:31]} 28. Rd6 {[%clk 0:10:40]}  Ke7 {[%clk 0:06:03]} 29. Rd4 {[%clk 0:10:27]}  Rf8 {[%clk 0:06:01]} 30. Re2 {[%clk 0:00:52]}  b6 {[%clk 0:05:38]} 31. Ra4 {[%clk 0:00:42]}  a5 {[%clk 0:05:40]} 32. Rc4 {[%clk 0:00:49]}  Rxh2 {[%clk 0:03:41]} 33. Rc7+ {[%clk 0:00:49]}  Kd8 {[%clk 0:03:50]} 34. Rb7 {[%clk 0:00:12]}  Rxe2 {[%clk 0:03:57]} 35. Bxe2 {[%clk 0:00:20]}  Bd5 {[%clk 0:01:45]} 36. Rxb6 {[%clk 0:00:21]}  Kc7 {[%clk 0:01:46]} 37. Rb5 {[%clk 0:00:14]}  Bg2 {[%clk 0:01:54]} 38. Rxa5 {[%clk 0:00:15]}  f3 {[%clk 0:02:03]} 39. Bxf3 {[%clk 0:00:15]}  Bxf3 {[%clk 0:02:08]} 40. Rc5+ {[%clk 0:00:14]}  Kb6 {[%clk 0:02:15]} 41. Rc3 {[%clk 0:00:20]}  Be4 {[%clk 0:02:15]} 42. Re3 {[%clk 0:00:24]}  Bd5 {[%clk 0:02:09]} 43. Kb2 {[%clk 0:00:26]}  Kc5 {[%clk 0:02:12]} 44. Rc3+ {[%clk 0:00:31]}  Bc4 {[%clk 0:02:17]} 45. Rg3 {[%clk 0:00:36]}  Rf2 {[%clk 0:02:06]} 46. Kc3 {[%clk 0:00:30]}  Bd5 {[%clk 0:01:58]} 47. Re3 {[%clk 0:00:22]}  Rf4 {[%clk 0:02:06]} 48. Kb2 {[%clk 0:00:25]}  Rh4 {[%clk 0:01:50]} 49. Rg3 {[%clk 0:00:26]}  Be4 {[%clk 0:01:43]} 50. Rc3+ {[%clk 0:00:23]}  Kd4 {[%clk 0:01:51]} 51. Rc8 {[%clk 0:00:31]}  Rh2 {[%clk 0:01:46]} 52. Kb3 {[%clk 0:00:33]}  Bd5+ {[%clk 0:01:52]} 53. Kb4 {[%clk 0:00:20]}  Ke5 {[%clk 0:01:25]} 54. c4 {[%clk 0:00:13]}  Be6 {[%clk 0:01:27]} 55. Rc6 {[%clk 0:00:18]}  Rb2+ {[%clk 0:01:24]} 56. Kc3 {[%clk 0:00:16]}  Rb8 {[%clk 0:01:19]} 57. a4 {[%clk 0:00:20]}  Bd7 {[%clk 0:01:20]} 58. Ra6 {[%clk 0:00:15]}  Bc8 {[%clk 0:00:54]} 59. Rh6 {[%clk 0:00:12]}  Be6 {[%clk 0:00:55]} 60. a5 {[%clk 0:00:18]}  Rc8 {[%clk 0:00:46]} 61. Rh4 {[%clk 0:00:24]}  Kd6 {[%clk 0:00:51]} 62. Kb4 {[%clk 0:00:24]}  Rb8+ {[%clk 0:00:59]} 63. Kc3 {[%clk 0:00:24]}  Rb1 {[%clk 0:00:33]} 64. Rh6 {[%clk 0:00:14]}  Rc1+ {[%clk 0:00:32]} 65. Kd3 {[%clk 0:00:23]}  Ke5 {[%clk 0:00:39]} 66. Rh4 {[%clk 0:00:20]}  Bf5+ {[%clk 0:00:42]} 67. Kd2 {[%clk 0:00:21]}  Ra1 {[%clk 0:00:51]} 68. Kc3 {[%clk 0:00:24]}  Rxa5 {[%clk 0:00:51]} 69. Kb4 {[%clk 0:00:24]}  Ra1 {[%clk 0:01:02]} 70. Rh5 {[%clk 0:00:38]}  Ke4 {[%clk 0:00:47]} 71. Rh4+ {[%clk 0:00:25]}  Kd3 {[%clk 0:00:51]} 72. Rf4 {[%clk 0:00:22]}  Be4 {[%clk 0:00:57]} 73. Rf8 {[%clk 0:00:20]}  Rb1+ {[%clk 0:01:04]} 74. Kc5 {[%clk 0:00:29]}  Rc1 {[%clk 0:01:03]} 75. Rd8+ {[%clk 0:00:37]}  Ke3 {[%clk 0:01:12]} 76. Re8 {[%clk 0:00:37]}  Kf4 {[%clk 0:01:07]} 77. Re7 {[%clk 0:00:35]}  Bd3 {[%clk 0:00:33]} 78. Kd4 {[%clk 0:00:22]}  Bf5 {[%clk 0:00:42]} 79. Rf7 {[%clk 0:00:22]}  Rd1+ {[%clk 0:00:44]} 80. Kc3 {[%clk 0:00:18]}  Ke5 {[%clk 0:00:53]} 81. Rg7 {[%clk 0:00:17]}  Rc1+ {[%clk 0:00:42]} 82. Kb4 {[%clk 0:00:25]}  Kd4 {[%clk 0:00:47]} 83. Rc7 {[%clk 0:00:21]}  Rb1+ {[%clk 0:00:45]} 84. Ka5 {[%clk 0:00:21]}  Bd3 {[%clk 0:00:21]} 85. Rc6 {[%clk 0:00:13]}  Bxc4 {[%clk 0:00:27]} 86. Rb6 {[%clk 0:00:22]}  Rh1 {[%clk 0:00:24]} 87. Kb4 {[%clk 0:00:31]}  Bd5 {[%clk 0:00:25]} 88. Ka5 {[%clk 0:00:38]}  Kc5 {[%clk 0:00:29]} 89. Rb5+ {[%clk 0:00:47]}  Kc4 {[%clk 0:00:33]} 90. Rb4+ {[%clk 0:00:47]}  Kc3 {[%clk 0:00:39]} 91. Rb8 {[%clk 0:00:37]}  Rh6 {[%clk 0:00:21]} 92. Rb6 {[%clk 0:00:44]}  Rh8 {[%clk 0:00:24]} 93. Kb5 {[%clk 0:00:49]}  Bc4+ {[%clk 0:00:26]} 94. Kc5 {[%clk 0:00:56]}  Rh5+ {[%clk 0:00:35]} 95. Kd6 {[%clk 0:01:05]}  Kd4 {[%clk 0:00:42]} 96. Kc7 {[%clk 0:00:42]}  Bd5 {[%clk 0:00:44]} 97. Rb5 {[%clk 0:00:41]}  Rh6 {[%clk 0:00:43]} 98. Rb6 {[%clk 0:00:31]}  Rh8 {[%clk 0:00:38]} 99. Kd6 {[%clk 0:00:31]}  Bc4 {[%clk 0:00:29]} 100. Rc6 {[%clk 0:00:34]}  Rd8+ {[%clk 0:00:28]} 101. Ke7 {[%clk 0:00:39]}  Rh8 {[%clk 0:00:21]} 102. Kd6 {[%clk 0:00:43]}  Rh5 {[%clk 0:00:28]} 103. Rc7 {[%clk 0:00:43]}  Rd5+ {[%clk 0:00:36]} 104. Ke7 {[%clk 0:00:52]}  Bb5 {[%clk 0:00:26]} 105. Ke6 {[%clk 0:00:52]}  Rd8 {[%clk 0:00:26]} 106. Ke7 {[%clk 0:01:05]}  Rh8 {[%clk 0:00:26]} 107. Kd6 {[%clk 0:01:13]}  Rh6+ {[%clk 0:00:36]} 108. Ke7 {[%clk 0:01:22]}  Kd5 {[%clk 0:00:38]} 109. Kd8 {[%clk 0:01:27]}  Rh1 {[%clk 0:00:14]} 110. Ke7 {[%clk 0:01:35]}  Re1+ {[%clk 0:00:21]} 111. Kf6 {[%clk 0:01:35]}  Re6+ {[%clk 0:00:25]} 112. Kg5 {[%clk 0:01:42]}  Bd3 {[%clk 0:00:31]} 113. Rg7 {[%clk 0:01:48]}  Ke5 {[%clk 0:00:37]} 114. Kh4 {[%clk 0:01:56]}  Rf6 {[%clk 0:00:36]} 115. Rg5+ {[%clk 0:01:56]}  Bf5 {[%clk 0:00:45]} 116. Kg3 {[%clk 0:02:01]}  Ra6 {[%clk 0:00:53]} 117. Kh4 {[%clk 0:02:06]}  Ra3 {[%clk 0:01:00]} 118. Rg3 {[%clk 0:02:11]}  Ra4+ {[%clk 0:01:07]} 119. Kg5 {[%clk 0:02:19]}  Ra8 {[%clk 0:01:07]} 120. Kh4 {[%clk 0:02:19]}  Kf4 {[%clk 0:01:17]} 121. Rg4+ {[%clk 0:02:29]}  Kf3 {[%clk 0:01:21]} 122. Rg3+ {[%clk 0:02:38]}  Kf2 {[%clk 0:01:27]} 123. Rc3 {[%clk 0:02:29]}  Rg8 {[%clk 0:01:34]} 124. Kh5 {[%clk 0:02:21]}  Be4 {[%clk 0:01:36]} 125. Kh6 {[%clk 0:02:25]}  Bf3 {[%clk 0:01:33]} 126. Rc5 {[%clk 0:02:25]}  Ke3 {[%clk 0:01:22]} 127. Rg5 {[%clk 0:02:35]}  Rb8 {[%clk 0:01:18]} 128. Rg7 {[%clk 0:02:21]}  Be4 {[%clk 0:01:18]} 129. Kg5 {[%clk 0:02:30]}  Rb5+ {[%clk 0:01:14]} 130. Kh4 {[%clk 0:02:38]}  Kf4 {[%clk 0:01:20]} 131. Rg4+ {[%clk 0:02:47]}  Kf3 {[%clk 0:01:18]} 132. Rg3+ {[%clk 0:02:55]}  Kf2 {[%clk 0:01:22]} 133. Rg5 {[%clk 0:02:58]}  Rb3 {[%clk 0:01:14]} 134. Rg7 {[%clk 0:03:03]}  Bf3 {[%clk 0:00:53]} 135. Kg5 {[%clk 0:03:09]}  Ke3 {[%clk 0:00:57]} 136. Kf6 {[%clk 0:03:14]}  Kf4 {[%clk 0:00:59]} 137. Ke7 {[%clk 0:03:15]}  Rb6 {[%clk 0:01:01]} 138. Kd8 {[%clk 0:03:19]}  Bd5 {[%clk 0:01:01]} 139. Re7 {[%clk 0:03:25]}  Rc6 {[%clk 0:00:55]} 140. Kd7 {[%clk 0:03:31]}  Rc1 {[%clk 0:00:59]} 141. Kd6 {[%clk 0:03:36]}  Be4 {[%clk 0:01:08]} 142. Rc7 {[%clk 0:03:42]}  Rd1+ {[%clk 0:01:15]} 143. Ke7 {[%clk 0:03:42]}  Ke5 {[%clk 0:01:24]} 144. Rd7 {[%clk 0:03:50]}  Rh1 {[%clk 0:01:31]} 145. Rc7 {[%clk 0:04:02]}  Bd5 {[%clk 0:01:33]} 146. Kd8 {[%clk 0:04:09]}  Be6 {[%clk 0:01:11]} 147. Ke7 {[%clk 0:04:10]}  Rh7+ {[%clk 0:01:19]} 148. Kd8 {[%clk 0:04:18]}  Kd4 {[%clk 0:01:19]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Benmesbah, Natacha"]
+[Black "Eizaguerri Floris, Maria"]
+[WhiteFideId "642002"]
+[BlackFideId "32065752"]
+[WhiteElo "2193"]
+[BlackElo "1811"]
+[Result "0-1"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:40"]
+[BlackClock "0:00:36"]
+
+1. e4 {[%clk 0:45:19]}  c5 {[%clk 0:45:19]} 2. Nf3 {[%clk 0:45:27]}  d6 {[%clk 0:45:26]} 3. Bb5+ {[%clk 0:45:35]}  Nd7 {[%clk 0:45:26]} 4. d4 {[%clk 0:45:43]}  cxd4 {[%clk 0:45:38]} 5. Qxd4 {[%clk 0:45:51]}  a6 {[%clk 0:45:44]} 6. Bxd7+ {[%clk 0:45:59]}  Bxd7 {[%clk 0:45:52]} 7. c4 {[%clk 0:46:00]}  e5 {[%clk 0:44:58]} 8. Qd3 {[%clk 0:46:07]}  b5 {[%clk 0:44:41]} 9. Nc3 {[%clk 0:46:15]}  bxc4 {[%clk 0:37:07]} 10. Qxc4 {[%clk 0:46:23]}  Be6 {[%clk 0:36:10]} 11. Qc6+ {[%clk 0:46:31]}  Bd7 {[%clk 0:36:15]} 12. Qc4 {[%clk 0:46:39]}  h6 {[%clk 0:33:35]} 13. O-O {[%clk 0:44:08]}  Nf6 {[%clk 0:33:18]} 14. Qd3 {[%clk 0:41:16]}  Be7 {[%clk 0:32:44]} 15. Nd2 {[%clk 0:41:21]}  Qc7 {[%clk 0:28:15]} 16. Nc4 {[%clk 0:40:33]}  Be6 {[%clk 0:24:36]} 17. Ne3 {[%clk 0:40:25]}  O-O {[%clk 0:24:27]} 18. b3 {[%clk 0:39:33]}  Rfc8 {[%clk 0:23:20]} 19. Bb2 {[%clk 0:39:41]}  Qb7 {[%clk 0:23:29]} 20. Rfd1 {[%clk 0:38:57]}  Nd7 {[%clk 0:21:41]} 21. Ncd5 {[%clk 0:37:32]}  Bf8 {[%clk 0:20:58]} 22. Nc4 {[%clk 0:36:59]}  Nc5 {[%clk 0:20:00]} 23. Qf3 {[%clk 0:34:37]}  f5 {[%clk 0:13:02]} 24. exf5 {[%clk 0:16:52]}  e4 {[%clk 0:13:04]} 25. Nf6+ {[%clk 0:16:52]}  Kh8 {[%clk 0:13:04]} 26. Qe2 {[%clk 0:10:40]}  Bxc4 {[%clk 0:09:22]} 27. Qxc4 {[%clk 0:08:56]}  gxf6 {[%clk 0:09:12]} 28. Bxf6+ {[%clk 0:09:04]}  Bg7 {[%clk 0:04:51]} 29. Qd4 {[%clk 0:07:34]}  Bxf6 {[%clk 0:03:22]} 30. Qxf6+ {[%clk 0:07:34]}  Qg7 {[%clk 0:03:30]} 31. Qxd6 {[%clk 0:07:44]}  Nd3 {[%clk 0:02:27]} 32. Rf1 {[%clk 0:04:09]}  Rf8 {[%clk 0:02:11]} 33. Qd5 {[%clk 0:02:32]}  Rfe8 {[%clk 0:02:20]} 34. g3 {[%clk 0:02:03]}  Rad8 {[%clk 0:02:20]} 35. Qc6 {[%clk 0:02:04]}  a5 {[%clk 0:00:59]} 36. a3 {[%clk 0:02:04]}  Rc8 {[%clk 0:01:03]} 37. Qd5 {[%clk 0:02:06]}  Rc2 {[%clk 0:00:59]} 38. Rad1 {[%clk 0:01:37]}  Re2 {[%clk 0:00:51]} 39. Qxa5 {[%clk 0:01:22]}  Rf8 {[%clk 0:00:44]} 40. Qd5 {[%clk 0:00:40]}  Qf6 {[%clk 0:00:44]} 41. Qe6 {[%clk 0:00:18]}  Qxf5 {[%clk 0:00:34]} 42. Qxh6+ {[%clk 0:00:26]}  Kg8 {[%clk 0:00:37]} 43. Qe3 {[%clk 0:00:32]}  Rxe3 {[%clk 0:00:34]} 44. fxe3 {[%clk 0:00:40]}  Qe6 {[%clk 0:00:36]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Garcia Martin, Marta"]
+[Black "Alexieva, Silvia"]
+[WhiteFideId "32084030"]
+[BlackFideId "2902265"]
+[WhiteElo "2097"]
+[BlackElo "2277"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:26"]
+[BlackClock "0:01:04"]
+
+1. e4 {[%clk 0:45:17]}  c5 {[%clk 0:45:16]} 2. Nc3 {[%clk 0:45:24]}  Nc6 {[%clk 0:44:37]} 3. Bb5 {[%clk 0:45:30]}  Nd4 {[%clk 0:43:49]} 4. Nf3 {[%clk 0:45:36]}  e6 {[%clk 0:43:41]} 5. O-O {[%clk 0:45:38]}  a6 {[%clk 0:42:37]} 6. Bd3 {[%clk 0:45:42]}  Ne7 {[%clk 0:41:12]} 7. Nxd4 {[%clk 0:45:45]}  cxd4 {[%clk 0:41:20]} 8. Ne2 {[%clk 0:45:53]}  Qb6 {[%clk 0:39:21]} 9. c3 {[%clk 0:45:24]}  Nc6 {[%clk 0:38:38]} 10. Qa4 {[%clk 0:42:44]}  dxc3 {[%clk 0:30:52]} 11. dxc3 {[%clk 0:39:52]}  Bc5 {[%clk 0:30:00]} 12. b4 {[%clk 0:39:36]}  Be7 {[%clk 0:29:56]} 13. Bf4 {[%clk 0:37:06]}  f6 {[%clk 0:27:52]} 14. Be3 {[%clk 0:33:36]}  Qc7 {[%clk 0:27:52]} 15. f4 {[%clk 0:33:45]}  b6 {[%clk 0:24:19]} 16. Rad1 {[%clk 0:32:33]}  Bb7 {[%clk 0:22:54]} 17. Qb3 {[%clk 0:31:25]}  Nd8 {[%clk 0:19:03]} 18. Rd2 {[%clk 0:18:51]}  Rc8 {[%clk 0:14:06]} 19. Rfd1 {[%clk 0:18:37]}  Nf7 {[%clk 0:09:30]} 20. c4 {[%clk 0:05:49]}  O-O {[%clk 0:08:19]} 21. Nc3 {[%clk 0:03:06]}  b5 {[%clk 0:03:01]} 22. c5 {[%clk 0:00:35]}  Bc6 {[%clk 0:03:09]} 23. a4 {[%clk 0:00:36]}  Qb7 {[%clk 0:03:10]} 24. axb5 {[%clk 0:00:40]}  axb5 {[%clk 0:03:18]} 25. Ra1 {[%clk 0:00:41]}  Ra8 {[%clk 0:03:18]} 26. Rda2 {[%clk 0:00:41]}  Rxa2 {[%clk 0:03:02]} 27. Qxa2 {[%clk 0:00:55]}  Rb8 {[%clk 0:02:03]} 28. Qa6 {[%clk 0:00:38]}  Qxa6 {[%clk 0:00:55]} 29. Rxa6 {[%clk 0:00:47]}  Bd8 {[%clk 0:00:58]} 30. Ne2 {[%clk 0:00:34]}  e5 {[%clk 0:00:53]} 31. f5 {[%clk 0:00:20]}  Kf8 {[%clk 0:01:02]} 32. Nc3 {[%clk 0:00:28]}  Bb7 {[%clk 0:00:49]} 33. Ra7 {[%clk 0:00:19]}  Bc6 {[%clk 0:00:55]} 34. Kf2 {[%clk 0:00:15]}  Ke8 {[%clk 0:00:58]} 35. g4 {[%clk 0:00:21]}  Be7 {[%clk 0:00:59]} 36. Ra6 {[%clk 0:00:14]}  Bd8 {[%clk 0:00:48]} 37. Ke2 {[%clk 0:00:22]}  h6 {[%clk 0:00:44]} 38. h4 {[%clk 0:00:29]}  Bb7 {[%clk 0:00:46]} 39. Ra7 {[%clk 0:00:35]}  Bc6 {[%clk 0:00:55]} 40. Nd5 {[%clk 0:00:15]}  Rc8 {[%clk 0:00:47]} 41. Bc2 {[%clk 0:00:14]}  Rb8 {[%clk 0:00:55]} 42. Bb3 {[%clk 0:00:14]}  Rb7 {[%clk 0:01:01]} 43. Rxb7 {[%clk 0:00:19]}  Bxb7 {[%clk 0:01:10]} 44. Bc2 {[%clk 0:00:14]}  d6 {[%clk 0:01:14]} 45. Bd3 {[%clk 0:00:16]}  Bc6 {[%clk 0:01:13]} 46. Nc3 {[%clk 0:00:21]}  dxc5 {[%clk 0:01:21]} 47. Bxc5 {[%clk 0:00:24]}  Be7 {[%clk 0:01:20]} 48. Bxb5 {[%clk 0:00:14]}  Bxb5+ {[%clk 0:01:28]} 49. Nxb5 {[%clk 0:00:23]}  Bxc5 {[%clk 0:01:28]} 50. bxc5 {[%clk 0:00:32]}  Kd7 {[%clk 0:01:41]} 51. Kd3 {[%clk 0:00:38]}  Nd8 {[%clk 0:01:25]} 52. Kc4 {[%clk 0:00:20]}  Nc6 {[%clk 0:01:34]} 53. Nc3 {[%clk 0:00:14]}  Kc7 {[%clk 0:01:06]} 54. Nd5+ {[%clk 0:00:18]}  Kd7 {[%clk 0:01:10]} 55. Nb6+ {[%clk 0:00:25]}  Ke7 {[%clk 0:01:10]} 56. Nd5+ {[%clk 0:00:23]}  Kd7 {[%clk 0:01:20]} 57. Nc3 {[%clk 0:00:19]}  Ke7 {[%clk 0:01:24]} 58. Kb5 {[%clk 0:00:23]}  Kd7 {[%clk 4:04:45]} 59. Kb6 {[%clk 0:00:28]}  Nd4 {[%clk 0:01:31]} 60. Kb7 {[%clk 0:00:19]}  Nc6 {[%clk 0:01:32]} 61. Kb6 {[%clk 0:00:20]}  Nd4 {[%clk 0:01:39]} 62. Nb5 {[%clk 0:00:18]}  Nc6 {[%clk 0:01:25]} 63. Nd6 {[%clk 0:00:18]}  Nd4 {[%clk 0:01:20]} 64. Nc4 {[%clk 0:00:18]}  Nc6 {[%clk 0:01:28]} 65. Na5 {[%clk 0:00:18]}  Ne7 {[%clk 0:01:01]} 66. c6+ {[%clk 0:00:26]}  Kd6 {[%clk 0:01:04]} 67. Nc4# {[%clk 0:00:26]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Dronavalli, Harika"]
+[Black "Danielian, Elina"]
+[WhiteFideId "5015197"]
+[BlackFideId "13300210"]
+[WhiteElo "2450"]
+[BlackElo "2358"]
+[Result "1/2-1/2"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:01:51"]
+[BlackClock "0:05:03"]
+
+1. e4 {[%clk 0:44:47]}  e6 {[%clk 0:45:16]} 2. d4 {[%clk 0:44:55]}  d5 {[%clk 0:45:24]} 3. e5 {[%clk 0:45:03]}  c5 {[%clk 0:45:24]} 4. c3 {[%clk 0:45:10]}  Nc6 {[%clk 0:45:29]} 5. Nf3 {[%clk 0:45:10]}  Bd7 {[%clk 0:44:00]} 6. Be2 {[%clk 0:44:23]}  Rc8 {[%clk 0:43:07]} 7. O-O {[%clk 0:44:23]}  Nh6 {[%clk 0:35:53]} 8. dxc5 {[%clk 0:38:26]}  Bxc5 {[%clk 0:35:56]} 9. Bxh6 {[%clk 0:38:26]}  gxh6 {[%clk 0:36:05]} 10. Qd2 {[%clk 0:35:04]}  Bf8 {[%clk 0:35:44]} 11. c4 {[%clk 0:32:22]}  Bg7 {[%clk 0:33:58]} 12. cxd5 {[%clk 0:27:42]}  Nxe5 {[%clk 0:32:05]} 13. Nxe5 {[%clk 0:25:04]}  Bxe5 {[%clk 0:44:00]} 14. Nc3 {[%clk 0:25:11]}  Qg5 {[%clk 0:26:00]} 15. f4 {[%clk 0:22:27]}  Bxc3 {[%clk 0:26:07]} 16. Qxc3 {[%clk 0:21:23]}  Rxc3 {[%clk 0:24:18]} 17. fxg5 {[%clk 0:21:31]}  Rc2 {[%clk 0:24:18]} 18. Bh5 {[%clk 0:21:37]}  O-O {[%clk 0:19:40]} 19. gxh6 {[%clk 0:21:37]}  exd5 {[%clk 0:18:27]} 20. Rf2 {[%clk 0:19:48]}  Rxf2 {[%clk 0:19:40]} 21. Kxf2 {[%clk 0:21:37]}  Rc8 {[%clk 0:17:15]} 22. Rd1 {[%clk 0:17:13]}  Be6 {[%clk 0:14:46]} 23. Ke3 {[%clk 0:12:56]}  Kf8 {[%clk 0:14:47]} 24. Bf3 {[%clk 0:12:40]}  Rc5 {[%clk 0:10:22]} 25. b4 {[%clk 0:09:17]}  Rc2 {[%clk 0:04:56]} 26. Rd2 {[%clk 0:09:12]}  Rc3+ {[%clk 0:04:51]} 27. Rd3 {[%clk 0:12:56]}  Rc2 {[%clk 0:04:47]} 28. Rd2 {[%clk 0:04:23]}  Rc3+ {[%clk 0:04:56]} 29. Rd3 {[%clk 0:04:31]}  Rc2 {[%clk 0:04:56]} 30. Rd2 {[%clk 0:01:43]}  Rc3+ {[%clk 0:05:03]} 31. Rd3 {[%clk 0:01:51]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mkrtchian, Lilit"]
+[Black "Vaishali, Rameshbabu"]
+[WhiteFideId "13300601"]
+[BlackFideId "5091756"]
+[WhiteElo "2306"]
+[BlackElo "2149"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:31"]
+[BlackClock "0:00:27"]
+
+1. c4 {[%clk 0:45:11]}  e5 {[%clk 0:44:55]} 2. Nc3 {[%clk 0:45:07]}  Nc6 {[%clk 0:45:00]} 3. Nf3 {[%clk 0:45:00]}  f5 {[%clk 0:45:02]} 4. g3 {[%clk 0:40:04]}  Nf6 {[%clk 0:44:29]} 5. Bg2 {[%clk 0:38:39]}  Bb4 {[%clk 0:41:36]} 6. Nd5 {[%clk 0:36:11]}  e4 {[%clk 0:40:09]} 7. Nh4 {[%clk 0:35:18]}  d6 {[%clk 0:31:55]} 8. Bh3 {[%clk 0:33:46]}  g5 {[%clk 0:26:50]} 9. Qa4 {[%clk 0:22:44]}  gxh4 {[%clk 0:20:44]} 10. Nxb4 {[%clk 0:22:11]}  Bd7 {[%clk 0:20:20]} 11. Nxc6 {[%clk 0:20:46]}  Bxc6 {[%clk 0:19:49]} 12. Qa5 {[%clk 0:17:20]}  Qe7 {[%clk 0:14:17]} 13. Bxf5 {[%clk 0:12:17]}  Rg8 {[%clk 0:13:46]} 14. Qc3 {[%clk 0:07:08]}  d5 {[%clk 0:07:00]} 15. b3 {[%clk 0:06:36]}  Rg5 {[%clk 0:02:58]} 16. Bh3 {[%clk 0:04:17]}  Rd8 {[%clk 0:01:03]} 17. cxd5 {[%clk 0:03:25]}  Rgxd5 {[%clk 0:00:48]} 18. Bb2 {[%clk 0:03:04]}  Kf7 {[%clk 0:00:32]} 19. Rd1 {[%clk 0:02:06]}  Bb5 {[%clk 0:00:24]} 20. Qe3 {[%clk 0:01:36]}  Bd7 {[%clk 0:00:30]} 21. Bg2 {[%clk 0:00:36]}  h3 {[%clk 0:00:32]} 22. Bf1 {[%clk 0:00:21]}  Bf5 {[%clk 0:00:23]} 23. Qh6 {[%clk 0:00:17]}  e3 {[%clk 0:00:15]} 24. fxe3 {[%clk 0:00:15]}  R8d6 {[%clk 0:00:13]} 25. Bxh3 {[%clk 0:00:18]}  Qe4 {[%clk 0:00:13]} 26. O-O {[%clk 0:00:23]}  c6 {[%clk 0:00:11]} 27. d3 {[%clk 0:00:14]}  Qe6 {[%clk 0:00:12]} 28. Bxf5 {[%clk 0:00:14]}  Rxf5 {[%clk 0:00:19]} 29. Rxf5 {[%clk 0:00:23]}  Qxf5 {[%clk 0:00:27]} 30. Rf1 {[%clk 0:00:31]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Tania, Sachdev"]
+[Black "Sargsyan, Anna M."]
+[WhiteFideId "5007844"]
+[BlackFideId "13308130"]
+[WhiteElo "2339"]
+[BlackElo "2283"]
+[Result "1-0"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:21"]
+[BlackClock "0:05:59"]
+
+1. d4 {[%clk 0:45:15]}  Nf6 {[%clk 0:45:10]} 2. c4 {[%clk 0:45:23]}  g6 {[%clk 0:45:16]} 3. f3 {[%clk 0:45:32]}  d5 {[%clk 0:45:23]} 4. cxd5 {[%clk 0:45:37]}  Nxd5 {[%clk 0:45:30]} 5. e4 {[%clk 0:45:41]}  Nb6 {[%clk 0:45:37]} 6. Nc3 {[%clk 0:45:20]}  Bg7 {[%clk 0:45:37]} 7. Be3 {[%clk 0:45:27]}  O-O {[%clk 0:44:04]} 8. Qd2 {[%clk 0:45:13]}  Nc6 {[%clk 0:43:59]} 9. O-O-O {[%clk 0:45:07]}  e5 {[%clk 0:40:39]} 10. d5 {[%clk 0:41:57]}  Nd4 {[%clk 0:40:46]} 11. f4 {[%clk 0:40:54]}  c5 {[%clk 0:40:13]} 12. fxe5 {[%clk 0:35:05]}  Bg4 {[%clk 0:38:50]} 13. Re1 {[%clk 0:34:34]}  Bxe5 {[%clk 0:38:42]} 14. h3 {[%clk 0:32:33]}  Qh4 {[%clk 0:33:43]} 15. Bd3 {[%clk 0:24:42]}  Bd7 {[%clk 0:25:19]} 16. Nf3 {[%clk 0:20:38]}  Nxf3 {[%clk 0:25:11]} 17. gxf3 {[%clk 0:20:45]}  Qe7 {[%clk 0:21:09]} 18. f4 {[%clk 0:18:30]}  Bg7 {[%clk 0:21:14]} 19. Kb1 {[%clk 0:12:37]}  Na4 {[%clk 0:19:45]} 20. Nxa4 {[%clk 0:12:37]}  Bxa4 {[%clk 0:19:53]} 21. e5 {[%clk 0:10:05]}  Rac8 {[%clk 0:19:50]} 22. Rc1 {[%clk 0:09:09]}  b6 {[%clk 0:18:33]} 23. h4 {[%clk 0:07:48]}  Qb7 {[%clk 0:16:49]} 24. Be4 {[%clk 0:07:29]}  f6 {[%clk 0:15:32]} 25. h5 {[%clk 0:05:35]}  fxe5 {[%clk 0:15:24]} 26. hxg6 {[%clk 0:05:43]}  exf4 {[%clk 0:15:28]} 27. Bxf4 {[%clk 0:04:57]}  Qe7 {[%clk 0:15:36]} 28. Rc4 {[%clk 0:03:16]}  Bd7 {[%clk 0:14:04]} 29. Qh2 {[%clk 0:01:56]}  Rxf4 {[%clk 0:11:40]} 30. Qxf4 {[%clk 0:01:23]}  Rf8 {[%clk 0:11:47]} 31. Qh4 {[%clk 0:00:17]}  Qxh4 {[%clk 0:10:18]} 32. gxh7+ {[%clk 0:00:15]}  Kh8 {[%clk 0:10:02]} 33. Rxh4 {[%clk 0:00:23]}  Bd4 {[%clk 0:09:55]} 34. a3 {[%clk 0:00:15]}  Bb5 {[%clk 0:08:53]} 35. Rc2 {[%clk 0:00:15]}  Ba4 {[%clk 0:07:58]} 36. Rg2 {[%clk 0:00:13]}  Bg7 {[%clk 0:08:07]} 37. Rh1 {[%clk 0:00:13]}  Rf7 {[%clk 0:07:09]} 38. d6 {[%clk 0:00:15]}  Rd7 {[%clk 0:06:31]} 39. Bf5 {[%clk 0:00:12]}  Rxd6 {[%clk 0:05:59]} 40. Rxg7 {[%clk 0:00:21]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Gaboyan, Susanna"]
+[Black "Kulkarni, Bhakti"]
+[WhiteFideId "13303627"]
+[BlackFideId "5019516"]
+[WhiteElo "2083"]
+[BlackElo "2325"]
+[Result "0-1"]
+[Round "03"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:08:07"]
+
+1. Nf3 {[%clk 0:45:12]}  Nf6 {[%clk 0:44:41]} 2. g3 {[%clk 0:45:18]}  d5 {[%clk 0:44:39]} 3. Bg2 {[%clk 0:45:26]}  Bf5 {[%clk 0:44:20]} 4. O-O {[%clk 0:45:29]}  c6 {[%clk 0:44:17]} 5. d3 {[%clk 0:45:35]}  h6 {[%clk 0:44:22]} 6. Nbd2 {[%clk 0:45:40]}  e6 {[%clk 0:44:27]} 7. Qe1 {[%clk 0:45:27]}  Be7 {[%clk 0:44:08]} 8. e4 {[%clk 0:45:32]}  dxe4 {[%clk 0:42:39]} 9. dxe4 {[%clk 0:45:39]}  Bh7 {[%clk 0:42:47]} 10. Qe2 {[%clk 0:45:42]}  O-O {[%clk 0:42:46]} 11. Rd1 {[%clk 0:43:20]}  Qc7 {[%clk 0:42:27]} 12. Nd4 {[%clk 0:41:18]}  Nbd7 {[%clk 0:38:25]} 13. a4 {[%clk 0:37:04]}  Rfd8 {[%clk 0:32:44]} 14. Nc4 {[%clk 0:34:34]}  Bf8 {[%clk 0:30:56]} 15. e5 {[%clk 0:28:52]}  Nd5 {[%clk 0:30:43]} 16. c3 {[%clk 0:26:05]}  Nc5 {[%clk 0:26:03]} 17. Qg4 {[%clk 0:15:08]}  Kh8 {[%clk 0:21:26]} 18. Bf4 {[%clk 0:10:35]}  Nd3 {[%clk 0:19:46]} 19. Rd2 {[%clk 0:09:11]}  g5 {[%clk 0:17:08]} 20. Rad1 {[%clk 0:05:38]}  N3xf4 {[%clk 0:16:16]} 21. gxf4 {[%clk 0:05:35]}  Nxf4 {[%clk 0:15:32]} 22. h4 {[%clk 0:04:37]}  Nxg2 {[%clk 0:11:33]} 23. Kxg2 {[%clk 0:03:30]}  gxh4 {[%clk 0:10:13]} 24. Qxh4 {[%clk 0:02:52]}  Qe7 {[%clk 0:10:13]} 25. Qxe7 {[%clk 0:00:30]}  Bxe7 {[%clk 0:10:21]} 26. Na5 {[%clk 0:00:19]}  Rab8 {[%clk 0:08:34]} 27. Nf3 {[%clk 0:00:13]}  Be4 {[%clk 0:08:28]} 28. Rxd8+ {[%clk 0:00:20]}  Bxd8 {[%clk 0:08:28]} 29. Nxb7 {[%clk 0:00:23]}  Bc7 {[%clk 0:08:07]} 30. Nd6 {[%clk 0:00:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Goryachkina, Aleksandra"]
+[Black "Dronavalli, Harika"]
+[WhiteFideId "4147103"]
+[BlackFideId "5015197"]
+[WhiteElo "2520"]
+[BlackElo "2450"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:59"]
+[BlackClock "0:01:16"]
+
+1. d4 {[%clk 0:45:16]}  d5 {[%clk 0:45:17]} 2. c4 {[%clk 0:45:22]}  e6 {[%clk 0:45:25]} 3. Nf3 {[%clk 0:45:15]}  Nf6 {[%clk 0:45:33]} 4. Nc3 {[%clk 0:45:17]}  c6 {[%clk 0:45:41]} 5. e3 {[%clk 0:45:20]}  Nbd7 {[%clk 0:45:45]} 6. Qc2 {[%clk 0:45:26]}  Bd6 {[%clk 0:45:48]} 7. b3 {[%clk 0:45:33]}  b6 {[%clk 0:45:25]} 8. Be2 {[%clk 0:45:22]}  Bb7 {[%clk 0:45:29]} 9. O-O {[%clk 0:45:06]}  O-O {[%clk 0:45:31]} 10. Bb2 {[%clk 0:44:48]}  Qe7 {[%clk 0:45:37]} 11. Rfe1 {[%clk 0:44:56]}  Rfe8 {[%clk 0:45:39]} 12. e4 {[%clk 0:44:54]}  Nxe4 {[%clk 0:45:25]} 13. Nxe4 {[%clk 0:45:00]}  dxe4 {[%clk 0:45:33]} 14. Qxe4 {[%clk 0:45:04]}  Rad8 {[%clk 0:45:32]} 15. Bd3 {[%clk 0:44:25]}  Nf8 {[%clk 0:45:36]} 16. Qg4 {[%clk 0:43:33]}  f6 {[%clk 0:45:41]} 17. h4 {[%clk 0:42:53]}  Qf7 {[%clk 0:44:38]} 18. h5 {[%clk 0:42:21]}  c5 {[%clk 0:43:47]} 19. d5 {[%clk 0:42:10]}  exd5 {[%clk 0:32:53]} 20. cxd5 {[%clk 0:42:17]}  Bc8 {[%clk 0:28:48]} 21. Qh4 {[%clk 0:41:52]}  h6 {[%clk 0:28:25]} 22. Bc4 {[%clk 0:37:52]}  Kh8 {[%clk 0:26:57]} 23. Nh2 {[%clk 0:33:30]}  Bd7 {[%clk 0:25:22]} 24. Ng4 {[%clk 0:29:26]}  Nh7 {[%clk 0:25:00]} 25. a4 {[%clk 0:25:40]}  Rxe1+ {[%clk 0:24:34]} 26. Rxe1 {[%clk 0:25:48]}  Re8 {[%clk 0:24:35]} 27. Ne3 {[%clk 0:22:14]}  f5 {[%clk 0:17:48]} 28. f3 {[%clk 0:20:32]}  Be7 {[%clk 0:13:08]} 29. Qh2 {[%clk 0:19:17]}  Bf6 {[%clk 0:13:16]} 30. Bxf6 {[%clk 0:16:27]}  Nxf6 {[%clk 0:12:54]} 31. d6 {[%clk 0:12:59]}  Qf8 {[%clk 0:13:00]} 32. Kf1 {[%clk 0:12:37]}  Bc8 {[%clk 0:10:47]} 33. Bb5 {[%clk 0:11:57]}  Bd7 {[%clk 0:07:06]} 34. Bxd7 {[%clk 0:10:32]}  Nxd7 {[%clk 0:07:14]} 35. Qf4 {[%clk 0:10:11]}  Re5 {[%clk 0:07:16]} 36. Nc4 {[%clk 0:09:00]}  Rxe1+ {[%clk 0:07:14]} 37. Kxe1 {[%clk 0:09:09]}  Qf7 {[%clk 0:06:19]} 38. Qe3 {[%clk 0:05:52]}  Kg8 {[%clk 0:06:28]} 39. Kf2 {[%clk 0:03:23]}  Qxh5 {[%clk 0:05:16]} 40. Qe7 {[%clk 0:03:30]}  Qf7 {[%clk 0:05:23]} 41. Qd8+ {[%clk 0:03:35]}  Nf8 {[%clk 0:02:13]} 42. Qc7 {[%clk 0:03:17]}  Qd5 {[%clk 0:02:00]} 43. Qe7 {[%clk 0:02:59]}  Qd4+ {[%clk 0:01:40]} 44. Ke2 {[%clk 0:02:16]}  Qg1 {[%clk 0:00:50]} 45. Ne5 {[%clk 0:01:24]}  Qxg2+ {[%clk 0:00:58]} 46. Kd1 {[%clk 0:00:47]}  Qf1+ {[%clk 0:00:42]} 47. Kc2 {[%clk 0:00:39]}  Qe2+ {[%clk 0:00:50]} 48. Kc1 {[%clk 0:00:32]}  Qe1+ {[%clk 0:00:58]} 49. Kc2 {[%clk 0:00:41]}  Qe2+ {[%clk 0:01:07]} 50. Kc1 {[%clk 0:00:41]}  Qe1+ {[%clk 0:01:16]} 51. Kc2 {[%clk 0:00:59]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Vaishali, Rameshbabu"]
+[Black "Kosteniuk, Alexandra"]
+[WhiteFideId "5091756"]
+[BlackFideId "4128125"]
+[WhiteElo "2149"]
+[BlackElo "2517"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:16"]
+[BlackClock "0:02:58"]
+
+1. e4 {[%clk 0:44:57]}  e5 {[%clk 0:45:16]} 2. Nf3 {[%clk 0:45:03]}  Nc6 {[%clk 0:45:23]} 3. Bb5 {[%clk 0:45:06]}  a6 {[%clk 0:45:29]} 4. Ba4 {[%clk 0:45:13]}  Nf6 {[%clk 0:45:35]} 5. O-O {[%clk 0:45:19]}  b5 {[%clk 0:45:41]} 6. Bb3 {[%clk 0:45:26]}  Bc5 {[%clk 0:45:48]} 7. c3 {[%clk 0:45:00]}  d6 {[%clk 0:45:54]} 8. d4 {[%clk 0:44:44]}  Bb6 {[%clk 0:46:01]} 9. Be3 {[%clk 0:44:28]}  O-O {[%clk 0:45:39]} 10. Nbd2 {[%clk 0:44:26]}  h6 {[%clk 0:44:41]} 11. h3 {[%clk 0:44:19]}  exd4 {[%clk 0:44:18]} 12. cxd4 {[%clk 0:44:12]}  Ne7 {[%clk 0:44:20]} 13. Re1 {[%clk 0:34:57]}  Ng6 {[%clk 0:42:32]} 14. e5 {[%clk 0:24:32]}  dxe5 {[%clk 0:40:26]} 15. dxe5 {[%clk 0:24:34]}  Nd5 {[%clk 0:40:09]} 16. Bxb6 {[%clk 0:24:27]}  Nxb6 {[%clk 0:38:20]} 17. Qc2 {[%clk 0:23:56]}  Ne7 {[%clk 0:36:23]} 18. Rad1 {[%clk 0:23:00]}  Be6 {[%clk 0:32:18]} 19. Ne4 {[%clk 0:22:12]}  Bxb3 {[%clk 0:29:32]} 20. Qxb3 {[%clk 0:21:35]}  Qc8 {[%clk 0:29:09]} 21. Nc5 {[%clk 0:19:50]}  Qf5 {[%clk 0:26:26]} 22. Nd4 {[%clk 0:16:34]}  Qg6 {[%clk 0:25:57]} 23. e6 {[%clk 0:13:19]}  Rfe8 {[%clk 0:25:32]} 24. Rd3 {[%clk 0:07:34]}  f6 {[%clk 0:20:50]} 25. Nd7 {[%clk 0:05:58]}  Qh5 {[%clk 0:18:00]} 26. Qc2 {[%clk 0:05:19]}  Nbd5 {[%clk 0:17:14]} 27. Rg3 {[%clk 0:05:19]}  Kh8 {[%clk 0:17:21]} 28. Qc5 {[%clk 0:04:43]}  Rac8 {[%clk 0:15:49]} 29. Re4 {[%clk 0:03:33]}  Qd1+ {[%clk 0:15:49]} 30. Kh2 {[%clk 0:03:42]}  Qd2 {[%clk 0:13:37]} 31. Nc6 {[%clk 0:01:59]}  Nxc6 {[%clk 0:12:44]} 32. Qxc6 {[%clk 0:01:59]}  Ne7 {[%clk 0:12:52]} 33. Qc5 {[%clk 0:01:29]}  Qd5 {[%clk 0:11:44]} 34. Qxd5 {[%clk 0:00:34]}  Nxd5 {[%clk 0:11:49]} 35. Ra3 {[%clk 0:00:38]}  Ra8 {[%clk 0:11:22]} 36. b4 {[%clk 0:00:38]}  f5 {[%clk 0:08:11]} 37. Rd4 {[%clk 0:00:45]}  c6 {[%clk 0:07:44]} 38. Nc5 {[%clk 0:00:46]}  g5 {[%clk 0:07:32]} 39. Rf3 {[%clk 0:00:27]}  f4 {[%clk 0:07:22]} 40. g3 {[%clk 0:00:33]}  a5 {[%clk 0:07:22]} 41. a3 {[%clk 0:00:28]}  axb4 {[%clk 0:07:16]} 42. axb4 {[%clk 0:00:37]}  Ra2 {[%clk 0:06:59]} 43. gxf4 {[%clk 0:00:35]}  gxf4 {[%clk 0:06:51]} 44. Re4 {[%clk 0:00:21]}  Rc2 {[%clk 0:06:03]} 45. Nb7 {[%clk 0:00:21]}  Rg8 {[%clk 0:03:05]} 46. e7 {[%clk 0:00:14]}  Re8 {[%clk 0:03:03]} 47. Nd6 {[%clk 0:00:15]}  Rxe7 {[%clk 0:03:10]} 48. Rxe7 {[%clk 0:00:22]}  Nxe7 {[%clk 0:03:19]} 49. Rxf4 {[%clk 0:00:31]}  Nd5 {[%clk 0:03:17]} 50. Rf7 {[%clk 0:00:19]}  Kg8 {[%clk 0:03:12]} 51. Kg3 {[%clk 0:00:21]}  Nxb4 {[%clk 0:03:16]} 52. Rb7 {[%clk 0:00:13]}  Nd5 {[%clk 0:02:50]} 53. Nf5 {[%clk 0:00:17]}  h5 {[%clk 0:02:48]} 54. Nd4 {[%clk 0:00:13]}  Rc4 {[%clk 0:02:47]} 55. Ne6 {[%clk 0:00:14]}  h4+ {[%clk 0:02:46]} 56. Kf3 {[%clk 0:00:23]}  b4 {[%clk 0:02:50]} 57. Ke2 {[%clk 0:00:16]}  Re4+ {[%clk 0:02:58]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Lagno, Kateryna"]
+[Black "Tania, Sachdev"]
+[WhiteFideId "14109336"]
+[BlackFideId "5007844"]
+[WhiteElo "2521"]
+[BlackElo "2339"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:04:46"]
+[BlackClock "0:00:17"]
+
+1. e4 {[%clk 0:45:10]}  e5 {[%clk 0:45:18]} 2. Nf3 {[%clk 0:45:27]}  Nc6 {[%clk 0:45:25]} 3. Bb5 {[%clk 0:45:27]}  a6 {[%clk 0:45:33]} 4. Ba4 {[%clk 0:45:44]}  Nf6 {[%clk 0:45:33]} 5. O-O {[%clk 0:45:44]}  b5 {[%clk 0:45:46]} 6. Bb3 {[%clk 0:45:56]}  Bb7 {[%clk 0:45:51]} 7. Re1 {[%clk 0:45:44]}  Bc5 {[%clk 0:45:38]} 8. c3 {[%clk 0:45:49]}  d6 {[%clk 0:45:20]} 9. d4 {[%clk 0:45:56]}  Bb6 {[%clk 0:45:28]} 10. a4 {[%clk 0:46:04]}  h6 {[%clk 0:44:55]} 11. Be3 {[%clk 0:46:05]}  Ng4 {[%clk 0:39:38]} 12. Bd5 {[%clk 0:46:04]}  O-O {[%clk 0:44:35]} 13. Na3 {[%clk 0:45:17]}  Qd7 {[%clk 0:28:10]} 14. Qe2 {[%clk 0:42:17]}  bxa4 {[%clk 0:25:19]} 15. Nc4 {[%clk 0:39:35]}  Na5 {[%clk 0:22:52]} 16. Nxa5 {[%clk 0:24:27]}  Bxd5 {[%clk 0:22:54]} 17. exd5 {[%clk 0:24:35]}  Bxa5 {[%clk 0:22:33]} 18. dxe5 {[%clk 0:35:15]}  Nxe5 {[%clk 0:19:53]} 19. Nxe5 {[%clk 0:22:11]}  dxe5 {[%clk 0:20:01]} 20. Red1 {[%clk 0:19:16]}  Bb6 {[%clk 0:14:13]} 21. Bxb6 {[%clk 0:18:32]}  cxb6 {[%clk 0:14:13]} 22. Qxe5 {[%clk 0:18:40]}  Rfe8 {[%clk 0:13:52]} 23. Qd4 {[%clk 0:18:28]}  b5 {[%clk 0:12:52]} 24. d6 {[%clk 0:13:55]}  Re6 {[%clk 0:10:59]} 25. Rd2 {[%clk 0:12:50]}  Rc8 {[%clk 0:10:02]} 26. Rad1 {[%clk 0:12:20]}  Rc4 {[%clk 0:09:41]} 27. Qb6 {[%clk 0:11:38]}  a3 {[%clk 0:03:35]} 28. bxa3 {[%clk 0:11:39]}  Rxc3 {[%clk 0:03:38]} 29. Qxa6 {[%clk 0:11:44]}  Kh7 {[%clk 0:03:29]} 30. g3 {[%clk 0:10:21]}  Re4 {[%clk 0:03:10]} 31. Rd5 {[%clk 0:09:12]}  Rb3 {[%clk 0:01:54]} 32. Qb6 {[%clk 0:07:45]}  Rc4 {[%clk 0:01:42]} 33. Re5 {[%clk 0:06:57]}  Qg4 {[%clk 0:00:41]} 34. Ree1 {[%clk 0:06:58]}  Qd7 {[%clk 0:00:31]} 35. Re7 {[%clk 0:05:54]}  Qg4 {[%clk 0:00:25]} 36. Ree1 {[%clk 0:05:17]}  Qd7 {[%clk 0:00:34]} 37. Re3 {[%clk 0:05:13]}  Rb2 {[%clk 0:00:34]} 38. Rf3 {[%clk 0:04:51]}  Rc6 {[%clk 0:00:22]} 39. Qd4 {[%clk 0:04:51]}  Rcc2 {[%clk 0:00:30]} 40. Qe4+ {[%clk 0:04:41]}  Kg8 {[%clk 0:00:17]} 41. Qe7 {[%clk 0:04:46]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Gomes, Mary Ann"]
+[Black "Shuvalova, Polina"]
+[WhiteFideId "5013623"]
+[BlackFideId "24171760"]
+[WhiteElo "2305"]
+[BlackElo "2383"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:30"]
+[BlackClock "0:01:46"]
+
+1. Nf3 {[%clk 0:45:16]}  d5 {[%clk 0:45:07]} 2. g3 {[%clk 0:45:12]}  Nf6 {[%clk 0:45:10]} 3. Bg2 {[%clk 0:45:17]}  e6 {[%clk 0:45:17]} 4. b3 {[%clk 0:45:06]}  Be7 {[%clk 0:44:56]} 5. Bb2 {[%clk 0:45:11]}  O-O {[%clk 0:45:02]} 6. O-O {[%clk 0:45:02]}  b6 {[%clk 0:45:09]} 7. c4 {[%clk 0:44:37]}  Bb7 {[%clk 0:45:14]} 8. e3 {[%clk 0:44:24]}  c5 {[%clk 0:45:13]} 9. Ne5 {[%clk 0:43:55]}  Nc6 {[%clk 0:42:35]} 10. d4 {[%clk 0:42:25]}  cxd4 {[%clk 0:41:32]} 11. exd4 {[%clk 0:41:44]}  Rc8 {[%clk 0:41:28]} 12. Nc3 {[%clk 0:39:03]}  dxc4 {[%clk 0:39:50]} 13. bxc4 {[%clk 0:39:10]}  Na5 {[%clk 0:38:39]} 14. Bxb7 {[%clk 0:39:12]}  Nxb7 {[%clk 0:38:47]} 15. Nb5 {[%clk 0:39:13]}  a6 {[%clk 0:35:27]} 16. Na7 {[%clk 0:39:15]}  Rc7 {[%clk 0:35:04]} 17. Nac6 {[%clk 0:39:14]}  Qd6 {[%clk 0:34:28]} 18. Qa4 {[%clk 0:31:12]}  Ra8 {[%clk 0:34:26]} 19. Rfd1 {[%clk 0:28:35]}  Bf8 {[%clk 0:32:25]} 20. Rac1 {[%clk 0:20:51]}  Rcc8 {[%clk 0:29:32]} 21. d5 {[%clk 0:15:34]}  b5 {[%clk 0:27:29]} 22. cxb5 {[%clk 0:14:22]}  Nc5 {[%clk 0:24:08]} 23. Qd4 {[%clk 0:10:28]}  exd5 {[%clk 0:14:36]} 24. Ba3 {[%clk 0:05:48]}  Nfe4 {[%clk 0:14:32]} 25. b6 {[%clk 0:03:37]}  Rxc6 {[%clk 0:13:40]} 26. Nxc6 {[%clk 0:03:45]}  Qxc6 {[%clk 0:13:44]} 27. Qxd5 {[%clk 0:03:48]}  Qxd5 {[%clk 0:08:02]} 28. Rxd5 {[%clk 0:03:55]}  Nb7 {[%clk 0:07:39]} 29. Bxf8 {[%clk 0:03:24]}  Kxf8 {[%clk 0:07:47]} 30. a4 {[%clk 0:01:20]}  Ned6 {[%clk 0:05:08]} 31. Rc7 {[%clk 0:00:51]}  Re8 {[%clk 0:03:50]} 32. a5 {[%clk 0:00:45]}  Re1+ {[%clk 0:03:39]} 33. Kg2 {[%clk 0:00:53]}  Ke8 {[%clk 0:02:33]} 34. f4 {[%clk 0:00:57]}  Ra1 {[%clk 0:02:04]} 35. Re5+ {[%clk 0:00:41]}  Kf8 {[%clk 0:01:53]} 36. Ree7 {[%clk 0:00:28]}  Rxa5 {[%clk 0:01:44]} 37. Rxb7 {[%clk 0:00:27]}  Nxb7 {[%clk 0:01:49]} 38. Rxb7 {[%clk 0:00:35]}  Rb5 {[%clk 0:01:51]} 39. Kf3 {[%clk 0:00:20]}  a5 {[%clk 0:01:53]} 40. Ke3 {[%clk 0:00:21]}  a4 {[%clk 0:01:56]} 41. Kd3 {[%clk 0:00:18]}  a3 {[%clk 0:01:50]} 42. Ra7 {[%clk 0:00:13]}  Rxb6 {[%clk 0:01:36]} 43. Rxa3 {[%clk 0:00:22]}  Rb2 {[%clk 0:01:36]} 44. h4 {[%clk 0:00:30]}  h5 {[%clk 0:01:46]} 45. Ke4 {[%clk 0:00:30]}  Ke7 {[%clk 0:01:46]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Matnadze Bujiashvili, Ann"]
+[Black "Danielian, Elina"]
+[WhiteFideId "13601377"]
+[BlackFideId "13300210"]
+[WhiteElo "2349"]
+[BlackElo "2358"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:03:21"]
+[BlackClock "0:00:32"]
+
+1. d4 {[%clk 0:45:14]}  Nf6 {[%clk 0:45:17]} 2. Nf3 {[%clk 0:45:24]}  e6 {[%clk 0:45:12]} 3. c4 {[%clk 0:45:25]}  Bb4+ {[%clk 0:45:19]} 4. Bd2 {[%clk 0:45:32]}  Qe7 {[%clk 0:45:20]} 5. g3 {[%clk 0:45:12]}  O-O {[%clk 0:44:13]} 6. Bg2 {[%clk 0:45:18]}  a5 {[%clk 0:42:02]} 7. O-O {[%clk 0:45:03]}  Bxd2 {[%clk 0:41:03]} 8. Nbxd2 {[%clk 0:45:01]}  d6 {[%clk 0:41:04]} 9. e4 {[%clk 0:44:36]}  e5 {[%clk 0:41:08]} 10. Re1 {[%clk 0:44:18]}  Bg4 {[%clk 0:40:54]} 11. h3 {[%clk 0:43:32]}  Bxf3 {[%clk 0:41:02]} 12. Nxf3 {[%clk 0:43:37]}  Nbd7 {[%clk 0:38:36]} 13. Nh4 {[%clk 0:43:02]}  g6 {[%clk 0:38:40]} 14. b3 {[%clk 0:41:02]}  c5 {[%clk 0:33:04]} 15. d5 {[%clk 0:40:03]}  a4 {[%clk 0:33:12]} 16. Qd2 {[%clk 0:38:56]}  Rfb8 {[%clk 0:32:28]} 17. Reb1 {[%clk 0:36:54]}  Qd8 {[%clk 0:18:18]} 18. Qg5 {[%clk 0:35:04]}  Kh8 {[%clk 0:17:14]} 19. Qe3 {[%clk 0:33:27]}  axb3 {[%clk 0:16:00]} 20. Rxb3 {[%clk 0:32:32]}  Ra4 {[%clk 0:15:44]} 21. Bf1 {[%clk 0:31:44]}  b6 {[%clk 0:14:21]} 22. a3 {[%clk 0:37:52]}  Rba8 {[%clk 0:26:57]} 23. Nf3 {[%clk 0:30:19]}  Kg7 {[%clk 0:14:29]} 24. Ne1 {[%clk 0:29:26]}  Rb4 {[%clk 0:09:21]} 25. Rbb1 {[%clk 0:27:22]}  Rxb1 {[%clk 0:09:09]} 26. Rxb1 {[%clk 0:27:31]}  Ra4 {[%clk 0:09:03]} 27. Nc2 {[%clk 0:27:21]}  h6 {[%clk 0:08:34]} 28. Bd3 {[%clk 0:25:52]}  Qa8 {[%clk 0:07:41]} 29. Rb3 {[%clk 0:24:04]}  Ne8 {[%clk 0:07:19]} 30. Qc1 {[%clk 0:23:58]}  Nc7 {[%clk 0:07:04]} 31. Ne3 {[%clk 0:23:56]}  Qd8 {[%clk 0:05:59]} 32. Kg2 {[%clk 0:21:27]}  Ne8 {[%clk 0:03:55]} 33. Nd1 {[%clk 0:19:37]}  Ra5 {[%clk 0:03:14]} 34. Nc3 {[%clk 0:18:39]}  Nc7 {[%clk 0:02:09]} 35. Qb2 {[%clk 0:17:29]}  h5 {[%clk 0:01:45]} 36. Be2 {[%clk 0:16:53]}  Ne8 {[%clk 0:01:19]} 37. h4 {[%clk 0:16:36]}  Nef6 {[%clk 0:01:02]} 38. Qc1 {[%clk 0:16:26]}  Nh7 {[%clk 0:00:48]} 39. Nb5 {[%clk 0:16:21]}  Qe7 {[%clk 0:00:23]} 40. Bd1 {[%clk 0:15:50]}  Ra6 {[%clk 0:00:13]} 41. Qb1 {[%clk 0:13:45]}  Ndf6 {[%clk 0:00:16]} 42. Nc3 {[%clk 0:13:42]}  Qa7 {[%clk 0:00:16]} 43. Qc1 {[%clk 0:13:33]}  Qd7 {[%clk 0:00:15]} 44. Bc2 {[%clk 0:12:01]}  Qg4 {[%clk 0:00:12]} 45. Nd1 {[%clk 0:09:59]}  Qd7 {[%clk 0:00:16]} 46. Nc3 {[%clk 0:08:55]}  Qg4 {[%clk 0:00:13]} 47. Rb1 {[%clk 0:08:59]}  Qd7 {[%clk 0:00:13]} 48. Bd1 {[%clk 0:08:12]}  Ne8 {[%clk 0:00:14]} 49. Rb3 {[%clk 0:08:05]}  Qe7 {[%clk 0:00:14]} 50. Qb1 {[%clk 0:08:00]}  Qa7 {[%clk 0:00:16]} 51. Qc1 {[%clk 0:06:41]}  Qe7 {[%clk 0:00:18]} 52. Rb1 {[%clk 0:06:29]}  Nhf6 {[%clk 0:00:17]} 53. Bc2 {[%clk 0:05:30]}  Qa7 {[%clk 0:00:16]} 54. Nb5 {[%clk 0:03:59]}  Qe7 {[%clk 0:00:16]} 55. Nc3 {[%clk 0:03:51]}  Qa7 {[%clk 0:00:24]} 56. Rb3 {[%clk 0:03:59]}  Qe7 {[%clk 0:00:24]} 57. Qb2 {[%clk 0:03:25]}  Nd7 {[%clk 0:00:24]} 58. Qc1 {[%clk 0:03:21]}  Ndf6 {[%clk 0:00:32]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mkrtchian, Lilit"]
+[Black "Vega Gutierrez, Sabrina"]
+[WhiteFideId "13300601"]
+[BlackFideId "2219026"]
+[WhiteElo "2306"]
+[BlackElo "2214"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:24"]
+[BlackClock "0:00:30"]
+
+1. c4 {[%clk 0:45:15]}  e6 {[%clk 0:45:17]} 2. g3 {[%clk 0:43:47]}  d5 {[%clk 0:45:17]} 3. Bg2 {[%clk 0:43:54]}  Nf6 {[%clk 0:45:07]} 4. Nf3 {[%clk 0:43:51]}  Be7 {[%clk 0:44:50]} 5. d4 {[%clk 0:41:36]}  O-O {[%clk 0:44:36]} 6. Qc2 {[%clk 0:40:30]}  c6 {[%clk 0:44:19]} 7. Nbd2 {[%clk 0:40:18]}  b6 {[%clk 0:44:03]} 8. O-O {[%clk 0:40:02]}  c5 {[%clk 0:43:23]} 9. cxd5 {[%clk 0:28:05]}  exd5 {[%clk 0:43:23]} 10. e4 {[%clk 0:26:53]}  Nc6 {[%clk 0:40:00]} 11. dxc5 {[%clk 0:24:03]}  Ba6 {[%clk 0:36:57]} 12. Rd1 {[%clk 0:20:06]}  Be2 {[%clk 0:28:04]} 13. Re1 {[%clk 0:19:18]}  Bxf3 {[%clk 0:27:18]} 14. Nxf3 {[%clk 0:16:45]}  dxe4 {[%clk 0:24:22]} 15. Ng5 {[%clk 0:16:39]}  Nb4 {[%clk 0:23:16]} 16. Qb3 {[%clk 0:13:47]}  Bxc5 {[%clk 0:22:04]} 17. Nxe4 {[%clk 0:13:24]}  Nd3 {[%clk 0:16:22]} 18. Rd1 {[%clk 0:04:45]}  Nxe4 {[%clk 0:16:07]} 19. Rxd3 {[%clk 0:02:35]}  Qf6 {[%clk 0:15:47]} 20. Rf3 {[%clk 0:01:05]}  Bxf2+ {[%clk 0:14:17]} 21. Kf1 {[%clk 0:01:14]}  Qg6 {[%clk 0:03:45]} 22. Rxf2 {[%clk 0:01:10]}  Nxf2 {[%clk 0:03:53]} 23. Bxa8 {[%clk 0:01:10]}  Rxa8 {[%clk 0:04:00]} 24. Kxf2 {[%clk 0:00:50]}  Rc8 {[%clk 0:02:46]} 25. Be3 {[%clk 0:00:17]}  Rc2+ {[%clk 0:02:46]} 26. Kg1 {[%clk 0:00:24]}  Qe4 {[%clk 0:00:15]} 27. Bf2 {[%clk 0:00:32]}  Qe2 {[%clk 0:00:13]} 28. Qe3 {[%clk 0:00:19]}  Qxe3 {[%clk 0:00:12]} 29. Bxe3 {[%clk 0:00:28]}  Rxb2 {[%clk 0:00:20]} 30. Rd1 {[%clk 0:00:13]}  h5 {[%clk 0:00:17]} 31. Rd2 {[%clk 0:00:21]}  Rb1+ {[%clk 0:00:17]} 32. Kg2 {[%clk 0:00:27]}  f6 {[%clk 0:00:21]} 33. Kf3 {[%clk 0:00:33]}  Kh7 {[%clk 0:00:29]} 34. Rd7 {[%clk 0:00:34]}  Rb2 {[%clk 0:00:23]} 35. Rxa7 {[%clk 0:00:36]}  Rxh2 {[%clk 0:00:23]} 36. Bxb6 {[%clk 0:00:37]}  h4 {[%clk 0:00:30]} 37. gxh4 {[%clk 0:00:39]}  Rxh4 {[%clk 0:00:38]} 38. a4 {[%clk 0:00:43]}  Kh6 {[%clk 0:00:30]} 39. Ra8 {[%clk 0:00:18]}  Rb4 {[%clk 0:00:30]} 40. a5 {[%clk 0:00:24]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Eizaguerri Floris, Maria"]
+[Black "Sargsyan, Anna M."]
+[WhiteFideId "32065752"]
+[BlackFideId "13308130"]
+[WhiteElo "1811"]
+[BlackElo "2283"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:01:33"]
+[BlackClock "0:40:25"]
+
+1. e4 {[%clk 0:45:18]}  e5 {[%clk 0:45:18]} 2. Nf3 {[%clk 0:45:25]}  Nc6 {[%clk 0:45:26]} 3. Bb5 {[%clk 0:45:33]}  a6 {[%clk 0:45:34]} 4. Ba4 {[%clk 0:45:41]}  Nf6 {[%clk 0:45:34]} 5. O-O {[%clk 0:45:48]}  Nxe4 {[%clk 0:45:48]} 6. d4 {[%clk 0:45:59]}  b5 {[%clk 0:45:56]} 7. Bb3 {[%clk 0:46:08]}  d5 {[%clk 0:46:04]} 8. dxe5 {[%clk 0:46:13]}  Be6 {[%clk 0:45:58]} 9. Nbd2 {[%clk 0:46:14]}  Be7 {[%clk 0:45:43]} 10. c3 {[%clk 0:46:01]}  O-O {[%clk 0:44:53]} 11. Bc2 {[%clk 0:46:04]}  f5 {[%clk 0:45:01]} 12. exf6 {[%clk 0:46:07]}  Nxf6 {[%clk 0:44:35]} 13. a4 {[%clk 0:45:46]}  b4 {[%clk 0:44:42]} 14. Re1 {[%clk 0:45:44]}  Bg4 {[%clk 0:44:49]} 15. h3 {[%clk 0:45:41]}  Bh5 {[%clk 0:44:51]} 16. Nf1 {[%clk 0:45:10]}  Bc5 {[%clk 0:42:25]} 17. Be3 {[%clk 0:37:09]}  Bxe3 {[%clk 0:41:17]} 18. Rxe3 {[%clk 0:35:15]}  d4 {[%clk 0:41:21]} 19. cxd4 {[%clk 0:29:01]}  Bxf3 {[%clk 0:41:26]} 20. Rxf3 {[%clk 0:27:31]}  Nxd4 {[%clk 0:41:33]} 21. Rd3 {[%clk 0:27:09]}  c5 {[%clk 0:41:40]} 22. Bb3+ {[%clk 0:24:04]}  Kh8 {[%clk 0:41:48]} 23. Rc1 {[%clk 0:23:45]}  Qb6 {[%clk 0:40:56]} 24. Nd2 {[%clk 0:20:56]}  Rae8 {[%clk 0:40:30]} 25. Nc4 {[%clk 0:18:51]}  Qb8 {[%clk 0:40:38]} 26. Ne3 {[%clk 0:15:51]}  Ne4 {[%clk 0:40:25]} 27. Ng4 {[%clk 0:08:51]}  Nxf2 {[%clk 0:40:25]} 28. Nxf2 {[%clk 0:08:32]}  Ne2+ {[%clk 0:40:33]} 29. Kh1 {[%clk 0:04:01]}  Nxc1 {[%clk 0:40:19]} 30. Qxc1 {[%clk 0:04:04]}  Rxf2 {[%clk 0:40:26]} 31. Rd1 {[%clk 0:03:51]}  Qg3 {[%clk 0:40:14]} 32. Bd5 {[%clk 0:03:53]}  Rfe2 {[%clk 0:40:19]} 33. Rg1 {[%clk 0:01:33]}  Re1 {[%clk 0:40:25]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Gaboyan, Susanna"]
+[Black "Calzetta Ruiz, Monica"]
+[WhiteFideId "13303627"]
+[BlackFideId "2204185"]
+[WhiteElo "2083"]
+[BlackElo "2103"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:03:08"]
+[BlackClock "0:00:52"]
+
+1. Nf3 {[%clk 0:45:10]}  c5 {[%clk 0:45:18]} 2. g3 {[%clk 0:45:24]}  g6 {[%clk 0:45:23]} 3. Bg2 {[%clk 0:45:29]}  Bg7 {[%clk 0:45:31]} 4. d4 {[%clk 0:45:33]}  cxd4 {[%clk 0:45:38]} 5. Nxd4 {[%clk 0:45:40]}  Nc6 {[%clk 0:45:44]} 6. Nb3 {[%clk 0:45:45]}  d6 {[%clk 0:45:48]} 7. O-O {[%clk 0:45:49]}  h5 {[%clk 0:45:51]} 8. h3 {[%clk 0:44:50]}  Be6 {[%clk 0:45:57]} 9. Nc3 {[%clk 0:44:29]}  Qd7 {[%clk 0:45:44]} 10. h4 {[%clk 0:35:35]}  Bh3 {[%clk 0:43:40]} 11. Nd5 {[%clk 0:30:41]}  Bxg2 {[%clk 0:42:39]} 12. Kxg2 {[%clk 0:30:50]}  Rc8 {[%clk 0:36:49]} 13. c3 {[%clk 0:30:04]}  Nf6 {[%clk 0:36:55]} 14. Bg5 {[%clk 0:29:45]}  Nxd5 {[%clk 0:35:47]} 15. Qxd5 {[%clk 0:29:51]}  O-O {[%clk 0:35:42]} 16. Rad1 {[%clk 0:26:49]}  Ne5 {[%clk 0:32:25]} 17. Rd4 {[%clk 0:26:46]}  Rfe8 {[%clk 0:31:50]} 18. Rfd1 {[%clk 0:25:48]}  b6 {[%clk 0:29:06]} 19. a4 {[%clk 0:22:17]}  e6 {[%clk 0:32:25]} 20. Qe4 {[%clk 0:19:04]}  d5 {[%clk 0:18:32]} 21. Qf4 {[%clk 0:19:10]}  Ng4 {[%clk 0:15:11]} 22. R4d2 {[%clk 0:18:44]}  Qc6 {[%clk 0:13:52]} 23. f3 {[%clk 0:14:13]}  Ne5 {[%clk 0:10:26]} 24. Nd4 {[%clk 0:08:06]}  Qxa4 {[%clk 0:06:37]} 25. Nxe6 {[%clk 0:08:09]}  Qxf4 {[%clk 0:06:45]} 26. Nxf4 {[%clk 0:08:17]}  f6 {[%clk 0:06:53]} 27. Bxf6 {[%clk 0:07:40]}  Bxf6 {[%clk 0:07:01]} 28. Nxd5 {[%clk 0:07:48]}  Bg7 {[%clk 0:06:53]} 29. e4 {[%clk 0:07:46]}  Nc4 {[%clk 0:06:25]} 30. Re2 {[%clk 0:07:46]}  b5 {[%clk 0:05:43]} 31. Ra1 {[%clk 0:07:38]}  Rc5 {[%clk 0:04:18]} 32. Nf4 {[%clk 0:05:26]}  a5 {[%clk 0:02:52]} 33. Nxg6 {[%clk 0:03:26]}  a4 {[%clk 0:03:01]} 34. Nf4 {[%clk 0:03:24]}  Kf7 {[%clk 0:01:01]} 35. Rd1 {[%clk 0:03:25]}  Re7 {[%clk 0:01:01]} 36. Rd8 {[%clk 0:02:57]}  a3 {[%clk 0:00:54]} 37. bxa3 {[%clk 0:02:57]}  Bxc3 {[%clk 0:01:02]} 38. Nd5 {[%clk 0:02:57]}  Ra7 {[%clk 0:01:03]} 39. Nxc3 {[%clk 0:02:49]}  Rxa3 {[%clk 0:01:00]} 40. Nd5 {[%clk 0:02:46]}  Ne5 {[%clk 0:00:57]} 41. f4 {[%clk 0:02:32]}  Ng4 {[%clk 0:00:58]} 42. e5 {[%clk 0:02:21]}  Ke6 {[%clk 0:00:32]} 43. Rd6+ {[%clk 0:02:20]}  Kf7 {[%clk 0:00:33]} 44. e6+ {[%clk 0:02:22]}  Ke8 {[%clk 0:00:40]} 45. e7 {[%clk 0:02:25]}  Rxd5 {[%clk 0:00:23]} 46. Rxd5 {[%clk 0:02:24]}  Ne3+ {[%clk 0:00:30]} 47. Rxe3 {[%clk 0:02:32]}  Rxe3 {[%clk 0:00:38]} 48. Rxb5 {[%clk 0:02:40]}  Kxe7 {[%clk 0:00:31]} 49. Rxh5 {[%clk 0:02:33]}  Kf6 {[%clk 0:00:33]} 50. Kh3 {[%clk 0:02:37]}  Ra3 {[%clk 0:00:41]} 51. Kg4 {[%clk 0:02:37]}  Rb3 {[%clk 0:00:47]} 52. Rh6+ {[%clk 0:02:49]}  Kg7 {[%clk 0:00:47]} 53. Ra6 {[%clk 0:02:57]}  Rc3 {[%clk 0:01:02]} 54. h5 {[%clk 0:03:01]}  Kh7 {[%clk 0:00:52]} 55. Kh4 {[%clk 0:03:08]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Sebag, Marie"]
+[Black "Mammadzada, Gunay"]
+[WhiteFideId "617822"]
+[BlackFideId "13403729"]
+[WhiteElo "2401"]
+[BlackElo "2280"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:01:04"]
+[BlackClock "0:00:12"]
+
+1. e4 {[%clk 0:45:10]}  c5 {[%clk 0:45:17]} 2. Nf3 {[%clk 0:45:26]}  d6 {[%clk 0:45:26]} 3. Bb5+ {[%clk 0:45:33]}  Bd7 {[%clk 0:45:10]} 4. c4 {[%clk 0:45:33]}  Nc6 {[%clk 0:42:08]} 5. d4 {[%clk 0:43:44]}  cxd4 {[%clk 0:38:42]} 6. Nxd4 {[%clk 0:43:49]}  Rc8 {[%clk 0:35:52]} 7. Nc3 {[%clk 0:42:07]}  Nf6 {[%clk 0:34:24]} 8. O-O {[%clk 0:39:16]}  g6 {[%clk 0:33:40]} 9. Bxc6 {[%clk 0:35:28]}  Bxc6 {[%clk 0:33:32]} 10. Nxc6 {[%clk 0:33:37]}  Rxc6 {[%clk 0:33:35]} 11. Qa4 {[%clk 0:33:37]}  a6 {[%clk 0:25:40]} 12. Nd5 {[%clk 0:32:23]}  Nd7 {[%clk 0:25:24]} 13. Qb3 {[%clk 0:30:29]}  Qc8 {[%clk 0:17:51]} 14. Qc3 {[%clk 0:23:22]}  f6 {[%clk 0:17:59]} 15. b3 {[%clk 0:21:28]}  Bg7 {[%clk 0:18:04]} 16. Qg3 {[%clk 0:17:05]}  e6 {[%clk 0:16:30]} 17. Nb4 {[%clk 0:16:45]}  Rb6 {[%clk 0:16:38]} 18. Bd2 {[%clk 0:14:26]}  O-O {[%clk 0:15:48]} 19. Rad1 {[%clk 0:12:48]}  Nc5 {[%clk 0:14:09]} 20. Rfe1 {[%clk 0:12:31]}  Qe8 {[%clk 0:09:13]} 21. Nc2 {[%clk 0:11:20]}  Qe7 {[%clk 0:07:33]} 22. Ba5 {[%clk 0:09:16]}  Rc6 {[%clk 0:07:36]} 23. Nb4 {[%clk 0:09:16]}  Rcc8 {[%clk 0:14:09]} 24. Qxd6 {[%clk 0:09:08]}  Qf7 {[%clk 0:07:25]} 25. Bb6 {[%clk 0:08:34]}  Rfe8 {[%clk 0:07:33]} 26. Qd2 {[%clk 0:05:00]}  Bf8 {[%clk 0:06:36]} 27. Nd3 {[%clk 0:04:22]}  Nd7 {[%clk 0:06:19]} 28. Ba5 {[%clk 0:04:17]}  Nb8 {[%clk 0:06:19]} 29. Bb6 {[%clk 0:03:17]}  Nd7 {[%clk 0:04:25]} 30. Be3 {[%clk 0:03:20]}  Nb8 {[%clk 0:03:35]} 31. Qe2 {[%clk 0:02:52]}  e5 {[%clk 0:03:23]} 32. Bb6 {[%clk 0:02:01]}  Nd7 {[%clk 0:03:27]} 33. Be3 {[%clk 0:01:32]}  Nb8 {[%clk 0:03:31]} 34. f3 {[%clk 0:01:29]}  Qe6 {[%clk 0:02:39]} 35. Nf2 {[%clk 0:01:10]}  Bb4 {[%clk 0:02:42]} 36. Rf1 {[%clk 0:01:06]}  Nc6 {[%clk 0:02:35]} 37. Nd3 {[%clk 0:00:57]}  Bf8 {[%clk 0:02:21]} 38. Nc5 {[%clk 0:00:46]}  Qf7 {[%clk 0:01:55]} 39. Rd7 {[%clk 0:00:50]}  Re7 {[%clk 0:02:04]} 40. Rxe7 {[%clk 0:00:50]}  Qxe7 {[%clk 0:01:28]} 41. Rd1 {[%clk 0:00:40]}  Nd4 {[%clk 0:01:11]} 42. Bxd4 {[%clk 0:00:47]}  exd4 {[%clk 0:01:21]} 43. Nd3 {[%clk 0:00:55]}  Qc7 {[%clk 0:00:30]} 44. Qf2 {[%clk 0:00:56]}  b5 {[%clk 0:00:35]} 45. c5 {[%clk 0:00:45]}  b4 {[%clk 0:00:30]} 46. Rc1 {[%clk 0:00:41]}  Rd8 {[%clk 0:00:23]} 47. Qc2 {[%clk 0:00:46]}  a5 {[%clk 0:00:29]} 48. Qc4+ {[%clk 0:00:47]}  Kh8 {[%clk 0:00:33]} 49. Qe6 {[%clk 0:00:46]}  Kg7 {[%clk 0:00:30]} 50. g3 {[%clk 0:00:44]}  h5 {[%clk 0:00:25]} 51. Kg2 {[%clk 0:00:52]}  a4 {[%clk 0:00:24]} 52. Qc4 {[%clk 0:00:58]}  axb3 {[%clk 0:00:24]} 53. axb3 {[%clk 0:01:06]}  Ra8 {[%clk 0:00:32]} 54. Rc2 {[%clk 0:01:10]}  h4 {[%clk 0:00:36]} 55. Nf4 {[%clk 0:01:06]}  Qe5 {[%clk 0:00:22]} 56. c6 {[%clk 0:01:02]}  Bd6 {[%clk 0:00:13]} 57. Qxd4 {[%clk 0:00:58]}  h3+ {[%clk 0:00:13]} 58. Kxh3 {[%clk 0:00:56]}  Qe7 {[%clk 0:00:13]} 59. Kg2 {[%clk 0:00:59]}  Rh8 {[%clk 0:00:13]} 60. Rd2 {[%clk 0:00:57]}  Bxf4 {[%clk 0:00:12]} 61. gxf4 {[%clk 0:01:04]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Benmesbah, Natacha"]
+[Black "Fataliyeva, Ulviyya"]
+[WhiteFideId "642002"]
+[BlackFideId "13403052"]
+[WhiteElo "2193"]
+[BlackElo "2310"]
+[Result "1-0"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:07:36"]
+[BlackClock "0:04:37"]
+
+1. e4 {[%clk 0:45:19]}  c6 {[%clk 0:45:19]} 2. Nc3 {[%clk 0:45:27]}  d5 {[%clk 0:45:27]} 3. Nf3 {[%clk 0:45:36]}  Bg4 {[%clk 0:45:36]} 4. h3 {[%clk 0:45:45]}  Bxf3 {[%clk 0:45:43]} 5. Qxf3 {[%clk 0:45:53]}  e6 {[%clk 0:45:52]} 6. Be2 {[%clk 0:45:45]}  Nd7 {[%clk 0:44:22]} 7. d4 {[%clk 0:45:16]}  Qf6 {[%clk 0:42:50]} 8. Qd3 {[%clk 0:36:01]}  Qg6 {[%clk 0:40:37]} 9. O-O {[%clk 0:35:31]}  dxe4 {[%clk 0:39:59]} 10. Nxe4 {[%clk 0:35:15]}  O-O-O {[%clk 0:39:58]} 11. Bf4 {[%clk 0:32:37]}  Ndf6 {[%clk 0:37:22]} 12. Bf3 {[%clk 0:31:47]}  Nd5 {[%clk 0:37:07]} 13. Bh2 {[%clk 0:30:28]}  Ngf6 {[%clk 0:35:06]} 14. c4 {[%clk 0:24:48]}  Nxe4 {[%clk 0:25:41]} 15. Bxe4 {[%clk 0:24:31]}  f5 {[%clk 0:25:48]} 16. Bf3 {[%clk 0:22:46]}  Nc7 {[%clk 0:25:07]} 17. Rfd1 {[%clk 0:21:20]}  Be7 {[%clk 0:23:22]} 18. Qb3 {[%clk 0:20:55]}  Bd6 {[%clk 0:21:11]} 19. Bxd6 {[%clk 0:19:43]}  Rxd6 {[%clk 0:21:19]} 20. Qa3 {[%clk 0:19:51]}  Rhd8 {[%clk 0:21:27]} 21. Qxa7 {[%clk 0:19:58]}  Qf6 {[%clk 0:21:35]} 22. Rd3 {[%clk 0:17:16]}  Rxd4 {[%clk 0:09:46]} 23. Rb3 {[%clk 0:17:18]}  Kd7 {[%clk 0:09:38]} 24. Rxb7 {[%clk 0:17:08]}  Rc8 {[%clk 0:09:47]} 25. Rb6 {[%clk 0:15:43]}  Ke7 {[%clk 0:08:28]} 26. Rxc6 {[%clk 0:15:28]}  Qe5 {[%clk 0:08:36]} 27. Qb7 {[%clk 0:14:34]}  Rdd8 {[%clk 0:08:43]} 28. Qb4+ {[%clk 0:11:27]}  Kf6 {[%clk 0:08:30]} 29. Re1 {[%clk 0:11:15]}  Qd4 {[%clk 0:06:42]} 30. Qb7 {[%clk 0:10:03]}  Qd7 {[%clk 0:05:27]} 31. Bd5 {[%clk 0:07:23]}  Rb8 {[%clk 0:04:29]} 32. Qxc7 {[%clk 0:07:28]}  Qxc7 {[%clk 0:04:37]} 33. Rexe6+ {[%clk 0:07:36]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mammadova, Gulnar"]
+[Black "Navrotescu, Andreea"]
+[WhiteFideId "13403508"]
+[BlackFideId "675946"]
+[WhiteElo "2406"]
+[BlackElo "2220"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:25"]
+[BlackClock "0:00:42"]
+
+1. Nf3 {[%clk 0:45:17]}  d5 {[%clk 0:45:18]} 2. d4 {[%clk 0:45:23]}  Nf6 {[%clk 0:45:22]} 3. Bf4 {[%clk 0:45:28]}  c5 {[%clk 0:44:37]} 4. e3 {[%clk 0:45:09]}  Nc6 {[%clk 0:44:42]} 5. c3 {[%clk 0:43:56]}  Qb6 {[%clk 0:44:40]} 6. Qb3 {[%clk 0:43:25]}  c4 {[%clk 0:44:41]} 7. Qc2 {[%clk 0:43:34]}  Bf5 {[%clk 0:44:43]} 8. Qc1 {[%clk 0:43:42]}  h6 {[%clk 0:43:41]} 9. Nbd2 {[%clk 0:43:29]}  e6 {[%clk 0:42:33]} 10. Be2 {[%clk 0:42:38]}  Be7 {[%clk 0:41:55]} 11. h3 {[%clk 0:41:18]}  Qd8 {[%clk 0:41:39]} 12. Ne5 {[%clk 0:40:08]}  Nxe5 {[%clk 0:41:18]} 13. Bxe5 {[%clk 0:40:08]}  O-O {[%clk 0:40:28]} 14. g4 {[%clk 0:37:45]}  Bh7 {[%clk 0:40:15]} 15. Bg3 {[%clk 0:36:41]}  b5 {[%clk 0:39:34]} 16. h4 {[%clk 0:36:08]}  Ne4 {[%clk 0:37:01]} 17. Nxe4 {[%clk 0:35:46]}  Bxe4 {[%clk 0:37:09]} 18. f3 {[%clk 0:35:55]}  Bh7 {[%clk 0:36:07]} 19. Kf2 {[%clk 0:35:33]}  b4 {[%clk 0:34:42]} 20. f4 {[%clk 0:33:58]}  Be4 {[%clk 0:34:42]} 21. Bf3 {[%clk 0:32:43]}  Bxf3 {[%clk 0:34:40]} 22. Kxf3 {[%clk 0:32:51]}  f5 {[%clk 0:34:44]} 23. h5 {[%clk 0:29:46]}  fxg4+ {[%clk 0:27:54]} 24. Kxg4 {[%clk 0:29:54]}  Qd7 {[%clk 0:27:28]} 25. Kf3 {[%clk 0:30:02]}  Rf5 {[%clk 0:25:17]} 26. Qc2 {[%clk 0:28:29]}  Raf8 {[%clk 0:25:01]} 27. Kg2 {[%clk 0:26:13]}  Qe8 {[%clk 0:23:47]} 28. Qe2 {[%clk 0:25:33]}  a5 {[%clk 0:22:51]} 29. Rae1 {[%clk 0:23:34]}  Qa4 {[%clk 0:22:41]} 30. Ra1 {[%clk 0:19:51]}  Rb8 {[%clk 0:21:26]} 31. e4 {[%clk 0:19:16]}  dxe4 {[%clk 0:21:20]} 32. Qxe4 {[%clk 0:19:14]}  bxc3 {[%clk 0:20:57]} 33. Qxe6+ {[%clk 0:19:14]}  Rf7 {[%clk 0:21:05]} 34. bxc3 {[%clk 0:18:49]}  Qc2+ {[%clk 0:17:34]} 35. Kh3 {[%clk 0:18:19]}  Qxc3 {[%clk 0:16:30]} 36. Rac1 {[%clk 0:17:39]}  Qf3 {[%clk 0:14:34]} 37. Qg4 {[%clk 0:17:06]}  Qd5 {[%clk 0:14:34]} 38. Qe2 {[%clk 0:15:38]}  Bd6 {[%clk 0:11:52]} 39. Rhf1 {[%clk 0:13:39]}  Rc8 {[%clk 0:10:54]} 40. Rc3 {[%clk 0:10:51]}  Rf5 {[%clk 0:09:18]} 41. Qf3 {[%clk 0:10:25]}  Rxh5+ {[%clk 0:09:12]} 42. Kg2 {[%clk 0:10:25]}  Qf5 {[%clk 0:08:59]} 43. Rfc1 {[%clk 0:09:58]}  Rb8 {[%clk 0:07:29]} 44. Rxc4 {[%clk 0:08:36]}  Rb2+ {[%clk 0:07:25]} 45. Kg1 {[%clk 0:08:43]}  Rh3 {[%clk 0:05:32]} 46. R4c3 {[%clk 0:05:33]}  h5 {[%clk 0:04:50]} 47. Qc6 {[%clk 0:04:10]}  Kh7 {[%clk 0:03:06]} 48. Bf2 {[%clk 0:00:50]}  Bxf4 {[%clk 0:01:49]} 49. Rxh3 {[%clk 0:00:43]}  Bxc1 {[%clk 0:01:56]} 50. Qf3 {[%clk 0:00:18]}  Qxf3 {[%clk 0:01:36]} 51. Rxf3 {[%clk 0:00:27]}  Rxa2 {[%clk 0:01:44]} 52. Rf5 {[%clk 0:00:25]}  Kg6 {[%clk 0:01:49]} 53. Rc5 {[%clk 0:00:31]}  Bf4 {[%clk 0:01:49]} 54. d5 {[%clk 0:00:28]}  a4 {[%clk 0:01:24]} 55. Ra5 {[%clk 0:00:36]}  Kf7 {[%clk 0:01:18]} 56. Ra7+ {[%clk 0:00:40]}  Kf8 {[%clk 0:01:05]} 57. Bc5+ {[%clk 0:00:34]}  Kg8 {[%clk 0:01:14]} 58. d6 {[%clk 0:00:27]}  Rd2 {[%clk 0:01:23]} 59. d7 {[%clk 0:00:27]}  Bg5 {[%clk 0:01:20]} 60. Bb6 {[%clk 0:00:14]}  Kh7 {[%clk 0:01:17]} 61. Ra5 {[%clk 0:00:17]}  Bf6 {[%clk 0:00:52]} 62. Rxh5+ {[%clk 0:00:25]}  Kg6 {[%clk 0:01:01]} 63. Ra5 {[%clk 0:00:32]}  Rxd7 {[%clk 0:00:55]} 64. Rxa4 {[%clk 0:00:41]}  Rd2 {[%clk 0:01:02]} 65. Be3 {[%clk 0:00:40]}  Rc2 {[%clk 0:01:09]} 66. Bf2 {[%clk 0:00:43]}  Kh5 {[%clk 0:01:07]} 67. Kg2 {[%clk 0:00:39]}  Rc3 {[%clk 0:00:40]} 68. Ra6 {[%clk 0:00:31]}  Rb3 {[%clk 0:00:40]} 69. Rc6 {[%clk 0:00:25]}  Kg6 {[%clk 0:00:42]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mamedjarova, Zeinab"]
+[Black "Alexieva, Silvia"]
+[WhiteFideId "13401521"]
+[BlackFideId "2902265"]
+[WhiteElo "2198"]
+[BlackElo "2277"]
+[Result "0-1"]
+[Round "04"]
+[TimeControl "40+10"]
+[Date "2021.09.28"]
+[WhiteClock "0:00:33"]
+[BlackClock "0:01:41"]
+
+1. Nf3 {[%clk 0:45:19]}  Nf6 {[%clk 0:45:12]} 2. g3 {[%clk 0:45:26]}  d5 {[%clk 0:44:51]} 3. Bg2 {[%clk 0:45:35]}  Nc6 {[%clk 0:43:53]} 4. O-O {[%clk 0:45:34]}  e5 {[%clk 0:43:30]} 5. d3 {[%clk 0:45:43]}  h6 {[%clk 0:41:32]} 6. b3 {[%clk 0:45:08]}  Bd6 {[%clk 0:37:30]} 7. Bb2 {[%clk 0:45:08]}  O-O {[%clk 0:37:10]} 8. c4 {[%clk 0:41:20]}  Re8 {[%clk 0:33:58]} 9. cxd5 {[%clk 0:40:54]}  Nxd5 {[%clk 0:34:05]} 10. Nbd2 {[%clk 0:41:02]}  Bg4 {[%clk 0:31:59]} 11. Nc4 {[%clk 0:40:08]}  Nf6 {[%clk 0:24:50]} 12. h3 {[%clk 0:38:24]}  Bh5 {[%clk 0:24:57]} 13. Nxd6 {[%clk 0:38:19]}  cxd6 {[%clk 0:24:55]} 14. Nh4 {[%clk 0:37:46]}  Qd7 {[%clk 0:21:35]} 15. Rc1 {[%clk 0:27:22]}  d5 {[%clk 0:20:18]} 16. Qd2 {[%clk 0:25:15]}  d4 {[%clk 0:17:43]} 17. f4 {[%clk 0:21:49]}  exf4 {[%clk 0:16:43]} 18. g4 {[%clk 0:19:39]}  Bg6 {[%clk 0:15:35]} 19. Nxg6 {[%clk 0:17:19]}  fxg6 {[%clk 0:15:43]} 20. Rxf4 {[%clk 0:11:02]}  Nd5 {[%clk 0:14:24]} 21. Rf2 {[%clk 0:07:06]}  Ne3 {[%clk 0:14:12]} 22. Be4 {[%clk 0:06:31]}  Qd6 {[%clk 0:14:07]} 23. Rf3 {[%clk 0:06:31]}  Rf8 {[%clk 0:12:23]} 24. Rxe3 {[%clk 0:03:57]}  dxe3 {[%clk 0:10:42]} 25. Qxe3 {[%clk 0:03:55]}  Rf7 {[%clk 0:09:09]} 26. Bg2 {[%clk 0:03:21]}  Raf8 {[%clk 0:07:51]} 27. d4 {[%clk 0:03:28]}  Re7 {[%clk 0:04:29]} 28. Qd3 {[%clk 0:03:21]}  Kh7 {[%clk 0:04:19]} 29. e4 {[%clk 0:02:30]}  Rd8 {[%clk 0:03:52]} 30. Rd1 {[%clk 0:01:48]}  Ne5 {[%clk 0:03:10]} 31. Qe3 {[%clk 0:01:48]}  Nf7 {[%clk 0:03:13]} 32. Rf1 {[%clk 0:01:07]}  Qb6 {[%clk 0:02:54]} 33. Kh1 {[%clk 0:01:00]}  Ng5 {[%clk 0:02:46]} 34. e5 {[%clk 0:01:03]}  Ne6 {[%clk 0:02:41]} 35. h4 {[%clk 0:00:38]}  Nxd4 {[%clk 0:02:41]} 36. h5 {[%clk 0:00:48]}  Ne6 {[%clk 0:01:44]} 37. hxg6+ {[%clk 0:00:29]}  Kg8 {[%clk 0:01:44]} 38. Qc3 {[%clk 0:00:22]}  Qd4 {[%clk 0:00:59]} 39. Qxd4 {[%clk 0:00:18]}  Nxd4 {[%clk 0:01:08]} 40. Rd1 {[%clk 0:00:20]}  Red7 {[%clk 0:00:57]} 41. Bf1 {[%clk 0:00:25]}  b5 {[%clk 0:00:44]} 42. Rc1 {[%clk 0:00:27]}  a6 {[%clk 0:00:52]} 43. Bg2 {[%clk 0:00:28]}  Ne2 {[%clk 0:00:58]} 44. Rc6 {[%clk 0:00:32]}  Nf4 {[%clk 0:00:51]} 45. Bf3 {[%clk 0:00:30]}  Rd2 {[%clk 0:00:49]} 46. Bc1 {[%clk 0:00:29]}  Rf2 {[%clk 0:00:53]} 47. Rc3 {[%clk 0:00:14]}  Ne2 {[%clk 0:00:46]} 48. Bxe2 {[%clk 0:00:19]}  Rxe2 {[%clk 0:00:55]} 49. Be3 {[%clk 0:00:19]}  Rd1+ {[%clk 0:01:02]} 50. Bg1 {[%clk 0:00:28]}  Kf8 {[%clk 0:01:10]} 51. Rf3+ {[%clk 0:00:17]}  Ke8 {[%clk 0:01:18]} 52. a4 {[%clk 0:00:18]}  Ree1 {[%clk 0:01:24]} 53. Rg3 {[%clk 0:00:22]}  Rd2 {[%clk 0:01:05]} 54. axb5 {[%clk 0:00:30]}  axb5 {[%clk 0:01:14]} 55. g5 {[%clk 0:00:33]}  h5 {[%clk 0:01:16]} 56. Rh3 {[%clk 0:00:16]}  Ke7 {[%clk 0:01:19]} 57. Rf3 {[%clk 0:00:24]}  Ke6 {[%clk 0:01:20]} 58. b4 {[%clk 0:00:30]}  Rdd1 {[%clk 0:01:09]} 59. Rf7 {[%clk 0:00:13]}  Rxg1+ {[%clk 0:01:16]} 60. Kh2 {[%clk 0:00:13]}  Rh1+ {[%clk 0:01:22]} 61. Kg2 {[%clk 0:00:22]}  Rdg1+ {[%clk 0:01:30]} 62. Kf2 {[%clk 0:00:40]}  Rxg5 {[%clk 0:01:22]} 63. Rxg7 {[%clk 0:00:47]}  Rxe5 {[%clk 0:01:21]} 64. Rb7 {[%clk 0:00:54]}  Rg5 {[%clk 0:01:21]} 65. Rb6+ {[%clk 0:00:53]}  Ke7 {[%clk 0:01:24]} 66. g7 {[%clk 0:00:40]}  Rxg7 {[%clk 0:01:31]} 67. Rxb5 {[%clk 0:00:47]}  h4 {[%clk 0:01:26]} 68. Rb8 {[%clk 0:00:45]}  Rb1 {[%clk 0:01:27]} 69. Ke3 {[%clk 0:00:40]}  Rg4 {[%clk 0:01:27]} 70. b5 {[%clk 0:00:33]}  Rgb4 {[%clk 0:01:41]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mkrtchian, Lilit"]
+[Black "Goryachkina, Aleksandra"]
+[WhiteFideId "13300601"]
+[BlackFideId "4147103"]
+[WhiteElo "2306"]
+[BlackElo "2520"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:00:44"]
+[BlackClock "0:00:23"]
+
+1. c4 {[%clk 0:44:52]}  e6 {[%clk 0:45:18]} 2. g3 {[%clk 0:45:23]}  d5 {[%clk 0:43:47]} 3. Bg2 {[%clk 0:44:57]}  Nf6 {[%clk 0:43:24]} 4. Nf3 {[%clk 0:45:35]}  Be7 {[%clk 0:42:51]} 5. O-O {[%clk 0:42:15]}  O-O {[%clk 0:40:45]} 6. b3 {[%clk 0:40:48]}  d4 {[%clk 0:39:38]} 7. e3 {[%clk 0:45:51]}  c5 {[%clk 0:39:46]} 8. exd4 {[%clk 0:40:37]}  cxd4 {[%clk 0:39:48]} 9. d3 {[%clk 0:36:22]}  Nc6 {[%clk 0:36:06]} 10. Re1 {[%clk 0:31:43]}  Bd7 {[%clk 0:34:31]} 11. Ba3 {[%clk 0:28:41]}  Re8 {[%clk 0:32:53]} 12. Bxe7 {[%clk 0:35:46]}  Qxe7 {[%clk 0:41:22]} 13. a3 {[%clk 0:28:06]}  a5 {[%clk 0:32:54]} 14. Nbd2 {[%clk 0:27:44]}  h6 {[%clk 0:28:28]} 15. Qc2 {[%clk 0:23:10]}  e5 {[%clk 0:27:09]} 16. c5 {[%clk 0:20:40]}  Bf5 {[%clk 0:26:30]} 17. Nh4 {[%clk 0:20:28]}  Bh7 {[%clk 0:26:30]} 18. Qc4 {[%clk 4:04:16]}  Qe6 {[%clk 0:25:02]} 19. Qxe6 {[%clk 0:12:01]}  Rxe6 {[%clk 0:25:05]} 20. Bf1 {[%clk 0:11:55]}  g5 {[%clk 0:18:28]} 21. Nhf3 {[%clk 0:11:43]}  Rae8 {[%clk 0:18:10]} 22. Nc4 {[%clk 0:11:43]}  e4 {[%clk 0:16:54]} 23. dxe4 {[%clk 0:11:38]}  Nxe4 {[%clk 0:16:55]} 24. Bh3 {[%clk 0:02:08]}  f5 {[%clk 0:16:50]} 25. g4 {[%clk 0:02:17]}  f4 {[%clk 0:16:27]} 26. b4 {[%clk 0:02:17]}  axb4 {[%clk 0:09:16]} 27. axb4 {[%clk 0:02:26]}  Nxb4 {[%clk 0:09:11]} 28. Nxd4 {[%clk 0:02:24]}  R6e7 {[%clk 0:09:18]} 29. Reb1 {[%clk 0:00:35]}  Nd3 {[%clk 0:09:11]} 30. Nd6 {[%clk 0:00:44]}  Nxd6 {[%clk 0:05:48]} 31. cxd6 {[%clk 0:00:52]}  Rd7 {[%clk 0:05:22]} 32. Rb6 {[%clk 0:00:14]}  Re4 {[%clk 0:05:22]} 33. Nf5 {[%clk 0:00:14]}  Bxf5 {[%clk 0:05:22]} 34. gxf5 {[%clk 0:00:22]}  f3 {[%clk 0:03:34]} 35. Rd1 {[%clk 0:00:24]}  Nf4 {[%clk 0:01:15]} 36. Bf1 {[%clk 0:00:22]}  Ne2+ {[%clk 0:01:15]} 37. Bxe2 {[%clk 0:00:22]}  fxe2 {[%clk 0:01:23]} 38. Re1 {[%clk 0:00:32]}  Kf7 {[%clk 0:00:47]} 39. f3 {[%clk 0:00:22]}  Re5 {[%clk 0:00:55]} 40. Kf2 {[%clk 0:00:44]}  Kf6 {[%clk 0:00:59]} 41. Rxe2 {[%clk 0:00:48]}  Rxe2+ {[%clk 0:01:05]} 42. Kxe2 {[%clk 0:00:30]}  Kxf5 {[%clk 0:01:14]} 43. Kf2 {[%clk 0:00:30]}  Ke5 {[%clk 0:01:00]} 44. Kg3 {[%clk 0:00:38]}  Kd5 {[%clk 0:01:00]} 45. Kg4 {[%clk 0:00:40]}  Kc5 {[%clk 0:01:16]} 46. Rb3 {[%clk 0:00:39]}  b5 {[%clk 0:01:16]} 47. Rc3+ {[%clk 0:00:27]}  Kxd6 {[%clk 0:00:22]} 48. Kh5 {[%clk 0:00:39]}  b4 {[%clk 0:00:22]} 49. Rc4 {[%clk 0:00:13]}  Rb7 {[%clk 0:00:33]} 50. Kxh6 {[%clk 0:00:21]}  b3 {[%clk 0:00:36]} 51. Rc1 {[%clk 0:00:30]}  b2 {[%clk 0:00:36]} 52. Rb1 {[%clk 0:00:46]}  Rb5 {[%clk 0:00:49]} 53. Kh5 {[%clk 0:00:46]}  Ke7 {[%clk 0:00:25]} 54. h4 {[%clk 0:00:23]}  Kf6 {[%clk 0:00:34]} 55. hxg5+ {[%clk 0:00:27]}  Rxg5+ {[%clk 0:00:43]} 56. Kh4 {[%clk 0:00:36]}  Rg2 {[%clk 0:00:52]} 57. Kh3 {[%clk 0:00:41]}  Rd2 {[%clk 0:01:00]} 58. Kg4 {[%clk 0:00:48]}  Ke5 {[%clk 0:00:42]} 59. f4+ {[%clk 0:00:21]}  Ke4 {[%clk 0:00:45]} 60. Re1+ {[%clk 0:00:21]}  Kd4 {[%clk 0:00:39]} 61. Kf5 {[%clk 0:00:12]}  Rf2 {[%clk 0:00:23]} 62. Kg5 {[%clk 0:00:15]}  Rg2+ {[%clk 0:00:27]} 63. Kf6 {[%clk 0:00:28]}  Rc2 {[%clk 0:00:31]} 64. Rb1 {[%clk 0:00:21]}  Rc6+ {[%clk 0:00:19]} 65. Kg5 {[%clk 0:00:28]}  Rb6 {[%clk 0:00:18]} 66. f5 {[%clk 0:00:36]}  Kc3 {[%clk 0:00:20]} 67. f6 {[%clk 0:00:44]}  Rxf6 {[%clk 0:00:23]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kosteniuk, Alexandra"]
+[Black "Sargsyan, Anna M."]
+[WhiteFideId "4128125"]
+[BlackFideId "13308130"]
+[WhiteElo "2517"]
+[BlackElo "2283"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:03:33"]
+[BlackClock "0:07:08"]
+
+1. e4 {[%clk 0:45:16]}  e5 {[%clk 0:45:17]} 2. Nf3 {[%clk 0:45:23]}  Nc6 {[%clk 0:45:24]} 3. Bb5 {[%clk 0:45:30]}  a6 {[%clk 0:45:31]} 4. Ba4 {[%clk 0:45:37]}  Nf6 {[%clk 0:45:39]} 5. d3 {[%clk 0:45:44]}  Bc5 {[%clk 0:45:03]} 6. O-O {[%clk 0:44:19]}  b5 {[%clk 0:45:01]} 7. Bb3 {[%clk 0:44:28]}  d6 {[%clk 0:45:08]} 8. a4 {[%clk 0:44:16]}  Rb8 {[%clk 0:45:09]} 9. h3 {[%clk 0:43:51]}  h6 {[%clk 0:45:13]} 10. Nc3 {[%clk 0:43:38]}  O-O {[%clk 0:45:15]} 11. Ne2 {[%clk 0:42:35]}  Be6 {[%clk 0:41:54]} 12. Bxe6 {[%clk 0:39:30]}  fxe6 {[%clk 0:44:44]} 13. Ng3 {[%clk 0:36:14]}  Ne7 {[%clk 0:43:23]} 14. c3 {[%clk 0:38:39]}  Ng6 {[%clk 0:43:04]} 15. d4 {[%clk 0:38:41]}  exd4 {[%clk 0:42:41]} 16. cxd4 {[%clk 0:38:21]}  Bb6 {[%clk 0:42:45]} 17. Qd3 {[%clk 0:35:44]}  Qe8 {[%clk 0:41:57]} 18. a5 {[%clk 0:34:35]}  Ba7 {[%clk 0:41:50]} 19. Be3 {[%clk 0:34:40]}  Qf7 {[%clk 0:40:15]} 20. Rac1 {[%clk 0:22:48]}  Ra8 {[%clk 0:34:33]} 21. Rc6 {[%clk 0:32:39]}  Bb8 {[%clk 0:22:56]} 22. Nd2 {[%clk 0:22:48]}  Ne7 {[%clk 0:29:16]} 23. Rc2 {[%clk 0:31:57]}  Nh5 {[%clk 0:28:00]} 24. Nxh5 {[%clk 0:30:08]}  Qxh5 {[%clk 0:28:07]} 25. Rfc1 {[%clk 0:25:26]}  Kh8 {[%clk 0:27:20]} 26. Nf1 {[%clk 0:25:25]}  Qg6 {[%clk 0:22:56]} 27. Ng3 {[%clk 0:22:48]}  d5 {[%clk 0:23:45]} 28. Rd1 {[%clk 0:24:31]}  c5 {[%clk 0:23:06]} 29. dxc5 {[%clk 0:22:48]}  Bxg3 {[%clk 0:22:56]} 30. fxg3 {[%clk 0:22:48]}  dxe4 {[%clk 0:22:56]} 31. Qe2 {[%clk 0:22:48]}  Nd5 {[%clk 0:21:37]} 32. Kh2 {[%clk 0:20:11]}  Rac8 {[%clk 0:21:04]} 33. Rcc1 {[%clk 0:18:29]}  Rc6 {[%clk 0:19:39]} 34. Bd4 {[%clk 0:18:38]}  Nb4 {[%clk 0:18:06]} 35. Rf1 {[%clk 0:15:06]}  Rd8 {[%clk 0:17:51]} 36. Rcd1 {[%clk 0:15:15]}  Nd3 {[%clk 0:17:47]} 37. Qe3 {[%clk 0:15:24]}  Rdc8 {[%clk 0:16:28]} 38. Rxd3 {[%clk 0:04:25]}  exd3 {[%clk 0:16:35]} 39. Rf4 {[%clk 0:04:35]}  Qg5 {[%clk 0:13:34]} 40. Qxd3 {[%clk 0:04:29]}  e5 {[%clk 0:13:14]} 41. Rf5 {[%clk 0:04:11]}  Qxf5 {[%clk 0:11:38]} 42. Qxf5 {[%clk 0:04:18]}  exd4 {[%clk 0:11:47]} 43. Qd7 {[%clk 0:03:53]}  Rxc5 {[%clk 0:11:38]} 44. Qxd4 {[%clk 0:04:02]}  R5c6 {[%clk 0:11:37]} 45. Qd7 {[%clk 0:04:02]}  R6c7 {[%clk 0:08:19]} 46. Qe6 {[%clk 0:04:08]}  Rc6 {[%clk 0:07:40]} 47. Qd7 {[%clk 0:04:17]}  Rc2 {[%clk 0:07:48]} 48. Qe6 {[%clk 0:03:33]}  R2c6 {[%clk 0:07:08]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Gaboyan, Susanna"]
+[Black "Lagno, Kateryna"]
+[WhiteFideId "13303627"]
+[BlackFideId "14109336"]
+[WhiteElo "2083"]
+[BlackElo "2521"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:05:34"]
+
+1. Nf3 {[%clk 0:45:17]}  Nf6 {[%clk 0:45:18]} 2. g3 {[%clk 0:45:23]}  g6 {[%clk 0:45:27]} 3. Bg2 {[%clk 0:45:30]}  Bg7 {[%clk 0:45:34]} 4. O-O {[%clk 0:45:35]}  O-O {[%clk 0:45:42]} 5. d3 {[%clk 0:45:45]}  d5 {[%clk 0:45:48]} 6. Nbd2 {[%clk 0:45:47]}  c5 {[%clk 0:45:55]} 7. e4 {[%clk 0:45:51]}  Nc6 {[%clk 0:46:01]} 8. Qe2 {[%clk 0:43:39]}  e5 {[%clk 0:45:53]} 9. h3 {[%clk 0:42:35]}  b6 {[%clk 0:43:37]} 10. Re1 {[%clk 0:39:35]}  Bb7 {[%clk 0:43:07]} 11. c3 {[%clk 0:38:21]}  Re8 {[%clk 0:41:15]} 12. exd5 {[%clk 0:35:46]}  Nxd5 {[%clk 0:41:22]} 13. Nc4 {[%clk 0:35:50]}  b5 {[%clk 0:37:38]} 14. Ncd2 {[%clk 0:31:22]}  f5 {[%clk 0:37:00]} 15. Nb3 {[%clk 0:29:05]}  Qd6 {[%clk 0:36:57]} 16. Be3 {[%clk 0:28:40]}  Nxe3 {[%clk 0:25:48]} 17. Qxe3 {[%clk 0:28:36]}  Bf8 {[%clk 0:25:57]} 18. Rad1 {[%clk 0:27:12]}  Rad8 {[%clk 0:26:03]} 19. Qg5 {[%clk 0:23:22]}  a5 {[%clk 0:18:47]} 20. d4 {[%clk 0:22:20]}  cxd4 {[%clk 0:18:19]} 21. cxd4 {[%clk 0:22:24]}  e4 {[%clk 0:18:16]} 22. Ne5 {[%clk 0:21:24]}  Nxe5 {[%clk 0:15:38]} 23. dxe5 {[%clk 0:21:26]}  Qxd1 {[%clk 0:15:46]} 24. Rxd1 {[%clk 0:21:26]}  Rxd1+ {[%clk 0:15:55]} 25. Kh2 {[%clk 0:21:39]}  a4 {[%clk 0:15:44]} 26. Nc1 {[%clk 0:16:55]}  Rxe5 {[%clk 0:11:09]} 27. Ne2 {[%clk 0:14:10]}  Rd6 {[%clk 0:10:25]} 28. Qe3 {[%clk 0:13:03]}  Bd5 {[%clk 0:10:04]} 29. Qc5 {[%clk 0:12:19]}  Re8 {[%clk 0:08:06]} 30. Qxb5 {[%clk 0:11:53]}  Bf7 {[%clk 0:08:14]} 31. Qxa4 {[%clk 0:08:02]}  Rd2 {[%clk 0:08:21]} 32. Qb5 {[%clk 0:07:53]}  Rc8 {[%clk 0:08:01]} 33. Nc3 {[%clk 0:00:42]}  Rxf2 {[%clk 0:08:02]} 34. Kg1 {[%clk 0:00:50]}  Rc2 {[%clk 0:06:57]} 35. Bf1 {[%clk 0:00:48]}  Rd8 {[%clk 0:05:52]} 36. Bc4 {[%clk 0:00:41]}  Rc1+ {[%clk 0:05:45]} 37. Kf2 {[%clk 0:00:21]}  Rd2+ {[%clk 0:05:50]} 38. Be2 {[%clk 0:00:17]}  Rcc2 {[%clk 0:05:38]} 39. a4 {[%clk 0:00:17]}  Rxb2 {[%clk 0:05:46]} 40. Qa6 {[%clk 0:00:14]}  Bc5+ {[%clk 0:05:43]} 41. Ke1 {[%clk 0:00:17]}  Bd4 {[%clk 0:05:41]} 42. Bc4 {[%clk 0:00:12]}  Bxc3 {[%clk 0:05:30]} 43. Bxf7+ {[%clk 0:00:13]}  Kg7 {[%clk 0:05:34]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kashlinskaya, Alina"]
+[Black "Ghukasyan, Siranush"]
+[WhiteFideId "4198026"]
+[BlackFideId "13300946"]
+[WhiteElo "2367"]
+[BlackElo "2168"]
+[Result "1-0"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:00:40"]
+[BlackClock "0:00:13"]
+
+1. d4 {[%clk 0:45:17]}  d5 {[%clk 0:45:18]} 2. c4 {[%clk 0:45:26]}  c6 {[%clk 0:45:26]} 3. Nf3 {[%clk 0:45:34]}  Nf6 {[%clk 0:45:30]} 4. Nc3 {[%clk 0:45:42]}  dxc4 {[%clk 0:45:38]} 5. a4 {[%clk 0:45:50]}  Bf5 {[%clk 0:45:43]} 6. e3 {[%clk 0:45:51]}  e6 {[%clk 0:45:49]} 7. Bxc4 {[%clk 0:45:57]}  Bb4 {[%clk 0:45:53]} 8. O-O {[%clk 0:45:08]}  Nbd7 {[%clk 0:43:47]} 9. Qe2 {[%clk 0:43:55]}  O-O {[%clk 0:45:14]} 10. e4 {[%clk 0:43:41]}  Bg6 {[%clk 0:42:41]} 11. Bd3 {[%clk 0:43:23]}  Re8 {[%clk 0:36:47]} 12. e5 {[%clk 0:35:17]}  Nd5 {[%clk 0:42:08]} 13. Nxd5 {[%clk 0:34:54]}  cxd5 {[%clk 0:42:13]} 14. Bxg6 {[%clk 0:34:11]}  hxg6 {[%clk 0:29:04]} 15. Ng5 {[%clk 0:31:37]}  Be7 {[%clk 0:37:50]} 16. h4 {[%clk 0:29:08]}  Rc8 {[%clk 0:34:15]} 17. Be3 {[%clk 0:27:24]}  Nb8 {[%clk 0:32:26]} 18. g3 {[%clk 0:25:11]}  Nc6 {[%clk 0:31:05]} 19. Kg2 {[%clk 0:22:55]}  Nb4 {[%clk 0:19:38]} 20. Qf3 {[%clk 0:20:56]}  Rf8 {[%clk 0:21:17]} 21. Rad1 {[%clk 0:20:56]}  Nc2 {[%clk 0:19:38]} 22. Rh1 {[%clk 0:17:03]}  Rc4 {[%clk 0:17:05]} 23. Rd2 {[%clk 0:15:47]}  Nxe3+ {[%clk 0:12:17]} 24. Qxe3 {[%clk 0:15:53]}  Rxa4 {[%clk 0:11:55]} 25. Qf4 {[%clk 0:13:00]}  Rb4 {[%clk 0:07:14]} 26. g4 {[%clk 0:08:32]}  Rb3 {[%clk 0:05:41]} 27. Rc1 {[%clk 0:08:32]}  Qb6 {[%clk 0:04:27]} 28. h5 {[%clk 0:08:30]}  Rxb2 {[%clk 0:03:54]} 29. Rxb2 {[%clk 0:05:25]}  Qxb2 {[%clk 0:04:00]} 30. Nf3 {[%clk 0:05:22]}  g5 {[%clk 0:01:37]} 31. Qe3 {[%clk 0:04:34]}  Qb6 {[%clk 0:01:17]} 32. Nxg5 {[%clk 0:02:19]}  Bxg5 {[%clk 0:01:19]} 33. Qxg5 {[%clk 0:02:28]}  Qxd4 {[%clk 0:00:49]} 34. Rc7 {[%clk 0:02:26]}  b5 {[%clk 0:00:21]} 35. f3 {[%clk 0:01:09]}  Qd3 {[%clk 0:00:16]} 36. Rxa7 {[%clk 0:01:03]}  Rc8 {[%clk 0:00:15]} 37. h6 {[%clk 0:00:17]}  Qh7 {[%clk 0:00:16]} 38. Qf4 {[%clk 0:00:15]}  gxh6 {[%clk 0:00:20]} 39. Rb7 {[%clk 0:00:24]}  b4 {[%clk 0:00:13]} 40. Rxb4 {[%clk 0:00:26]}  Rc2+ {[%clk 0:00:20]} 41. Kg3 {[%clk 0:00:35]}  Qg6 {[%clk 0:00:17]} 42. Rb8+ {[%clk 0:00:44]}  Kg7 {[%clk 0:00:22]} 43. Qb4 {[%clk 0:00:52]}  Qh7 {[%clk 0:00:13]} 44. Qe7 {[%clk 0:00:40]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Dronavalli, Harika"]
+[Black "Sebag, Marie"]
+[WhiteFideId "5015197"]
+[BlackFideId "617822"]
+[WhiteElo "2450"]
+[BlackElo "2401"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:01:11"]
+[BlackClock "0:01:17"]
+
+1. e4 {[%clk 0:45:16]}  c5 {[%clk 0:45:17]} 2. Nc3 {[%clk 0:45:17]}  Nc6 {[%clk 0:45:03]} 3. Bb5 {[%clk 0:45:25]}  Nd4 {[%clk 0:44:00]} 4. Nf3 {[%clk 0:43:34]}  a6 {[%clk 0:40:39]} 5. Bd3 {[%clk 0:43:42]}  Nc6 {[%clk 0:40:05]} 6. O-O {[%clk 0:43:20]}  g6 {[%clk 0:39:51]} 7. Re1 {[%clk 0:40:24]}  d6 {[%clk 0:38:31]} 8. Nd5 {[%clk 0:38:40]}  e6 {[%clk 0:33:47]} 9. Ne3 {[%clk 0:38:46]}  Bg7 {[%clk 0:32:51]} 10. c3 {[%clk 0:38:54]}  Nge7 {[%clk 0:31:39]} 11. Bf1 {[%clk 0:36:21]}  d5 {[%clk 0:28:07]} 12. exd5 {[%clk 0:32:49]}  Nxd5 {[%clk 0:27:14]} 13. d3 {[%clk 0:24:52]}  O-O {[%clk 0:26:57]} 14. a4 {[%clk 0:24:40]}  b6 {[%clk 0:25:32]} 15. Nc4 {[%clk 0:18:38]}  Bb7 {[%clk 0:21:46]} 16. Bg5 {[%clk 0:18:43]}  Qc7 {[%clk 0:18:48]} 17. Qc1 {[%clk 0:18:09]}  b5 {[%clk 0:14:24]} 18. axb5 {[%clk 0:18:09]}  axb5 {[%clk 0:14:32]} 19. Rxa8 {[%clk 0:18:26]}  Rxa8 {[%clk 0:13:47]} 20. Ne3 {[%clk 0:18:32]}  Nce7 {[%clk 0:10:42]} 21. Nxd5 {[%clk 0:16:07]}  Nxd5 {[%clk 0:10:20]} 22. Bh6 {[%clk 0:14:17]}  Bxh6 {[%clk 0:07:31]} 23. Qxh6 {[%clk 0:14:13]}  Ra2 {[%clk 0:07:24]} 24. Rb1 {[%clk 0:07:15]}  Qf4 {[%clk 0:05:12]} 25. Qxf4 {[%clk 0:07:21]}  Nxf4 {[%clk 0:05:21]} 26. Ne5 {[%clk 0:07:02]}  b4 {[%clk 0:04:18]} 27. g3 {[%clk 0:04:21]}  Nd5 {[%clk 0:03:56]} 28. Bg2 {[%clk 0:04:19]}  Ba6 {[%clk 0:01:12]} 29. c4 {[%clk 0:01:24]}  Ne7 {[%clk 0:01:15]} 30. Nd7 {[%clk 0:01:18]}  Ra5 {[%clk 0:01:18]} 31. Re1 {[%clk 0:01:19]}  Nf5 {[%clk 0:00:30]} 32. h4 {[%clk 0:01:00]}  Nd4 {[%clk 0:00:28]} 33. Re5 {[%clk 0:01:01]}  Bc8 {[%clk 0:00:21]} 34. Nf6+ {[%clk 0:00:56]}  Kg7 {[%clk 0:00:24]} 35. Ne4 {[%clk 0:00:56]}  Nb3 {[%clk 0:00:26]} 36. Nd6 {[%clk 0:00:52]}  Ba6 {[%clk 0:00:25]} 37. h5 {[%clk 0:00:52]}  Ra1+ {[%clk 0:00:29]} 38. Kh2 {[%clk 0:00:51]}  Ra2 {[%clk 0:00:38]} 39. h6+ {[%clk 0:00:47]}  Kf6 {[%clk 0:00:39]} 40. Re2 {[%clk 0:00:45]}  Nd4 {[%clk 0:00:44]} 41. Rd2 {[%clk 0:00:45]}  Nb3 {[%clk 0:00:51]} 42. Re2 {[%clk 0:00:57]}  Nd4 {[%clk 0:01:00]} 43. Rd2 {[%clk 0:01:01]}  Nb3 {[%clk 0:01:08]} 44. Re2 {[%clk 0:01:01]}  Nd4 {[%clk 0:01:17]} 45. Rd2 {[%clk 0:01:11]}  Ke5 {[%clk 0:01:17]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Navrotescu, Andreea"]
+[Black "Tania, Sachdev"]
+[WhiteFideId "675946"]
+[BlackFideId "5007844"]
+[WhiteElo "2220"]
+[BlackElo "2339"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:12:55"]
+[BlackClock "0:01:44"]
+
+1. c4 {[%clk 0:45:17]}  e5 {[%clk 0:45:13]} 2. Nc3 {[%clk 0:45:22]}  Nf6 {[%clk 0:45:18]} 3. Nf3 {[%clk 0:45:26]}  Nc6 {[%clk 0:45:24]} 4. e3 {[%clk 0:45:32]}  Bb4 {[%clk 0:45:25]} 5. Qc2 {[%clk 0:45:38]}  d6 {[%clk 0:45:11]} 6. Nd5 {[%clk 0:45:11]}  Ba5 {[%clk 0:45:14]} 7. a3 {[%clk 0:44:45]}  Nxd5 {[%clk 0:44:22]} 8. cxd5 {[%clk 0:44:51]}  Ne7 {[%clk 0:44:29]} 9. Bc4 {[%clk 0:38:53]}  Bb6 {[%clk 0:38:20]} 10. O-O {[%clk 0:38:10]}  O-O {[%clk 0:35:16]} 11. d4 {[%clk 0:35:11]}  exd4 {[%clk 0:29:49]} 12. Nxd4 {[%clk 0:34:57]}  Bxd4 {[%clk 0:27:54]} 13. exd4 {[%clk 0:35:04]}  Bf5 {[%clk 0:27:57]} 14. Qb3 {[%clk 0:34:29]}  Rb8 {[%clk 0:26:02]} 15. Bg5 {[%clk 0:32:12]}  h6 {[%clk 0:25:04]} 16. Bh4 {[%clk 0:32:11]}  Qd7 {[%clk 0:24:21]} 17. Rfe1 {[%clk 0:31:52]}  Ng6 {[%clk 0:22:20]} 18. Bg3 {[%clk 0:31:59]}  Qd8 {[%clk 0:18:23]} 19. Rac1 {[%clk 0:30:41]}  Qg5 {[%clk 0:14:40]} 20. Bf1 {[%clk 0:30:01]}  Rfc8 {[%clk 0:07:26]} 21. Qe3 {[%clk 0:25:43]}  Qf6 {[%clk 0:06:46]} 22. Qf3 {[%clk 0:24:07]}  Nf8 {[%clk 0:05:37]} 23. Rc4 {[%clk 0:22:32]}  Qg6 {[%clk 0:05:08]} 24. Qc3 {[%clk 0:21:58]}  Nd7 {[%clk 0:02:42]} 25. Rxc7 {[%clk 0:21:58]}  Nb6 {[%clk 0:02:47]} 26. Rxc8+ {[%clk 0:21:39]}  Rxc8 {[%clk 0:02:55]} 27. Qa5 {[%clk 0:20:46]}  Qf6 {[%clk 0:02:04]} 28. Qxa7 {[%clk 0:20:46]}  Qxd4 {[%clk 0:02:12]} 29. Qxb7 {[%clk 0:17:34]}  Qd2 {[%clk 0:01:38]} 30. f3 {[%clk 0:16:07]}  Nxd5 {[%clk 0:01:33]} 31. Re2 {[%clk 0:14:40]}  Qd1 {[%clk 0:01:33]} 32. Re1 {[%clk 0:14:45]}  Qd2 {[%clk 0:01:35]} 33. Re2 {[%clk 0:14:16]}  Qd1 {[%clk 0:01:44]} 34. Re1 {[%clk 0:12:55]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Kulkarni, Bhakti"]
+[Black "Benmesbah, Natacha"]
+[WhiteFideId "5019516"]
+[BlackFideId "642002"]
+[WhiteElo "2325"]
+[BlackElo "2193"]
+[Result "1-0"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:01:39"]
+[BlackClock "0:00:47"]
+
+1. d4 {[%clk 0:45:08]}  Nf6 {[%clk 0:45:18]} 2. Nf3 {[%clk 0:45:12]}  g6 {[%clk 0:44:11]} 3. Bf4 {[%clk 0:44:42]}  Bg7 {[%clk 0:44:14]} 4. Nbd2 {[%clk 0:43:02]}  d6 {[%clk 0:41:18]} 5. e3 {[%clk 0:42:37]}  Nbd7 {[%clk 0:38:22]} 6. h3 {[%clk 0:42:28]}  O-O {[%clk 0:38:29]} 7. Be2 {[%clk 0:42:25]}  Qe8 {[%clk 0:33:26]} 8. O-O {[%clk 0:40:35]}  e5 {[%clk 0:33:31]} 9. Bh2 {[%clk 0:36:17]}  Kh8 {[%clk 0:29:41]} 10. dxe5 {[%clk 0:32:14]}  Nxe5 {[%clk 0:28:32]} 11. Nxe5 {[%clk 0:32:00]}  dxe5 {[%clk 0:28:41]} 12. Nc4 {[%clk 0:31:33]}  Nd7 {[%clk 0:27:33]} 13. Qd5 {[%clk 0:27:52]}  Nb6 {[%clk 0:27:07]} 14. Qc5 {[%clk 0:26:38]}  Nxc4 {[%clk 0:23:09]} 15. Bxc4 {[%clk 0:26:34]}  c6 {[%clk 0:22:27]} 16. e4 {[%clk 0:25:00]}  b6 {[%clk 0:16:53]} 17. Qd6 {[%clk 0:19:43]}  Bb7 {[%clk 0:15:32]} 18. Qc7 {[%clk 0:18:59]}  Qb8 {[%clk 0:15:14]} 19. Qe7 {[%clk 0:18:38]}  c5 {[%clk 0:13:43]} 20. Bxf7 {[%clk 0:08:28]}  Bxe4 {[%clk 0:13:42]} 21. Rad1 {[%clk 0:08:05]}  Bc6 {[%clk 0:13:39]} 22. Bd5 {[%clk 0:07:28]}  Bxd5 {[%clk 0:13:08]} 23. Rxd5 {[%clk 0:07:37]}  Qe8 {[%clk 0:12:50]} 24. Qc7 {[%clk 0:06:29]}  Rf7 {[%clk 0:08:12]} 25. Qd6 {[%clk 0:06:37]}  e4 {[%clk 0:07:08]} 26. Be5 {[%clk 0:05:36]}  Re7 {[%clk 0:06:20]} 27. Bf6 {[%clk 0:05:07]}  Re6 {[%clk 0:06:12]} 28. Bxg7+ {[%clk 0:05:14]}  Kxg7 {[%clk 0:06:21]} 29. Qg3 {[%clk 0:04:58]}  Qf7 {[%clk 0:03:20]} 30. Rfd1 {[%clk 0:04:58]}  Rae8 {[%clk 0:03:29]} 31. Qe3 {[%clk 0:04:40]}  Qf6 {[%clk 0:03:25]} 32. c3 {[%clk 0:04:33]}  R6e7 {[%clk 0:02:47]} 33. a4 {[%clk 0:04:40]}  Qc6 {[%clk 0:02:45]} 34. a5 {[%clk 0:04:15]}  Qa4 {[%clk 0:02:36]} 35. axb6 {[%clk 0:04:02]}  axb6 {[%clk 0:02:45]} 36. R1d2 {[%clk 0:03:41]}  Re5 {[%clk 0:02:09]} 37. Rd7+ {[%clk 0:02:44]}  R8e7 {[%clk 0:01:55]} 38. Qf4 {[%clk 0:02:33]}  Re6 {[%clk 0:01:35]} 39. Qc7 {[%clk 0:01:55]}  Kf6 {[%clk 0:01:08]} 40. Rxe7 {[%clk 0:01:54]}  Rxe7 {[%clk 0:01:08]} 41. Qxb6+ {[%clk 0:02:01]}  Kf7 {[%clk 0:00:59]} 42. Qxc5 {[%clk 0:02:05]}  Qa1+ {[%clk 0:00:58]} 43. Kh2 {[%clk 0:02:13]}  Qe1 {[%clk 0:01:06]} 44. Qc4+ {[%clk 0:02:10]}  Kg7 {[%clk 0:01:14]} 45. Re2 {[%clk 0:02:12]}  Qb1 {[%clk 0:01:09]} 46. b4 {[%clk 0:02:11]}  Kf8 {[%clk 0:00:46]} 47. Qd4 {[%clk 0:02:06]}  Qd3 {[%clk 0:00:41]} 48. Qh8+ {[%clk 0:01:47]}  Kf7 {[%clk 0:00:48]} 49. Qxh7+ {[%clk 0:01:52]}  Kf8 {[%clk 0:00:44]} 50. Qh6+ {[%clk 0:01:53]}  Ke8 {[%clk 0:00:47]} 51. Rd2 {[%clk 0:01:39]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Alexieva, Silvia"]
+[Black "Gomes, Mary Ann"]
+[WhiteFideId "2902265"]
+[BlackFideId "5013623"]
+[WhiteElo "2277"]
+[BlackElo "2305"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:01:02"]
+[BlackClock "0:02:13"]
+
+1. d4 {[%clk 0:45:17]}  Nf6 {[%clk 0:45:04]} 2. Nf3 {[%clk 0:45:23]}  e6 {[%clk 0:45:09]} 3. e3 {[%clk 0:44:52]}  b6 {[%clk 0:45:06]} 4. Bd3 {[%clk 0:44:41]}  Bb7 {[%clk 0:45:11]} 5. O-O {[%clk 0:44:46]}  c5 {[%clk 0:45:05]} 6. b3 {[%clk 0:43:47]}  Be7 {[%clk 0:44:51]} 7. Bb2 {[%clk 0:43:54]}  O-O {[%clk 0:44:55]} 8. c4 {[%clk 0:43:45]}  d5 {[%clk 0:44:02]} 9. cxd5 {[%clk 0:43:09]}  Bxd5 {[%clk 0:41:22]} 10. Nc3 {[%clk 0:39:36]}  Bb7 {[%clk 0:41:30]} 11. dxc5 {[%clk 0:37:50]}  Bxc5 {[%clk 0:40:06]} 12. Qe2 {[%clk 0:36:36]}  Nbd7 {[%clk 0:39:51]} 13. Rfd1 {[%clk 0:35:53]}  Qe7 {[%clk 0:38:53]} 14. Ba6 {[%clk 0:33:47]}  Bxa6 {[%clk 0:35:21]} 15. Qxa6 {[%clk 0:33:54]}  Bb4 {[%clk 0:34:57]} 16. Rac1 {[%clk 0:29:06]}  Bxc3 {[%clk 0:23:25]} 17. Bxc3 {[%clk 0:26:23]}  Nc5 {[%clk 0:17:54]} 18. Qe2 {[%clk 0:25:50]}  Nfe4 {[%clk 0:17:11]} 19. Bb2 {[%clk 0:24:48]}  Rac8 {[%clk 0:16:53]} 20. Ne5 {[%clk 0:20:24]}  f6 {[%clk 0:16:36]} 21. Nc4 {[%clk 0:19:13]}  Rfd8 {[%clk 0:15:55]} 22. f3 {[%clk 0:19:12]}  Ng5 {[%clk 0:15:04]} 23. e4 {[%clk 0:17:13]}  Rxd1+ {[%clk 0:12:23]} 24. Rxd1 {[%clk 0:17:21]}  Rd8 {[%clk 0:12:29]} 25. e5 {[%clk 0:14:46]}  f5 {[%clk 0:10:50]} 26. Ba3 {[%clk 0:11:09]}  Nf7 {[%clk 0:09:13]} 27. Rxd8+ {[%clk 0:09:28]}  Qxd8 {[%clk 0:09:00]} 28. Bxc5 {[%clk 0:09:03]}  bxc5 {[%clk 0:09:09]} 29. g3 {[%clk 0:09:02]}  Qd4+ {[%clk 0:08:47]} 30. Kg2 {[%clk 0:09:06]}  f4 {[%clk 0:08:23]} 31. g4 {[%clk 0:08:48]}  g5 {[%clk 0:06:25]} 32. h3 {[%clk 0:08:36]}  Kg7 {[%clk 0:06:20]} 33. Kh2 {[%clk 0:08:08]}  Nd8 {[%clk 0:04:52]} 34. Qd2 {[%clk 0:07:02]}  Nc6 {[%clk 0:03:54]} 35. Qxd4 {[%clk 0:07:10]}  cxd4 {[%clk 0:02:57]} 36. Kg2 {[%clk 0:07:12]}  d3 {[%clk 0:03:05]} 37. Kf2 {[%clk 0:07:12]}  Nd4 {[%clk 0:03:14]} 38. Nb2 {[%clk 0:04:15]}  d2 {[%clk 0:03:16]} 39. b4 {[%clk 0:01:48]}  Kf7 {[%clk 0:03:02]} 40. a4 {[%clk 0:01:57]}  Ke7 {[%clk 0:02:08]} 41. Nd1 {[%clk 0:02:05]}  a6 {[%clk 0:01:47]} 42. Nc3 {[%clk 0:01:33]}  Kd7 {[%clk 0:01:50]} 43. Nd1 {[%clk 0:01:07]}  Kc7 {[%clk 0:01:57]} 44. Nc3 {[%clk 0:01:10]}  Kc6 {[%clk 0:02:05]} 45. Kg2 {[%clk 0:00:35]}  Ne2 {[%clk 0:01:59]} 46. Nd1 {[%clk 0:00:39]}  Kd5 {[%clk 0:02:05]} 47. Kf2 {[%clk 0:00:46]}  Nd4 {[%clk 0:01:52]} 48. b5 {[%clk 0:00:45]}  axb5 {[%clk 0:01:57]} 49. axb5 {[%clk 0:00:54]}  Kxe5 {[%clk 0:01:59]} 50. b6 {[%clk 0:00:55]}  Kd6 {[%clk 0:01:59]} 51. Nc3 {[%clk 0:01:02]}  Ke5 {[%clk 0:02:13]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Mammadzada, Gunay"]
+[Black "Matnadze Bujiashvili, Ann"]
+[WhiteFideId "13403729"]
+[BlackFideId "13601377"]
+[WhiteElo "2280"]
+[BlackElo "2349"]
+[Result "1/2-1/2"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:00:30"]
+[BlackClock "0:01:28"]
+
+1. e4 {[%clk 0:45:14]}  c5 {[%clk 0:45:17]} 2. Nf3 {[%clk 0:45:15]}  d6 {[%clk 0:45:25]} 3. d4 {[%clk 0:45:23]}  cxd4 {[%clk 0:45:34]} 4. Nxd4 {[%clk 0:45:32]}  Nf6 {[%clk 0:45:40]} 5. Nc3 {[%clk 0:45:39]}  Nc6 {[%clk 0:45:47]} 6. f3 {[%clk 0:45:16]}  e5 {[%clk 0:45:51]} 7. Nb3 {[%clk 0:45:24]}  Be7 {[%clk 0:45:59]} 8. Be3 {[%clk 0:44:59]}  Be6 {[%clk 0:45:51]} 9. Nd5 {[%clk 0:41:07]}  Bxd5 {[%clk 0:45:56]} 10. exd5 {[%clk 0:41:16]}  Nb4 {[%clk 0:34:31]} 11. c4 {[%clk 0:41:25]}  a5 {[%clk 0:46:09]} 12. Be2 {[%clk 0:40:37]}  O-O {[%clk 0:45:54]} 13. O-O {[%clk 0:40:33]}  Nd7 {[%clk 0:45:52]} 14. Qd2 {[%clk 0:40:22]}  b6 {[%clk 0:45:58]} 15. f4 {[%clk 0:35:35]}  Rc8 {[%clk 0:42:28]} 16. Kh1 {[%clk 0:32:34]}  exf4 {[%clk 0:41:26]} 17. Bxf4 {[%clk 0:32:32]}  Ne5 {[%clk 0:41:27]} 18. a3 {[%clk 0:31:50]}  Na6 {[%clk 0:41:13]} 19. Nd4 {[%clk 0:30:41]}  Bf6 {[%clk 0:39:21]} 20. Rac1 {[%clk 0:28:32]}  a4 {[%clk 0:36:23]} 21. Nc6 {[%clk 0:22:10]}  Nxc6 {[%clk 0:31:10]} 22. dxc6 {[%clk 0:22:17]}  Rxc6 {[%clk 0:28:07]} 23. Bf3 {[%clk 0:22:22]}  Rc7 {[%clk 0:28:04]} 24. Qxd6 {[%clk 0:16:49]}  Rd7 {[%clk 0:27:57]} 25. Qc6 {[%clk 0:16:58]}  Nc5 {[%clk 0:27:17]} 26. Rb1 {[%clk 0:15:56]}  Nd3 {[%clk 0:22:01]} 27. Bd5 {[%clk 0:11:01]}  Nxf4 {[%clk 0:13:40]} 28. Rxf4 {[%clk 0:11:09]}  Qc7 {[%clk 0:10:34]} 29. Qxc7 {[%clk 0:06:30]}  Rxc7 {[%clk 0:10:43]} 30. b3 {[%clk 0:06:16]}  Rd8 {[%clk 0:09:05]} 31. bxa4 {[%clk 0:06:03]}  h5 {[%clk 0:07:32]} 32. Rf5 {[%clk 0:05:37]}  Re7 {[%clk 0:06:46]} 33. Rxh5 {[%clk 0:04:17]}  Bd4 {[%clk 0:06:24]} 34. Rf5 {[%clk 0:03:40]}  g6 {[%clk 0:06:13]} 35. Rf4 {[%clk 0:03:35]}  Bc5 {[%clk 0:06:17]} 36. Rbf1 {[%clk 0:03:24]}  Rdd7 {[%clk 0:06:21]} 37. h4 {[%clk 0:02:38]}  Kg7 {[%clk 0:06:27]} 38. R4f3 {[%clk 0:02:24]}  f5 {[%clk 0:05:57]} 39. h5 {[%clk 0:02:14]}  Re3 {[%clk 0:04:44]} 40. Rxe3 {[%clk 0:00:52]}  Bxe3 {[%clk 0:04:53]} 41. g3 {[%clk 0:00:56]}  Re7 {[%clk 0:04:30]} 42. Kg2 {[%clk 0:00:25]}  Bc5 {[%clk 0:04:30]} 43. hxg6 {[%clk 0:00:23]}  Re2+ {[%clk 0:03:39]} 44. Kh3 {[%clk 0:00:30]}  Kxg6 {[%clk 0:03:43]} 45. Bc6 {[%clk 0:00:34]}  Re3 {[%clk 0:02:37]} 46. Rf3 {[%clk 0:00:11]}  Re7 {[%clk 0:02:20]} 47. Rf1 {[%clk 0:00:12]}  Kg5 {[%clk 0:02:11]} 48. Bd5 {[%clk 0:00:14]}  Re3 {[%clk 0:02:13]} 49. Rf3 {[%clk 0:00:21]}  Re2 {[%clk 0:02:12]} 50. Rf1 {[%clk 0:00:23]}  Bxa3 {[%clk 0:02:04]} 51. Bb7 {[%clk 0:00:14]}  Bc5 {[%clk 0:01:19]} 52. Bc8 {[%clk 0:00:20]}  Rf2 {[%clk 0:01:10]} 53. Rxf2 {[%clk 0:00:20]}  Bxf2 {[%clk 0:01:19]} 54. Kg2 {[%clk 0:00:23]}  Bc5 {[%clk 0:01:21]} 55. Kf3 {[%clk 0:00:30]}  Kf6 {[%clk 0:01:28]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Vega Gutierrez, Sabrina"]
+[Black "Mammadova, Gulnar"]
+[WhiteFideId "2219026"]
+[BlackFideId "13403508"]
+[WhiteElo "2214"]
+[BlackElo "2406"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:00:36"]
+[BlackClock "0:04:02"]
+
+1. e4 {[%clk 0:45:16]}  e6 {[%clk 0:45:18]} 2. d4 {[%clk 0:45:20]}  d5 {[%clk 0:45:21]} 3. Nc3 {[%clk 0:45:27]}  Nf6 {[%clk 0:45:29]} 4. Bg5 {[%clk 0:45:24]}  dxe4 {[%clk 0:45:36]} 5. Nxe4 {[%clk 0:45:29]}  Be7 {[%clk 0:45:44]} 6. Nxf6+ {[%clk 0:44:51]}  Bxf6 {[%clk 0:45:52]} 7. Bxf6 {[%clk 0:44:57]}  Qxf6 {[%clk 0:45:59]} 8. Nf3 {[%clk 0:44:37]}  O-O {[%clk 0:45:49]} 9. Qd3 {[%clk 0:44:35]}  c5 {[%clk 0:45:02]} 10. Qe4 {[%clk 0:42:32]}  cxd4 {[%clk 0:42:08]} 11. Bd3 {[%clk 0:42:17]}  g6 {[%clk 0:41:54]} 12. O-O-O {[%clk 0:37:00]}  Nd7 {[%clk 0:34:53]} 13. Bc4 {[%clk 0:36:14]}  Rb8 {[%clk 0:31:34]} 14. Qxd4 {[%clk 0:30:04]}  b5 {[%clk 0:30:10]} 15. Be2 {[%clk 0:29:23]}  Qxd4 {[%clk 0:28:49]} 16. Nxd4 {[%clk 0:28:57]}  a6 {[%clk 0:27:24]} 17. a4 {[%clk 0:26:52]}  Nf6 {[%clk 0:20:14]} 18. axb5 {[%clk 0:24:26]}  axb5 {[%clk 0:20:22]} 19. Nxb5 {[%clk 0:22:55]}  Bb7 {[%clk 0:19:41]} 20. f3 {[%clk 0:21:42]}  Nd5 {[%clk 0:19:42]} 21. g3 {[%clk 0:21:21]}  Ba6 {[%clk 0:18:23]} 22. Nd4 {[%clk 0:21:07]}  Bb7 {[%clk 0:17:35]} 23. Rd3 {[%clk 0:19:22]}  Nb4 {[%clk 0:16:45]} 24. Re3 {[%clk 0:14:40]}  Ra8 {[%clk 0:15:37]} 25. Rd1 {[%clk 0:12:23]}  Rfd8 {[%clk 0:12:57]} 26. Ra3 {[%clk 0:09:38]}  Na2+ {[%clk 0:12:26]} 27. Rxa2 {[%clk 0:06:52]}  Rxa2 {[%clk 0:12:34]} 28. Kb1 {[%clk 0:06:52]}  Raa8 {[%clk 0:10:55]} 29. c4 {[%clk 0:05:52]}  e5 {[%clk 0:10:24]} 30. Nb5 {[%clk 0:04:07]}  e4 {[%clk 0:09:56]} 31. Rxd8+ {[%clk 0:02:32]}  Rxd8 {[%clk 0:10:04]} 32. f4 {[%clk 0:00:12]}  e3 {[%clk 0:08:14]} 33. Nc3 {[%clk 0:00:13]}  Rd2 {[%clk 0:07:45]} 34. Kc1 {[%clk 0:00:13]}  f5 {[%clk 0:06:44]} 35. c5 {[%clk 0:00:21]}  Kf8 {[%clk 0:06:17]} 36. b4 {[%clk 0:00:17]}  Be4 {[%clk 0:05:59]} 37. Bd1 {[%clk 0:00:12]}  Rd4 {[%clk 0:05:19]} 38. Na2 {[%clk 0:00:18]}  Bd3 {[%clk 0:04:46]} 39. Kb2 {[%clk 0:00:12]}  Bc4 {[%clk 0:03:51]} 40. Bf3 {[%clk 0:00:12]}  Bxa2 {[%clk 0:03:42]} 41. Kxa2 {[%clk 0:00:12]}  e2 {[%clk 0:03:37]} 42. Bxe2 {[%clk 0:00:20]}  Rd2+ {[%clk 0:03:46]} 43. Kb3 {[%clk 0:00:29]}  Rxe2 {[%clk 0:03:54]} 44. b5 {[%clk 0:00:36]}  Ke7 {[%clk 0:04:02]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Fataliyeva, Ulviyya"]
+[Black "Eizaguerri Floris, Maria"]
+[WhiteFideId "13403052"]
+[BlackFideId "32065752"]
+[WhiteElo "2310"]
+[BlackElo "1811"]
+[Result "1-0"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:18:22"]
+[BlackClock "0:00:23"]
+
+1. d4 {[%clk 0:45:19]}  d5 {[%clk 0:45:18]} 2. c4 {[%clk 0:45:27]}  e6 {[%clk 0:45:27]} 3. Nc3 {[%clk 0:45:33]}  Nf6 {[%clk 0:45:34]} 4. Nf3 {[%clk 0:45:37]}  c6 {[%clk 0:45:33]} 5. e3 {[%clk 0:45:45]}  Nbd7 {[%clk 0:45:26]} 6. Be2 {[%clk 0:45:54]}  Bd6 {[%clk 0:43:54]} 7. O-O {[%clk 0:40:24]}  O-O {[%clk 0:42:40]} 8. b3 {[%clk 0:46:10]}  b6 {[%clk 0:41:44]} 9. Bb2 {[%clk 0:46:18]}  Bb7 {[%clk 0:41:53]} 10. Bd3 {[%clk 0:46:25]}  Qe7 {[%clk 0:37:06]} 11. Re1 {[%clk 0:46:23]}  Rac8 {[%clk 0:32:11]} 12. Rc1 {[%clk 0:46:30]}  c5 {[%clk 0:28:57]} 13. e4 {[%clk 0:42:32]}  dxe4 {[%clk 0:10:21]} 14. Nxe4 {[%clk 0:42:39]}  Nxe4 {[%clk 0:25:22]} 15. Bxe4 {[%clk 0:42:47]}  Bxe4 {[%clk 0:25:30]} 16. Rxe4 {[%clk 0:42:55]}  Nf6 {[%clk 0:23:17]} 17. Re1 {[%clk 0:42:32]}  cxd4 {[%clk 0:21:26]} 18. Nxd4 {[%clk 0:41:08]}  Bb4 {[%clk 0:16:53]} 19. Re3 {[%clk 0:32:23]}  Rfd8 {[%clk 0:15:39]} 20. Qf3 {[%clk 0:32:23]}  Qc5 {[%clk 0:10:21]} 21. Nxe6 {[%clk 0:25:11]}  fxe6 {[%clk 0:09:21]} 22. Bxf6 {[%clk 0:25:10]}  Rf8 {[%clk 0:07:47]} 23. Re5 {[%clk 0:25:15]}  Qd4 {[%clk 0:05:17]} 24. Qb7 {[%clk 0:22:12]}  gxf6 {[%clk 0:05:17]} 25. Rh5 {[%clk 0:22:20]}  Qd3 {[%clk 0:00:47]} 26. Rh3 {[%clk 0:22:27]}  Qxh3 {[%clk 0:00:22]} 27. gxh3 {[%clk 0:22:35]}  Rce8 {[%clk 0:00:17]} 28. Qxa7 {[%clk 0:22:11]}  Bc5 {[%clk 0:00:24]} 29. Rd1 {[%clk 0:22:03]}  Rf7 {[%clk 0:00:25]} 30. Rd7 {[%clk 0:22:04]}  Rxd7 {[%clk 0:00:25]} 31. Qxd7 {[%clk 0:22:11]}  Re7 {[%clk 0:00:32]} 32. Qd8+ {[%clk 0:21:59]}  Kf7 {[%clk 0:00:26]} 33. a3 {[%clk 0:21:33]}  Re8 {[%clk 0:00:21]} 34. Qc7+ {[%clk 0:21:17]}  Re7 {[%clk 0:00:29]} 35. Qc6 {[%clk 0:21:22]}  f5 {[%clk 0:00:24]} 36. b4 {[%clk 0:20:59]}  Bd4 {[%clk 0:00:33]} 37. Qd6 {[%clk 0:20:49]}  e5 {[%clk 0:00:29]} 38. c5 {[%clk 0:20:23]}  bxc5 {[%clk 0:00:38]} 39. bxc5 {[%clk 0:20:26]}  f4 {[%clk 0:00:38]} 40. a4 {[%clk 0:20:03]}  f3 {[%clk 0:00:20]} 41. c6 {[%clk 0:18:54]}  Bb6 {[%clk 0:00:25]} 42. Qd5+ {[%clk 0:19:00]}  Re6 {[%clk 0:00:16]} 43. a5 {[%clk 0:19:00]}  Bc7 {[%clk 0:00:15]} 44. Qxf3+ {[%clk 0:18:35]}  Ke7 {[%clk 0:00:23]} 45. Qd5 {[%clk 0:18:15]}  e4 {[%clk 0:00:23]} 46. Qd7+ {[%clk 0:18:22]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Women's Team Championship Pool A 2021"]
+[White "Garcia Martin, Marta"]
+[Black "Mamedjarova, Turkan"]
+[WhiteFideId "32084030"]
+[BlackFideId "13402005"]
+[WhiteElo "2097"]
+[BlackElo "2243"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "2700+10"]
+[Date "2021.09.29"]
+[WhiteClock "0:00:27"]
+[BlackClock "0:13:55"]
+
+1. e4 {[%clk 0:45:17]}  e5 {[%clk 0:45:18]} 2. Nf3 {[%clk 0:45:25]}  Nc6 {[%clk 0:45:27]} 3. Bc4 {[%clk 0:45:33]}  Bc5 {[%clk 0:45:35]} 4. O-O {[%clk 0:45:38]}  Nf6 {[%clk 0:45:40]} 5. d3 {[%clk 0:45:38]}  d6 {[%clk 0:45:18]} 6. c3 {[%clk 0:45:54]}  h6 {[%clk 0:44:42]} 7. Re1 {[%clk 0:44:45]}  O-O {[%clk 0:44:28]} 8. h3 {[%clk 0:43:04]}  a6 {[%clk 0:43:47]} 9. d4 {[%clk 0:39:27]}  Ba7 {[%clk 0:39:23]} 10. Be3 {[%clk 0:37:24]}  exd4 {[%clk 0:35:16]} 11. cxd4 {[%clk 0:37:32]}  d5 {[%clk 0:36:47]} 12. exd5 {[%clk 0:31:55]}  Nb4 {[%clk 0:27:54]} 13. Bd2 {[%clk 0:31:57]}  Nbxd5 {[%clk 0:34:24]} 14. Nc3 {[%clk 0:31:37]}  Be6 {[%clk 0:29:04]} 15. Bb3 {[%clk 0:19:53]}  c5 {[%clk 0:19:37]} 16. Rc1 {[%clk 0:20:01]}  cxd4 {[%clk 0:26:26]} 17. Ne2 {[%clk 0:20:06]}  d3 {[%clk 0:20:03]} 18. Ned4 {[%clk 0:20:14]}  Bxd4 {[%clk 0:19:37]} 19. Nxd4 {[%clk 0:20:14]}  Qb6 {[%clk 0:19:28]} 20. Nxe6 {[%clk 0:16:13]}  fxe6 {[%clk 0:19:28]} 21. Rc4 {[%clk 0:00:44]}  Kh8 {[%clk 0:17:50]} 22. Rf1 {[%clk 0:00:44]}  Rad8 {[%clk 0:15:25]} 23. Qf3 {[%clk 0:00:37]}  Ne7 {[%clk 0:15:25]} 24. Rb4 {[%clk 0:00:22]}  Qd6 {[%clk 0:14:58]} 25. Rxb7 {[%clk 0:00:15]}  Ned5 {[%clk 0:14:17]} 26. Qxd3 {[%clk 0:00:18]}  Qc6 {[%clk 0:14:12]} 27. Ra7 {[%clk 0:00:18]}  Nf4 {[%clk 0:13:53]} 28. Qf3 {[%clk 0:00:26]}  Qxf3 {[%clk 0:13:58]} 29. gxf3 {[%clk 0:00:35]}  Rxd2 {[%clk 0:13:52]} 30. Rxa6 {[%clk 0:00:37]}  Rxb2 {[%clk 0:13:50]} 31. Kh2 {[%clk 0:00:26]}  N6d5 {[%clk 0:13:50]} 32. Kg3 {[%clk 0:00:26]}  Ne2+ {[%clk 0:13:42]} 33. Kh2 {[%clk 0:00:24]}  Nd4 {[%clk 0:13:48]} 34. Bxd5 {[%clk 0:00:23]}  exd5 {[%clk 0:13:55]} 35. Rd6 {[%clk 0:00:27]}  Nxf3+ {[%clk 0:13:55]} 0-1
+
