@@ -1,0 +1,254 @@
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "1-0"]
+[Round "01"]
+[TimeControl "5400+30"]
+[Date "2021.10.18"]
+[WhiteClock "1:52:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:51:00]}  Nf6 {[%clk 1:51:00]} 2. c4 {[%clk 1:49:30]}  e6 {[%clk 1:49:30]} 3. Nf3 {[%clk 1:48:00]}  d5 {[%clk 1:48:00]} 4. g3 {[%clk 1:46:30]}  dxc4 {[%clk 1:46:30]} 5. Bg2 {[%clk 1:45:00]}  Bb4+ {[%clk 1:45:00]} 6. Bd2 {[%clk 1:43:30]}  a5 {[%clk 1:43:30]} 7. Qc2 {[%clk 1:42:00]}  Bxd2+ {[%clk 1:42:00]} 8. Qxd2 {[%clk 1:40:30]}  c6 {[%clk 1:40:30]} 9. a4 {[%clk 1:39:00]}  b5 {[%clk 1:39:00]} 10. axb5 {[%clk 1:37:30]}  cxb5 {[%clk 1:37:30]} 11. Qg5 {[%clk 1:36:00]}  O-O {[%clk 1:36:00]} 12. Qxb5 {[%clk 1:34:30]}  Ba6 {[%clk 1:34:30]} 13. Qa4 {[%clk 1:33:00]}  Qb6 {[%clk 1:33:00]} 14. O-O {[%clk 1:31:30]}  Qxb2 {[%clk 1:31:30]} 15. Nbd2 {[%clk 1:30:00]}  Bb5 {[%clk 1:30:00]} 16. Nxc4 {[%clk 1:28:30]}  Bxa4 {[%clk 1:28:30]} 17. Nxb2 {[%clk 1:27:00]}  Bb5 {[%clk 1:27:00]} 18. Ne5 {[%clk 1:25:30]}  Ra7 {[%clk 1:25:30]} 19. Bf3 {[%clk 1:24:00]}  Nbd7 {[%clk 1:24:00]} 20. Nec4 {[%clk 1:22:30]}  Rb8 {[%clk 1:22:30]} 21. Rfb1 {[%clk 1:21:00]}  g5 {[%clk 1:21:00]} 22. e3 {[%clk 1:19:30]}  g4 {[%clk 1:19:30]} 23. Bd1 {[%clk 1:18:00]}  Bc6 {[%clk 1:18:00]} 24. Rc1 {[%clk 1:16:30]}  Be4 {[%clk 1:16:30]} 25. Na4 {[%clk 1:15:00]}  Rb4 {[%clk 1:15:00]} 26. Nd6 {[%clk 1:13:30]}  Bf3 {[%clk 1:13:30]} 27. Bxf3 {[%clk 1:12:00]}  gxf3 {[%clk 1:12:00]} 28. Nc8 {[%clk 1:10:30]}  Ra8 {[%clk 1:10:30]} 29. Ne7+ {[%clk 1:09:00]}  Kg7 {[%clk 1:09:00]} 30. Nc6 {[%clk 1:07:30]}  Rb3 {[%clk 1:07:30]} 31. Nc5 {[%clk 1:06:00]}  Rb5 {[%clk 1:06:00]} 32. h3 {[%clk 1:04:30]}  Nxc5 {[%clk 1:04:30]} 33. Rxc5 {[%clk 1:03:00]}  Rb2 {[%clk 1:03:00]} 34. Rg5+ {[%clk 1:01:30]}  Kh6 {[%clk 1:01:30]} 35. Rgxa5 {[%clk 1:00:00]}  Rxa5 {[%clk 1:00:00]} 36. Nxa5 {[%clk 0:58:30]}  Ne4 {[%clk 0:58:30]} 37. Rf1 {[%clk 0:57:00]}  Nd2 {[%clk 0:57:00]} 38. Rc1 {[%clk 0:55:30]}  Ne4 {[%clk 0:55:30]} 39. Rf1 {[%clk 0:54:00]}  f6 {[%clk 0:54:00]} 40. Nc6 {[%clk 0:52:30]}  Nd2 {[%clk 0:52:30]} 41. Rd1 {[%clk 0:51:00]}  Ne4 {[%clk 0:51:00]} 42. Rf1 {[%clk 0:49:30]}  Kg6 {[%clk 0:49:30]} 43. Nd8 {[%clk 0:48:00]}  Rb6 {[%clk 0:48:00]} 44. Rc1 {[%clk 0:46:30]}  h5 {[%clk 0:46:30]} 45. Ra1 {[%clk 0:45:00]}  h4 {[%clk 0:45:00]} 46. gxh4 {[%clk 0:43:30]}  Kh5 {[%clk 0:43:30]} 47. Ra2 {[%clk 0:42:00]}  Kxh4 {[%clk 0:42:00]} 48. Kh2 {[%clk 0:40:30]}  Kh5 {[%clk 0:40:30]} 49. Rc2 {[%clk 0:39:00]}  Kh6 {[%clk 0:39:00]} 50. Ra2 {[%clk 0:37:30]}  Kg6 {[%clk 0:37:30]} 51. Rc2 {[%clk 0:36:00]}  Kf5 {[%clk 0:36:00]} 52. Ra2 {[%clk 0:34:30]}  Rb5 {[%clk 0:34:30]} 53. Nc6 {[%clk 0:33:00]}  Rb7 {[%clk 0:33:00]} 54. Ra5+ {[%clk 0:31:30]}  Kg6 {[%clk 0:31:30]} 55. Ra2 {[%clk 0:30:00]}  Kh5 {[%clk 0:30:00]} 56. d5 {[%clk 0:28:30]}  e5 {[%clk 0:28:30]} 57. Ra4 {[%clk 0:27:00]}  f5 {[%clk 0:27:00]} 58. Nxe5 {[%clk 0:25:30]}  Rb2 {[%clk 0:25:30]} 59. Nd3 {[%clk 0:24:00]}  Rb7 {[%clk 0:24:00]} 60. Rd4 {[%clk 0:22:30]}  Rb6 {[%clk 0:22:30]} 61. d6 {[%clk 0:21:00]}  Nxd6 {[%clk 0:21:00]} 62. Kg3 {[%clk 0:19:30]}  Ne4+ {[%clk 0:19:30]} 63. Kxf3 {[%clk 0:18:00]}  Kg5 {[%clk 0:18:00]} 64. h4+ {[%clk 0:16:30]}  Kf6 {[%clk 0:16:30]} 65. Rd5 {[%clk 0:15:00]}  Nc3 {[%clk 0:15:00]} 66. Rd8 {[%clk 0:13:30]}  Rb1 {[%clk 0:13:30]} 67. Rf8+ {[%clk 0:12:00]}  Ke6 {[%clk 0:12:00]} 68. Nf4+ {[%clk 0:10:30]}  Ke5 {[%clk 0:10:30]} 69. Re8+ {[%clk 0:09:00]}  Kf6 {[%clk 0:09:00]} 70. Nh5+ {[%clk 0:07:30]}  Kg6 {[%clk 0:07:30]} 71. Ng3 {[%clk 0:06:00]}  Rb2 {[%clk 0:06:00]} 72. h5+ {[%clk 0:04:30]}  Kf7 {[%clk 0:04:30]} 73. Re5 {[%clk 0:03:00]}  Nd1 {[%clk 0:03:00]} 74. Ne2 {[%clk 0:01:30]}  Kf6 {[%clk 0:01:30]} 75. Rd5 {[%clk 1:52:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "0-1"]
+[Round "02"]
+[TimeControl "5400+30"]
+[Date "2021.10.18"]
+[WhiteClock "1:34:30"]
+[BlackClock "1:34:30"]
+
+1. d4 {[%clk 1:33:00]}  d5 {[%clk 1:33:00]} 2. c4 {[%clk 1:31:30]}  c6 {[%clk 1:31:30]} 3. Nc3 {[%clk 1:30:00]}  Nf6 {[%clk 1:30:00]} 4. Nf3 {[%clk 1:28:30]}  dxc4 {[%clk 1:28:30]} 5. a4 {[%clk 1:27:00]}  Bf5 {[%clk 1:27:00]} 6. e3 {[%clk 1:25:30]}  e6 {[%clk 1:25:30]} 7. Bxc4 {[%clk 1:24:00]}  Bb4 {[%clk 1:24:00]} 8. O-O {[%clk 1:22:30]}  Nbd7 {[%clk 1:22:30]} 9. Qe2 {[%clk 1:21:00]}  Bg6 {[%clk 1:21:00]} 10. e4 {[%clk 1:19:30]}  O-O {[%clk 1:19:30]} 11. Bd3 {[%clk 1:18:00]}  Bh5 {[%clk 1:18:00]} 12. e5 {[%clk 1:16:30]}  Nd5 {[%clk 1:16:30]} 13. Nxd5 {[%clk 1:15:00]}  cxd5 {[%clk 1:15:00]} 14. Qe3 {[%clk 1:13:30]}  Bg6 {[%clk 1:13:30]} 15. Ng5 {[%clk 1:12:00]}  Re8 {[%clk 1:12:00]} 16. f4 {[%clk 1:10:30]}  Bxd3 {[%clk 1:10:30]} 17. Qxd3 {[%clk 1:09:00]}  f5 {[%clk 1:09:00]} 18. Be3 {[%clk 1:07:30]}  Nf8 {[%clk 1:07:30]} 19. Kh1 {[%clk 1:06:00]}  Rc8 {[%clk 1:06:00]} 20. g4 {[%clk 1:04:30]}  Qd7 {[%clk 1:04:30]} 21. Rg1 {[%clk 1:03:00]}  Be7 {[%clk 1:03:00]} 22. Nf3 {[%clk 1:01:30]}  Rc4 {[%clk 1:01:30]} 23. Rg2 {[%clk 1:00:00]}  fxg4 {[%clk 1:00:00]} 24. Rxg4 {[%clk 0:58:30]}  Rxa4 {[%clk 0:58:30]} 25. Rag1 {[%clk 0:57:00]}  g6 {[%clk 0:57:00]} 26. h4 {[%clk 0:55:30]}  Rb4 {[%clk 0:55:30]} 27. h5 {[%clk 0:54:00]}  Qb5 {[%clk 0:54:00]} 28. Qc2 {[%clk 0:52:30]}  Rxb2 {[%clk 0:52:30]} 29. hxg6 {[%clk 0:51:00]}  h5 {[%clk 0:51:00]} 30. g7 {[%clk 0:49:30]}  hxg4 {[%clk 0:49:30]} 31. gxf8=Q+ {[%clk 0:48:00]}  Bxf8 {[%clk 0:48:00]} 32. Qg6+ {[%clk 0:46:30]}  Bg7 {[%clk 0:46:30]} 33. f5 {[%clk 0:45:00]}  Re7 {[%clk 0:45:00]} 34. f6 {[%clk 0:43:30]}  Qe2 {[%clk 0:43:30]} 35. Qxg4 {[%clk 0:42:00]}  Rf7 {[%clk 0:42:00]} 36. Rc1 {[%clk 0:40:30]}  Rc2 {[%clk 0:40:30]} 37. Rxc2 {[%clk 0:39:00]}  Qd1+ {[%clk 0:39:00]} 38. Kg2 {[%clk 0:37:30]}  Qxc2+ {[%clk 0:37:30]} 39. Kg3 {[%clk 0:36:00]}  Qe4 {[%clk 0:36:00]} 40. Bf4 {[%clk 0:34:30]}  Qf5 {[%clk 0:34:30]} 41. Qxf5 {[%clk 0:33:00]}  exf5 {[%clk 0:33:00]} 42. Bg5 {[%clk 0:31:30]}  a5 {[%clk 0:31:30]} 43. Kf4 {[%clk 0:30:00]}  a4 {[%clk 0:30:00]} 44. Kxf5 {[%clk 0:28:30]}  a3 {[%clk 0:28:30]} 45. Bc1 {[%clk 0:27:00]}  Bf8 {[%clk 0:27:00]} 46. e6 {[%clk 0:25:30]}  Rc7 {[%clk 0:25:30]} 47. Bxa3 {[%clk 0:24:00]}  Bxa3 {[%clk 0:24:00]} 48. Ke5 {[%clk 0:22:30]}  Rc1 {[%clk 0:22:30]} 49. Ng5 {[%clk 0:21:00]}  Rf1 {[%clk 0:21:00]} 50. e7 {[%clk 0:19:30]}  Re1+ {[%clk 0:19:30]} 51. Kxd5 {[%clk 0:18:00]}  Bxe7 {[%clk 0:18:00]} 52. fxe7 {[%clk 0:16:30]}  Rxe7 {[%clk 0:16:30]} 53. Kd6 {[%clk 0:15:00]}  Re1 {[%clk 0:15:00]} 54. d5 {[%clk 0:13:30]}  Kf8 {[%clk 0:13:30]} 55. Ne6+ {[%clk 0:12:00]}  Ke8 {[%clk 0:12:00]} 56. Nc7+ {[%clk 0:10:30]}  Kd8 {[%clk 0:10:30]} 57. Ne6+ {[%clk 0:09:00]}  Kc8 {[%clk 0:09:00]} 58. Ke7 {[%clk 0:07:30]}  Rh1 {[%clk 0:07:30]} 59. Ng5 {[%clk 0:06:00]}  b5 {[%clk 0:06:00]} 60. d6 {[%clk 0:04:30]}  Rd1 {[%clk 0:04:30]} 61. Ne6 {[%clk 0:03:00]}  b4 {[%clk 0:03:00]} 62. Nc5 {[%clk 0:01:30]}  Re1+ {[%clk 0:01:30]} 63. Kf6 {[%clk 1:34:30]}  Re3 {[%clk 1:34:30]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "1/2-1/2"]
+[Round "03"]
+[TimeControl "5400+30"]
+[Date "2021.10.18"]
+[WhiteClock "0:57:00"]
+[BlackClock "0:57:00"]
+
+1. d4 {[%clk 0:55:30]}  Nf6 {[%clk 0:55:30]} 2. c4 {[%clk 0:54:00]}  e6 {[%clk 0:54:00]} 3. Nf3 {[%clk 0:52:30]}  d5 {[%clk 0:52:30]} 4. g3 {[%clk 0:51:00]}  dxc4 {[%clk 0:51:00]} 5. Bg2 {[%clk 0:49:30]}  Nc6 {[%clk 0:49:30]} 6. Qa4 {[%clk 0:48:00]}  Bd7 {[%clk 0:48:00]} 7. Qxc4 {[%clk 0:46:30]}  Na5 {[%clk 0:46:30]} 8. Qd3 {[%clk 0:45:00]}  c5 {[%clk 0:45:00]} 9. O-O {[%clk 0:43:30]}  Bc6 {[%clk 0:43:30]} 10. Nc3 {[%clk 0:42:00]}  cxd4 {[%clk 0:42:00]} 11. Nxd4 {[%clk 0:40:30]}  Bc5 {[%clk 0:40:30]} 12. Rd1 {[%clk 0:39:00]}  Bxg2 {[%clk 0:39:00]} 13. Qb5+ {[%clk 0:37:30]}  Nd7 {[%clk 0:37:30]} 14. Kxg2 {[%clk 0:36:00]}  a6 {[%clk 0:36:00]} 15. Qd3 {[%clk 0:34:30]}  Rc8 {[%clk 0:34:30]} 16. Bg5 {[%clk 0:33:00]}  Be7 {[%clk 0:33:00]} 17. Bxe7 {[%clk 0:31:30]}  Qxe7 {[%clk 0:31:30]} 18. Rac1 {[%clk 0:30:00]}  Nc4 {[%clk 0:30:00]} 19. Na4 {[%clk 0:28:30]}  b5 {[%clk 0:28:30]} 20. b3 {[%clk 0:27:00]}  O-O {[%clk 0:27:00]} 21. bxc4 {[%clk 0:25:30]}  bxa4 {[%clk 0:25:30]} 22. Nc6 {[%clk 0:24:00]}  Rxc6 {[%clk 0:24:00]} 23. Qxd7 {[%clk 0:22:30]}  Qc5 {[%clk 0:22:30]} 24. Rc3 {[%clk 0:21:00]}  g6 {[%clk 0:21:00]} 25. Rb1 {[%clk 0:19:30]}  h5 {[%clk 0:19:30]} 26. Rb7 {[%clk 0:18:00]}  e5 {[%clk 0:18:00]} 27. e4 {[%clk 0:16:30]}  Rf6 {[%clk 0:16:30]} 28. Rc2 {[%clk 0:15:00]}  Qa3 {[%clk 0:15:00]} 29. Qd1 {[%clk 0:13:30]}  Rd6 {[%clk 0:13:30]} 30. Rd2 {[%clk 0:12:00]}  Rfd8 {[%clk 0:12:00]} 31. Rd5 {[%clk 0:10:30]}  Rxd5 {[%clk 0:10:30]} 32. cxd5 {[%clk 0:09:00]}  Qxa2 {[%clk 0:09:00]} 33. Qf3 {[%clk 0:07:30]}  Rf8 {[%clk 0:07:30]} 34. Qd3 {[%clk 0:06:00]}  a3 {[%clk 0:06:00]} 35. Rb3 {[%clk 0:04:30]}  f5 {[%clk 0:04:30]} 36. Qxa6 {[%clk 0:03:00]}  Qxb3 {[%clk 0:03:00]} 37. Qxg6+ {[%clk 0:01:30]}  Kh8 {[%clk 0:01:30]} 38. Qh6+ {[%clk 0:57:00]}  Kg8 {[%clk 0:57:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1/2-1/2"]
+[Round "04"]
+[TimeControl "5400+30"]
+[Date "2021.10.18"]
+[WhiteClock "1:21:00"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:19:30]}  d5 {[%clk 1:19:30]} 2. c4 {[%clk 1:18:00]}  c6 {[%clk 1:18:00]} 3. Nc3 {[%clk 1:16:30]}  Nf6 {[%clk 1:16:30]} 4. e3 {[%clk 1:15:00]}  e6 {[%clk 1:15:00]} 5. Nf3 {[%clk 1:13:30]}  Nbd7 {[%clk 1:13:30]} 6. Bd3 {[%clk 1:12:00]}  dxc4 {[%clk 1:12:00]} 7. Bxc4 {[%clk 1:10:30]}  b5 {[%clk 1:10:30]} 8. Bd3 {[%clk 1:09:00]}  Bb7 {[%clk 1:09:00]} 9. a3 {[%clk 1:07:30]}  b4 {[%clk 1:07:30]} 10. Ne4 {[%clk 1:06:00]}  Nxe4 {[%clk 1:06:00]} 11. Bxe4 {[%clk 1:04:30]}  bxa3 {[%clk 1:04:30]} 12. O-O {[%clk 1:03:00]}  Bd6 {[%clk 1:03:00]} 13. b3 {[%clk 1:01:30]}  Nf6 {[%clk 1:01:30]} 14. Nd2 {[%clk 1:00:00]}  Qc7 {[%clk 1:00:00]} 15. Bf3 {[%clk 0:58:30]}  Bxh2+ {[%clk 0:58:30]} 16. Kh1 {[%clk 0:57:00]}  Bd6 {[%clk 0:57:00]} 17. Nc4 {[%clk 0:55:30]}  Be7 {[%clk 0:55:30]} 18. Bxa3 {[%clk 0:54:00]}  O-O {[%clk 0:54:00]} 19. Bxe7 {[%clk 0:52:30]}  Qxe7 {[%clk 0:52:30]} 20. Ra5 {[%clk 0:51:00]}  Rfd8 {[%clk 0:51:00]} 21. Kg1 {[%clk 0:49:30]}  c5 {[%clk 0:49:30]} 22. Rxc5 {[%clk 0:48:00]}  Ne4 {[%clk 0:48:00]} 23. Bxe4 {[%clk 0:46:30]}  Bxe4 {[%clk 0:46:30]} 24. Qg4 {[%clk 0:45:00]}  Bd3 {[%clk 0:45:00]} 25. Ra1 {[%clk 0:43:30]}  Rac8 {[%clk 0:43:30]} 26. Raa5 {[%clk 0:42:00]}  Rb8 {[%clk 0:42:00]} 27. Qd1 {[%clk 0:40:30]}  Be4 {[%clk 0:40:30]} 28. Qa1 {[%clk 0:39:00]}  Rb7 {[%clk 0:39:00]} 29. Nd2 {[%clk 0:37:30]}  Bg6 {[%clk 0:37:30]} 30. Qc3 {[%clk 0:36:00]}  h6 {[%clk 0:36:00]} 31. Ra6 {[%clk 0:34:30]}  Kh7 {[%clk 0:34:30]} 32. Nc4 {[%clk 0:33:00]}  Be4 {[%clk 0:33:00]} 33. f3 {[%clk 0:31:30]}  Bd5 {[%clk 0:31:30]} 34. Nd2 {[%clk 0:30:00]}  Rdb8 {[%clk 0:30:00]} 35. Qd3+ {[%clk 0:28:30]}  f5 {[%clk 0:28:30]} 36. Rc3 {[%clk 0:27:00]}  Qh4 {[%clk 0:27:00]} 37. Ra1 {[%clk 0:25:30]}  Qg3 {[%clk 0:25:30]} 38. Qc2 {[%clk 0:24:00]}  Rf7 {[%clk 0:24:00]} 39. Rf1 {[%clk 0:22:30]}  Qg6 {[%clk 0:22:30]} 40. Qd3 {[%clk 0:21:00]}  Qg3 {[%clk 0:21:00]} 41. Rfc1 {[%clk 0:19:30]}  Rfb7 {[%clk 0:19:30]} 42. Qc2 {[%clk 0:18:00]}  Qg5 {[%clk 0:18:00]} 43. Ra1 {[%clk 0:16:30]}  Qf6 {[%clk 0:16:30]} 44. Qd3 {[%clk 0:15:00]}  Rd7 {[%clk 0:15:00]} 45. Ra4 {[%clk 0:13:30]}  Rbd8 {[%clk 0:13:30]} 46. Rc5 {[%clk 0:12:00]}  Kg8 {[%clk 0:12:00]} 47. Nc4 {[%clk 0:10:30]}  Bxc4 {[%clk 0:10:30]} 48. Raxc4 {[%clk 0:09:00]}  f4 {[%clk 0:09:00]} 49. Rc6 {[%clk 0:07:30]}  fxe3 {[%clk 0:07:30]} 50. Qxe3 {[%clk 0:06:00]}  Rxd4 {[%clk 0:06:00]} 51. Rxe6 {[%clk 0:04:30]}  Qh4 {[%clk 0:04:30]} 52. Rxd4 {[%clk 0:03:00]}  Qxd4 {[%clk 0:03:00]} 53. Re8+ {[%clk 0:01:30]}  Kh7 {[%clk 0:01:30]} 54. Qxd4 {[%clk 1:21:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "0-1"]
+[Round "05"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:00:00"]
+ 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1/2-1/2"]
+[Round "06"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "0:46:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 0:45:00]}  d5 {[%clk 0:45:00]} 2. c4 {[%clk 0:43:30]}  c6 {[%clk 0:43:30]} 3. Nf3 {[%clk 0:42:00]}  Nf6 {[%clk 0:42:00]} 4. Nc3 {[%clk 0:40:30]}  dxc4 {[%clk 0:40:30]} 5. a4 {[%clk 0:39:00]}  Bf5 {[%clk 0:39:00]} 6. Ne5 {[%clk 0:37:30]}  e6 {[%clk 0:37:30]} 7. f3 {[%clk 0:36:00]}  c5 {[%clk 0:36:00]} 8. e4 {[%clk 0:34:30]}  Bg6 {[%clk 0:34:30]} 9. Be3 {[%clk 0:33:00]}  cxd4 {[%clk 0:33:00]} 10. Qxd4 {[%clk 0:31:30]}  Qxd4 {[%clk 0:31:30]} 11. Bxd4 {[%clk 0:30:00]}  Nfd7 {[%clk 0:30:00]} 12. Nxd7 {[%clk 0:28:30]}  Nxd7 {[%clk 0:28:30]} 13. Bxc4 {[%clk 0:27:00]}  a6 {[%clk 0:27:00]} 14. Ke2 {[%clk 0:25:30]}  Rg8 {[%clk 0:25:30]} 15. Rhd1 {[%clk 0:24:00]}  Rc8 {[%clk 0:24:00]} 16. b3 {[%clk 0:22:30]}  Bc5 {[%clk 0:22:30]} 17. a5 {[%clk 0:21:00]}  Ke7 {[%clk 0:21:00]} 18. Na4 {[%clk 0:19:30]}  Bb4 {[%clk 0:19:30]} 19. Nb6 {[%clk 0:18:00]}  Nxb6 {[%clk 0:18:00]} 20. Bxb6 {[%clk 0:16:30]}  f6 {[%clk 0:16:30]} 21. Rd3 {[%clk 0:15:00]}  Rc6 {[%clk 0:15:00]} 22. h4 {[%clk 0:13:30]}  Rgc8 {[%clk 0:13:30]} 23. g4 {[%clk 0:12:00]}  Bc5 {[%clk 0:12:00]} 24. Rad1 {[%clk 0:10:30]}  Bxb6 {[%clk 0:10:30]} 25. Rd7+ {[%clk 0:09:00]}  Kf8 {[%clk 0:09:00]} 26. axb6 {[%clk 0:07:30]}  Rxb6 {[%clk 0:07:30]} 27. R1d6 {[%clk 0:06:00]}  Rxd6 {[%clk 0:06:00]} 28. Rxd6 {[%clk 0:04:30]}  Rc6 {[%clk 0:04:30]} 29. Rxc6 {[%clk 0:03:00]}  bxc6 {[%clk 0:03:00]} 30. b4 {[%clk 0:01:30]}  e5 {[%clk 0:01:30]} 31. Bxa6 {[%clk 0:46:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1/2-1/2"]
+[Round "07"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:30:00"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:28:30]}  d5 {[%clk 1:28:30]} 2. c4 {[%clk 1:27:00]}  c6 {[%clk 1:27:00]} 3. Nf3 {[%clk 1:25:30]}  Nf6 {[%clk 1:25:30]} 4. e3 {[%clk 1:24:00]}  e6 {[%clk 1:24:00]} 5. Bd3 {[%clk 1:22:30]}  dxc4 {[%clk 1:22:30]} 6. Bxc4 {[%clk 1:21:00]}  c5 {[%clk 1:21:00]} 7. O-O {[%clk 1:19:30]}  a6 {[%clk 1:19:30]} 8. Bb3 {[%clk 1:18:00]}  cxd4 {[%clk 1:18:00]} 9. exd4 {[%clk 1:16:30]}  Nc6 {[%clk 1:16:30]} 10. Nc3 {[%clk 1:15:00]}  Be7 {[%clk 1:15:00]} 11. Re1 {[%clk 1:13:30]}  O-O {[%clk 1:13:30]} 12. a4 {[%clk 1:12:00]}  Bd7 {[%clk 1:12:00]} 13. Ne5 {[%clk 1:10:30]}  Be8 {[%clk 1:10:30]} 14. Be3 {[%clk 1:09:00]}  Rc8 {[%clk 1:09:00]} 15. Rc1 {[%clk 1:07:30]}  Nb4 {[%clk 1:07:30]} 16. Qf3 {[%clk 1:06:00]}  Bc6 {[%clk 1:06:00]} 17. Qh3 {[%clk 1:04:30]}  Bd5 {[%clk 1:04:30]} 18. Nxd5 {[%clk 1:03:00]}  Nbxd5 {[%clk 1:03:00]} 19. Rcd1 {[%clk 1:01:30]}  Rc7 {[%clk 1:01:30]} 20. Bg5 {[%clk 1:00:00]}  Qc8 {[%clk 1:00:00]} 21. Qf3 {[%clk 0:58:30]}  Rd8 {[%clk 0:58:30]} 22. h4 {[%clk 0:57:00]}  h6 {[%clk 0:57:00]} 23. Bc1 {[%clk 0:55:30]}  Bb4 {[%clk 0:55:30]} 24. Rf1 {[%clk 0:54:00]}  Bd6 {[%clk 0:54:00]} 25. g3 {[%clk 0:52:30]}  b6 {[%clk 0:52:30]} 26. Qe2 {[%clk 0:51:00]}  Ne7 {[%clk 0:51:00]} 27. Rfe1 {[%clk 0:49:30]}  Bxe5 {[%clk 0:49:30]} 28. dxe5 {[%clk 0:48:00]}  Rxd1 {[%clk 0:48:00]} 29. Qxd1 {[%clk 0:46:30]}  Nfd5 {[%clk 0:46:30]} 30. Bd2 {[%clk 0:45:00]}  Rc5 {[%clk 0:45:00]} 31. Qg4 {[%clk 0:43:30]}  Nf5 {[%clk 0:43:30]} 32. Qe4 {[%clk 0:42:00]}  b5 {[%clk 0:42:00]} 33. h5 {[%clk 0:40:30]}  bxa4 {[%clk 0:40:30]} 34. Qxa4 {[%clk 0:39:00]}  Rb5 {[%clk 0:39:00]} 35. Rc1 {[%clk 0:37:30]}  Qb7 {[%clk 0:37:30]} 36. Bc2 {[%clk 0:36:00]}  Nb6 {[%clk 0:36:00]} 37. Qg4 {[%clk 0:34:30]}  Rxb2 {[%clk 0:34:30]} 38. Be4 {[%clk 0:33:00]}  Qd7 {[%clk 0:33:00]} 39. Be1 {[%clk 0:31:30]}  Nd5 {[%clk 0:31:30]} 40. Bd3 {[%clk 0:30:00]}  Nb4 {[%clk 0:30:00]} 41. Bf1 {[%clk 0:28:30]}  Nd3 {[%clk 0:28:30]} 42. Qd1 {[%clk 0:27:00]}  Nxe5 {[%clk 0:27:00]} 43. Qxd7 {[%clk 0:25:30]}  Nxd7 {[%clk 0:25:30]} 44. Rc8+ {[%clk 0:24:00]}  Kh7 {[%clk 0:24:00]} 45. Rc7 {[%clk 0:22:30]}  Rb1 {[%clk 0:22:30]} 46. Rxd7 {[%clk 0:21:00]}  Rxe1 {[%clk 0:21:00]} 47. Rxf7 {[%clk 0:19:30]}  a5 {[%clk 0:19:30]} 48. Kg2 {[%clk 0:18:00]}  Kg8 {[%clk 0:18:00]} 49. Ra7 {[%clk 0:16:30]}  Re5 {[%clk 0:16:30]} 50. g4 {[%clk 0:15:00]}  Nd6 {[%clk 0:15:00]} 51. Bd3 {[%clk 0:13:30]}  Kf8 {[%clk 0:13:30]} 52. Bg6 {[%clk 0:12:00]}  Rd5 {[%clk 0:12:00]} 53. f3 {[%clk 0:10:30]}  e5 {[%clk 0:10:30]} 54. Kf2 {[%clk 0:09:00]}  Rd2+ {[%clk 0:09:00]} 55. Ke1 {[%clk 0:07:30]}  Rd5 {[%clk 0:07:30]} 56. Ke2 {[%clk 0:06:00]}  Rb5 {[%clk 0:06:00]} 57. Rd7 {[%clk 0:04:30]}  Rd5 {[%clk 0:04:30]} 58. Ra7 {[%clk 0:03:00]}  Rb5 {[%clk 0:03:00]} 59. Bd3 {[%clk 0:01:30]}  Rd5 {[%clk 0:01:30]} 60. Bg6 {[%clk 1:30:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "0-1"]
+[Round "08"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:18:00"]
+[BlackClock "1:18:00"]
+
+1. d4 {[%clk 1:16:30]}  d5 {[%clk 1:16:30]} 2. c4 {[%clk 1:15:00]}  c6 {[%clk 1:15:00]} 3. Nf3 {[%clk 1:13:30]}  Nf6 {[%clk 1:13:30]} 4. Nc3 {[%clk 1:12:00]}  e6 {[%clk 1:12:00]} 5. e3 {[%clk 1:10:30]}  Nbd7 {[%clk 1:10:30]} 6. Bd3 {[%clk 1:09:00]}  dxc4 {[%clk 1:09:00]} 7. Bxc4 {[%clk 1:07:30]}  b5 {[%clk 1:07:30]} 8. Be2 {[%clk 1:06:00]}  Bb7 {[%clk 1:06:00]} 9. O-O {[%clk 1:04:30]}  b4 {[%clk 1:04:30]} 10. Na4 {[%clk 1:03:00]}  c5 {[%clk 1:03:00]} 11. dxc5 {[%clk 1:01:30]}  Nxc5 {[%clk 1:01:30]} 12. Bb5+ {[%clk 1:00:00]}  Ncd7 {[%clk 1:00:00]} 13. Ne5 {[%clk 0:58:30]}  Qc7 {[%clk 0:58:30]} 14. Qd4 {[%clk 0:57:00]}  Rd8 {[%clk 0:57:00]} 15. Bd2 {[%clk 0:55:30]}  Qa5 {[%clk 0:55:30]} 16. Bc6 {[%clk 0:54:00]}  Be7 {[%clk 0:54:00]} 17. Rfc1 {[%clk 0:52:30]}  Bxc6 {[%clk 0:52:30]} 18. Nxc6 {[%clk 0:51:00]}  Qxa4 {[%clk 0:51:00]} 19. Nxd8 {[%clk 0:49:30]}  Bxd8 {[%clk 0:49:30]} 20. Qxb4 {[%clk 0:48:00]}  Qxb4 {[%clk 0:48:00]} 21. Bxb4 {[%clk 0:46:30]}  Nd5 {[%clk 0:46:30]} 22. Bd6 {[%clk 0:45:00]}  f5 {[%clk 0:45:00]} 23. Rc8 {[%clk 0:43:30]}  N5b6 {[%clk 0:43:30]} 24. Rc6 {[%clk 0:42:00]}  Be7 {[%clk 0:42:00]} 25. Rd1 {[%clk 0:40:30]}  Kf7 {[%clk 0:40:30]} 26. Rc7 {[%clk 0:39:00]}  Ra8 {[%clk 0:39:00]} 27. Rb7 {[%clk 0:37:30]}  Ke8 {[%clk 0:37:30]} 28. Bxe7 {[%clk 0:36:00]}  Kxe7 {[%clk 0:36:00]} 29. Rc1 {[%clk 0:34:30]}  a5 {[%clk 0:34:30]} 30. Rc6 {[%clk 0:33:00]}  Nd5 {[%clk 0:33:00]} 31. h4 {[%clk 0:31:30]}  h6 {[%clk 0:31:30]} 32. a4 {[%clk 0:30:00]}  g5 {[%clk 0:30:00]} 33. hxg5 {[%clk 0:28:30]}  hxg5 {[%clk 0:28:30]} 34. Kf1 {[%clk 0:27:00]}  g4 {[%clk 0:27:00]} 35. Ke2 {[%clk 0:25:30]}  Nf6 {[%clk 0:25:30]} 36. b3 {[%clk 0:24:00]}  Ne8 {[%clk 0:24:00]} 37. f3 {[%clk 0:22:30]}  g3 {[%clk 0:22:30]} 38. Rc1 {[%clk 0:21:00]}  Nf6 {[%clk 0:21:00]} 39. f4 {[%clk 0:19:30]}  Kd6 {[%clk 0:19:30]} 40. Kf3 {[%clk 0:18:00]}  Nd5 {[%clk 0:18:00]} 41. Kxg3 {[%clk 0:16:30]}  Nc5 {[%clk 0:16:30]} 42. Rg7 {[%clk 0:15:00]}  Rb8 {[%clk 0:15:00]} 43. Ra7 {[%clk 0:13:30]}  Rg8+ {[%clk 0:13:30]} 44. Kf3 {[%clk 0:12:00]}  Ne4 {[%clk 0:12:00]} 45. Ra6+ {[%clk 0:10:30]}  Ke7 {[%clk 0:10:30]} 46. Rxa5 {[%clk 0:09:00]}  Rg3+ {[%clk 0:09:00]} 47. Ke2 {[%clk 0:07:30]}  Rxe3+ {[%clk 0:07:30]} 48. Kf1 {[%clk 0:06:00]}  Rxb3 {[%clk 0:06:00]} 49. Ra7+ {[%clk 0:04:30]}  Kf6 {[%clk 0:04:30]} 50. Ra8 {[%clk 0:03:00]}  Nxf4 {[%clk 0:03:00]} 51. Ra1 {[%clk 0:01:30]}  Rb2 {[%clk 0:01:30]} 52. a5 {[%clk 1:18:00]}  Rf2+ {[%clk 1:18:00]} 0-1
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1-0"]
+[Round "09"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "0:58:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 0:57:00]}  d5 {[%clk 0:57:00]} 2. c4 {[%clk 0:55:30]}  c6 {[%clk 0:55:30]} 3. Nf3 {[%clk 0:54:00]}  Nf6 {[%clk 0:54:00]} 4. e3 {[%clk 0:52:30]}  Bf5 {[%clk 0:52:30]} 5. Nc3 {[%clk 0:51:00]}  e6 {[%clk 0:51:00]} 6. Nh4 {[%clk 0:49:30]}  Bg6 {[%clk 0:49:30]} 7. Nxg6 {[%clk 0:48:00]}  hxg6 {[%clk 0:48:00]} 8. a3 {[%clk 0:46:30]}  Nbd7 {[%clk 0:46:30]} 9. g3 {[%clk 0:45:00]}  Be7 {[%clk 0:45:00]} 10. f4 {[%clk 0:43:30]}  dxc4 {[%clk 0:43:30]} 11. Bxc4 {[%clk 0:42:00]}  O-O {[%clk 0:42:00]} 12. e4 {[%clk 0:40:30]}  b5 {[%clk 0:40:30]} 13. Be2 {[%clk 0:39:00]}  b4 {[%clk 0:39:00]} 14. axb4 {[%clk 0:37:30]}  Bxb4 {[%clk 0:37:30]} 15. Bf3 {[%clk 0:36:00]}  Qb6 {[%clk 0:36:00]} 16. O-O {[%clk 0:34:30]}  e5 {[%clk 0:34:30]} 17. Be3 {[%clk 0:33:00]}  Rad8 {[%clk 0:33:00]} 18. Na4 {[%clk 0:31:30]}  Qb8 {[%clk 0:31:30]} 19. Qc2 {[%clk 0:30:00]}  exf4 {[%clk 0:30:00]} 20. Bxf4 {[%clk 0:28:30]}  Qb7 {[%clk 0:28:30]} 21. Rad1 {[%clk 0:27:00]}  Rfe8 {[%clk 0:27:00]} 22. Bg5 {[%clk 0:25:30]}  Be7 {[%clk 0:25:30]} 23. Kh1 {[%clk 0:24:00]}  Nh7 {[%clk 0:24:00]} 24. Be3 {[%clk 0:22:30]}  Bg5 {[%clk 0:22:30]} 25. Bg1 {[%clk 0:21:00]}  Nhf8 {[%clk 0:21:00]} 26. h4 {[%clk 0:19:30]}  Be7 {[%clk 0:19:30]} 27. e5 {[%clk 0:18:00]}  Nb8 {[%clk 0:18:00]} 28. Nc3 {[%clk 0:16:30]}  Bb4 {[%clk 0:16:30]} 29. Qg2 {[%clk 0:15:00]}  Qc8 {[%clk 0:15:00]} 30. Rc1 {[%clk 0:13:30]}  Bxc3 {[%clk 0:13:30]} 31. bxc3 {[%clk 0:12:00]}  Ne6 {[%clk 0:12:00]} 32. Bg4 {[%clk 0:10:30]}  Qc7 {[%clk 0:10:30]} 33. Rcd1 {[%clk 0:09:00]}  Nd7 {[%clk 0:09:00]} 34. Qa2 {[%clk 0:07:30]}  Nb6 {[%clk 0:07:30]} 35. Rf3 {[%clk 0:06:00]}  Nf8 {[%clk 0:06:00]} 36. Rdf1 {[%clk 0:04:30]}  Re7 {[%clk 0:04:30]} 37. Be3 {[%clk 0:03:00]}  Nh7 {[%clk 0:03:00]} 38. Rxf7 {[%clk 0:01:30]}  Nd5 {[%clk 0:01:30]} 39. R7f3 {[%clk 0:58:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "1-0"]
+[Round "10"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:04:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:03:00]}  Nf6 {[%clk 1:03:00]} 2. c4 {[%clk 1:01:30]}  e6 {[%clk 1:01:30]} 3. Nf3 {[%clk 1:00:00]}  d5 {[%clk 1:00:00]} 4. g3 {[%clk 0:58:30]}  Bb4+ {[%clk 0:58:30]} 5. Bd2 {[%clk 0:57:00]}  Be7 {[%clk 0:57:00]} 6. Bg2 {[%clk 0:55:30]}  O-O {[%clk 0:55:30]} 7. O-O {[%clk 0:54:00]}  c6 {[%clk 0:54:00]} 8. Bf4 {[%clk 0:52:30]}  Nbd7 {[%clk 0:52:30]} 9. Qc2 {[%clk 0:51:00]}  a5 {[%clk 0:51:00]} 10. Rd1 {[%clk 0:49:30]}  Nh5 {[%clk 0:49:30]} 11. Bc1 {[%clk 0:48:00]}  b5 {[%clk 0:48:00]} 12. cxd5 {[%clk 0:46:30]}  cxd5 {[%clk 0:46:30]} 13. e4 {[%clk 0:45:00]}  dxe4 {[%clk 0:45:00]} 14. Qxe4 {[%clk 0:43:30]}  Rb8 {[%clk 0:43:30]} 15. Qe2 {[%clk 0:42:00]}  Nhf6 {[%clk 0:42:00]} 16. Bf4 {[%clk 0:40:30]}  Rb6 {[%clk 0:40:30]} 17. Ne5 {[%clk 0:39:00]}  Nd5 {[%clk 0:39:00]} 18. Bxd5 {[%clk 0:37:30]}  exd5 {[%clk 0:37:30]} 19. Nc3 {[%clk 0:36:00]}  Nf6 {[%clk 0:36:00]} 20. Nxb5 {[%clk 0:34:30]}  Ba6 {[%clk 0:34:30]} 21. a4 {[%clk 0:33:00]}  Ne4 {[%clk 0:33:00]} 22. Rdc1 {[%clk 0:31:30]}  Qe8 {[%clk 0:31:30]} 23. Rc7 {[%clk 0:30:00]}  Bd8 {[%clk 0:30:00]} 24. Ra7 {[%clk 0:28:30]}  f6 {[%clk 0:28:30]} 25. Nd7 {[%clk 0:27:00]}  Rf7 {[%clk 0:27:00]} 26. Nxb6 {[%clk 0:25:30]}  Rxa7 {[%clk 0:25:30]} 27. Nxd5 {[%clk 0:24:00]}  Rd7 {[%clk 0:24:00]} 28. Ndc3 {[%clk 0:22:30]}  Rxd4 {[%clk 0:22:30]} 29. Re1 {[%clk 0:21:00]}  f5 {[%clk 0:21:00]} 30. Qc2 {[%clk 0:19:30]}  Rb4 {[%clk 0:19:30]} 31. Nd5 {[%clk 0:18:00]}  Rxb5 {[%clk 0:18:00]} 32. axb5 {[%clk 0:16:30]}  Qxb5 {[%clk 0:16:30]} 33. Nc7 {[%clk 0:15:00]}  Qc4 {[%clk 0:15:00]} 34. Qd1 {[%clk 0:13:30]}  Bxc7 {[%clk 0:13:30]} 35. Qd7 {[%clk 0:12:00]}  h6 {[%clk 0:12:00]} 36. Qxc7 {[%clk 0:10:30]}  Qb4 {[%clk 0:10:30]} 37. Qb8+ {[%clk 0:09:00]}  Qxb8 {[%clk 0:09:00]} 38. Bxb8 {[%clk 0:07:30]}  Nd2 {[%clk 0:07:30]} 39. Ra1 {[%clk 0:06:00]}  g5 {[%clk 0:06:00]} 40. f4 {[%clk 0:04:30]}  Nb3 {[%clk 0:04:30]} 41. Ra3 {[%clk 0:03:00]}  Bc4 {[%clk 0:03:00]} 42. Bc7 {[%clk 0:01:30]}  g4 {[%clk 0:01:30]} 43. Bxa5 {[%clk 1:04:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1/2-1/2"]
+[Round "11"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:39:00"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:37:30]}  d5 {[%clk 1:37:30]} 2. c4 {[%clk 1:36:00]}  c6 {[%clk 1:36:00]} 3. Nf3 {[%clk 1:34:30]}  Nf6 {[%clk 1:34:30]} 4. e3 {[%clk 1:33:00]}  Bf5 {[%clk 1:33:00]} 5. Nc3 {[%clk 1:31:30]}  e6 {[%clk 1:31:30]} 6. Nh4 {[%clk 1:30:00]}  Bg6 {[%clk 1:30:00]} 7. Nxg6 {[%clk 1:28:30]}  hxg6 {[%clk 1:28:30]} 8. Rb1 {[%clk 1:27:00]}  Nbd7 {[%clk 1:27:00]} 9. c5 {[%clk 1:25:30]}  a5 {[%clk 1:25:30]} 10. a3 {[%clk 1:24:00]}  e5 {[%clk 1:24:00]} 11. b4 {[%clk 1:22:30]}  axb4 {[%clk 1:22:30]} 12. axb4 {[%clk 1:21:00]}  Qc7 {[%clk 1:21:00]} 13. f4 {[%clk 1:19:30]}  exf4 {[%clk 1:19:30]} 14. exf4 {[%clk 1:18:00]}  Be7 {[%clk 1:18:00]} 15. Be2 {[%clk 1:16:30]}  Nf8 {[%clk 1:16:30]} 16. O-O {[%clk 1:15:00]}  Ne6 {[%clk 1:15:00]} 17. g3 {[%clk 1:13:30]}  Qd7 {[%clk 1:13:30]} 18. Qd3 {[%clk 1:12:00]}  Ne4 {[%clk 1:12:00]} 19. Nxe4 {[%clk 1:10:30]}  dxe4 {[%clk 1:10:30]} 20. Qxe4 {[%clk 1:09:00]}  Qxd4+ {[%clk 1:09:00]} 21. Qxd4 {[%clk 1:07:30]}  Nxd4 {[%clk 1:07:30]} 22. Bc4 {[%clk 1:06:00]}  O-O {[%clk 1:06:00]} 23. Kg2 {[%clk 1:04:30]}  Ra4 {[%clk 1:04:30]} 24. Rd1 {[%clk 1:03:00]}  Rd8 {[%clk 1:03:00]} 25. Be3 {[%clk 1:01:30]}  Bf6 {[%clk 1:01:30]} 26. g4 {[%clk 1:00:00]}  Kf8 {[%clk 1:00:00]} 27. Bf2 {[%clk 0:58:30]}  Ne6 {[%clk 0:58:30]} 28. Rxd8+ {[%clk 0:57:00]}  Bxd8 {[%clk 0:57:00]} 29. f5 {[%clk 0:55:30]}  gxf5 {[%clk 0:55:30]} 30. gxf5 {[%clk 0:54:00]}  Nf4+ {[%clk 0:54:00]} 31. Kf3 {[%clk 0:52:30]}  Nh5 {[%clk 0:52:30]} 32. Rb3 {[%clk 0:51:00]}  Bc7 {[%clk 0:51:00]} 33. h4 {[%clk 0:49:30]}  Nf6 {[%clk 0:49:30]} 34. Bd3 {[%clk 0:48:00]}  Nd7 {[%clk 0:48:00]} 35. Be4 {[%clk 0:46:30]}  Ne5+ {[%clk 0:46:30]} 36. Kg2 {[%clk 0:45:00]}  Ra2 {[%clk 0:45:00]} 37. Bb1 {[%clk 0:43:30]}  Rd2 {[%clk 0:43:30]} 38. Kf1 {[%clk 0:42:00]}  Ng4 {[%clk 0:42:00]} 39. Bg1 {[%clk 0:40:30]}  Bh2 {[%clk 0:40:30]} 40. Ke1 {[%clk 0:39:00]}  Rd5 {[%clk 0:39:00]} 41. Bf2 {[%clk 0:37:30]}  Ke7 {[%clk 0:37:30]} 42. h5 {[%clk 0:36:00]}  Nxf2 {[%clk 0:36:00]} 43. Kxf2 {[%clk 0:34:30]}  Kf6 {[%clk 0:34:30]} 44. Kf3 {[%clk 0:33:00]}  Rd4 {[%clk 0:33:00]} 45. b5 {[%clk 0:31:30]}  Rc4 {[%clk 0:31:30]} 46. bxc6 {[%clk 0:30:00]}  bxc6 {[%clk 0:30:00]} 47. Rb6 {[%clk 0:28:30]}  Rxc5 {[%clk 0:28:30]} 48. Be4 {[%clk 0:27:00]}  Kg5 {[%clk 0:27:00]} 49. Rxc6 {[%clk 0:25:30]}  Ra5 {[%clk 0:25:30]} 50. Rb6 {[%clk 0:24:00]}  Ra3+ {[%clk 0:24:00]} 51. Kg2 {[%clk 0:22:30]}  Bc7 {[%clk 0:22:30]} 52. Rb7 {[%clk 0:21:00]}  Rc3 {[%clk 0:21:00]} 53. Kf2 {[%clk 0:19:30]}  Kxh5 {[%clk 0:19:30]} 54. Bd5 {[%clk 0:18:00]}  f6 {[%clk 0:18:00]} 55. Ke2 {[%clk 0:16:30]}  Kg4 {[%clk 0:16:30]} 56. Be4 {[%clk 0:15:00]}  Kf4 {[%clk 0:15:00]} 57. Bd3 {[%clk 0:13:30]}  Rc5 {[%clk 0:13:30]} 58. Rb4+ {[%clk 0:12:00]}  Kg3 {[%clk 0:12:00]} 59. Rc4 {[%clk 0:10:30]}  Re5+ {[%clk 0:10:30]} 60. Re4 {[%clk 0:09:00]}  Ra5 {[%clk 0:09:00]} 61. Re3+ {[%clk 0:07:30]}  Kg2 {[%clk 0:07:30]} 62. Be4+ {[%clk 0:06:00]}  Kh2 {[%clk 0:06:00]} 63. Rb3 {[%clk 0:04:30]}  Ra2+ {[%clk 0:04:30]} 64. Kd3 {[%clk 0:03:00]}  Bf4 {[%clk 0:03:00]} 65. Kc4 {[%clk 0:01:30]}  Re2 {[%clk 0:01:30]} 66. Kd5 {[%clk 1:39:00]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "1/2-1/2"]
+[Round "12"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:10:30"]
+[BlackClock "1:10:30"]
+
+1. d4 {[%clk 1:09:00]}  d5 {[%clk 1:09:00]} 2. c4 {[%clk 1:07:30]}  c6 {[%clk 1:07:30]} 3. Nf3 {[%clk 1:06:00]}  Nf6 {[%clk 1:06:00]} 4. e3 {[%clk 1:04:30]}  Bf5 {[%clk 1:04:30]} 5. Nc3 {[%clk 1:03:00]}  e6 {[%clk 1:03:00]} 6. Nh4 {[%clk 1:01:30]}  Bg6 {[%clk 1:01:30]} 7. Nxg6 {[%clk 1:00:00]}  hxg6 {[%clk 1:00:00]} 8. g3 {[%clk 0:58:30]}  Nbd7 {[%clk 0:58:30]} 9. Bd2 {[%clk 0:57:00]}  Bb4 {[%clk 0:57:00]} 10. Qb3 {[%clk 0:55:30]}  Bxc3 {[%clk 0:55:30]} 11. Bxc3 {[%clk 0:54:00]}  Ne4 {[%clk 0:54:00]} 12. Bg2 {[%clk 0:52:30]}  Nxc3 {[%clk 0:52:30]} 13. Qxc3 {[%clk 0:51:00]}  f5 {[%clk 0:51:00]} 14. O-O {[%clk 0:49:30]}  Qe7 {[%clk 0:49:30]} 15. cxd5 {[%clk 0:48:00]}  exd5 {[%clk 0:48:00]} 16. b4 {[%clk 0:46:30]}  Nf6 {[%clk 0:46:30]} 17. Rfc1 {[%clk 0:45:00]}  Ne4 {[%clk 0:45:00]} 18. Qb2 {[%clk 0:43:30]}  O-O {[%clk 0:43:30]} 19. b5 {[%clk 0:42:00]}  Rac8 {[%clk 0:42:00]} 20. bxc6 {[%clk 0:40:30]}  bxc6 {[%clk 0:40:30]} 21. Qe2 {[%clk 0:39:00]}  g5 {[%clk 0:39:00]} 22. Rab1 {[%clk 0:37:30]}  Qd7 {[%clk 0:37:30]} 23. Rc2 {[%clk 0:36:00]}  Rf6 {[%clk 0:36:00]} 24. Rbc1 {[%clk 0:34:30]}  g4 {[%clk 0:34:30]} 25. Rb2 {[%clk 0:33:00]}  Rh6 {[%clk 0:33:00]} 26. Qa6 {[%clk 0:31:30]}  Rc7 {[%clk 0:31:30]} 27. Rb8+ {[%clk 0:30:00]}  Kh7 {[%clk 0:30:00]} 28. Qa3 {[%clk 0:28:30]}  Rb7 {[%clk 0:28:30]} 29. Qf8 {[%clk 0:27:00]}  Rxb8 {[%clk 0:27:00]} 30. Qxb8 {[%clk 0:25:30]}  Qf7 {[%clk 0:25:30]} 31. Qc8 {[%clk 0:24:00]}  Qh5 {[%clk 0:24:00]} 32. Kf1 {[%clk 0:22:30]}  Nd2+ {[%clk 0:22:30]} 33. Ke1 {[%clk 0:21:00]}  Nc4 {[%clk 0:21:00]} 34. Bf1 {[%clk 0:19:30]}  Rf6 {[%clk 0:19:30]} 35. Bxc4 {[%clk 0:18:00]}  dxc4 {[%clk 0:18:00]} 36. Rxc4 {[%clk 0:16:30]}  Qxh2 {[%clk 0:16:30]} 37. Ke2 {[%clk 0:15:00]}  Qh1 {[%clk 0:15:00]} 38. Rc5 {[%clk 0:13:30]}  Qb1 {[%clk 0:13:30]} 39. Qa6 {[%clk 0:12:00]}  Qb2+ {[%clk 0:12:00]} 40. Kf1 {[%clk 0:10:30]}  Qb1+ {[%clk 0:10:30]} 41. Ke2 {[%clk 0:09:00]}  Qb2+ {[%clk 0:09:00]} 42. Kf1 {[%clk 0:07:30]}  Rh6 {[%clk 0:07:30]} 43. Qd3 {[%clk 0:06:00]}  g6 {[%clk 0:06:00]} 44. Qb3 {[%clk 0:04:30]}  Rh1+ {[%clk 0:04:30]} 45. Kg2 {[%clk 0:03:00]}  Rh2+ {[%clk 0:03:00]} 46. Kxh2 {[%clk 0:01:30]}  Qxf2+ {[%clk 0:01:30]} 47. Kh1 {[%clk 1:10:30]}  Qf1+ {[%clk 1:10:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1/2-1/2"]
+[Round "13"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:10:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:09:00]}  d5 {[%clk 1:09:00]} 2. c4 {[%clk 1:07:30]}  c6 {[%clk 1:07:30]} 3. Nf3 {[%clk 1:06:00]}  Nf6 {[%clk 1:06:00]} 4. Nc3 {[%clk 1:04:30]}  dxc4 {[%clk 1:04:30]} 5. a4 {[%clk 1:03:00]}  Bf5 {[%clk 1:03:00]} 6. e3 {[%clk 1:01:30]}  e6 {[%clk 1:01:30]} 7. Bxc4 {[%clk 1:00:00]}  Bb4 {[%clk 1:00:00]} 8. O-O {[%clk 0:58:30]}  Nbd7 {[%clk 0:58:30]} 9. Qe2 {[%clk 0:57:00]}  O-O {[%clk 0:57:00]} 10. e4 {[%clk 0:55:30]}  Bg6 {[%clk 0:55:30]} 11. Bd3 {[%clk 0:54:00]}  Bh5 {[%clk 0:54:00]} 12. e5 {[%clk 0:52:30]}  Nd5 {[%clk 0:52:30]} 13. Nxd5 {[%clk 0:51:00]}  cxd5 {[%clk 0:51:00]} 14. Qe3 {[%clk 0:49:30]}  Re8 {[%clk 0:49:30]} 15. Ne1 {[%clk 0:48:00]}  Rc8 {[%clk 0:48:00]} 16. f4 {[%clk 0:46:30]}  Bxe1 {[%clk 0:46:30]} 17. Rxe1 {[%clk 0:45:00]}  Bg6 {[%clk 0:45:00]} 18. Bf1 {[%clk 0:43:30]}  Rc2 {[%clk 0:43:30]} 19. b3 {[%clk 0:42:00]}  Qa5 {[%clk 0:42:00]} 20. Bb5 {[%clk 0:40:30]}  Rd8 {[%clk 0:40:30]} 21. Re2 {[%clk 0:39:00]}  Rcc8 {[%clk 0:39:00]} 22. Bd2 {[%clk 0:37:30]}  Qb6 {[%clk 0:37:30]} 23. Rf2 {[%clk 0:36:00]}  a6 {[%clk 0:36:00]} 24. Bf1 {[%clk 0:34:30]}  Rc6 {[%clk 0:34:30]} 25. b4 {[%clk 0:33:00]}  Rc2 {[%clk 0:33:00]} 26. b5 {[%clk 0:31:30]}  a5 {[%clk 0:31:30]} 27. Bc3 {[%clk 0:30:00]}  Rxf2 {[%clk 0:30:00]} 28. Qxf2 {[%clk 0:28:30]}  Qa7 {[%clk 0:28:30]} 29. Qd2 {[%clk 0:27:00]}  Ra8 {[%clk 0:27:00]} 30. Rc1 {[%clk 0:25:30]}  Nb6 {[%clk 0:25:30]} 31. Bb2 {[%clk 0:24:00]}  Nxa4 {[%clk 0:24:00]} 32. Ba3 {[%clk 0:22:30]}  h6 {[%clk 0:22:30]} 33. h3 {[%clk 0:21:00]}  Be4 {[%clk 0:21:00]} 34. Kh2 {[%clk 0:19:30]}  Nb6 {[%clk 0:19:30]} 35. Bc5 {[%clk 0:18:00]}  a4 {[%clk 0:18:00]} 36. Ra1 {[%clk 0:16:30]}  Nc4 {[%clk 0:16:30]} 37. Bxc4 {[%clk 0:15:00]}  b6 {[%clk 0:15:00]} 38. Qe3 {[%clk 0:13:30]}  Rc8 {[%clk 0:13:30]} 39. Bf1 {[%clk 0:12:00]}  bxc5 {[%clk 0:12:00]} 40. dxc5 {[%clk 0:10:30]}  Qxc5 {[%clk 0:10:30]} 41. Qxc5 {[%clk 0:09:00]}  Rxc5 {[%clk 0:09:00]} 42. b6 {[%clk 0:07:30]}  Rc6 {[%clk 0:07:30]} 43. b7 {[%clk 0:06:00]}  Rb6 {[%clk 0:06:00]} 44. Ba6 {[%clk 0:04:30]}  d4 {[%clk 0:04:30]} 45. Rxa4 {[%clk 0:03:00]}  Bxb7 {[%clk 0:03:00]} 46. Bxb7 {[%clk 0:01:30]}  Rxb7 {[%clk 0:01:30]} 47. Rxd4 {[%clk 1:10:30]} 1/2-1/2
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "1-0"]
+[Round "14"]
+[TimeControl "5400+30"]
+[Date "2021.10.19"]
+[WhiteClock "1:07:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:06:00]}  d5 {[%clk 1:06:00]} 2. c4 {[%clk 1:04:30]}  c6 {[%clk 1:04:30]} 3. Nf3 {[%clk 1:03:00]}  Nf6 {[%clk 1:03:00]} 4. Nc3 {[%clk 1:01:30]}  e6 {[%clk 1:01:30]} 5. e3 {[%clk 1:00:00]}  Nbd7 {[%clk 1:00:00]} 6. Qc2 {[%clk 0:58:30]}  Bd6 {[%clk 0:58:30]} 7. b3 {[%clk 0:57:00]}  O-O {[%clk 0:57:00]} 8. Be2 {[%clk 0:55:30]}  b6 {[%clk 0:55:30]} 9. O-O {[%clk 0:54:00]}  Bb7 {[%clk 0:54:00]} 10. Bb2 {[%clk 0:52:30]}  Re8 {[%clk 0:52:30]} 11. Rad1 {[%clk 0:51:00]}  Qe7 {[%clk 0:51:00]} 12. Rfe1 {[%clk 0:49:30]}  Rac8 {[%clk 0:49:30]} 13. Bd3 {[%clk 0:48:00]}  e5 {[%clk 0:48:00]} 14. e4 {[%clk 0:46:30]}  dxc4 {[%clk 0:46:30]} 15. Bxc4 {[%clk 0:45:00]}  b5 {[%clk 0:45:00]} 16. Bf1 {[%clk 0:43:30]}  g6 {[%clk 0:43:30]} 17. Qd2 {[%clk 0:42:00]}  Rcd8 {[%clk 0:42:00]} 18. Qg5 {[%clk 0:40:30]}  a6 {[%clk 0:40:30]} 19. h3 {[%clk 0:39:00]}  exd4 {[%clk 0:39:00]} 20. Nxd4 {[%clk 0:37:30]}  Qe5 {[%clk 0:37:30]} 21. Qxe5 {[%clk 0:36:00]}  Nxe5 {[%clk 0:36:00]} 22. Nc2 {[%clk 0:34:30]}  g5 {[%clk 0:34:30]} 23. Bc1 {[%clk 0:33:00]}  h6 {[%clk 0:33:00]} 24. Be3 {[%clk 0:31:30]}  c5 {[%clk 0:31:30]} 25. f3 {[%clk 0:30:00]}  Bf8 {[%clk 0:30:00]} 26. Bf2 {[%clk 0:28:30]}  Bc8 {[%clk 0:28:30]} 27. Ne3 {[%clk 0:27:00]}  Be6 {[%clk 0:27:00]} 28. Ned5 {[%clk 0:25:30]}  Bxd5 {[%clk 0:25:30]} 29. exd5 {[%clk 0:24:00]}  Ned7 {[%clk 0:24:00]} 30. Rxe8 {[%clk 0:22:30]}  Rxe8 {[%clk 0:22:30]} 31. a4 {[%clk 0:21:00]}  b4 {[%clk 0:21:00]} 32. Ne4 {[%clk 0:19:30]}  Nxe4 {[%clk 0:19:30]} 33. fxe4 {[%clk 0:18:00]}  Nf6 {[%clk 0:18:00]} 34. d6 {[%clk 0:16:30]}  Nxe4 {[%clk 0:16:30]} 35. d7 {[%clk 0:15:00]}  Rd8 {[%clk 0:15:00]} 36. Bxa6 {[%clk 0:13:30]}  f5 {[%clk 0:13:30]} 37. a5 {[%clk 0:12:00]}  Bg7 {[%clk 0:12:00]} 38. Bc4+ {[%clk 0:10:30]}  Kf8 {[%clk 0:10:30]} 39. a6 {[%clk 0:09:00]}  Nxf2 {[%clk 0:09:00]} 40. Kxf2 {[%clk 0:07:30]}  Bd4+ {[%clk 0:07:30]} 41. Rxd4 {[%clk 0:06:00]}  cxd4 {[%clk 0:06:00]} 42. a7 {[%clk 0:04:30]}  Ke7 {[%clk 0:04:30]} 43. Bd5 {[%clk 0:03:00]}  Kxd7 {[%clk 0:03:00]} 44. a8=Q {[%clk 0:01:30]}  Rxa8 {[%clk 0:01:30]} 45. Bxa8 {[%clk 1:07:30]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[Result "1-0"]
+[Round "15"]
+[TimeControl "5400+30"]
+[Date "2021.10.20"]
+[WhiteClock "1:15:00"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:13:30]}  d5 {[%clk 1:13:30]} 2. c4 {[%clk 1:12:00]}  c6 {[%clk 1:12:00]} 3. Nf3 {[%clk 1:10:30]}  Nf6 {[%clk 1:10:30]} 4. e3 {[%clk 1:09:00]}  Bf5 {[%clk 1:09:00]} 5. Nc3 {[%clk 1:07:30]}  e6 {[%clk 1:07:30]} 6. Nh4 {[%clk 1:06:00]}  Bg6 {[%clk 1:06:00]} 7. Be2 {[%clk 1:04:30]}  Nbd7 {[%clk 1:04:30]} 8. O-O {[%clk 1:03:00]}  Bd6 {[%clk 1:03:00]} 9. g3 {[%clk 1:01:30]}  dxc4 {[%clk 1:01:30]} 10. Bxc4 {[%clk 1:00:00]}  Nb6 {[%clk 1:00:00]} 11. Be2 {[%clk 0:58:30]}  O-O {[%clk 0:58:30]} 12. Nxg6 {[%clk 0:57:00]}  hxg6 {[%clk 0:57:00]} 13. e4 {[%clk 0:55:30]}  e5 {[%clk 0:55:30]} 14. f4 {[%clk 0:54:00]}  exd4 {[%clk 0:54:00]} 15. Qxd4 {[%clk 0:52:30]}  Qe7 {[%clk 0:52:30]} 16. Kg2 {[%clk 0:51:00]}  Bc5 {[%clk 0:51:00]} 17. Qd3 {[%clk 0:49:30]}  Rad8 {[%clk 0:49:30]} 18. Qc2 {[%clk 0:48:00]}  Bd4 {[%clk 0:48:00]} 19. e5 {[%clk 0:46:30]}  Nfd5 {[%clk 0:46:30]} 20. Rf3 {[%clk 0:45:00]}  Nxc3 {[%clk 0:45:00]} 21. bxc3 {[%clk 0:43:30]}  Bc5 {[%clk 0:43:30]} 22. Bd2 {[%clk 0:42:00]}  Rd7 {[%clk 0:42:00]} 23. Re1 {[%clk 0:40:30]}  Rfd8 {[%clk 0:40:30]} 24. Bd3 {[%clk 0:39:00]}  Qe6 {[%clk 0:39:00]} 25. Bc1 {[%clk 0:37:30]}  f5 {[%clk 0:37:30]} 26. Qe2 {[%clk 0:36:00]}  Kf8 {[%clk 0:36:00]} 27. Rd1 {[%clk 0:34:30]}  Qe7 {[%clk 0:34:30]} 28. h4 {[%clk 0:33:00]}  Rd5 {[%clk 0:33:00]} 29. Qc2 {[%clk 0:31:30]}  Nc4 {[%clk 0:31:30]} 30. Rh1 {[%clk 0:30:00]}  Na3 {[%clk 0:30:00]} 31. Qe2 {[%clk 0:28:30]}  Qd7 {[%clk 0:28:30]} 32. Rd1 {[%clk 0:27:00]}  b5 {[%clk 0:27:00]} 33. g4 {[%clk 0:25:30]}  fxg4 {[%clk 0:25:30]} 34. Rg3 {[%clk 0:24:00]}  Ke7 {[%clk 0:24:00]} 35. f5 {[%clk 0:22:30]}  gxf5 {[%clk 0:22:30]} 36. Bg5+ {[%clk 0:21:00]}  Ke8 {[%clk 0:21:00]} 37. e6 {[%clk 0:19:30]}  Qd6 {[%clk 0:19:30]} 38. Bxf5 {[%clk 0:18:00]}  Rxd1 {[%clk 0:18:00]} 39. Bg6+ {[%clk 0:16:30]}  Kf8 {[%clk 0:16:30]} 40. e7+ {[%clk 0:15:00]}  Qxe7 {[%clk 0:15:00]} 41. Bxe7+ {[%clk 0:13:30]}  Bxe7 {[%clk 0:13:30]} 42. Bd3 {[%clk 0:12:00]}  Ra1 {[%clk 0:12:00]} 43. Qb2 {[%clk 0:10:30]}  Rd1 {[%clk 0:10:30]} 44. Qe2 {[%clk 0:09:00]}  Ra1 {[%clk 0:09:00]} 45. Qxg4 {[%clk 0:07:30]}  Rxa2+ {[%clk 0:07:30]} 46. Kh3 {[%clk 0:06:00]}  Bf6 {[%clk 0:06:00]} 47. Qe6 {[%clk 0:04:30]}  Rd2 {[%clk 0:04:30]} 48. Bg6 {[%clk 0:03:00]}  R2d7 {[%clk 0:03:00]} 49. Rf3 {[%clk 0:01:30]}  b4 {[%clk 0:01:30]} 50. h5 {[%clk 1:15:00]} 1-0
+
+
+[Site "https://www.chess.com"]
+[Event "FIDE World Chess Championship Topalov vs Kramnik 2006"]
+[White "Vladimir Kramnik"]
+[Black "Veselin Topalov"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[Result "1-0"]
+[Round "16"]
+[TimeControl "5400+30"]
+[Date "2021.10.20"]
+[WhiteClock "1:07:30"]
+[BlackClock "0:01:30"]
+
+1. d4 {[%clk 1:06:00]}  d5 {[%clk 1:06:00]} 2. c4 {[%clk 1:04:30]}  c6 {[%clk 1:04:30]} 3. Nf3 {[%clk 1:03:00]}  Nf6 {[%clk 1:03:00]} 4. Nc3 {[%clk 1:01:30]}  e6 {[%clk 1:01:30]} 5. e3 {[%clk 1:00:00]}  Nbd7 {[%clk 1:00:00]} 6. Bd3 {[%clk 0:58:30]}  dxc4 {[%clk 0:58:30]} 7. Bxc4 {[%clk 0:57:00]}  b5 {[%clk 0:57:00]} 8. Be2 {[%clk 0:55:30]}  Bb7 {[%clk 0:55:30]} 9. O-O {[%clk 0:54:00]}  Be7 {[%clk 0:54:00]} 10. e4 {[%clk 0:52:30]}  b4 {[%clk 0:52:30]} 11. e5 {[%clk 0:51:00]}  bxc3 {[%clk 0:51:00]} 12. exf6 {[%clk 0:49:30]}  Bxf6 {[%clk 0:49:30]} 13. bxc3 {[%clk 0:48:00]}  c5 {[%clk 0:48:00]} 14. dxc5 {[%clk 0:46:30]}  Nxc5 {[%clk 0:46:30]} 15. Bb5+ {[%clk 0:45:00]}  Kf8 {[%clk 0:45:00]} 16. Qxd8+ {[%clk 0:43:30]}  Rxd8 {[%clk 0:43:30]} 17. Ba3 {[%clk 0:42:00]}  Rc8 {[%clk 0:42:00]} 18. Nd4 {[%clk 0:40:30]}  Be7 {[%clk 0:40:30]} 19. Rfd1 {[%clk 0:39:00]}  a6 {[%clk 0:39:00]} 20. Bf1 {[%clk 0:37:30]}  Na4 {[%clk 0:37:30]} 21. Rab1 {[%clk 0:36:00]}  Be4 {[%clk 0:36:00]} 22. Rb3 {[%clk 0:34:30]}  Bxa3 {[%clk 0:34:30]} 23. Rxa3 {[%clk 0:33:00]}  Nc5 {[%clk 0:33:00]} 24. Nb3 {[%clk 0:31:30]}  Ke7 {[%clk 0:31:30]} 25. Rd4 {[%clk 0:30:00]}  Bg6 {[%clk 0:30:00]} 26. c4 {[%clk 0:28:30]}  Rc6 {[%clk 0:28:30]} 27. Nxc5 {[%clk 0:27:00]}  Rxc5 {[%clk 0:27:00]} 28. Rxa6 {[%clk 0:25:30]}  Rb8 {[%clk 0:25:30]} 29. Rd1 {[%clk 0:24:00]}  Rb2 {[%clk 0:24:00]} 30. Ra7+ {[%clk 0:22:30]}  Kf6 {[%clk 0:22:30]} 31. Ra1 {[%clk 0:21:00]}  Rf5 {[%clk 0:21:00]} 32. f3 {[%clk 0:19:30]}  Re5 {[%clk 0:19:30]} 33. Ra3 {[%clk 0:18:00]}  Rc2 {[%clk 0:18:00]} 34. Rb3 {[%clk 0:16:30]}  Ra5 {[%clk 0:16:30]} 35. a4 {[%clk 0:15:00]}  Ke7 {[%clk 0:15:00]} 36. Rb5 {[%clk 0:13:30]}  Ra7 {[%clk 0:13:30]} 37. a5 {[%clk 0:12:00]}  Kd6 {[%clk 0:12:00]} 38. a6 {[%clk 0:10:30]}  Kc7 {[%clk 0:10:30]} 39. c5 {[%clk 0:09:00]}  Rc3 {[%clk 0:09:00]} 40. Raa5 {[%clk 0:07:30]}  Rc1 {[%clk 0:07:30]} 41. Rb3 {[%clk 0:06:00]}  Kc6 {[%clk 0:06:00]} 42. Rb6+ {[%clk 0:04:30]}  Kc7 {[%clk 0:04:30]} 43. Kf2 {[%clk 0:03:00]}  Rc2+ {[%clk 0:03:00]} 44. Ke3 {[%clk 0:01:30]}  Rxc5 {[%clk 0:01:30]} 45. Rb7+ {[%clk 1:07:30]} 1-0
+
