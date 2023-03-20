@@ -23,7 +23,7 @@ from OpeningAnalysis import views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("main/", include("MainPage.urls")),
+    path("", include("MainPage.urls")),
     path("rules/", include("ChessRules.urls")),
     path("openings/", include("OpeningAnalysis.urls")),
 ]
