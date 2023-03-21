@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+class ChessOpening(models.Model):
+    name = models.CharField(max_length=200)
+    moves = models.TextField(null=True)
+    description = models.TextField()
