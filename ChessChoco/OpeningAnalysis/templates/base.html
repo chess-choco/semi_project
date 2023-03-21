@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <style>
+        body {
+            background-color: #F5F5F5;
+            font-family: 'Noto Sans Demilight', 'Noto Sans KR';;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #6C7A89;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            position: relative;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        nav li {
+            display: inline-block;
+            margin-right: 20px;
+        }
+
+        nav li:last-child {
+            margin-right: 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            cursor: pointer;
+            color: #ccc;
+            background-color: #4a5158;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 20px auto;
+        }
+    
+        h1 {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 50px;
+            color: #2C3E50;
+        }
+
+        h2 {
+            font-size: 30px;
+            color: #34495E;
+            margin-top: 30px;
+            text-align: center;
+        }
+        
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+        
+        th {
+            background-color: #2C3E50;
+            color: white;
+            font-size: 25px;
+            padding: 10px;
+        }
+        
+        td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            font-size: 18px;
+        }
+
+        span a {
+            text-align: center;
+            position: relative;
+        }
+
+        .cta {
+            background-color: #34495E;
+            color: white;
+            display: block;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 20px auto;
+            width: 500px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            transition: all 0.2s ease-in-out;
+        }
+        
+        .cta:hover {
+            background-color: #6C7A89;
+            cursor: pointer;
+        }
+        
+        footer {
+            background-color: #34495E;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            padding: 10px;
+        }
+
+        p {
+            color: white;
+        }
+
+    </style>
+  <title>{% block title %}My Site{% endblock %}</title>
+</head>
+<body>
+  <header>
+    <h1>오프닝</h1>
+    <nav>
+        <ul>
+          <li><a href="/main">Home</a></li>
+          <li><a href="/rules">규칙</a></li>
+          <li><a href="/openings">오프닝</a></li>
+        </ul>
+    </nav>
+  </header>
+
+  <main>
+    {% block content %}
+    {% endblock %}
+  </main>
+
+  <footer>
+    <p>&copy; Chess Choco</p>
+    <div class="cta" onclick="window.open('http://github.com/chess-choco/semi_project');">
+        <p>Chess Choco</p>
+        <p>MultiCampus Data Analysis 23</p>
+        <p>Seoul, South Korea</p>
+    </div>
+</footer>
+</body>
+</html>

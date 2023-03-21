@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h2>시작이 반이다!</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>이름</th>
+        <th>수</th>
+        <th>설명</th>
+        <th>변화 수</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for opening in openings %}
+        <tr>
+          <td>{{ opening.name }}</td>
+          <td>{{ opening.moves }}</td>
+          <td>{{ opening.description }}</td>
+          <td>{{ opening.variation }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

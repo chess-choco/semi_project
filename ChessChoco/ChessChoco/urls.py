@@ -25,7 +25,8 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("", include("MainPage.urls")),
     path("rules/", include("ChessRules.urls")),
-    path("openings/", include("OpeningAnalysis.urls")),
+    #path("openings/", include("OpeningAnalysis.urls")),
+    path("openings/", views.chess_openings)
 ]
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
