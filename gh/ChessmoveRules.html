@@ -10,41 +10,6 @@
                 <div>
                 <h1>체스 말 움직여보기</h1>
                 </div>
-            </center>
-        </div>
-<div>
-
-            <ul><center>
-                <li class="menu">
-                    <a><img src="" alt=""/><h2>기초</h2></a>
-                    <ul class="hide">
-                        <a style="padding: 0 .5em;" data-filter="pawn">폰</a> 
-                        <a style="padding: 0 .5em;" data-filter="Rook">룩</a> 
-                        <a style="padding: 0 .5em;" data-filter="Knight">나이트</a> 
-                        <a style="padding: 0 .5em;" data-filter="Bishop">비숍</a>
-                        <a style="padding: 0 .5em;" data-filter="Queen">퀸</a>
-                        <a style="padding: 0 .5em;" data-filter="King">킹</a>
-                    </ul>
-                </li>
-            
-         
-                <li class="menu">
-                    <a><img src="" alt=""/><h2>심화</h2></a>
-                    <ul class="hide">
-                        <a style="padding: 0 .5em;" data-filter="pawn">폰</a> 
-                        <a style="padding: 0 .5em;" data-filter="Rook">룩</a> 
-                        <a style="padding: 0 .5em;" data-filter="Knight">나이트</a> 
-                        <a style="padding: 0 .5em;" data-filter="Bishop">비숍</a>
-                        <a style="padding: 0 .5em;" data-filter="Queen">퀸</a>
-                        <a style="padding: 0 .5em;" data-filter="King">킹</a>
-                    </ul>
-                </li>
-</div>
-                </center>
-            </ul>
-        
-        </div>
-        <div id= "container">
                 <div>
                 <h2>체스 말 움직이기 기초</h2>
                 </div>
@@ -85,8 +50,10 @@
                     <p>내부에 넣을 내용을 입력해주세요</p>
                 </details>
             </div>
+            </center>
         </div>
         <div id= "container">
+        <center>
             <div>
             <h2>체스 말 움직이기 심화</h2>
             </div>
@@ -115,10 +82,11 @@
     <div class="item_tab">
         <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
             <center>
-            <a class="on" style="padding: 0 .5em;" data-filter="*">
-                <h2>체스 말 움직이기 기초</h2>
-            </a>
+            <a class="on" style="padding: 0 .5em;" data-filter="*">기초</a>
+            </center>
+
             <br>
+            <center>
             <a style="padding: 0 .5em;" data-filter="pawn">폰</a> 
             <a style="padding: 0 .5em;" data-filter="Rook">룩</a> 
             <a style="padding: 0 .5em;" data-filter="Knight">나이트</a> 
@@ -129,36 +97,25 @@
         </span>
     </div>
 <div class="items">
-    <ul>
-        <ul class="hide">
-        <li class="base">
-            <div class="item" data-type="pawn">
-                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
-                <a href=#none id="show" onclick="if(hide.style.display=='none') {hide.style.display='';show.innerText='▲접기'} else {hide.style.display='none';show.innerText='▶펼치기'}">
-                ▶펼치기
-                </a>
-                <div id="hide" style="display: none">펼치면 보이는 내용을 적어줍니다. 
-                    <br />아무 내용이나 적어주세요. <br />
-                </span>
-            </div>
-            <div class="item" data-type="Rook">
-                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">2번</span>
-            </div>
-            <div class="item" data-type="Knight">
-                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">4번</span>
-            </div>
-            <div class="item" data-type="Bishop">
-                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">2번</span>
-            </div>
-            <div class="item" data-type="Queen">
-                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">2번</span>
-            </div>
-            <div class="item" data-type="King">
-                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">3번</span>
-            </div>
-        </li>
-    </ul>
-</div>
+    <div class="item" data-type="pawn">
+        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">1번</span>
+    </div>
+    <div class="item" data-type="Rook">
+        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">2번</span>
+    </div>
+    <div class="item" data-type="Knight">
+        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">4번</span>
+    </div>
+    <div class="item" data-type="Bishop">
+        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">2번</span>
+    </div>
+    <div class="item" data-type="Queen">
+        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">2번</span>
+    </div>
+    <div class="item" data-type="King">
+        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">3번</span>
+    </div>
+    </div>
     <p data-ke-size="size16">&nbsp;</p>
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
     <script type="text/javascript">
@@ -179,20 +136,6 @@
           }
         });
       });
-   // html dom 이 다 로딩된 후 실행된다.
-    $(document).ready(function(){
-        // memu 클래스 바로 하위에 있는 a 태그를 클릭했을때
-        $(".menu>a").click(function(){
-            // 현재 클릭한 태그가 a 이기 때문에
-            // a 옆의 태그중 ul 태그에 hide 클래스 태그를 넣던지 빼던지 한다.
-            $(this).next("ul").toggleClass("hide");
-        });
-    });
-  
     </script>
-    <style>
-        .menu a{cursor:pointer;}
-        .menu .hide{display:none;}
-    </style>
     </html>
     
