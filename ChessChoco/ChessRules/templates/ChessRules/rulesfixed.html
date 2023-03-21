@@ -302,21 +302,7 @@
         }
       });
     });
-    $(document).ready(function(){
-        //Default Action
-        $(".item").hide();
-        $("ul.hide li:first").addClass("active").show(); //Activate first tab
-        $(".item:first").show(); //Show first tab content
-        //On Click Event
-        $("ul.tabs li").click(function() {
-            $("ul.hide li").removeClass("active"); //Remove any "active" class
-            $(this).addClass("active"); //Add "active" class to selected tab
-            $(".item").hide(); //Hide all tab content
-            var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
-            $(activeTab).fadeIn(); //Fade in the active content
-            return false;
-        });
-    });
+    
     const itemTab_special = document.querySelector('.item_tab_special');
     const items_special = document.querySelector('.items_special');
     const item_special = document.querySelectorAll('.item_special');
@@ -333,6 +319,21 @@
           item_special.style.display = "none"
         }
       });
+    });
+    $(document).ready(function(){
+        //Default Action
+        $(".item").hide();
+        $("ul.hide li:first").addClass("active").show(); //Activate first tab
+        $(".item:first").show(); //Show first tab content
+        //On Click Event
+        $("ul.tabs li").click(function() {
+            $("ul.hide li").removeClass("active"); //Remove any "active" class
+            $(this).addClass("active"); //Add "active" class to selected tab
+            $(".item").hide(); //Hide all tab content
+            var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+            $(activeTab).fadeIn(); //Fade in the active content
+            return false;
+        });
     });
     $(document).ready(function(){
         //Default Action
