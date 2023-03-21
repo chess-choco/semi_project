@@ -9,7 +9,7 @@
         <th>이름</th>
         <th>수</th>
         <th>설명</th>
-        <th>변화 수</th>
+        <th>변화수</th>
       </tr>
     </thead>
     <tbody>
@@ -18,7 +18,17 @@
           <td>{{ opening.name }}</td>
           <td>{{ opening.moves }}</td>
           <td>{{ opening.description }}</td>
-          <td>{{ opening.variation }}</td>
+          <td>
+            {% if opening.num_variations > 0 %}
+              <ul>
+                {% for variation in opening.variations.all %}
+                  <li>{{ variation.name }}: {{ variation.moves }}</li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              No variations found.
+            {% endif %}
+          </td>
         </tr>
       {% endfor %}
     </tbody>
