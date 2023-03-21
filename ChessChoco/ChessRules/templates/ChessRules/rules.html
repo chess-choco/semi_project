@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang=ko>
   <head>
-    <title>체스 규칙 알아보기</title>
     <meta charset="utf-8">
     <style>
       body { 
         background-color: #F5F5F5;
-        margin: 20px;
-        padding: 20px;
+        font-family: 'Noto Sans Demilight', 'Noto Sans KR';
+        margin: 0;
+        padding: 0;
         text-align: center;
       }
             
@@ -18,12 +18,45 @@
         text-align: center;
         position: relative;
       }
+
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+
+      nav li {
+        display: inline-block;
+        margin-right: 20px;
+      }
+
+      nav li:last-child {
+        margin-right: 0;
+      }
+
+      nav a {
+        color: #fff;
+        text-decoration: none;
+      }
+
+      nav a:hover {
+        color: #ccc;
+      }
             
       h1 {
         margin-top: 20px;
         text-align: center;
         font-size: 50px;
         color: #2C3E50;
+      }
+
+      main {
+        padding: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        font-size: 20px;
+        line-height: 1.5;
       }
             
       h2 {
@@ -51,6 +84,8 @@
         font-size: 20px;
         color: #34495E;
         line-height: 1.5;
+        list-style:none;
+        padding-left:0px
       }
             
       li {
@@ -67,9 +102,21 @@
         line-height: 1.5;
       }
       
-      a {
+      span {
         text-align: center;
         position: relative;
+        padding: 5px;
+        margin: 20px auto;
+        font-size: 18px;
+      }
+
+      a:hover {
+        cursor: pointer;
+        color: #ccc;
+        background-color: #4a5158;
+        padding: 5px;
+        border-radius: 5px;
+        margin: 20px auto;
       }
             
       table {
@@ -90,90 +137,172 @@
         padding: 10px;
         font-size: 20px;
       }
-            
-      .white {
-        background-color: #FFF;
-      }
-            
-      .black {
-        background-color: #34495E;
-        color: #FFF;
-      }
     </style>
+    <title>체스 규칙 알아보기</title>
   </head>
   <body>
     <header>
       <h1>기물 움직이는 법</h1>
+      <nav>
+        <ul>
+          <li><a href="/main">Home</a></li>
+          <li><a href="/rules">규칙</a></li>
+          <li><a href="/openings">오프닝</a></li>
+        </ul>
+      </nav>
     </header>
     
     <h2>체스판 구성</h2>
     <p>체스는 두 플레이어가 각각 16개의 기물을 가지고 시작합니다.<br>한쪽은 백, 한쪽은 흑을 맡으며, 백 플레이어가 먼저 시작합니다.</p>
     <img src="/static/image/rules00.png">
     <p>기물은 위와 같이 배치한 상태로 시작합니다.</p>
-
-    <h2>기본 행마법</h2>
-      <h3>♙♟ 폰 (Pawn, P)</h3>
-      <p>폰은 체스에서 가장 수가 많고 약한 기물입니다. 플레이어마다 8개가 주어집니다.</p>
-      <img src="/static/image/rules01.png">
-      <p>폰은 시작 위치(2번째 줄)에서는 앞으로 2칸 또는 1칸 이동할 수 있고,<br>이후부터는 앞으로 1칸씩만 이동할 수 있습니다.<br>뒤와 좌우로는 이동할 수 없습니다.</p>
-      <img src="/static/image/rules02.png">
-      <p>다른 기물들은 이동 범위가 곧 공격 범위이지만, 폰은 다릅니다.<br>폰은 정면을 공격할 수 없고 좌우 대각선 1칸 앞만 공격할 수 있습니다.<br>좌우 대각선 1칸 앞에 상대 기물이 있다면 그것을 잡고 그 위치로 이동할 수 있습니다.</p>
-      <img src="/static/image/rules03.png">
-      <p>폰은 정면을 공격할 수 없고 뒤나 옆으로도 갈 수 없으므로,<br>자신의 폰과 상대 폰과 마주치면 서로 잡지 못하고 전열이 생기게 됩니다.<br>이렇게 생긴 전열은 곧 전장의 구조가 됩니다.</p>
-
-      <h3>♔♚ 킹 (King, K)</h3>
-      <p>킹은 체스에서 가장 중요한 기물입니다.<br>하나뿐인 자신의 킹이 공격을 벗어날 수 없게 되면 게임에서 패배하기 때문입니다.<br>마찬가지로 상대 킹을 공격하여 외통수 상태로 만들면 게임에서 승리합니다.<br>자신의 킹은 안전하게 지키면서 상대 킹을 위험에 빠뜨리는 것이 바로 체스의 승리 조건입니다.</p>
-      <img src="/static/image/rules04.png">
-      <p>킹은 여덟 방향으로 1칸씩만 이동하고 공격할 수 있습니다.<br>약해 보이지만, 한번에 여덟 곳을 공격하고 지킬 수 있어 생각보다 강력한 기물입니다.</p>
-
-      <h3>♔♚ 퀸 (Queen, Q)</h3>
-      <p>퀸은 체스에서 가장 강력한 기물로, 플레이어마다 하나만 주어집니다.<br>폰의 가치를 1점으로 볼 때, 퀸의 점수는 자그마치 8점입니다.</p>
-      <img src="/static/image/rules05.png">
-      <p>퀸은 8방향 중 원하는 방향으로 제한 없이 이동하고 공격할 수 있습니다.<br>단, 이동할 때 다른 기물을 뛰어넘을 수는 없습니다.</p>
-
-      <h3>♘♞ 나이트 (Knight, N)</h3>
-      <p>나이트는 체스에서 가장 변칙적인 기물로, 플레이어마다 2개가 주어집니다.</p>
-      <img src="/static/image/rules06.png">
-      <p>나이트는 위와 같이 L자로 이동하고 공격할 수 있습니다.<br>경로에 기물이 있어도 무시하고 이동할 수 있습니다.<br>이 특이한 움직임을 다른 기물을 뛰어넘는다고 표현하기도 합니다.</p>
-
-      <h3>♗♝ 비숍 (Bishop, B)</h3>
-      <p>비숍은 대각선으로만 움직이는 기물로, 플레이어마다 2개가 주어집니다.</p>
-      <img src="/static/image/rules07.png">
-      <p>비숍은 대각선 4방향 중 원하는 방향으로 제한 없이 이동하고 공격할 수 있습니다.<br>당연히 다른 기물을 뛰어넘지는 못합니다.</p>
-      <img src="/static/image/rules08.png">
-      <p>플레이어에게 주어지는 비숍 2개 중 하나는 어두운 칸, 하나는 밝은 칸에 배치됩니다.<br>비숍은 대각선으로 움직이므로 어두운 비숍과 밝은 비숍은 서로를 공격할 수가 없습니다.</p>
-
-      <h3>♖♜ 룩 (Rook, R)</h3>
-      <p>룩은 일반 기물 중 가장 강력하며(5점), 플레이어마다 2개가 주어집니다.</p>
-      <img src="/static/image/rules09.png">
-      <p>룩은 전후좌우 4방향 중 원하는 방향으로 제한 없이 이동하고 공격할 수 있습니다.</p>
-      <img src="/static/image/rules10.png">
-      <p>룩은 분명 강력하지만, 처음에는 폰과 다른 기물에게 둘러쌓여 구석에 있습니다.<br>폰이 움직이고 나이트와 비숍이 나간 후에야 행동할 수 있으므로 초반에는 사용할 수 없습니다.<br>그래도 룩은 공격과 방어 모두에서 유용하므로, 절대 허무하게 잃어서는 안 될 기물입니다.</p>
-
-    <h2>특수 행마법</h2>
-      <h3>캐슬 (Castle, O-O / O-O-O)</h3>
-      <p>캐슬은 한 턴에 킹과 룩을 둘 다 움직여 킹을 룩 뒤에 숨기는 행마법으로, 게임 중 1번만 할 수 있습니다.<br>킹을 좌측이나 우측으로 2칸 움직이고, 룩을 킹이 온 방향 쪽 옆구리에 붙입니다.<br>한 턴만에 기물 2개를 움직이므로 킹과 룩의 느린 속도를 보완해 줍니다.</p>
-      <p>킹사이드 캐슬 (O-O):</p>
-      <img src="/static/image/rules11.png"> <img src="/static/image/rules12.png"> <img src="/static/image/rules13.png">
-      <p>퀸사이드 캐슬 (O-O-O):</p>
-      <img src="/static/image/rules14.png"> <img src="/static/image/rules15.png"> <img src="/static/image/rules16.png">
-      <p>캐슬을 할 수 있는 조건은 다음과 같습니다.</p>
-      <ol>
-        <li>킹과 대상 룩이 게임이 시작하고 단 한 번도 자리에서 움직인 적이 없어야 합니다.<br>예를 들어, 백이 퀸사이드(왼쪽) 캐슬을 하려고 하면, 킹과 퀸사이드 룩이 움직인 적이 없어야 합니다.</li>
-        <li>킹과 룩 사이에 다른 기물이 없어야 합니다. 아군과 적군 기물 모두 포함입니다.</li>
-        <li>킹이 움직일 2칸이 상대 기물의 공격 범위에 들어가 있지 않아야 하고,<br>킹이 공격받고 있지 않는 상태여야 합니다. 룩은 공격받고 있어도 상관 없습니다.</li>
-      </ol>
-
-      <h3>승급, 프로모션 (Promotion, =Q/N/B/R)</h3>
-      <p>폰이 전진하여 자신 기준 8번째 줄, 즉 상대 진영 첫 줄까지 도달하면,<br>해당 폰을 퀸, 나이트, 비숍, 룩 중 원하는 것으로 승격할 수 있게 됩니다.<br>보통은 가장 강력한 퀸으로 승급시키기 때문에 퀴닝(Queening)이라고 부르기도 합니다.</p>
-      <img src="/static/image/rules17.png"> <img src="/static/image/rules18.png">
-      <p>승급하는 기물의 종류에는 어떤 제한도 없습니다.<br>체스판 위에 퀸이 남아 있어도 두 번째 퀸을 만들 수도 있습니다.<br>폰이 하나도 잡히지 않았다면, 이론상 퀸 9개도 가능합니다!</p>
-
-      <h3>앙 파상 (En Passant)</h3>
-      <p>상대 폰이 한번에 2칸 앞으로 가서 자신 폰 옆에 섰다면,<br>상대방 폰이 1칸만 움직인 것처럼 자신의 폰으로 잡을 수 있는 규칙을 앙파상이라고 부릅니다.<br>앙파상은 상대 폰이 2칸 전진한 그 턴에만 가능하며, 반드시 해야 하는 것은 아닙니다.</p>
-      <img src="/static/image/rules19.png"> <img src="/static/image/rules20.png">
-      <p><br></p>
-
+    
+    <div class="tt_article_useless_p_margin contents_style">
+        <div class="item_tab">
+            <span>
+                <h2>기본 행마법</h2>
+                <br>
+                <a style="padding: 0 .5em;" data-filter="Pawn">폰</a> 
+                <a style="padding: 0 .5em;" data-filter="Rook">룩</a> 
+                <a style="padding: 0 .5em;" data-filter="Knight">나이트</a> 
+                <a style="padding: 0 .5em;" data-filter="Bishop">비숍</a>
+                <a style="padding: 0 .5em;" data-filter="Queen">퀸</a>
+                <a style="padding: 0 .5em;" data-filter="King">킹</a>
+            </span>
+        </div>
+    
+        <div class="items">
+            <ul>
+                <ul class="hide">
+                <li class="base">
+                    <div class="item" data-type="Pawn">
+                        <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                            <h3>♙♟ 폰 (Pawn, P)</h3>
+                            <p>폰은 체스에서 가장 수가 많고 약한 기물입니다. 플레이어마다 8개가 주어집니다.</p>
+                            <img src="/static/image/rules01.png">
+                            <p>폰은 시작 위치(2번째 줄)에서는 앞으로 2칸 또는 1칸 이동할 수 있고,<br>이후부터는 앞으로 1칸씩만 이동할 수 있습니다.<br>뒤와 좌우로는 이동할 수 없습니다.</p>
+                            <img src="/static/image/rules02.png">
+                            <p>다른 기물들은 이동 범위가 곧 공격 범위이지만, 폰은 다릅니다.<br>폰은 정면을 공격할 수 없고 좌우 대각선 1칸 앞만 공격할 수 있습니다.<br>좌우 대각선 1칸 앞에 상대 기물이 있다면 그것을 잡고 그 위치로 이동할 수 있습니다.</p>
+                            <img src="/static/image/rules03.png">
+                            <p>폰은 정면을 공격할 수 없고 뒤나 옆으로도 갈 수 없으므로,<br>자신의 폰과 상대 폰과 마주치면 서로 잡지 못하고 전열이 생기게 됩니다.<br>이렇게 생긴 전열은 곧 전장의 구조가 됩니다.</p>
+                        </span>
+                    </div>
+                    <li class="base">
+                        <div class="item" data-type="King">
+                            <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                                <h3>♔♚ 킹 (King, K)</h3>
+                                <p>킹은 체스에서 가장 중요한 기물입니다.<br>하나뿐인 자신의 킹이 공격을 벗어날 수 없게 되면 게임에서 패배하기 때문입니다.<br>마찬가지로 상대 킹을 공격하여 외통수 상태로 만들면 게임에서 승리합니다.<br>자신의 킹은 안전하게 지키면서 상대 킹을 위험에 빠뜨리는 것이 바로 체스의 승리 조건입니다.</p>
+                                <img src="/static/image/rules04.png">
+                                <p>킹은 여덟 방향으로 1칸씩만 이동하고 공격할 수 있습니다.<br>약해 보이지만, 한번에 여덟 곳을 공격하고 지킬 수 있어 생각보다 강력한 기물입니다.</p>
+                            </span>
+                        </div>
+                    </li>
+                    <li class="base">
+                        <div class="item" data-type="Queen">
+                            <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                                <h3>♔♚ 퀸 (Queen, Q)</h3>
+                                <p>퀸은 체스에서 가장 강력한 기물로, 플레이어마다 하나만 주어집니다.<br>폰의 가치를 1점으로 볼 때, 퀸의 점수는 자그마치 8점입니다.</p>
+                                <img src="/static/image/rules05.png">
+                                <p>퀸은 8방향 중 원하는 방향으로 제한 없이 이동하고 공격할 수 있습니다.<br>단, 이동할 때 다른 기물을 뛰어넘을 수는 없습니다.</p>
+                            </span>
+                        </div>
+                    </li>
+                    <li class="base">
+                        <div class="item" data-type="Knight">
+                            <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                                <h3>♘♞ 나이트 (Knight, N)</h3>
+                                <p>나이트는 체스에서 가장 변칙적인 기물로, 플레이어마다 2개가 주어집니다.</p>
+                                <img src="/static/image/rules06.png">
+                                <p>나이트는 위와 같이 L자로 이동하고 공격할 수 있습니다.<br>경로에 기물이 있어도 무시하고 이동할 수 있습니다.<br>이 특이한 움직임을 다른 기물을 뛰어넘는다고 표현하기도 합니다.</p>
+                            </span>
+                        </div>
+                    </li>
+                    <li class="base">
+                        <div class="item" data-type="Bishop">
+                            <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                                <h3>♗♝ 비숍 (Bishop, B)</h3>
+                                <p>비숍은 대각선으로만 움직이는 기물로, 플레이어마다 2개가 주어집니다.</p>
+                                <img src="/static/image/rules07.png">
+                                <p>비숍은 대각선 4방향 중 원하는 방향으로 제한 없이 이동하고 공격할 수 있습니다.<br>당연히 다른 기물을 뛰어넘지는 못합니다.</p>
+                                <img src="/static/image/rules08.png">
+                                <p>플레이어에게 주어지는 비숍 2개 중 하나는 어두운 칸, 하나는 밝은 칸에 배치됩니다.<br>비숍은 대각선으로 움직이므로 어두운 비숍과 밝은 비숍은 서로를 공격할 수가 없습니다.</p>
+                            </span>
+                        </div>
+                    </li>
+                    <li class="base">
+                        <div class="item" data-type="Rook">
+                            <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                                <h3>♖♜ 룩 (Rook, R)</h3>
+                                <p>룩은 일반 기물 중 가장 강력하며(5점), 플레이어마다 2개가 주어집니다.</p>
+                                <img src="/static/image/rules09.png">
+                                <p>룩은 전후좌우 4방향 중 원하는 방향으로 제한 없이 이동하고 공격할 수 있습니다.</p>
+                                <img src="/static/image/rules10.png">
+                                <p>룩은 분명 강력하지만, 처음에는 폰과 다른 기물에게 둘러쌓여 구석에 있습니다.<br>폰이 움직이고 나이트와 비숍이 나간 후에야 행동할 수 있으므로 초반에는 사용할 수 없습니다.<br>그래도 룩은 공격과 방어 모두에서 유용하므로, 절대 허무하게 잃어서는 안 될 기물입니다.</p>
+                            </span>
+                        </div>
+                    </li>
+                  </li>
+                </ul>
+              </ul>
+        </div>
+      </div>
+      <div class="tt_article_useless_p_margin contents_style">
+        <div class="item_tab_special">
+          <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+            <a class="on" style="padding: 0 .5em;">          
+              <h2>특수 행마법</h2>
+            </a>
+            <br>
+            <a style="padding: 0 .5em;" data-filter="Castle">캐슬</a> 
+            <a style="padding: 0 .5em;" data-filter="Promotion">승급,프로모션</a>
+            <a style="padding: 0 .5em;" data-filter="En_Passant">앙 파상</a> 
+        </span>
+    </div>
+    <div class="items_special">
+      <ul>
+          <ul class="hide">
+          <li class="base">
+              <div class="item_special" data-type="Castle">
+                  <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                    <h3>캐슬 (Castle, O-O / O-O-O)</h3>
+                    <p>캐슬은 한 턴에 킹과 룩을 둘 다 움직여 킹을 룩 뒤에 숨기는 행마법으로, 게임 중 1번만 할 수 있습니다.<br>킹을 좌측이나 우측으로 2칸 움직이고, 룩을 킹이 온 방향 쪽 옆구리에 붙입니다.<br>한 턴만에 기물 2개를 움직이므로 킹과 룩의 느린 속도를 보완해 줍니다.</p>
+                    <p>킹사이드 캐슬 (O-O):</p>
+                    <img src="/static/image/rules11.png"> <img src="/static/image/rules12.png"> <img src="/static/image/rules13.png">
+                    <p>퀸사이드 캐슬 (O-O-O):</p>
+                    <img src="/static/image/rules14.png"> <img src="/static/image/rules15.png"> <img src="/static/image/rules16.png">
+                    <p>캐슬을 할 수 있는 조건은 다음과 같습니다.</p>
+                    <ol>
+                      <li>킹과 대상 룩이 게임이 시작하고 단 한 번도 자리에서 움직인 적이 없어야 합니다.<br>예를 들어, 백이 퀸사이드(왼쪽) 캐슬을 하려고 하면, 킹과 퀸사이드 룩이 움직인 적이 없어야 합니다.</li>
+                      <li>킹과 룩 사이에 다른 기물이 없어야 합니다. 아군과 적군 기물 모두 포함입니다.</li>
+                      <li>킹이 움직일 2칸이 상대 기물의 공격 범위에 들어가 있지 않아야 하고,<br>킹이 공격받고 있지 않는 상태여야 합니다. 룩은 공격받고 있어도 상관 없습니다.</li>
+                    </ol>
+                  </span>
+               </div>
+          <li class="base">
+              <div class="item_special" data-type="Promotion"> 
+                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                  <h3>승급, 프로모션 (Promotion, =Q/N/B/R)</h3>
+                  <p>폰이 전진하여 자신 기준 8번째 줄, 즉 상대 진영 첫 줄까지 도달하면,<br>해당 폰을 퀸, 나이트, 비숍, 룩 중 원하는 것으로 승격할 수 있게 됩니다.<br>보통은 가장 강력한 퀸으로 승급시키기 때문에 퀴닝(Queening)이라고 부르기도 합니다.</p>
+                  <img src="/static/image/rules17.png"> <img src="/static/image/rules18.png">
+                  <p>승급하는 기물의 종류에는 어떤 제한도 없습니다.<br>체스판 위에 퀸이 남아 있어도 두 번째 퀸을 만들 수도 있습니다.<br>폰이 하나도 잡히지 않았다면, 이론상 퀸 9개도 가능합니다!</p>
+                </span>
+              </div>
+          </li>
+          <li class="base">
+            <div class="item_special" data-type="En_Passant">
+                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                    <h3>앙 파상 (En Passant)</h3>
+                    <p>상대 폰이 한번에 2칸 앞으로 가서 자신 폰 옆에 섰다면,<br>상대방 폰이 1칸만 움직인 것처럼 자신의 폰으로 잡을 수 있는 규칙을 앙파상이라고 부릅니다.<br>앙파상은 상대 폰이 2칸 전진한 그 턴에만 가능하며, 반드시 해야 하는 것은 아닙니다.</p>
+                    <img src="/static/image/rules19.png"> <img src="/static/image/rules20.png">
+                    <p><br></p>
+                </span>
+              </div>
+          </li>
+        </li>
+        </ul>
+      </ul>
+    </div>
+  </div>
     <header>
       <h1>승부 규칙</h1>
     </header>
@@ -196,4 +325,71 @@
       <p>위 그림에서 흑의 폰은 앞이 가로막혀 움직일 수 없습니다.<br>그리고 킹은 체크 상태는 아니지만 주변 칸이 모두 백의 공격 범위 안에 있으므로,<br>킹을 스스로 체크 상태에 빠뜨릴 수 없다는 규칙에 따라 움직일 수 없습니다.<br>따라서 흑이 아무런 행동도 할 수 없는 상태이므로, 스테일메이트가 선언됩니다.</p>
 
   </body>
+  <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+  <script type="text/javascript">
+    const itemTab = document.querySelector('.item_tab');
+    const items = document.querySelector('.items');
+    const item = document.querySelectorAll('.item');
+  
+    itemTab.addEventListener('click', (e) => {
+      const filter = e.target.dataset.filter || e.target.parentNode.dataset.filter;
+      if (filter == null) {
+        return;
+      }
+      item.forEach((item) => {
+        if(filter === '*' || filter === item.dataset.type) {
+          item.style.display = "block"
+        } else{
+          item.style.display = "none"
+        }
+      });
+    });
+    $(document).ready(function(){
+        //Default Action
+        $(".item").hide();
+        $("ul.hide li:first").addClass("active").show(); //Activate first tab
+        $(".item:first").show(); //Show first tab content
+        //On Click Event
+        $("ul.tabs li").click(function() {
+            $("ul.hide li").removeClass("active"); //Remove any "active" class
+            $(this).addClass("active"); //Add "active" class to selected tab
+            $(".item").hide(); //Hide all tab content
+            var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+            $(activeTab).fadeIn(); //Fade in the active content
+            return false;
+        });
+    });
+    const itemTab_special = document.querySelector('.item_tab_special');
+    const items_special = document.querySelector('.items_special');
+    const item_special = document.querySelectorAll('.item_special');
+  
+    itemTab_special.addEventListener('click', (e) => {
+      const filter = e.target.dataset.filter || e.target.parentNode.dataset.filter;
+      if (filter == null) {
+        return;
+      }
+      item_special.forEach((item_special) => {
+        if(filter === '*' || filter === item_special.dataset.type) {
+          item_special.style.display = "block"
+        } else{
+          item_special.style.display = "none"
+        }
+      });
+    });
+    $(document).ready(function(){
+        //Default Action
+        $(".item_special").hide();
+        $("ul.hide li:first").addClass("active").show(); //Activate first tab
+        $(".item_special:first").show(); //Show first tab content
+        //On Click Event
+        $("ul.tabs li").click(function() {
+            $("ul.hide li").removeClass("active"); //Remove any "active" class
+            $(this).addClass("active"); //Add "active" class to selected tab
+            $(".item_special").hide(); //Hide all tab content
+            var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+            $(activeTab).fadeIn(); //Fade in the active content
+            return false;
+        });
+    });
+  </script>
 </html>
