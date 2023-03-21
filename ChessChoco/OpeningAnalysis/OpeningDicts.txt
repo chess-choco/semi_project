@@ -1,0 +1,44 @@
+{"name": "오픈 게임", "moves": "1.e4 e5"}
+{"name": "루이 로페즈", "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5"}
+{"name": "스카치 게임", "moves": "1.e4 e5 2.Nf3 Nc6 3.d4"} 
+{"name": "이탈리안 게임", "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4"}
+{"name": "포 나이트 게임", "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6"}
+{"name": "페트로프 디펜스", "moves": "1.e4 e5 2.Nf3 Nf6"}
+{"name": "필리도어 디펜스", "moves": "1.e4 e5 2.Nf3 d6"}
+{"name": "비엔나 게임", "moves": "1.e4 e5 2.Nc3"}
+{"name": "비숍 오프닝", "moves": "1.e4 e5 2.Bc4"}
+{"name": "킹스 갬빗", "moves": "1.e4 e5 2.f4"}
+{"name": "센터 게임", "moves": "1.e4 e5 2.d4 exd4 3.Qxd4"}
+{"name": "대니쉬 게임", "moves": "1.e4 e5 2.d4 exd4 3.c3"}
+{"name": "시실리안 디펜스", "moves": "1.e4 c5"}
+{"name": "프렌치 디펜스", "moves": "1.e4 e6"}
+{"name": "카로-칸 디펜스", "moves": "1.e4 c6"}
+{"name": "스칸디나비안 디펜스", "moves": "1.e4 d5"}
+{"name": "피어츠 디펜스", "moves": "1.e4 d6 2.d4 Nf6 3.Nc3 g6"}
+{"name": "알레킨 디펜스", "moves": "1.e4 Nf6"}
+{"name": "모던 디펜스", "moves": "1.e4 g6"}
+{"name": "클로즈드 게임", "moves": "1.d4 d5"}
+{"name": "퀸스 갬빗, "moves": "1.d4 d5 2.c4"}
+{"name": "퀸스 갬빗 수락 (QGA)", "moves": "1.d4 d5 2.c4 dxc4"}
+{"name": "퀸스 갬빗 거절 (QGD)", "moves": "1.d4 d5 2.c4 e6"}
+{"name": "슬라브 디펜스", "moves": "1.d4 d5 2.c4 c6"}
+{"name": "스톤월 어택", "moves": "1.d4 d5 2.e3 Nf6 3.Bd3 c5 4.c3 Nc6 5.f4"}
+{"name": "콜 시스템", "moves": "1.d4 d5 2.Nf3 Nf6 3.e3"}
+{"name": "인디언 디펜스", "moves": "1.d4 Nf6"}
+{"name": "모던 베노니", "moves": "1.d4 Nf6 2.c4 c5 3.d5 e6"}
+{"name": "벵코 갬빗 (볼가 갬빗)", "moves": "1.d4 Nf6 2.c4 c5 3.d5 b5"}
+{"name": "님조-인디언 디펜스", "moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4"}
+{"name": "퀸스 인디언 디펜스", "moves": "1.d4 Nf6 2.c4 e6 3.Nf3 b6"}
+{"name": "카탈란 오프닝", "moves": "1.d4 Nf6 2.c4 e6 3.g3"}
+{"name": "그룬펠드 디펜스", "moves": "1.d4 Nf6 2.c4 g6 3.Nc3 d5"}
+{"name": "킹스 인디언 디펜스 (KID)", "moves": "1.d4 Nf6 2.c4 g6 3.Nc3 Bg7"}
+{"name": "베노니 디펜스", "moves": "1.d4 c5"}
+{"name": "더치 디펜스", "moves": "1.d4 f5"}
+{"name": "랄슨 오프닝", "moves": "1.b3"}
+{"name": "소콜스키 오프닝", "moves": "1.b4"}
+{"name": "잉글리시 오프닝", "moves": "1.c4"}
+{"name": "주커토트 오프닝", "moves": "1.Nf3"}
+{"name": "킹스 인디언 어택 (KIA)", "moves": "1.Nf3,  2.g3,  3.Bg2,  4.0-0,  5.d3,  6.Nbd2,  7.e4"}
+{"name": "버드 오프닝", "moves": "1.f4"}
+{"name": "벵코 오프닝", "moves": "1.g3"}
+{"name": "그롭 어택", "moves": "1.g4"}
