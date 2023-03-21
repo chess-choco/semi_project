@@ -120,12 +120,12 @@
                     <h2>기본 행마법</h2>
                 </a>
                 <br>
-                <a style="padding: 0 .5em;" data-filter="Pawn">폰</a> 
-                <a style="padding: 0 .5em;" data-filter="Rook">룩</a> 
-                <a style="padding: 0 .5em;" data-filter="Knight">나이트</a> 
-                <a style="padding: 0 .5em;" data-filter="Bishop">비숍</a>
-                <a style="padding: 0 .5em;" data-filter="Queen">퀸</a>
-                <a style="padding: 0 .5em;" data-filter="King">킹</a>
+                <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="Pawn">폰</a> 
+                <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="Rook">룩</a> 
+                <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="Knight">나이트</a> 
+                <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="Bishop">비숍</a>
+                <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="Queen">퀸</a>
+                <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="King">킹</a>
             </span>
         </div>
     
@@ -143,7 +143,6 @@
                             <p>다른 기물들은 이동 범위가 곧 공격 범위이지만, 폰은 다릅니다.<br>폰은 정면을 공격할 수 없고 좌우 대각선 1칸 앞만 공격할 수 있습니다.<br>좌우 대각선 1칸 앞에 상대 기물이 있다면 그것을 잡고 그 위치로 이동할 수 있습니다.</p>
                             <img src="/static/image/rules03.png">
                             <p>폰은 정면을 공격할 수 없고 뒤나 옆으로도 갈 수 없으므로,<br>자신의 폰과 상대 폰과 마주치면 서로 잡지 못하고 전열이 생기게 됩니다.<br>이렇게 생긴 전열은 곧 전장의 구조가 됩니다.</p>
-                            </a>
                         </span>
                     </div>
                     <li class="base">
@@ -200,31 +199,68 @@
                             </span>
                         </div>
                     </li>
-                </div>
-    <h2>특수 행마법</h2>
-      <h3>캐슬 (Castle, O-O / O-O-O)</h3>
-      <p>캐슬은 한 턴에 킹과 룩을 둘 다 움직여 킹을 룩 뒤에 숨기는 행마법으로, 게임 중 1번만 할 수 있습니다.<br>킹을 좌측이나 우측으로 2칸 움직이고, 룩을 킹이 온 방향 쪽 옆구리에 붙입니다.<br>한 턴만에 기물 2개를 움직이므로 킹과 룩의 느린 속도를 보완해 줍니다.</p>
-      <p>킹사이드 캐슬 (O-O):</p>
-      <img src="/static/image/rules11.png"> <img src="/static/image/rules12.png"> <img src="/static/image/rules13.png">
-      <p>퀸사이드 캐슬 (O-O-O):</p>
-      <img src="/static/image/rules14.png"> <img src="/static/image/rules15.png"> <img src="/static/image/rules16.png">
-      <p>캐슬을 할 수 있는 조건은 다음과 같습니다.</p>
-      <ol>
-        <li>킹과 대상 룩이 게임이 시작하고 단 한 번도 자리에서 움직인 적이 없어야 합니다.<br>예를 들어, 백이 퀸사이드(왼쪽) 캐슬을 하려고 하면, 킹과 퀸사이드 룩이 움직인 적이 없어야 합니다.</li>
-        <li>킹과 룩 사이에 다른 기물이 없어야 합니다. 아군과 적군 기물 모두 포함입니다.</li>
-        <li>킹이 움직일 2칸이 상대 기물의 공격 범위에 들어가 있지 않아야 하고,<br>킹이 공격받고 있지 않는 상태여야 합니다. 룩은 공격받고 있어도 상관 없습니다.</li>
-      </ol>
-
-      <h3>승급, 프로모션 (Promotion, =Q/N/B/R)</h3>
-      <p>폰이 전진하여 자신 기준 8번째 줄, 즉 상대 진영 첫 줄까지 도달하면,<br>해당 폰을 퀸, 나이트, 비숍, 룩 중 원하는 것으로 승격할 수 있게 됩니다.<br>보통은 가장 강력한 퀸으로 승급시키기 때문에 퀴닝(Queening)이라고 부르기도 합니다.</p>
-      <img src="/static/image/rules17.png"> <img src="/static/image/rules18.png">
-      <p>승급하는 기물의 종류에는 어떤 제한도 없습니다.<br>체스판 위에 퀸이 남아 있어도 두 번째 퀸을 만들 수도 있습니다.<br>폰이 하나도 잡히지 않았다면, 이론상 퀸 9개도 가능합니다!</p>
-
-      <h3>앙 파상 (En Passant)</h3>
-      <p>상대 폰이 한번에 2칸 앞으로 가서 자신 폰 옆에 섰다면,<br>상대방 폰이 1칸만 움직인 것처럼 자신의 폰으로 잡을 수 있는 규칙을 앙파상이라고 부릅니다.<br>앙파상은 상대 폰이 2칸 전진한 그 턴에만 가능하며, 반드시 해야 하는 것은 아닙니다.</p>
-      <img src="/static/image/rules19.png"> <img src="/static/image/rules20.png">
-      <p><br></p>
-
+                  </li>
+                </ul>
+              </ul>
+        </div>
+      </div>
+      <div class="tt_article_useless_p_margin contents_style">
+        <div class="item_tab_special">
+          <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+            <a class="on" style="padding: 0 .5em;">          
+              <h2>특수 행마법</h2>
+            </a>
+            <br>
+            <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline;"  data-filter="Castle">캐슬</a> 
+            <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="Promotion">승급,프로모션</a>
+            <a style="padding: 0 .5em;color: #34495E;text-decoration-line: underline" data-filter="En_Passant">앙 파상</a> 
+        </span>
+    </div>
+    <div class="items_special">
+      <ul>
+          <ul class="hide">
+          <li class="base">
+              <div class="item_special" data-type="Castle">
+                  <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                    <h3>캐슬 (Castle, O-O / O-O-O)</h3>
+                    <p>캐슬은 한 턴에 킹과 룩을 둘 다 움직여 킹을 룩 뒤에 숨기는 행마법으로, 게임 중 1번만 할 수 있습니다.<br>킹을 좌측이나 우측으로 2칸 움직이고, 룩을 킹이 온 방향 쪽 옆구리에 붙입니다.<br>한 턴만에 기물 2개를 움직이므로 킹과 룩의 느린 속도를 보완해 줍니다.</p>
+                    <p>킹사이드 캐슬 (O-O):</p>
+                    <img src="/static/image/rules11.png"> <img src="/static/image/rules12.png"> <img src="/static/image/rules13.png">
+                    <p>퀸사이드 캐슬 (O-O-O):</p>
+                    <img src="/static/image/rules14.png"> <img src="/static/image/rules15.png"> <img src="/static/image/rules16.png">
+                    <p>캐슬을 할 수 있는 조건은 다음과 같습니다.</p>
+                    <ol>
+                      <li>킹과 대상 룩이 게임이 시작하고 단 한 번도 자리에서 움직인 적이 없어야 합니다.<br>예를 들어, 백이 퀸사이드(왼쪽) 캐슬을 하려고 하면, 킹과 퀸사이드 룩이 움직인 적이 없어야 합니다.</li>
+                      <li>킹과 룩 사이에 다른 기물이 없어야 합니다. 아군과 적군 기물 모두 포함입니다.</li>
+                      <li>킹이 움직일 2칸이 상대 기물의 공격 범위에 들어가 있지 않아야 하고,<br>킹이 공격받고 있지 않는 상태여야 합니다. 룩은 공격받고 있어도 상관 없습니다.</li>
+                    </ol>
+                  </span>
+               </div>
+          <li class="base">
+              <div class="item_special" data-type="Promotion"> 
+                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                  <h3>승급, 프로모션 (Promotion, =Q/N/B/R)</h3>
+                  <p>폰이 전진하여 자신 기준 8번째 줄, 즉 상대 진영 첫 줄까지 도달하면,<br>해당 폰을 퀸, 나이트, 비숍, 룩 중 원하는 것으로 승격할 수 있게 됩니다.<br>보통은 가장 강력한 퀸으로 승급시키기 때문에 퀴닝(Queening)이라고 부르기도 합니다.</p>
+                  <img src="/static/image/rules17.png"> <img src="/static/image/rules18.png">
+                  <p>승급하는 기물의 종류에는 어떤 제한도 없습니다.<br>체스판 위에 퀸이 남아 있어도 두 번째 퀸을 만들 수도 있습니다.<br>폰이 하나도 잡히지 않았다면, 이론상 퀸 9개도 가능합니다!</p>
+                </span>
+              </div>
+          </li>
+          <li class="base">
+            <div class="item_special" data-type="En_Passant">
+                <span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">
+                    <h3>앙 파상 (En Passant)</h3>
+                    <p>상대 폰이 한번에 2칸 앞으로 가서 자신 폰 옆에 섰다면,<br>상대방 폰이 1칸만 움직인 것처럼 자신의 폰으로 잡을 수 있는 규칙을 앙파상이라고 부릅니다.<br>앙파상은 상대 폰이 2칸 전진한 그 턴에만 가능하며, 반드시 해야 하는 것은 아닙니다.</p>
+                    <img src="/static/image/rules19.png"> <img src="/static/image/rules20.png">
+                    <p><br></p>
+                </span>
+              </div>
+          </li>
+        </li>
+        </ul>
+      </ul>
+    </div>
+  </div>
     <header>
       <h1>승부 규칙</h1>
     </header>
@@ -276,6 +312,38 @@
             $("ul.hide li").removeClass("active"); //Remove any "active" class
             $(this).addClass("active"); //Add "active" class to selected tab
             $(".item").hide(); //Hide all tab content
+            var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+            $(activeTab).fadeIn(); //Fade in the active content
+            return false;
+        });
+    });
+    const itemTab_special = document.querySelector('.item_tab_special');
+    const items_special = document.querySelector('.items_special');
+    const item_special = document.querySelectorAll('.item_special');
+  
+    itemTab_special.addEventListener('click', (e) => {
+      const filter = e.target.dataset.filter || e.target.parentNode.dataset.filter;
+      if (filter == null) {
+        return;
+      }
+      item_special.forEach((item_special) => {
+        if(filter === '*' || filter === item_special.dataset.type) {
+          item_special.style.display = "block"
+        } else{
+          item_special.style.display = "none"
+        }
+      });
+    });
+    $(document).ready(function(){
+        //Default Action
+        $(".item_special").hide();
+        $("ul.hide li:first").addClass("active").show(); //Activate first tab
+        $(".item_special:first").show(); //Show first tab content
+        //On Click Event
+        $("ul.tabs li").click(function() {
+            $("ul.hide li").removeClass("active"); //Remove any "active" class
+            $(this).addClass("active"); //Add "active" class to selected tab
+            $(".item_special").hide(); //Hide all tab content
             var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
             $(activeTab).fadeIn(); //Fade in the active content
             return false;
