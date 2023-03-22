@@ -18,3 +18,7 @@ class ChessVariation(models.Model):
 
     def __str__(self):
         return self.name # or f"Variation {self.pk}"
+
+class ChessOpeningImage(models.Model):
+    openings = models.ForeignKey(ChessOpening, on_delete=models.CASCADE, related_name='images',null=True)
+    image = models.ImageField(upload_to="image", blank=True)
