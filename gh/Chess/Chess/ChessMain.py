@@ -1,62 +1,57 @@
 import pygame as p
 from Chess import ChessBoard
 
-WIDTH = HEIGHT = 512
-DIMENSION = 8
-SQ_SIZE = HEIGHT // DIMENSION
-MAX_FPS = 15
-IMAGES = {}
+WIDTH = HEIGHT = 512  # 출력할 체스판 크기
+DIMENSION = 8  # 체스판 칸 개수 8칸
+SQ_SIZE = HEIGHT // DIMENSION  # 한 칸당 크기
+MAX_FPS = 30  # 출력할 때 최대 fps
+IMAGES = {}  # 이미지 넣기용 dict
 
 
-# 기물 이미지 파일 불러오기
-def load_images():
-    pieces = ["wp", "wR", "wN", "wB", "wQ", "wK", "bp", "bR", "bN", "bB", "bQ", "bK"]
+def load_images():  # 기물 이미지 로드
+    pieces = ["wp", "wR", "wN", "wB", "wQ", "wK", "bp", "bR", "bN", "bB", "bQ", "bK"]  # 이미지 이름
     for piece in pieces:
         IMAGES[piece] = p.transform.scale(p.image.load("images/" + piece + ".png"), (SQ_SIZE, SQ_SIZE))
 
 
-# 메인 코드. 입력에 따라 그래픽 움직임
+def print_board(screen):  # 체스판 출력
+    colors = [p.Color(255, 206, 158), p.Color(209, 139, 71)]  # 왼쪽 맨 아래가 어두운 칸
+    for i in range(DIMENSION):
+        for j in range(DIMENSION):
+            color = colors[(i+j) % 2]
+            p.draw.rect(screen, color, p.Rect(j*SQ_SIZE, i*SQ_SIZE, SQ_SIZE, SQ_SIZE))
+
+
+def print_pieces(screen, board):  # 기물 출력
+    for i in range(DIMENSION):
+        for j in range(DIMENSION):
+            piece = board[i][j]
+            if piece != "--":  # 빈칸이 아니면:
+                screen.blit(IMAGES[piece], p.Rect(j*SQ_SIZE, i*SQ_SIZE, SQ_SIZE, SQ_SIZE))
+
+
+def print_game_state(screen, gs):  # 그래픽 구현
+    print_board(screen)  # 체스판에 격자를 그림
+    print_pieces(screen, gs.board)  # 체스판에 기물을 그림
+
+
 def main():
     p.init()
-    screen = p.display.set_mode((WIDTH, HEIGHT))
     clock = p.time.Clock()
+    screen = p.display.set_mode((WIDTH, HEIGHT))
     screen.fill(p.Color("white"))
     gs = ChessBoard.GameState()
     load_images()
 
-    running = True
-    while running:
-        for e in p.event.get():
-            if e.type == p.QUIT:
-                running = False
+    run = True
+    while run:
+        for i in p.event.get():
+            if i.type == p.QUIT:
+                run = False
 
-        draw_game_state(screen, gs)
+        print_game_state(screen, gs)
         clock.tick(MAX_FPS)
         p.display.flip()
-
-
-# 현 상황에 맞춰 그래픽을 구현
-def draw_game_state(screen, gs):
-    draw_board(screen)  # 체스판에 격자를 그림
-    draw_pieces(screen, gs.board)  # 체스판에 기물을 그림
-
-
-# 체스판 츨력. 왼쪽 맨 아래 칸은 검은색, 왼쪽 위 칸은 흰색인 것을 기준으로 함
-def draw_board(screen):
-    colors = [p.Color("white"), p.Color("gray")]
-    for i in range(DIMENSION):
-        for j in range(DIMENSION):
-            color = colors[((i+j) % 2)]
-            p.draw.rect(screen, color, p.Rect(j*SQ_SIZE, i*SQ_SIZE, SQ_SIZE, SQ_SIZE))
-
-
-# 현재의 GameState.board를 사용하여 기물을 체스판 위에 출력
-def draw_pieces(screen, board):
-    for i in range(DIMENSION):
-        for j in range(DIMENSION):
-            piece = board[i][j]
-            if piece != "--":  # 빈칸이 아니라면
-                screen.blit(IMAGES[piece], p.Rect(j*SQ_SIZE, i*SQ_SIZE, SQ_SIZE, SQ_SIZE))
 
 
 if __name__ == "__main__":
