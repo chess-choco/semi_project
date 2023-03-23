@@ -22,3 +22,7 @@ class ChessVariation(models.Model):
 class ChessOpeningImage(models.Model):
     openings = models.ForeignKey(ChessOpening, on_delete=models.CASCADE, related_name='images',null=True)
     image = models.ImageField(upload_to="image", blank=True)
+
+class MoveAnalysis(models.Model):
+    analysis = models.TextField(null=True)
+    image = models.ImageField(upload_to="image", blank=True)
