@@ -72,8 +72,7 @@
       }
             
       p {
-        font-size: 20px;
-        color: #34495E;
+        font-size: 18px;
         margin: 20px 0;
         line-height: 1.5;
       }
@@ -137,6 +136,33 @@
         padding: 10px;
         font-size: 20px;
       }
+
+      .c {
+            background-color: #34495E;
+            color: white;
+            display: block;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 20px auto;
+            width: 500px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            transition: all 0.2s ease-in-out;
+        }
+        
+        .c:hover {
+            background-color: #6C7A89;
+            cursor: pointer;
+        }
+        
+        footer {
+            background-color: #34495E;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
     </style>
     <title>체스 규칙 알아보기</title>
   </head>
@@ -324,6 +350,14 @@
       <img src="/static/image/rules26.png">
       <p>위 그림에서 흑의 폰은 앞이 가로막혀 움직일 수 없습니다.<br>그리고 킹은 체크 상태는 아니지만 주변 칸이 모두 백의 공격 범위 안에 있으므로,<br>킹을 스스로 체크 상태에 빠뜨릴 수 없다는 규칙에 따라 움직일 수 없습니다.<br>따라서 흑이 아무런 행동도 할 수 없는 상태이므로, 스테일메이트가 선언됩니다.</p>
 
+    <footer>
+        <p>&copy; Chess Choco</p>
+        <div class="c" onclick="window.open('http://github.com/chess-choco/semi_project');">
+            <p>Chess Choco</p>
+            <p>MultiCampus Data Analysis 23</p>
+            <p>Seoul, South Korea</p>
+        </div>
+    </footer>
   </body>
   <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
   <script type="text/javascript">
