@@ -1,10 +1,23 @@
 {% extends "base.html" %}
 
-{% block content %} 
- <h2>오프닝 분석</h2>
-  {% for item in analysis %}
-    <h3>{{ item.analysis }}</h3>
-    <img src="{{ item.image.url }}" />
-  {% endfor %}
+{% block content %}
+
+<h2>선수들은 어떻게 게임을 시작할까?</h2>
+<table>
+  <thead>
+    <tr>
+      <th>수</th>
+      <th>비율 그래프</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in analysis %}
+      <tr>
+        <td bgcolor="white">{{ item.analysis }}</td>
+        <td bgcolor="white"><img class="graphs" src="{{ item.image.url }}" /></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
 {% endblock %}
