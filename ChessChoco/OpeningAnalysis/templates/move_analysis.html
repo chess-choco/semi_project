@@ -8,12 +8,13 @@
     <h3>{{ item.analysis }}</h3>
     <table>
       <tr>
-        <td>
-          <img src="{{ item.image.url }}" width="350"/>
+        <td width="450"; bgcolor="white">
+          <img src="{{ item.image.url }}" width="400"/>
         </td>
-        <td style="text-align:left">{{ item.description|linebreaksbr }}</td>
+        <td style="text-align:left"; bgcolor="white">{{ item.description|linebreaksbr }}</td>
       </tr>
     </table>
+    <p><br></p>
   {% endfor %}
 
 {% endblock %}
