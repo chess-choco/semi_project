@@ -1,23 +1,26 @@
 {% extends "base.html" %}
 
 {% block content %}
-
 <h2>선수들은 어떻게 게임을 시작할까?</h2>
+<p><font color="#190707">2015 ~ 2023년 국제 체스 연맹(FIDE) 공식 경기(약 16,000건)의 오프닝 통계입니다.</font></p>
+<p><br></p>
 <table>
   <thead>
     <tr>
       <th>수</th>
       <th>비율 그래프</th>
+      <th>설명</th>
     </tr>
   </thead>
   <tbody>
     {% for item in analysis %}
       <tr>
         <td bgcolor="white">{{ item.analysis }}</td>
-        <td bgcolor="white"><img class="graphs" src="{{ item.image.url }}" /></td>
+        <td width="450"; bgcolor="white">
+          <img class="graphs" src="{{ item.image.url }}" width="400"/></td>
+        <td style="text-align:left"; bgcolor="white">{{ item.description|linebreaksbr }}</td>
       </tr>
     {% endfor %}
   </tbody>
 </table>
-
 {% endblock %}

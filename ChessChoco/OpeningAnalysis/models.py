@@ -26,3 +26,4 @@ class ChessOpeningImage(models.Model):
 class MoveAnalysis(models.Model):
     analysis = models.TextField(null=True)
     image = models.ImageField(upload_to="image", blank=True)
+    description = models.TextField(null=True)
