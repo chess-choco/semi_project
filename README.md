@@ -34,13 +34,13 @@
 
 ## 웹페이지 기능
 1. Mainpage
-   - 체스와 역사 소개
+   - 체스 소개
 2. ChessRules
    - 체스 규칙 소개
 3. OpeningAnalysis
-   - 오프닝 분류와 승률 & 시각화
-4. StockFish 엔진을 이용한 체스 Play(`임시`)
-   - 오픈소스 체스엔진 StockFish와의 체스 경기를 진행하고 추천 수를 구현
+   - 오프닝 분류
+   - 오프닝 통계 & 승률 시각화
+
 ## Authors
 - [정권영](https://github.com/hoopmad)
 - [김승현](https://github.com/sshun02)
