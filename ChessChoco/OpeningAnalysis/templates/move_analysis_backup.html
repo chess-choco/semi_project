@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %} 
+ <h2>오프닝 분석</h2>
+  {% for item in analysis %}
+    <h3>{{ item.analysis }}</h3>
+    <img src="{{ item.image.url }}" />
+  {% endfor %}
+
+{% endblock %}

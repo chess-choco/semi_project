@@ -21,13 +21,13 @@
               <img src="{{ image.image.url }}" />
             {% endfor %}</td>
           <td>{{ opening.name }}</td>
-          <td>{{ opening.moves }}</td>
-          <td>{{ opening.description }}</td>
-          <td>
+          <td style="text-align:left">{{ opening.moves|linebreaksbr }}</td>
+          <td style="text-align:left">{{ opening.description|linebreaksbr }}</td>
+          <td style="text-align:left">
             {% if opening.num_variations > 0 %}
               <ul>
                 {% for variation in opening.variations.all %}
-                  <li>{{ variation.name }}: {{ variation.moves }}</li>
+                  <li>{{ variation.name }}: {{ variation.moves|linebreaksbr }}</li>
                 {% endfor %}
               </ul>
             {% else %}

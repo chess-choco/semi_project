@@ -1,10 +1,19 @@
 {% extends "base.html" %}
 
 {% block content %} 
- <h2>오프닝 분석</h2>
+  <h2>오프닝 분석</h2>
+  <p><font color="#190707">2015 ~ 2023년 국제 체스 연맹(FIDE) 공식 경기의 오프닝 통계입니다.</font></p>
+  <p><br></p>
   {% for item in analysis %}
     <h3>{{ item.analysis }}</h3>
-    <img src="{{ item.image.url }}" />
+    <table>
+      <tr>
+        <td>
+          <img src="{{ item.image.url }}" width="350"/>
+        </td>
+        <td style="text-align:left">{{ item.description|linebreaksbr }}</td>
+      </tr>
+    </table>
   {% endfor %}
 
 {% endblock %}
